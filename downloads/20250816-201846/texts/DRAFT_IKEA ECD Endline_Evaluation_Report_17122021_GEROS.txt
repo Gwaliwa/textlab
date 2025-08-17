@@ -1,0 +1,574 @@
+ACKNOWLEDGEMENTS 
+The evaluation of the Space for Kids to be Kids Project in Maharashtra and Rajasthan was commissioned by 
+UNICEF India and was conducted as a collaboration between Athena Infonomics India Pvt. Ltd. and D-COR 
+Consulting Ltd. The evaluation team, on behalf of Athena Infonomics India Pvt. Ltd. wishes to acknowledge 
+the contributions and support from everyone who participated in the evaluation. 
+ 
+We take this opportunity to extend our appreciation to the UNICEF India team for their trust, support, 
+patience and valuable insights. Special thanks to Ms. Maaike Bijker (M&E Specialist, ICO), Ms. Gayatri Singh 
+(Nutrition Specialist, ICO), Ms. Sunisha Ahuja (Education Specialist, ICO), Mr. Atishay Mathur (Quality 
+Assurance Manager, ICO) from UNICEF India Country Office (ICO). We also take this opportunity to thank 
+Ms. Rajalakshmi Nair (Nutrition Specialist), Ms. Reshma Agrawal (Education Specialist) from UNICEF 
+Maharashtra and Ms. Minakshi Singh (Nutrition Specialist), Ms. Vanita Dutta (Nutrition Officer), Ms. Amrita 
+Senugupta (Education Specialist), Mr. Jitendra Sharma (Education Officer) from UNICEF Rajasthan. We 
+express our gratitude to the Evaluation Reference Group (ERG), implementing (CSO) partners and other 
+agencies for their contributions to this evaluation.  
+ 
+We also want to acknowledge the support and hard work done by our ECD Expert – Ms. Monisha Singh 
+Diwan and consortium partner – Mr. Satyanarayan Mohanty and Mr. Manoj Parida and their team at D-
+COR Consulting Ltd. 
+ 
+We are grateful to the team of data collectors who interviewed FLWs (AWWs and ASHAs) and caregivers. 
+We are also most grateful to the FLWs (AWWs and ASHAs) and caregivers who participated in this 
+evaluation, as well as the master trainers and government officials who supported data collection and 
+participated in the interviews. 
+This summary report was prepared by Dr. Francis Xavier Rathinam, Ms. Monisha Singh Diwan, Mr. Bilal 
+Afroz, Ms. Ashmika Gouchwal, and Ms. Saumya Kaul under the guidance and leadership of Ms. Maaike 
+Bijker (M&E Specialist, ICO). 
+ 
+ 
+ 
+ 
+ 
+Vijay Bhalaki, 
+Co-Founder and Director 
+Athena Infonomics India Private Limited 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ABBREVIATIONS 
+ 
+Abbreviation 
+Full form 
+ASHA 
+Accredited Social Health Activist 
+AWW 
+Anganwadi Worker 
+BF 
+Breast Feeding 
+CDPO 
+Child Development Project Officer 
+CF 
+Complementary Feeding 
+CSO 
+Civil Society Organisation 
+DD 
+Deputy Director 
+EBF 
+Exclusive Breast Feeding 
+ECCE 
+Early Childhood Care and Education 
+ECD 
+Early Childhood Development 
+FLW 
+Front Line Worker 
+GE 
+Gender Equity 
+GoI 
+Government of India  
+HBNC 
+Home Based New-born Care 
+HBYC 
+Home-Based Care for Young Child 
+HR 
+Human Rights 
+HV 
+Home Visit 
+ICDS 
+Integrated Child Development Services 
+ICT 
+Information and Communications Technology 
+JSSK 
+Janani Shishu Suraksha Karyakram 
+KAP 
+Knowledge, Attitudes and Practices 
+KII 
+Key Informant Interview 
+M&E 
+Monitoring and Evaluation 
+MWCD 
+Ministry of Women and Child Development 
+MLE 
+Monitoring, Learning and Evaluation 
+MoHFW 
+Ministry of Health and Family Welfare 
+NBSU 
+New-born Stabilization Unit 
+NNM 
+National Nutrition Mission 
+ODK 
+Open Data Kit 
+OECD 
+Organisation for Economic Co-operation and 
+Development 
+SDG 
+Sustainable Development Goals 
+SNCU 
+Special New-born Care Units 
+ToR 
+Terms of Reference 
+UNEG 
+United Nations Evaluation Group 
+UNICEF 
+United Nations Children’s Fund 
+ 
+ 
+
+ 
+ 
+Authors 
+ 
+Ms. Monisha Singh Diwan 
+Team Leader and ECD Expert 
+ 
+Dr. Francis Xavier Rathinam 
+Evaluation Expert 
+ 
+Mr. Bilal Afroz 
+Quantitative Expert & Project Manager 
+ 
+Ms. Ashmika Gouchwal 
+Research Associate 
+ 
+Ms. Saumya Kaul 
+Research Associate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+All information set out in this report has been prepared by Athena Infonomics India Private Limited (India), based upon information 
+available to us or made available to us and/or from information available in the public domain. In no event will Athena Infonomics 
+India Private Limited be liable for any loss of costs, expenses, charges, including notional losses/lost opportunities or damage 
+including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data 
+or profits arising out of, or in connection with, the use of any information/material contained in the report
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+CONTENT 
+EXECUTIVE SUMMARY ....................................................................................................................................... 15 
+1. 
+INTRODUCTION – OBJECT OF THE EVALUATION ....................................................................................... 26 
+1.1. 
+Background and context .................................................................................................................... 26 
+1.1.1. 
+Global context ........................................................................................................................... 26 
+1.1.2. 
+Indian context ............................................................................................................................ 29 
+1.2. 
+Introduction of IKEA ECD Project ...................................................................................................... 32 
+1.2.1. 
+Space for Kids to be Kids Project ............................................................................................... 32 
+Policies/schemes that involve FLWs as implementers .............................................................................. 35 
+1.2.2. 
+Project beneficiaries, stakeholders and geography .................................................................. 36 
+1.3. 
+Project Theory of Change (ToC) ......................................................................................................... 37 
+2. 
+EVALUATION PURPOSE, OBJECTIVES AND SCOPE ..................................................................................... 41 
+2.1. 
+Evaluation Rationale .......................................................................................................................... 41 
+2.2. 
+Evaluation Objectives ........................................................................................................................ 41 
+2.3. 
+Evaluation Scope - Geographic focus and time period ..................................................................... 41 
+2.4. 
+Evaluation stakeholders, roles, and possible use & users of the evaluation findings ....................... 42 
+2.5. 
+Key deviations from ToR .................................................................................................................... 43 
+3. 
+EVALUATION DESIGN, METHODS, QUALITY ASSURANCE, ETHICS AND IMPLEMENTATION ..................... 45 
+3.1 
+Evaluation Design .............................................................................................................................. 45 
+3.2 
+Evaluation Methods........................................................................................................................... 45 
+3.3 
+Evaluation Criteria and Questions ..................................................................................................... 46 
+3.4 
+Evaluation Methods........................................................................................................................... 47 
+3.3.1. 
+Quantitative Research ............................................................................................................... 47 
+3.3.2. 
+Sampling Plan and sample covered ........................................................................................... 47 
+3.3.3. 
+Qualitative Research .................................................................................................................. 48 
+3.3.4. 
+COVID-19 Implications ............................................................................................................... 49 
+3.5 
+Analysis Approaches .......................................................................................................................... 50 
+3.6 
+Quality Assurance – Field Work and Data Collection Procedures ..................................................... 51 
+3.7 
+Potential Risks and Mitigation Measures .......................................................................................... 52 
+3.8 
+Ethics and UNEG guidelines ............................................................................................................... 53 
+3.7.1. 
+Evaluation standards ................................................................................................................. 54 
+3.9 
+Evaluation Implementation ............................................................................................................... 55 
+3.10 
+Evaluation Management ................................................................................................................... 56 
+3.11 
+Limitations of the evaluation ............................................................................................................. 58 
+4. 
+KEY EVALUATION FINDINGS ...................................................................................................................... 60 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+4.1. 
+Relevance .......................................................................................................................................... 60 
+4.2. 
+Effectiveness ...................................................................................................................................... 76 
+4.3. 
+Efficiency.......................................................................................................................................... 110 
+4.4. 
+Sustainability ................................................................................................................................... 112 
+5. 
+CONCLUSIONS AND LESSONS LEARNT .................................................................................................... 121 
+5.1. 
+Conclusions ...................................................................................................................................... 121 
+5.2. 
+Lessons learnt .................................................................................................................................. 123 
+6. 
+RECOMMENDATIONS .............................................................................................................................. 126 
+6.1. 
+Recommendations based on key findings ....................................................................................... 126 
+ANNEXURES ..................................................................................................................................................... 130 
+Annexure  1: Terms of Reference for the evaluation .................................................................................. 130 
+Annexure 2: Importance and Rationale of ECD and global approaches and frameworks .......................... 146 
+Annexure 3: Additional information related to the project ........................................................................ 152 
+Annexure 4: Review of training material/ communication packages ......................................................... 170 
+Annexure 5: Baseline evaluation report summary ...................................................................................... 183 
+Annexure 6: Quantitative sampling plan for endline evaluation ................................................................ 187 
+Annexure 7: Stakeholder map ..................................................................................................................... 192 
+Annexure 8: Aligning ToC with KEQs ........................................................................................................... 195 
+Annexure 9: Evaluation Matrix .................................................................................................................... 197 
+Annexure 10: Primary Data Collection and Quality Assurance ................................................................... 204 
+Annexure 11: Remote Data Collection, Challenges and Mitigation Measures ........................................... 210 
+Annexure 12: Evaluation team composition and roles ............................................................................... 218 
+Annexure 13: Analysis Approach ................................................................................................................. 220 
+Annexure 14: List of personnel met during KIIs .......................................................................................... 229 
+Annexure 15: List of documents reviewed .................................................................................................. 231 
+Annexure 16: Endline evaluation study tools .............................................................................................. 235 
+Annexure 17: FLW survey analysis tables and graphs ................................................................................. 236 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+LIST OF TABLES  
+Table 1: ECD important Schemes and Objectives in India................................................................................. 30 
+Table 2: ECD Schemes and their alignment to Nurturing Care Framework.................................................... 32 
+Table 3: Key statistics related to project states - Maharashtra ....................................................................... 152 
+Table 4: Key statistics related to project states - Rajasthan ............................................................................ 153 
+Table 5: Training rollout in Aurangabad and Yavatmal ................................................................................... 158 
+Table 6: Training rollout in Pune and Palghar ................................................................................................... 160 
+Table 7: End-line quantitative assessment sampling ....................................................................................... 188 
+Table 8: Stakeholder map - Rajasthan ................................................................................................................ 192 
+Table 9: Stakeholder map - Maharashtra .......................................................................................................... 193 
+Table 10: Evaluation Matrix ................................................................................................................................. 197 
+Table 11: Percentage of FLWs organizing mothers' meetings in Maharashtra ............................................ 238 
+Table 12: Percentage of FLWs organizing mothers' meetings in Rajasthan ................................................. 238 
+Table 13: Activities done by FLWs during mothers' meetings in Maharashtra (in %) .................................. 239 
+Table 14: Activities done by FLWs during mothers' meetings in Rajasthan (in %) ....................................... 240 
+Table 15: Percentage of FLWs organizing fathers' meetings in Maharashtra .............................................. 241 
+Table 16: Percentage of FLWs organizing fathers' meetings in Rajasthan .................................................... 241 
+Table 17: Frequency of fathers' meetings in Maharashtra.............................................................................. 242 
+Table 18: Frequency of fathers' meetings in Rajasthan ................................................................................... 242 
+Table 19: Activities done by FLWs during fathers’ meeting in Maharashtra (in %) ...................................... 243 
+Table 20: Activities done by FLWs during fathers' meetings in Rajasthan (in %) .......................................... 244 
+Table 21: Occasions of interaction with pregnant women in Maharashtra (in %) ....................................... 245 
+Table 22: Occasions of interaction with pregnant women in Rajasthan (in %) ............................................ 246 
+Table 23: FLWs providing counselling to pregnant women in Maharashtra (in %) ...................................... 247 
+Table 24: FLWs providing counselling to pregnant women in Rajasthan (in %) ........................................... 248 
+Table 25: FLWs reporting things a lactating mother should do for interaction with her child in Maharashtra 
+(in %) ....................................................................................................................................................................... 250 
+Table 26: FLWs reporting things a lactating mother should do for interaction with her child in Rajasthan 
+(in %) ....................................................................................................................................................................... 251 
+Table 27: Occasions when FLWs provide information and counselling to parents (0-3 years) in Maharashtra 
+(in %) ....................................................................................................................................................................... 252 
+Table 28: Occasions when FLWs provide information and counselling to parents (0-3 years) in Rajasthan 
+(in %) ....................................................................................................................................................................... 253 
+Table 29: FLWs providing counselling to parents of 0-3 years child in Maharashtra (in %) ............................... 255 
+Table 30: FLWs providing counselling to parents of 0-3 years child in Rajasthan (in %) ............................. 256 
+Table 31: FLWs reporting activities parents can do to bond with a baby of 0-6 months in Maharashtra (in %)
+ ................................................................................................................................................................................. 257 
+Table 32: FLWs reporting activities parents can do to bond with a baby of 0-6 months in Rajasthan (in %)
+ ................................................................................................................................................................................. 258 
+Table 33: FLWs reporting ways through which a baby bonds with its caregiver in Maharashtra (in %) ... 259 
+Table 34: FLWs reporting ways through which a baby bonds with its caregiver in Rajasthan (in %) ........ 260 
+Table 35: FLWs convincing caregivers to play with child in Maharashtra (in %) ........................................... 261 
+Table 36: FLWs convincing caregivers to play with child in Rajasthan (in %) ................................................ 262 
+Table 37: FLWs advising caregivers who state they do not have time to play with child in Maharashtra (in %)
+ ................................................................................................................................................................................. 263 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+Table 38: FLWs advising caregivers who state they do not have time to play with child in Rajasthan (in %)
+ ................................................................................................................................................................................. 264 
+Table 39: AWWs providing counselling to caregivers on physical health and motor development of child in 
+Maharashtra (in %) ................................................................................................................................................ 265 
+Table 40: AWWs providing counselling to caregivers on physical health and motor development of child in 
+Rajasthan (in %) ..................................................................................................................................................... 266 
+Table 41: AWWs providing counselling to caregivers on social development of child in Maharashtra (in %)
+ ................................................................................................................................................................................. 267 
+Table 42: AWWs providing counselling to caregivers on social development of child in Rajasthan (in %)
+ ................................................................................................................................................................................. 268 
+Table 43: AWWs providing counselling to caregivers on emotional development of child in Maharashtra 
+and Rajasthan (In %) ............................................................................................................................................. 270 
+Table 44: AWWs providing counselling to caregivers on language and communication development of child 
+in Maharashtra and Rajasthan (in %) ................................................................................................................. 272 
+Table 45: AWWs providing counselling to caregivers on cognitive development of child in Maharashtra and 
+Rajasthan (in %) ...................................................................................................................................................... 274 
+Table 46: FLWs describing the home environment needed for child to grow well in Maharashtra (in %)275 
+Table 47: FLWs describing the home environment needed for child to grow well in Rajasthan (in %) .... 276 
+Table 48: AWWs reporting necessary things to have a safe environment for children in AWC in Maharashtra 
+(in %) ....................................................................................................................................................................... 277 
+Table 49: AWWs reporting necessary things to have a safe environment for children in AWC in Rajasthan 
+(in %) ....................................................................................................................................................................... 278 
+Table 50: Percentage of AWW who track development or progress of the children attending the preschool 
+in Maharashtra (in %) ........................................................................................................................................... 279 
+Table 51: Percentage of AWW who track development or progress of the children attending the preschool 
+in Rajasthan (in %) ................................................................................................................................................. 279 
+Table 52: Percentage of AWW who document development and learning progress of children in 
+Maharashtra (in %) ................................................................................................................................................ 280 
+Table 53: Percentage of AWW who document development and learning progress of children in Rajasthan 
+(in %) ....................................................................................................................................................................... 280 
+Table 54: Activities done by AWWs as a part of preschool education in Maharashtra and Rajasthan (in %)
+ ................................................................................................................................................................................. 282 
+Table 55: Activities done by AWWs to identify a child with special care at centre in Maharashtra (in %) 283 
+Table 56: Activities done by AWWs to identify a child with special care at the centre in Rajasthan (in %)
+ ................................................................................................................................................................................. 284 
+Table 57: FLWs reporting identifiers to identify developmental delays among children of 0-3 years in 
+Maharashtra (in %) ................................................................................................................................................ 285 
+Table 58: FLWs reporting identifiers to identify developmental delays among children of 0-3 years in 
+Rajasthan (in %) ..................................................................................................................................................... 286 
+Table 59: FLWs reporting on checking if the child has difficulties in seeing in Maharashtra (in %) .......... 287 
+Table 60: FLWs reporting on checking if the child has difficulties in seeing in Rajasthan (in %) ................ 288 
+Table 61: FLWs reporting on checking if the child has difficulties in hearing in Maharashtra (in %) ........ 289 
+Table 62: FLWs reporting on checking if the child has difficulties in hearing in Rajasthan (in %) .............. 290 
+Table 63: Percentage of FLWs organizing community outreach events in Maharashtra ............................ 291 
+Table 64: Percentage of FLWs organizing community outreach events in Rajasthan ................................. 291 
+Table 65: FLWs organizing community outreach events in Maharashtra (in %) .......................................... 292 
+Table 66: FLWs organizing community outreach events in Rajasthan (in %) ................................................ 293 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+Table 67: FLWs reporting useful platforms to counsel parents of 0-3 years child in Maharashtra (in %) 294 
+Table 68: FLWs reporting useful platforms to counsel parents of 0-3 years child in Rajasthan (in %) ..... 295 
+Table 69: FLWs reporting useful platforms to counsel parents of 3-6 years child in Maharashtra (in %) 296 
+Table 70: FLWs reporting useful platforms to counsel parents of 3-6 years child in Rajasthan (in %) ..... 297 
+Table 71: FLWs reporting methods not suitable to punish boy child in Maharashtra (in %) ...................... 304 
+Table 72: FLWs reporting methods not suitable to punish boy child in Rajasthan (in %) ........................... 306 
+Table 73: FLWs reporting methods not suitable to punish girl child in Maharashtra (in %) ....................... 307 
+Table 74: FLWs reporting methods not suitable to punish girl child in Rajasthan (in %) ............................ 308 
+Table 75: AWWs reporting if they agree or disagree that a male child should be breastfed more frequently 
+and for more duration as they are more active than female child ................................................................ 309 
+Table 76: AWWs reporting if they agree or disagree that a male child should be exclusively breastfed for 
+six months while girl can be exclusively breastfed for less months .............................................................. 310 
+Table 77: AWWs reporting if they agree or disagree that showing affection and love to the child in the early 
+years of a child’s life would spoil the child......................................................................................................... 311 
+Table 78: AWWs reporting if they agree or disagree that for a girl child of 3 to 6 years the home is the best 
+school to learn things so she doesn’t need to attend preschool centre unlike the boy child .................... 312 
+Table 79: Percentage of FLWs who received training on positive parenting and ECD in the past one year in 
+Maharashtra .......................................................................................................................................................... 313 
+Table 80: Percentage of FLWs who received training on positive parenting and ECD in the past one year in 
+Rajasthan ................................................................................................................................................................ 313 
+Table 81: FLWs reporting the personnel conducting training in Maharashtra (in %) .................................. 314 
+Table 82: FLWs reporting the personnel conducting training in Rajasthan (in %) ....................................... 315 
+Table 83: FLWs reporting what they liked about the trainings they received on positive parenting and ECD 
+in Maharashtra (in %) ........................................................................................................................................... 316 
+Table 84: FLWs reporting what they liked about the trainings they received on positive parenting and ECD 
+in Rajasthan (in %) ................................................................................................................................................. 317 
+Table 85: Percentage of FLWs reporting need for receiving training in new areas to improve their work in 
+Maharashtra .......................................................................................................................................................... 319 
+Table 86: Percentage of FLWs reporting need for receiving training in new areas to improve their work in 
+Rajasthan ................................................................................................................................................................ 319 
+Table 87: FLWs reporting the occasions where they use the communication material/tool in Maharashtra 
+(in %) ....................................................................................................................................................................... 320 
+Table 88: FLWs reporting the occasions where they use the communication material/tool in Rajasthan (in %)
+ ................................................................................................................................................................................. 321 
+Table 89: FLWs reporting usefulness of communication material/tool in counselling parents on positive 
+parenting and ECD in Maharashtra .................................................................................................................... 322 
+Table 90: FLWs reporting usefulness of communication material/tool in counselling parents on positive 
+parenting and ECD in Rajasthan ......................................................................................................................... 322 
+ 
+ 
+ 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+LIST OF FIGURES 
+Figure 1: Key global ECD interventions ................................................................................................................ 28 
+Figure 2: Model ToC for intervention in Maharashtra ....................................................................................... 38 
+Figure 3: Model ToC for intervention in Rajasthan ............................................................................................. 39 
+Figure 4: Reconstructed Theory of Change ......................................................................................................... 78 
+Figure 5: FLWs reporting usefulness of communication material/tool in counselling parents on positive 
+parenting and ECD .................................................................................................................................................. 79 
+Figure 6: Percentage of FLWs reporting need for receiving training in new areas to improve their work . 84 
+Figure 7: Reconstructed Theory of Change ......................................................................................................... 87 
+Figure 8: FLWs convincing caregivers to play with child – Maharashtra (in %) ............................................... 94 
+Figure 9: FLWs convincing caregivers to play with child – Rajasthan (in %) .................................................... 94 
+Figure 10: Reconstructed Theory of Change ....................................................................................................... 96 
+Figure 11: Percentage of FLWs organizing fathers’ meeting ............................................................................. 98 
+Figure 12: FLWs reporting confidence levels in talking with male caregivers of children of 0-3 years 
+regarding the importance of interactions with their children .......................................................................... 98 
+Figure 13: FLWs reporting confidence levels in talking with male caregivers about the importance of parent 
+children bonding ..................................................................................................................................................... 99 
+Figure 14: Reconstructed Theory of Change ....................................................................................................... 99 
+Figure 15: FLWs reporting useful platforms to counsel parents of 0-3 years child – Maharashtra (in %) 106 
+Figure 16: FLWs reporting useful platforms to counsel parents of 0-3 years child – Rajasthan (in %) ..... 106 
+Figure 17: FLWs reporting useful platforms to counsel parents of 3-6 years child – Maharashtra (in %) 107 
+Figure 18: FLWs reporting useful platforms to counsel parents of 3-6 years child – Rajasthan (in %) ..... 107 
+Figure 19: Reconstructed Theory of Change ..................................................................................................... 107 
+Figure 20: Interventions for ECD ......................................................................................................................... 147 
+Figure 21: Effects of risk factors associated with child development ............................................................ 149 
+Figure 22: Components of Nurturing Care ........................................................................................................ 150 
+Figure 23: Sampling strategy for Maharashtra state ........................................................................................ 189 
+Figure 24: Sampling strategy for Rajasthan state ............................................................................................. 190 
+Figure 25: Religion followed by FLWs ................................................................................................................. 236 
+Figure 26: Social Category of FLWs ..................................................................................................................... 236 
+Figure 27: Education levels of FLWs .................................................................................................................... 237 
+Figure 28: Percentage of FLWs organizing mothers' meeting......................................................................... 237 
+Figure 29: Activities done by FLWs during mothers' meetings in Maharashtra (in %) ................................. 239 
+Figure 30: Activities done by FLWs during mothers' meetings in Rajasthan (in %) ...................................... 240 
+Figure 31: Percentage of FLWs organizing fathers' meetings ......................................................................... 241 
+Figure 32: Frequency of fathers' meeting .......................................................................................................... 242 
+Figure 33: Activities done by FLWs during fathers’ meeting in Maharashtra (in %) ..................................... 243 
+Figure 34: Activities done by FLWs during fathers' meetings in Rajasthan (in %) ........................................ 244 
+Figure 35: Occasions of interaction with pregnant women in Maharashtra (in %) ...................................... 245 
+Figure 36: Occasions of interaction with pregnant women in Rajasthan (in %) ........................................... 246 
+Figure 37: FLWs providing counselling to pregnant women in Maharashtra (in %) .................................... 247 
+Figure 38: FLWs providing counselling to pregnant women in Rajasthan (in %) .......................................... 248 
+Figure 39: FLWs reporting things pregnant women should do for healthy development of unborn child in 
+Maharashtra (in %) ................................................................................................................................................ 249 
+Figure 40: FLWs reporting things pregnant women should do for healthy development of unborn child in 
+Rajasthan (in %) ..................................................................................................................................................... 249 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+Figure 41: FLWs reporting things a lactating mother should do for interaction with her child in Maharashtra 
+(in %) ....................................................................................................................................................................... 250 
+Figure 42: FLWs reporting things a lactating mother should do for interaction with her child in Rajasthan 
+(in %) ....................................................................................................................................................................... 251 
+Figure 43: Occasions when FLWs provide information and counselling to parents (0-3 years) in 
+Maharashtra (in %) ................................................................................................................................................ 252 
+Figure 44: Occasions when FLWs provide information and counselling to parents (0-3 years) in Rajasthan 
+(in %) ....................................................................................................................................................................... 253 
+Figure 45: Occasions when FLWs provide information and counselling to parents (3-6 years) in 
+Maharashtra (in %) ................................................................................................................................................ 254 
+Figure 46: Occasions when FLWs provide information and counselling to parents (3-6 years) in Rajasthan 
+(in %) ....................................................................................................................................................................... 254 
+Figure 47: FLWs providing counselling to parents of 0-3 years child in Maharashtra (in %) ...................... 255 
+Figure 48: FLWs providing counselling to parents of 0-3 years child in Rajasthan (in %) ............................ 256 
+Figure 49: FLWs reporting activities parents can do to bond with a baby of 0-6 months in Maharashtra 
+(in %) ....................................................................................................................................................................... 257 
+Figure 50: FLWs reporting activities parents can do to bond with a baby of 0-6 months in Rajasthan (in %)
+ ................................................................................................................................................................................. 258 
+Figure 51: FLWs reporting ways through which a baby bonds with its caregiver in Maharashtra (in %) . 259 
+Figure 52: FLWs reporting ways through which a baby bonds with its caregiver in Rajasthan (in %) ....... 260 
+Figure 53: FLWs convincing caregivers to play with child in Maharashtra (in %) ......................................... 261 
+Figure 54: FLWs convincing caregivers to play with child in Rajasthan (in %) ............................................... 262 
+Figure 55: FLWs advising caregivers who state they do not have time to play with child in Maharashtra 
+(in %) ....................................................................................................................................................................... 263 
+Figure 56: FLWs advising caregivers who state they do not have time to play with child in Rajasthan (in %)
+ ................................................................................................................................................................................. 264 
+Figure 57: AWWs providing counselling to caregivers on physical health and motor development of child 
+in Maharashtra (in %) ........................................................................................................................................... 265 
+Figure 58: AWWs providing counselling to parents of 3-6 years child in Maharashtra (in %) .................... 265 
+Figure 59: AWWs providing counselling to parents of 3-6 years child in Rajasthan (in %).......................... 265 
+Figure 60: AWWs providing counselling to caregivers on physical health and motor development of child 
+in Rajasthan (in %) ................................................................................................................................................. 266 
+Figure 61: AWWs providing counselling to caregivers on social development of child in Maharashtra (in %)
+ ................................................................................................................................................................................. 267 
+Figure 62: AWWs providing counselling to caregivers on social development of child in Rajasthan (in %)
+ ................................................................................................................................................................................. 268 
+Figure 63: AWWs providing counselling to caregivers on emotional development of child in Maharashtra 
+(In %) ....................................................................................................................................................................... 269 
+Figure 64: AWWs providing counselling to caregivers on emotional development of child in Rajasthan (in %)
+ ................................................................................................................................................................................. 269 
+Figure 65: AWWs providing counselling to caregivers on language and communication development of 
+child in Maharashtra (in %) .................................................................................................................................. 271 
+Figure 66: AWWs providing counselling to caregivers on language and communication development of 
+child in Rajasthan (in %) ....................................................................................................................................... 271 
+Figure 67: AWWs providing counselling to caregivers on cognitive development of child – Maharashtra 
+(in %) ....................................................................................................................................................................... 273 
+
+ End-line evaluation of ‘Space for Kids to be Kids’ project in Maharashtra and Rajasthan 
+ 
+ 
+Figure 68: AWWs providing counselling to caregivers on cognitive development of child in Rajasthan (in %)
+ ................................................................................................................................................................................. 273 
+Figure 69: FLWs describing the home environment needed for child to grow well in Maharashtra (in %)
+ ................................................................................................................................................................................. 275 
+Figure 70: FLWs describing the home environment needed for child to grow well in Rajasthan (in %) ... 276 
+Figure 71: AWWs reporting necessary things to have a safe environment for children in AWC in 
+Maharashtra (in %) ................................................................................................................................................ 277 
+Figure 72: AWWs reporting necessary things to have a safe environment for children in AWC in Rajasthan 
+(in %) ....................................................................................................................................................................... 278 
+Figure 73: Percentage of AWW who track development or progress of the children attending the preschool 
+(in %) ....................................................................................................................................................................... 279 
+Figure 74: Percentage of AWW who document development and learning progress of children (in %) .. 280 
+Figure 75: Activities done by AWWs as a part of preschool education in Maharashtra (in %) ................... 281 
+Figure 76: Activities done by AWWs as a part of preschool education in Rajasthan (in %) ......................... 281 
+Figure 77: Activities done by AWWs to identify a child with special care at centre in Maharashtra (in %)283 
+Figure 78: Activities done by AWWs to identify a child with special care at the centre in Rajasthan (in %)
+ ................................................................................................................................................................................. 284 
+Figure 79: FLWs reporting identifiers to identify developmental delays among children of 0-3 years in 
+Maharashtra (in %) ................................................................................................................................................ 285 
+Figure 80: FLWs reporting identifiers to identify developmental delays among children of 0-3 years in 
+Rajasthan (in %) ..................................................................................................................................................... 286 
+Figure 81: FLWs reporting on checking if the child has difficulties in seeing in Maharashtra (in %) ......... 287 
+Figure 82: FLWs reporting on checking if the child has difficulties in seeing in Rajasthan (in %) .............. 288 
+Figure 83: FLWs reporting on checking if the child has difficulties in hearing in Maharashtra (in %) ....... 289 
+Figure 84: FLWs reporting on checking if the child has difficulties in hearing in Rajasthan (in %) ............ 290 
+Figure 85: Percentage of FLWs organizing community outreach events ...................................................... 291 
+Figure 86: FLWs organizing community outreach events in Maharashtra (in %) ......................................... 292 
+Figure 87: FLWs organizing community outreach events in Rajasthan (in %) .............................................. 293 
+Figure 88: FLWs reporting useful platforms to counsel parents of 0-3 years child in Maharashtra (in %)
+ ................................................................................................................................................................................. 294 
+Figure 89: FLWs reporting useful platforms to counsel parents of 0-3 years child in Rajasthan (in %) .... 295 
+Figure 90: FLWs reporting useful platforms to counsel parents of 3-6 years child in Maharashtra (in %)
+ ................................................................................................................................................................................. 296 
+Figure 91: FLWs reporting useful platforms to counsel parents of 3-6 years child in Rajasthan (in %) .... 297 
+Figure 92: FLWs reporting confidence levels in interacting with pregnant women and their husbands . 298 
+Figure 93: FLWs reporting confidence levels in talking with female caregivers of children of 0-3 years 
+regarding the importance of interactions with their children ........................................................................ 298 
+Figure 94: FLWs reporting confidence levels in talking with male caregivers of children of 0-3 years 
+regarding the importance of interactions with their children ........................................................................ 299 
+Figure 95: FLWs reporting confidence levels in talking with female caregivers of children of 3-6 years about 
+activities they should do with their children ..................................................................................................... 299 
+Figure 96: FLWs reporting confidence levels in talking with male caregivers of children of 3-6 years about 
+activities they should do with their children ..................................................................................................... 300 
+Figure 97: FLWs reporting confidence levels in talking with female caregivers about the importance of 
+playing with children............................................................................................................................................. 300 
+Figure 98: FLWs reporting confidence levels in talking with male caregivers about the importance of playing 
+with children .......................................................................................................................................................... 301

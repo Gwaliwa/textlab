@@ -1,0 +1,717 @@
+Independent Evaluation for 
+Dirasa Project Pilot, Lebanon 
+ 
+Contract Number 43355787 
+under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+Final Evaluation Report 
+ 
+18 November 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joachim Friedrich PFAFFE 
+(Team Leader, Evaluation and Education Expert) 
+ 
+ 
+Bertha MISSYADI 
+(Education Expert) 
+ 
+ 
+ 
+ 
+Submitted by: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Final Evaluation Report – Page i 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+LIST OF ABBREVIATIONS 
+ 
+ALP 
+Accelerated Learning Programme 
+BLN 
+Basic Literacy and Numeracy 
+BPRM 
+Burau of Population, Refugees and Migration 
+CB‐ECE 
+Community‐Based Early Childhood Education 
+CERD 
+Centre for Educational Research and Development 
+CFRA 
+Child‐Focussed Rapid Assessment 
+CLM 
+Child Level Monitoring 
+CPD 
+Country Programme Document 
+CWD 
+Children with Disabilities 
+DAC 
+Development Assistance Committee (OECD) 
+DfID 
+Department for International Development (UK) (now FCDO) 
+DP 
+Development Partner 
+ECE 
+Early Childhood Education 
+EISI 
+Evidence Information System Integration (UNICEF) 
+EMIS 
+Education Management Information System 
+EU 
+European Union 
+FCDO 
+Foreign, Commonwealth & Development Office (formerly DfID) 
+FE 
+Formal Education 
+FGD 
+Focus Group Discussion 
+GEROS 
+Global Evaluation Report Oversight System (UNICEF) 
+GoL 
+Government of Lebanon 
+HRW 
+Human Rights Watch 
+ICT 
+Information and Communications Technology 
+INGO 
+International Non‐Governmental Organisation 
+INT 
+Interview 
+KE 
+Key Expert 
+KfW 
+Kreditanstalt für Wiederaufbau (German Development Bank) 
+KI 
+Key Informant 
+KII 
+Key Informant Interview 
+LCO 
+Lebanon Country Office (UNICEF) 
+LCRP 
+Lebanon Crisis Response Plan 
+LOST 
+The Lebanese Organisation for Studies and Training 
+M&E 
+Monitoring and Evaluation 
+MEHE 
+Ministry of Education and Higher Education 
+
+Final Evaluation Report – Page ii 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+MoRES 
+Monitoring of Results for Equity Systems 
+MoSA 
+Ministry of Social Affairs 
+NFE 
+Non‐Formal Education 
+NGO 
+Non‐Governmental Organisation 
+NLG 
+No Lost Generation 
+NRC 
+Norwegian Refugee Council 
+OCHA 
+United Nations Office for the Coordination of Humanitarian Affairs 
+OECD 
+Organisation for Economic Co‐operation and Development 
+OOS 
+Out of School 
+OOSC 
+Out of School Children 
+PCGD 
+Pedagogical Counselling and Guidance Department 
+PRM 
+Bureau of Population, Refugees and Migration (at U.S. Embassy) 
+PSB 
+Programme Strategic Board 
+RACE 
+Reaching All Children with Education 
+SBC 
+Social and Behaviour Change 
+SBP 
+School Bridging Programme 
+SDGs 
+Sustainable Development Goals 
+SEN 
+Special Educational Needs 
+SOP 
+Standard Operating Procedure 
+TA 
+Technical Assistance 
+TOC 
+Theory of Change 
+TREF 
+Transition and Resilience Education Fund 
+TVET 
+Technical and Vocational Education/ Training 
+UNEG 
+United Nations Evaluation Group 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organisation  
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UNRWA 
+United Nations Relief & Works Agency for Palestine Refugees in the Near East 
+USAID 
+United States Agency for International Development 
+USD 
+United States Dollar 
+WB 
+World Bank 
+WCH 
+War Child Lebanon 
+WL 
+World Learning (NGO) 
+YAD 
+Youth and Adolescents Development 
+YBLN 
+Youth‐Basic Literacy and Numeracy 
+ 
+
+Final Evaluation Report – Page iii 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY .................................................................................................................................. V 
+1 
+INTRODUCTION ............................................................................................................................ 1 
+1.1 
+Background ........................................................................................................................................... 1 
+1.2 
+The School Bridging Programme “Dirasa” ............................................................................................ 2 
+1.3 
+Purpose, objectives and outputs of the evaluation .............................................................................. 3 
+2 
+OVERALL FRAMEWORK OF THE EVALUATION ............................................................................... 5 
+2.1 
+Evaluation scope and intended use ...................................................................................................... 5 
+2.2 
+Evaluation criteria and evaluation questions ....................................................................................... 5 
+2.3 
+Ethical considerations ........................................................................................................................... 9 
+3 
+METHODOLOGY AND APPROACH ............................................................................................... 11 
+3.1 
+General approach ............................................................................................................................... 11 
+3.2 
+The MoRES Framework ...................................................................................................................... 11 
+3.3 
+Evaluation tools .................................................................................................................................. 13 
+3.3.1 
+Interviews ........................................................................................................................................................ 13 
+3.3.2 
+Technical meetings .......................................................................................................................................... 14 
+3.3.3 
+Focus Group Discussions ................................................................................................................................. 14 
+3.3.4 
+Sociological sensing......................................................................................................................................... 15 
+3.4 
+Consultation standards and possible limitations ................................................................................ 15 
+3.5 
+Sampling method ................................................................................................................................ 15 
+4 
+EVALUATION FINDINGS .............................................................................................................. 17 
+4.1 
+Relevance of UNICEF’s approach ........................................................................................................ 18 
+4.1.1 
+Programme design and implementation ......................................................................................................... 18 
+4.1.2 
+Adaptability of strategies to changes in needs and priorities caused by a changing country context ............ 20 
+4.1.3 
+Relevance in addressing inherent equity gaps ................................................................................................ 20 
+4.1.4 
+Relevance towards the work of national partners .......................................................................................... 21 
+4.2 
+Effectiveness of project design and approach in achieving its planned results ................................. 21 
+4.2.1 
+Increasing equitable access to quality education for highly marginalised OOSC, including adolescent girls 
+and children with disabilities ........................................................................................................................... 21 
+4.2.2 
+Facilitating transition into further formal education or alternative learning pathways ................................. 21 
+4.2.3 
+Providing needed capacity building for teachers and school staff, enhancing teaching environment in 
+private schools, and delivering an Integrated package of services to all children of targeted schools ........... 22 
+4.2.4 
+Preventing struggling private schools from collapsing .................................................................................... 23 
+4.2.5 
+Enhancing parents' awareness on the importance of education, and ensuring wellbeing of children and 
+teacher at school level..................................................................................................................................... 24 
+4.2.6 
+Effectiveness of the project design and approach towards managing conflict sensitivity .............................. 25 
+4.2.7 
+Adequacy of mechanisms to support the project reaching the most vulnerable ............................................ 25 
+4.3 
+Efficiency of the Programme .............................................................................................................. 26 
+
+Final Evaluation Report – Page iv 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+4.3.1 
+Cost implications of scaling up ........................................................................................................................ 26 
+4.3.2 
+Drop‐Out ......................................................................................................................................................... 26 
+4.3.3 
+Implications of costs and risks for the sustainability of the programme ......................................................... 28 
+4.4 
+Coherence of the Programme ............................................................................................................ 28 
+4.4.1 
+Alignment of Dirasa with other interventions being carried out by UNICEF ................................................... 28 
+4.4.2 
+Coherence with the work of external partners ................................................................................................ 28 
+4.4.3 
+Coherence of implementation strategies ........................................................................................................ 29 
+4.4.4 
+Plausibility of the Theory of Change ................................................................................................................ 29 
+4.4.5 
+Hindering factors to facilitating successful implementation ........................................................................... 30 
+4.4.6 
+Additional challenges reported by School Directors, Teachers and Parents .................................................... 30 
+4.5 
+Sustainability of the Programme ........................................................................................................ 31 
+4.5.1 
+Lessons learned – enabling and hindering factors of success.......................................................................... 31 
+4.5.2 
+Unintended effects/negative impact from the Dirasa programme ................................................................. 32 
+4.5.3 
+Potential systemic risks ................................................................................................................................... 33 
+5 
+CONCLUSIONS AND RECOMMENDATIONS .................................................................................. 34 
+5.1 
+Conclusions against the MoRES assessment framework .................................................................... 34 
+5.1.1 
+Enabling environment ..................................................................................................................................... 34 
+5.1.2 
+Supply and Demand ........................................................................................................................................ 35 
+5.1.3 
+Quality ............................................................................................................................................................. 36 
+5.2 
+Summary conclusions ......................................................................................................................... 37 
+5.3 
+Recommendations .............................................................................................................................. 38 
+5.3.1 
+Basic options for a future strategy .................................................................................................................. 38 
+5.3.2 
+General recommendations .............................................................................................................................. 39 
+5.3.3 
+Recommendations for immediate action ........................................................................................................ 39 
+5.3.4 
+Recommendations for action to be taken within one year ............................................................................. 39 
+5.3.5 
+Recommendation for action to be taken after one year ................................................................................. 40 
+ 
+APPENDICES 
+Appendix 1: List of persons consulted ................................................................................................................. 41 
+Appendix 2: List of documents consulted ............................................................................................................ 44 
+Appendix 3: Terms of Reference (including Theory of Change) ........................................................................... 47 
+Appendix 4: Timetable/work plan ........................................................................................................................ 61 
+Appendix 5: Data collection tools ........................................................................................................................ 63 
+Appendix 6: Protocols for Interviews and FGDs / Consent forms ........................................................................ 71 
+Appendix 7: Initial list of key informants to be consulted (provided by UNICEF before the field mission) ......... 82 
+Appendix 8: Detailed schedule for school visits ................................................................................................... 84 
+Appendix 9: Research Ethics Approval for the Evaluation by UNICEF Ethics Review Board (ERB) ...................... 86 
+Appendix 10: Evaluation Matrix with summary of findings from the school visits and field consultations ........ 88 
+Appendix 11: Challenges, successes, and recommendations emerging from the FGDs ...................................... 99 
+Appendix 12: UNICEF Risk Assessment: Re‐Assessment in light of Evaluation findings .................................... 103 
+Appendix 13: “Good practice” example: Project “Rainbow of Hope” ............................................................... 105 
+Appendix 14: Assessment of the Evaluation Questions against the determinants of the MoRES Framework . 107 
+
+Final Evaluation Report – Page v 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+Executive Summary 
+Introduction 
+(1) 
+PROMAN S.A. has been contracted to provide services for assessing and evaluating the results of the 
+inception phase of the Dirasa Programme (February 2022 to September 2022, covering 5,000 OOSC 
+aged  8‐14  years,  including  450  children  with  special  educational  needs).  This  report  presents  the 
+findings and recommendations of the independent summative evaluation which assesses the results at 
+the end of the inception phase. 
+(2) 
+Key to the summative evaluation as a whole is the identification of possible bottlenecks and/or flaws in 
+the overall programme focus, approaches, strategies and effectiveness, and also, concomitantly, ways 
+in which these challenges were addressed during the piloting phase or how they would need to be 
+addressed in view of the planned forthcoming upscale phase of the project, and emerging new risks that 
+it might entail. 
+(3) 
+The overall objective of the Dirasa Programme is that Lebanese and non‐Lebanese out of school children 
+re‐enter,  catch‐up,  and  transition  into  further  formal  and  non‐formal  education  for  future  better 
+livelihood  and  social  cohesion.  This  overall  objective  will  be  achieved  through  three  intermediate 
+results,  i.e.  (i)  Equitable  access  to  high  quality  education  for  OOS  children  through  cost  effective 
+approach; (ii) Improved soft skills and learning outcomes in foundational literacy in Arabic and second 
+language, and in mathematics; and (iii) Children transition into further formal education or alternative 
+pathways to complete their education. 
+Methodology 
+(4) 
+The evaluation assessed the Dirasa inception phase by means of a sample of 9 (out of 19) schools across 
+seven governorates of Lebanon. Schools were selected in close collaboration with UNICEF Lebanon 
+Country Office (LCO), to target the areas with most OOSC in seven governorates of the country. The 
+evaluation  takes  into  account  the  entire  timeframe  of  the  inception  phase  following  its  launch  in 
+February 2022, up to the time of this evaluation (August 2022). 
+(5) 
+Within the framework of the evaluation, the Evaluation Team has fully observed UNEG norms and 
+standards, and always operated according to UNEG guidelines. Further, all evaluation protocols and 
+tools were submitted to the UNICEF’s Ethics Review Board (ERB) for ethics review approval which was 
+granted on 25 August 2022, before commencement of the field and school visits. 
+(6) 
+In view of the stated purpose and objectives of the assignment, the general approach followed the 
+OECD/DAC criteria and the Monitoring of Results for Equity Systems (MoRES) framework as a tool to 
+guide the evaluation. The evaluation employed a non‐experimental design, with two main sources of 
+data,  i.e.  documents  and  stakeholders.  Data  from  stakeholders  were  derived  from  interviews  with 
+government  partners,  education  representatives  from  multilateral  and  bilateral  donors,  and 
+technical/implementing partners. In addition, the evaluation team consulted with the World Learning 
+team with regard to the ongoing assessment of Dirasa Learning Outcomes. 
+(7) 
+Participatory methods were employed such as focus group discussions (FGDs) and technical meetings 
+with key personnel involved in education, within the framework of Dirasa programme objectives. In 
+order to gain different perspectives on a common issue, views were sought from those involved at both 
+a strategic and operational level. The consultant team continuously liaised with the different key players 
+since this exercise is very much regarded as a joint initiative of all stakeholders concerned. 
+
+Final Evaluation Report – Page vi 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+(8) 
+Documentary sources included documents provided to the consultants at the onset of the mission, 
+including background information policy documents and reports of missions and studies that had been 
+previously undertaken. 
+(9) 
+Our consultation standards in the evaluation process ensured that all consultation documents are clear, 
+concise and include all necessary information, and that all relevant target groups were consulted. Tools 
+were adequately adapted to the specific target group(s) who in turn had sufficient time for participation 
+in the survey(s). Eventually, collective or individual responses and feedback was provided in order to 
+acknowledge the importance of the stakeholders’ participation. 
+(10) 
+Limitations relate to the very short period of the inception phase (6 months, sometimes even shorter 
+due to delayed commencement in certain areas) and the non‐availability of originally expected data 
+from the Learning Outcomes Study. 
+Evaluation Findings 
+(11) 
+The evaluation has shown the potential relevance of the Dirasa Programme, and its embodiment in the 
+development cooperation context. The Dirasa Programme fits in principle within the country’s 5‐year 
+Education Plan, its development objectives, and is part of the strategic link between the 1st funding 
+window of the TREF (public schools) and the 2nd funding window (multiple flexible pathways). As such, 
+the Dirasa Programme can make a relevant contribution to the education sector, specifically within the 
+parameters of the TREF. 
+(12) 
+However,  there  are  major  weaknesses  in  the  design  of  the  programme  which  was  built  on  the 
+assumption  that  channelling  support  through  the  private  sector  would  be  an  innovative  approach 
+towards addressing the needs of the OOSC. While such assumption has not been tested, the Programme 
+at the same time foresaw a rapid upscaling from a very short inception phase into a nation‐wide upscale 
+phase, raising the number of beneficiaries by 1,000% from 5,000 children to 50,000. This also led to a 
+major weakness, i.e., a multitude of unresolved issues at the end of the inception phase which need to 
+be  addressed  before  moving  into  a  scaling‐up  phase.  Further,  the  underlying  risk  analysis 
+underestimated the potential resistance of those who would not benefit from the Programme, should 
+an upscale happen at a rapid pace. 
+(13) 
+Due to its implicit emergency focus, the Dirasa Programme over‐prioritised “Access” when compared 
+to quality, repeating an error of the early Education for All (EFA) initiative which ultimately led to over‐
+crowded classrooms, an even further deteriorated educational quality, a lack of qualified staff, and 
+insufficient system capacities for transition from basic to secondary education. 
+(14) 
+These design weaknesses are also reflected in the Theory of Change. Currently, the ToC is a rather 
+theoretical  model  of  what  could  happen  in  an  ideal  scenario,  however  with  an  over‐emphasis  on 
+quantitative aspects and built on (unmentioned) assumptions which are not likely to hold. Taking a more 
+realistic view, the implementation chain is likely to be disrupted at the output level already, if the 
+systemic  preconditions  for  reaching  the  short‐term  outcome  level  are  not  pro‐actively  addressed. 
+“Collaboration and coordination between financial, technical and community partners” (as mentioned 
+in the ToC) will not be sufficient; the ToC completely neglects the political and society levels outside the 
+Dirasa communities, whose endorsement of the process would however be vital for any success. This 
+however is a process that takes more time than currently envisaged. Consequently, the ToC is also 
+missing a time dimension. 
+(15) 
+The intended results to be achieved by the end of the Dirasa inception phase have been achieved in 
+terms of access to the programme by 5,000 children (given a drop‐out rate of 14.7% on average, after 
+6 months), the distribution of learning materials and the provision of scheduled trainings. However, 
+
+Final Evaluation Report – Page vii 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+since the focus has been on quantitative aspects, there is no clear evidence on either learning outcomes 
+or the effectiveness and relevance of teacher trainings and/or learning materials. While there is some 
+anecdotal evidence on the appreciation of the programme (in particular the extra‐curricular activities), 
+a formal evaluation of the learning outcomes by World Learning is still ongoing. 
+(16) 
+Effectiveness in the long term will very much depend on the further timing of implementation, in order 
+to ensure continuity (and ultimate survival of the Programme) and sustainability. A rapid increase at this 
+point in time, from 5,000 to 50,000 students, will most likely result in opposition of those who do not 
+benefit from the programme, and will ultimately put the continuity of the entire Programme at risk. 
+Also, access to adequately staffed services (beyond the available facilities of private schools) has yet to 
+be tested at a scale which goes beyond the initial inception phase. 
+(17) 
+With regard to the Programme’s budget and expenditure, there remains complete uncertainty in terms 
+of duration (for how long the Programme is intended to run?), participation (what about the remaining 
+harder‐to‐reach OOSC, i.e. up to 600,000 who would not benefit despite the significant systemic risks 
+already being encountered?) and availability of funding. The current estimated cost of USD 45 million 
+per year has not yet been secured, and it appears doubtful – given the systemic risks of the Programme 
+– that potential donors will get easily involved. Further, compared to the budget of the inception phase, 
+the budget of the upscale phase deviates from the initial approach by recruiting a large number of staff 
+from the communities which raises questions about their capacities when compared to the high number 
+of international staff recruited during the inception phase. 
+(18) 
+There is a significant and severe risk that the Dirasa programme, if going nationwide at the proposed 
+rapid pace with an immediate increase of 1,000% of beneficiaries, would distort the entire education 
+system by creating unrealistic expectations (leading to raised demands), and particularly by creating pull 
+factors for Syrian students out of the public education system. It also cannot be assumed that such an 
+increase of mostly Syrian beneficiaries during the first phase of the scale‐up would be easily accepted 
+by Lebanese parents who are suffering from an economic crisis which forces them to take their children 
+out of private school due to an unaffordability of the school fees. 
+(19) 
+As  such,  the  Dirasa  Programme  potentially  endangers  social  stability  in  Lebanon  by  intensifying 
+resentment  of  those  not  directly  benefitting  from  it.  Rising  social  instability,  paired  with  growing 
+resentment towards the Syrian population (and donors giving preferential treatment to Syrians – even 
+if only perceived as such) could lead to severe political and systemic shocks, reaching far beyond the 
+education sector. Due to the financial support channelled to private schools through the Syrian students 
+attending them, an increasing number of Lebanese students will feel deprived of learning at private 
+schools (due to their inability to pay school fees) and will resent such support provided by UNICEF, 
+resulting – amongst other – in a risk for UNICEF's institutional reputation which might even affect the 
+reputation of the entire UN family. 
+Basic options for a future strategy 
+(20) 
+Based  on  the  findings,  there  are  basically  two  options  to  consider  for  a  future  strategy,  i.e.,  (i) an 
+immediate termination of the programme and its subsequent complete re‐design; or (ii) a continuation 
+of the programme at a much slower pace with an extended pilot phase and a postponed decision with 
+regard to a possible scale‐up. 
+(21) 
+Option 1: Due to the apparent design weaknesses of the Dirasa Programme, the Programme should 
+enter into an immediate exit strategy, combined with a complete re‐design of the programme: The 
+exit strategy will aim at completing the anticipated bridging process for the 5,000 children already 
+enrolled in the programme, while at the same time terminating the Programme with regard to any new 
+enrolments. At the same time, and based on the experiences made during the inception phase and the 
+
+Final Evaluation Report – Page viii 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+findings of this evaluation, the Theory of Change will be redesigned in close collaboration with key 
+stakeholders, also involving key ministries outside MEHE (e.g., Ministry of Social Affairs, Ministry of 
+Interior, etc.). This will then result in a completely new approach with a new name which also might 
+take different directions (depending on the outcomes of the consultations), or might lead to a decision 
+of abandoning the intervention altogether. 
+(22) 
+Option  2:  Despite  the  current  design  weaknesses  of  the  Dirasa  Programme,  the  Programme  will 
+continue, although at a much slower pace: This option will ensure continuity for the children already 
+enrolled in the Programme, while at the same time allowing for rectification of current shortcomings 
+during an extended pilot phase. As with Option 1, the Theory of Change will be redesigned, and a 
+decision of further extensions will be postponed to the beginning of the second year (i.e., school year 
+2023/24). "Too many beneficiaries too fast" will potentially lead to a total collapse of the Programme 
+which still has to cope with too many uncertainties and unclarified issues. 
+(23) 
+We have a slight preference for Option 2, primarily due to the continuity for children already enrolled 
+under  the  Programme.  All  following  recommendations  are  therefore  given  based  on  the  general 
+conclusion that the Dirasa Programme should continue, although at a much slower pace (i.e., Option 2). 
+General recommendations 
+(24) 
+Recommendation 1: Turn the current inception phase of the Dirasa Programme into a genuine Pilot 
+Phase, covering a period of two full years up to the end of the first two‐year cycle of the current cohort 
+(covering 5,000 children). At the beginning of the second year (i.e., school year 2023/24), a small upscale 
+could be considered if by that time the recommendations for the first year have been fully addressed. 
+(25) 
+Recommendation 2: In order to avoid severe political and systemic shocks, consult in depth during the 
+entire  process  of  Dirasa  implementation  with  all  relevant  Ministries  outside  MEHE,  especially  the 
+Ministry of Social Affairs and the Ministry of the Interior, in order to fully respect the conflict sensitivity 
+approach  and  the  principle  of  “do  no  harm”.  The  tense  socio‐political  and  economic  situation  of 
+Lebanon requires special precautions in programme implementation. 
+Recommendations for immediate action 
+(26) 
+Recommendation  3:  Abandon  the  current  preparations  for  upscaling  from  5,000  to  then  50,000 
+beneficiaries in 250 schools. Instead, expand the current inception phase by at least one full school year, 
+turn it into a genuine pilot phase, address the current short‐comings and update the Theory of Change 
+accordingly. 
+(27) 
+Recommendation 4: Develop an explicit exit strategy for the Dirasa Programme in order to lay the 
+foundations for a predictable financial planning, and in order to be able to strategically abandon the 
+Programme in the case of emerging undesired effects. 
+Recommendations for action to be taken within one year 
+(28) 
+Recommendation 5: Closely align the Dirasa programme with the implementation of the TREF. Open 
+issues stemming from the initial “inception phase” need to be tackled by a joint “Strategic Management 
+Board” to be established under the TREF, focusing on the interdependencies between the two funding 
+windows, and harmonising approaches in order to avoid the emergence of parallel structures. 
+(29) 
+Recommendation 6: Closely monitor and continuously evaluate the extended pilot phase, specifically 
+with regard to monitoring of learning outcomes, quality of teaching (i.e., not only quantities of training 
+sessions), behavioural and attitudinal changes at classroom level. 
+
+Final Evaluation Report – Page ix 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+(30) 
+Recommendation  7:  Undertake  an  assessment  of  private  schools  (including  those  already  in  the 
+[extended] inception phase), identifying those most in the need of financial support and at the same 
+time considered to be of high‐quality potential; then support those under a slightly extended pilot (see 
+also Recommendation 10 below). At the same time, review the criteria used for schools participating in 
+the Programme, and also investigate the possibility of targeting more semi‐private schools under Dirasa 
+since they are financially struggling even more than the private schools ‐ and some of them are teaching 
+Lebanese and refugees from different nationalities in the same shift (AM shift). 
+(31) 
+Recommendation 8: Undertake a study on the absorption capacity of the formal education system 
+against the prospective outputs of the Dirasa Programme, as a guideline for the limitations of Dirasa 
+implementation. At the same time, further investigate alternative pathways (beyond BLN and ALP) for 
+OOSC  and  also  young  adults,  also  taking  into  account  significantly  differing  dropout  rates  across 
+Governorates. 
+(32) 
+Recommendation 9: In case of any anticipated significant changes in implementation methodology, 
+ensure that such changes are reflected in the extended inception phase. Avoid the “testing” of such 
+changes during the implementation of an already upscaled phase since any negative effects cannot be 
+easily rectified anymore. 
+Recommendation for action to be taken after one year 
+(33) 
+Recommendation 10: Following the one‐year extended inception phase, and provided all open issues 
+have been successfully addressed, scale up slightly (e.g., to 40 schools) and prepare for the transition of 
+the first cohort (from the initial 19 schools) to the public education system. When choosing the schools, 
+also consider prioritising semi‐private schools (in line with Recommendation 7 above). A comprehensive 
+assessment of the vulnerability of the children accessing the school and the financial situation of the 
+school is highly needed, ideally through regular meetings between specialists and teachers that would 
+result in a specified action plan to address the needs of the children with disabilities. 
+ 
+
+Final Evaluation Report – Page 1 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+1 Introduction 
+1.1 
+Background 
+Since the outbreak of the Syrian war in 2011, approximately 1.5 million Syrians have sought refuge in Lebanon 
+(UNHCR). Of all Lebanon’s public sectors, the education system is amongst those most heavily affected by the 
+crisis. The system’s capability to cater for the education needs of more than 600,000 school aged Syrian refugee 
+children and a growing number of vulnerable Lebanese children has been considerably overstrained (HRW 2021). 
+Although the international community and Lebanese government have taken joint initiatives to address the 
+effects of the crisis and in particular to increase access of Syrian and vulnerable Lebanese children to education, 
+challenges persist in many regards, and in particular in terms of quality of education and the system’s institutional 
+capacities. According to the 2020‐2021 Lebanon Crisis Response Plan (LCRP), the number of Syrian children out 
+of  school  increased  to  445,000  children,  an  increase  from  55%  (2020)  to  63%  (2021).  The  total  number  of 
+Lebanese children out of school is estimated to be 22% of the Lebanese school‐aged population (N=257,000), 
+bringing the total to approximately 700,000 children (37% of the total school‐aged population). 
+ 
+The Ministry of Education and Higher Education (MEHE) of Lebanon has always been a highly committed partner 
+in supporting refugee children in accessing their rights to formal education. In order to address the critical 
+education needs of thousands of school age, vulnerable Lebanese and displaced Syrian children in Lebanon, the 
+Ministry  launched  the  Reaching  All  Children  with  Education  over  two  periods,  i.e.  2014‐2016  (RACE  I)  and 
+2017‐2021 (RACE II), aiming at ensuring inclusive and equitable quality education and promoting lifelong learning 
+opportunities for all. Non‐formal education (NFE) pathways offered for children were designed to ensure the 
+transition to formal education (FE) by the time the child successfully completed the pathway requirements and 
+thus met FE enrolment criteria. The implementation of NFE programmes and retention support typically takes 
+place  within  community  learning  spaces;  however,  many  NFE  implementing  organisations  implement  the 
+retention support programmes on public schools’ premises. MEHE’s Programme Management Unit (PMU) is 
+responsible for the effectiveness and efficiency of all NFE delivery in Lebanon and for reporting progress in line 
+with the Lebanon Crisis Response Plan (LCRP). 
+ 
+The private sector is a defining feature of the Lebanese education system. In addition to public schools, education 
+service is provided by private fee paying schools and semi‐private (state subsidised private) schools. Nearly half 
+of all students are in private fee‐paying schools while 11% (116,000) are enrolled in state‐subsidised private 
+schools, with 4% enrolled in UNRWA schools for Palestinians. 
+ 
+ 
+ 
+Data Source: KASPARIAN, Lila (2022): L’éducation scolaire au Liban: entre urgence de sauvetage et impératif de 
+développement à long‐terme 
+
+Final Evaluation Report – Page 2 
+ 
+ 
+Independent Evaluation for Dirasa Project Pilot, Lebanon 
+UNICEF – Contract No. 43355787 under the Long‐Term Agreement for Services – LTAS‐42105664 
+ 
+ 
+In terms of demand, the number of students in private schools has declined over the past two years, due to the 
+deterioration of the living conditions of families. As of now, the economic crisis makes private education a “luxury 
+service” resulting in the transfer of a growing number of Lebanese students to free public schools. In this regard, 
+in 2020‐2021, public schools received more than 53,000 students from the private sector, representing 14% of 
+their students. 
+1.2 
+The School Bridging Programme “Dirasa” 
+Against this background, in February 2022 UNICEF Lebanon launched the inception phase of the UNICEF School 
+Bridging Programme or Dirasa, described by UNICEF as a new innovative approach to bring out‐of‐school children 
+(OOSC) in Lebanon back to school.1 Dirasa is built on a whole‐system approach featuring multiple and flexible 
+pathways as a bridge that aims at facilitating the re‐entry for 100,000 marginalised out‐of‐school children and 
+adolescents. The Dirasa Programme is aligned with Sustainable Development Goal (SDG) 4, which is to ensure 
+inclusive and equitable quality education and to promote lifelong learning opportunities. It is expected that 
+transition into formal or non‐formal education will further contribute to future livelihoods options and social 
+cohesion. Dirasa therefore aims at (i) increasing the number of children in school; (ii) ensuring private schools to 
+remain operational; and (iii) providing flexible learning pathways with a variety of inclusive education models 
+supporting a bridge to formal education as well as other learning opportunities. Thus, the Dirasa Programme 
+targets  an  expansion  of  supply  of  educational  opportunities  for  OOSC,  and  at  the  same  time  unfolds  a 
+complementary focus where the private sector complements international support, i.e., by subsidising the public 
+formal sector. 
+ 
+Apart from MEHE, Dirasa key stakeholders are the Network of Private schools, Education Sector partners in 
+Lebanon,  the  Child  Protection  Sector,  United  Nations  (UN)  agencies  (such  as  UNHCR  and  the  World  Food 
+Programme [WFP]), and regional offices of MEHE, together with local stakeholders such as different mayors, 
+school directors and caregivers. MEHE through the Director‐General (DG) office and a senior UNICEF Consultant 
+developed and endorsed standard operating procedures (SOPs) for the Dirasa programme. Consultations with 
+the Education and Child Protection Sectors focused on learning from previous interventions in Private and semi‐
+private  schools  in  Lebanon.  Here,  coordination  among  UN  agencies  included  UNHCR  on  referral  of  refugee 
+children, and WFP on supporting few schools of the Dirasa programme with school meals. During the inception 
+phase, UNICEF held several meetings with the Network of Private schools in Lebanon, aiming at presenting the 
+context and situation of OOSC and the planned structure and design of the Dirasa programme. 
+ 
+The implementation of the Dirasa programme during the inception phase was divided across three main levels: 
+ 
+ 
+Technical  Partner:  Responsible  for  the  quality  aspect  of  the  programme,  from  developing  the 
+programmatic approach conducting teaching training and following up on learning outcomes evaluation. 
+ 
+Community Engagement Partner: Responsible for the community engagement component outreach and 
+referral. The community partner was to be also responsible for conducting monitoring visits to the school 
+to ensure the quality of programme delivery and proper and accurate reporting on children's attendance 
+and transition rate. For the inception phase, the Community partner was responsible to follow up on the 
+financial component; transferring the tuition fees and operational cost to the schools. 
+ 
+Private  school  selected  to  take  part  in  the  Inception  Phase:  Responsible  for  the  programme 
+implementation component from the education to wellbeing of children and teachers. 
+ 
+1 The budget of the Dirasa Inception phase has been around 3 million US Dollars.

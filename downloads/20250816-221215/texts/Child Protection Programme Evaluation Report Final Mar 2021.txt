@@ -1,0 +1,629 @@
+EVALUATION REPORT 
+Formative and summative evaluation of "Government of 
+Ghana / UNICEF Child Protection Programme (2012 - 2019)". 
+ 
+ 
+ 
+ 
+March 2021 
+ 
+Evaluation carried out by Professor Dame Carolyn Hamilton (Team Leader), Kara 
+Apland, Jorun Arndt, Dr Sophie Hedges and Elizabeth Yarrow from Coram 
+International 
+ 
+Evaluation commissioned by UNICEF Ghana 
+ 
+
+ 
+i
+This evaluation was conducted by Professor Dame Carolyn Hamilton, Kara Apland, Jorun Arndt, Dr 
+Sophie Hedges and Elizabeth Yarrow from Coram International. Coram International is part of Coram 
+Children's Legal Centre, a UK NGO dedicated to the promotion and protection of children's rights. 
+Further information can be found at https://coraminternational.org/. 
+ 
+Acknowledgements 
+Coram International would like to thank Emmanuel Nyarko-Tetteh, Hilda Mensah, Joyce Odame, 
+Antoine Deliege, and Muhammad Rafiq Khan from UNICEF Ghana for their support throughout the 
+evaluation process. 
+ 
+Additionally, we would like to thank the Participatory Development Associates, who provided on the 
+ground assistance and conducted the data collection for the evaluation. We are particularly grateful 
+to Clement Sefa-Nyarko, Alexander Afram and Raymond Hodor for their support.  
+ 
+Our thanks also go to the many interviewees who set aside the time to meet with us and to answer 
+our questions. We are grateful to all Government stakeholders, social workers, teachers, health care 
+providers, child protection services and NGO partners at the national, regional and district levels for 
+sharing their experiences of working in the child protection system. Finally, we would like to thank the 
+children and their parents and caregivers who took part in the individual interviews, as well as the 
+young people and community members who participated in focus group discussions. Thank you for 
+the valuable insight you provided which contributed to this report and to the recommendations made. 
+ 
+ 
+ 
+
+ 
+ii
+Table of contents 
+ 
+Executive summary ......................................................................................................................... 8 
+1.1. 
+Evaluation purpose and scope ................................................................................................ 8 
+1.2. 
+Methodology ........................................................................................................................... 8 
+1.3. 
+Findings and Preliminary Conclusions ..................................................................................... 8 
+Relevance of UNICEF’s Child Protection Programme ...................................................................... 8 
+Outcomes and Effectiveness of the Child Protection Programme .................................................. 9 
+Efficiency of UNICEF’s Child Protection Programme ..................................................................... 10 
+Sustainability of UNICEF’s Child Protection Programme ............................................................... 10 
+Gender equality ............................................................................................................................. 11 
+1.4. 
+Lessons learned ..................................................................................................................... 11 
+1.5. 
+Final Conclusions ................................................................................................................... 11 
+1.6. 
+Recommendations................................................................................................................. 12 
+ 
+Introduction ................................................................................................................................... 13 
+ 
+Context of the evaluation .............................................................................................................. 14 
+3.1. 
+Child protection context ........................................................................................................ 14 
+3.2. 
+Legal and policy framework for child protection .................................................................. 16 
+Child welfare .................................................................................................................................. 17 
+Alternative care ............................................................................................................................. 18 
+Birth registration ........................................................................................................................... 19 
+Child labour and child trafficking .................................................................................................. 19 
+Child marriage and other gender issues ........................................................................................ 21 
+Child online safety ......................................................................................................................... 22 
+Discrimination ............................................................................................................................... 22 
+Overview of the child protection system in Ghana ....................................................................... 23 
+ 
+Object of the evaluation ................................................................................................................ 28 
+2012-2017 child protection programme and results framework.................................................. 30 
+2018-2022 child protection programme and results framework.................................................. 32 
+Programme beneficiaries .............................................................................................................. 33 
+Theory of Change .......................................................................................................................... 33 
+4.1. 
+Key stakeholders and their contributions ............................................................................. 34 
+ 
+Purpose of the evaluation ............................................................................................................. 36 
+ 
+Objectives of the evaluation ......................................................................................................... 38 
+
+ 
+iii
+ 
+Scope of the evaluation ................................................................................................................. 39 
+7.1. 
+Thematic scope...................................................................................................................... 39 
+7.2. 
+Geographical scope ............................................................................................................... 39 
+7.3. 
+Chronological scope .............................................................................................................. 39 
+ 
+Criteria and evaluative questions .................................................................................................. 40 
+8.1. 
+Evaluation questions ............................................................................................................. 40 
+Relevance ...................................................................................................................................... 40 
+Impact / Effectiveness ................................................................................................................... 40 
+Efficiency ....................................................................................................................................... 41 
+Sustainability ................................................................................................................................. 41 
+Gender, equity and human rights ................................................................................................. 42 
+8.2. 
+Evaluation matrix................................................................................................................... 42 
+ 
+Methodology ................................................................................................................................. 43 
+9.1. 
+Approach of the evaluation ................................................................................................... 43 
+9.2. 
+Methods, tools and sampling strategy for data collection ................................................... 43 
+Quantitative data collection .......................................................................................................... 43 
+Qualitative data collection ............................................................................................................ 45 
+Fieldwork ....................................................................................................................................... 46 
+9.3. 
+Data analysis and quality assurance ...................................................................................... 46 
+Qualitative data analysis ............................................................................................................... 46 
+Quantitative data analysis ............................................................................................................. 47 
+9.4. 
+Ethical Considerations and Evaluation Principles .................................................................. 47 
+9.5. 
+Limitations and mitigation measures of the evaluation ....................................................... 48 
+ 
+Findings and preliminary concLUSIONs ..................................................................................... 50 
+10.1. 
+Relevance of the CP programme ....................................................................................... 50 
+Alignment with government and institutional priorities .............................................................. 50 
+Meeting donor commitments ....................................................................................................... 52 
+Responsiveness to children’s voices and needs ............................................................................ 52 
+Preliminary conclusions on the relevance of UNICEF’s CP Programme ........................................ 53 
+10.2. 
+Outcomes and effectiveness of the child protection programme .................................... 54 
+Effectiveness of policy, institutional and legal reform .................................................................. 54 
+Effectiveness of the national child protection system .................................................................. 59 
+Effectiveness of alternative care reform ....................................................................................... 78 
+
+ 
+iv 
+Effectiveness of behavioural change campaigns and community mobilisation ........................... 82 
+Awareness, participation and satisfaction with change campaigns ............................................. 83 
+Impact of community change campaigns ..................................................................................... 85 
+Effectiveness of monitoring and reporting ................................................................................... 94 
+Preliminary conclusions on the effectiveness of UNICEF’s CP Programme .................................. 98 
+10.3. 
+Efficiency of the CP Programme ........................................................................................ 99 
+Use of resources in the CP programme ......................................................................................... 99 
+Coordination and collaboration .................................................................................................. 101 
+Preliminary conclusions on the efficiency of UNICEF’s CP Programme ...................................... 104 
+10.4. 
+Sustainability of the CP Programme ................................................................................ 104 
+Sustainability of programme outcomes / CP changes ................................................................ 104 
+Sustainability of capacity generation .......................................................................................... 105 
+Sustainability of alternative care ................................................................................................. 106 
+Preliminary conclusions on the sustainability of UNICEF’s CP Programme ................................ 107 
+ 
+Lessons learned ....................................................................................................................... 108 
+ 
+FINAL conclusions .................................................................................................................... 110 
+ 
+Recommendations................................................................................................................... 112 
+13.1. 
+Training ............................................................................................................................ 112 
+13.2. 
+Referrals .......................................................................................................................... 113 
+13.3. 
+Case management ........................................................................................................... 113 
+13.4. 
+Community based services (fostering) ............................................................................ 114 
+13.5. 
+Coordination between social welfare and the police...................................................... 114 
+13.6. 
+Information management systems ................................................................................. 115 
+13.7. 
+Children’s services plans .................................................................................................. 115 
+13.8. 
+Social norms .................................................................................................................... 116 
+ 
+Recommendations................................................................................................................... 117 
+ 
+Appendices .............................................................................................................................. 121 
+ 
+ 
+ 
+ 
+ 
+
+ 
+v 
+ 
+ 
+ 
+List of tables 
+Table 3.1 Key child protection indicators in Ghana............................................................................... 16 
+Table 4.1 Brief presentation of the object of the evaluation ................................................................ 28 
+Table 5.1 Users and use of the evaluation ............................................................................................ 36 
+Table 9.1 Overview of the sample achieved for quantitative data collection methods ....................... 44 
+Table 9.2 Number of participants for qualitative data collection, by gender and interview type ........ 46 
+Table 9.3 Limitations and mitigation measures of the evaluation ........................................................ 48 
+ 
+ 
+List of figures 
+Figure 1 Type of child protection cases by gender, from administrative records (N=1,690) ................ 61 
+Figure 2 Type of child protection case ranked by level of concern by social workers surveyed .......... 61 
+Figure 3 Referrals by police, community members and family members in intervention versus 
+comparison districts (administrative data record) ................................................................................ 64 
+Figure 4 Implementation of case management SOPs: Intervention v comparison districts ................. 68 
+Figure 5 Types of response services provided to children, by intervention or comparison district ..... 69 
+Figure 6 Means through which respondents heard of the GACA campaign ......................................... 83 
+Figure 7 Child protection events and activities in intervention sites .................................................... 84 
+Figure 8 Proportion of respondents who thought family separation was “safe” in the following 
+circumstances ........................................................................................................................................ 86 
+Figure 9 Children’s experiences of violence .......................................................................................... 87 
+Figure 10 Acceptance of child marriage from baseline to endline ....................................................... 90 
+Figure 11 Awareness of children’s vulnerabilities that might lead them into committing crimes ....... 91 
+Figure 12 Distribution of 2018 - 2022 programme budget ................................................................. 100 
+ 
+ 
+ 
+ 
+
+ 
+vi 
+List of acronyms 
+ 
+ADR 
+ 
+Alternative Dispute Resolution 
+AHTU  
+Anti-Human Trafficking Unit 
+ASRH  
+Adolescent Sexual and Reproductive Health 
+BDR 
+ 
+Births and Deaths Registry 
+CBO 
+ 
+Community Based Organisation 
+CCLC 
+ 
+Coram Children’s Legal Centre 
+CEDAW  
+Convention on the Elimination of all forms of Discrimination Against Women 
+CHRAJ  
+Commission on Human Rights and Administrative Justice 
+CSO 
+ 
+Civil Society Organisation 
+CP 
+ 
+Child Protection 
+CRVS 
+ 
+Civil Registration and Vital Statistics 
+DANIDA 
+Danish International Development Agency 
+DCD 
+ 
+Department of Community Development 
+DOVVSU 
+Domestic Violence Victim Support Unit 
+DSW 
+ 
+Department of Social Welfare 
+EA 
+ 
+Enumeration Area 
+ECOWAS 
+Economic Community of West African States 
+ERG 
+ 
+Evaluation Reference Group 
+FGD 
+ 
+Focus Group Discussion 
+FGM/C  
+Female Genital Mutilation/Cutting 
+GACA  
+Ghanaians Against Child Abuse campaign 
+GBV 
+ 
+Gender-Based Violence 
+GES 
+ 
+Ghana Education Service 
+GHC 
+ 
+Ghanaian cedi 
+GHS 
+ 
+Ghana Health Service 
+GLSS 
+ 
+Ghana Living Standards Survey 
+GoG 
+ 
+Government of Ghana 
+HIV/AIDS 
+Human Immunodeficiency Virus / Acquired Immune Deficiency Syndrome 
+IOM 
+ 
+International Organization for Migration 
+KAP 
+ 
+Knowledge, Attitudes and Practices 
+
+ 
+vii 
+KOICA  
+Korean International Cooperation Agency 
+KRC 
+ 
+Key Results for Children 
+LEAP 
+ 
+Livelihoods Empowerment Against Poverty programme 
+LI 
+ 
+Legislative Instrument 
+MICS 
+ 
+Multiple Indicator Cluster Survey 
+MMDA  
+Metropolitan, Municipal and District Assembly 
+MoE 
+ 
+Ministry of Education 
+MoGCSP 
+Ministry of Gender, Children and Social Protection 
+MoH 
+ 
+Ministry of Health 
+MoLGRD 
+Ministry of Local Government and Rural Development 
+MTDP  
+Medium Term Development Plan 
+NGO 
+ 
+Non-Governmental Organisation 
+NHI 
+ 
+National Health Insurance scheme 
+OECD/DAC 
+Organisation for Economic Cooperation and Development / Development Assistance 
+Committee 
+OVC 
+ 
+Orphans and Vulnerable Children 
+PASS 
+ 
+Promoting Adolescent Safe Spaces programme 
+PDA 
+ 
+Participatory Development Associates 
+PNDCL  
+Provisional National Defence Council Law 
+SDGs 
+ 
+Sustainable Development Goals 
+SHS 
+ 
+Senior High School 
+SOP 
+ 
+Standard Operating Procedure 
+SP 
+ 
+Service Provider 
+STI 
+ 
+Sexually Transmitted Infection 
+TOC 
+ 
+Theory of Change 
+TOR 
+ 
+Terms of Reference 
+UNCRC  
+United Nations Convention on the Rights of the Child 
+UNEG  
+United Nations Evaluation Group 
+UNFPA  
+United Nations Population Fund 
+USAID  
+United States Agency for International Development 
+USDoL  
+United States Department of Labor 
+WCARO 
+UNICEF Regional Office for West and Central Africa 
+
+ 
+ 
+8
+ EXECUTIVE SUMMARY 
+1.1. 
+Evaluation purpose and scope 
+In January 2020 UNICEF Ghana engaged Coram International to conduct a Formative and Summative Evaluation of 
+its Child Protection Programme, covering programming from January 2012 to December 2019, across two 
+programme cycles (2012 – 2017 and 2018 – 2022). The purpose of the evaluation is to support learning and decision-
+making to improve child protection outcomes for girls and boys in Ghana: to hold UNICEF accountable for its 
+contributions to child protection outcomes; to clarify the changes in child protection in Ghana that have been 
+brought about by UNICEF’s programme; and to determine whether the current programme has the right strategic 
+focus to contribute to strengthening the child protection system moving forward. The UNICEF Ghana Country Office 
+is the primary intended user of the evaluation. Other users include the UNICEF Regional Office for West and Central 
+Africa, the Government of Ghana, other UN agencies and NGOs, and development partners. 
+The evaluation's geographical scope is expansive, covering programming across Ghana at both national and sub-
+national (regional, metropolitan and district) levels. It generates evidence in relation to 4 of the 6 evaluation criteria 
+of the Organisation for Economic Co-operation and Development/Development Assistance Committee 
+(OECD/DAC), namely: relevance, effectiveness, efficiency and sustainability.1 In addition to these criteria, the 
+evaluation methodology incorporates UNICEF’s guiding principles of gender, human rights and equity.  
+1.2. 
+Methodology 
+The evaluation employed a mixed methodology, drawing on the strengths of both quantitative and qualitative data, 
+whilst increasing opportunities for triangulation. In addition to drawing on existing evidence, the evaluation 
+involved the collection of a significant body of primary data. Data collection methods included: 
+- 
+A standardised survey with social welfare officers and community development officers at district level 
+(n=120) to gather evidence on their child protection response work. Professionals were surveyed across 30 
+districts that received interventions from UNICEF and 30 ‘comparison’ districts; 
+- 
+A KAP survey of both children and adults (n=1022), designed to investigate changes in the knowledge, 
+attitudes and practices (KAP) of communities targeted by UNICEF’s social and behaviour change 
+interventions. The survey was designed to identify changes in KAP which had occurred since a 2013 
+baseline. It was administered in areas where UNICEF has conducted community engagement work, as well 
+as in selected ‘comparison’ districts which had not received interventions; 
+- 
+Key informant interviews (n= 159) with stakeholders at national, regional and district level; 
+- 
+In-depth life history interviews (n = 87) with children and their caregivers whose cases had been subject 
+to a child protection intervention; 
+- 
+Reviews of case files (n=80) maintained by district social welfare officers; 
+- 
+Focus group discussions (n=242) with community members to gather qualitative evidence on attitudes 
+and norms around child protection issues. 
+Strict ethical guidelines were followed at all stages of the data collection and analysis. 
+1.3. 
+Findings and Preliminary Conclusions 
+Relevance of UNICEF’s Child Protection Programme 
+Evaluation findings demonstrate a strong alignment between UNICEF’s Child Protection Programme’s design and 
+approaches and the Government of Ghana’s priorities in relation to violence against children, evidenced by an 
+analysis of GoG policies and plans, as well as interviews with Government representatives. UNICEF’s contributions 
+to strengthening the legal and policy framework for child protection and building the capacity of service providers 
+to implement that framework were found to be particularly relevant to national priorities. UNICEF’s commitment 
+was demonstrated by its willingness to divert from past approaches where these were not well aligned with needs 
+in Ghana. 
+ 
+1 The fifth criteria, impact, has been looked at in relation to outcomes and likely impact of the programme. 
+
+ 
+ 
+9
+The Child Protection Programme was also found to be relevant and responsive to the needs of children in Ghana. 
+Across research sites, respondents consistently described that UNICEF has taken a consultative approach to 
+programming; seeking out beneficiaries’ views and making relevant adjustments to meet their needs better. 
+However, evaluation findings suggest that in practice certain groups of children have been more difficult to reach 
+than others. In particular, findings suggest that street children require additional support and may have been 
+neglected by services delivered through the national child protection system. 
+Outcomes and Effectiveness of the Child Protection Programme2 
+Effectiveness of National Child Protection System Strengthening 
+UNICEF’s child protection programming was found to have made significant contributions to strengthening the 
+national child protection system in Ghana. When UNICEF’s 2012 programme cycle began, Ghana lacked an 
+institutional framework for the delivery of child protection response services. Recognising this gap, UNICEF worked 
+effectively with the Government of Ghana to develop a more strategic vision for child protection work. Significant 
+achievements include improvements to the legal and policy framework for children protection, particularly the 
+development of the Child and Family Welfare Policy and the Justice for Children Policy, as well as the establishment 
+of a comprehensive child protection response service delivered through district administrations as part of a broader 
+child protection system. These changes were recognised and valued by respondents, who emphasised the 
+importance of building an institutional framework for child protection work.  
+Evaluation findings also demonstrate that UNICEF made important contributions to strengthening the capacity of 
+social welfare authorities to deliver child protection services. In particular, UNICEF has succeeded in building the 
+capacity of district level social welfare staff to deliver child protection response services in line with the 
+Government’s case management SOPs. Whilst findings indicate that the application of case management 
+procedures is imperfect, a considerable proportion of service providers do report to be following the SOPs when 
+responding to CP cases, a significant change from past practice. Furthermore, findings demonstrate the 
+effectiveness of UNICEF’s interventions: the implementation of case management procedures was found to be 
+consistently stronger in districts that received UNICEF support compared to those that did not.  
+The degree to which this improved capacity has translated into outcomes for children exposed to violence or other 
+forms of child protection risk is less clear, particularly given that these cases were rarely found to be reaching the 
+child protection system. Findings revealed that the vast majority of child protection cases to which district level 
+social welfare authorities respond are child maintenance cases, followed by custody cases, and, to a less extent, 
+cases of parental neglect and abandonment. These findings are problematic, suggesting that the child protection 
+system is not yet fulfilling its core function of identifying and responding to cases where children are exposed to 
+violence or at risk of harm.  
+The evaluation identified a number of explanations for this trend. VAC cases continue to be handled by the Police 
+Service’s Domestic Violence Victim Support Unit (DOVVSU), and in some localities coordination between DOVVSU 
+and district social welfare authorities was found to be weak. Meanwhile, effective and reliable referral channels 
+between frontline professionals and district level social welfare authorities are lacking in many districts, 
+undermining identification of cases where children are at-risk3. Finally, findings point to a number of reporting 
+barriers, including stigma around child abuse and attitudes which are accepting of domestic violence, lack of 
+awareness of reporting channels and practical barriers, which make accessing services challenging or costly. 
+Effectiveness of community mobilisation and behaviour change 
+UNICEF’s child protection programme has included a number of behaviour change campaigns and community 
+mobilisation efforts, designed to transform attitudes and practices in relation to child protection. At the national 
+level this has involved the use of mass and social media to raise awareness, whilst at the local level, interventions 
+involved collaboration with local government to deliver a Social and Behaviour Change Communication toolkit. 
+UNICEF supported campaigns were found to have achieved an impressive reach: findings from the KAP survey 
+indicate that the national ‘Ghanaians Against Child Abuse’ campaign has had widespread coverage in communities 
+across Ghana, and 70 per cent of respondents in intervention communities said that they had participated in 
+awareness-raising activities. The participatory methodology applied in the application of the toolkit was found to 
+ 
+2 This evaluation covers UNICEF’s Child Protection Programme across all of its many components, however  the executive summary presents 
+findings on the effectiveness of two main areas of programming: strengthening the national child protection system and community mobilisation 
+and behaviour change.  
+3 There is some evidence that districts that have received UNICEF interventions, particularly those that were part of the ‘policy to practice 
+initiative’, are more likely to receive referrals from the police, community members and DOVVSU. 
+
+ 
+ 
+10
+be particularly effective in promoting community engagement, and 99.2 per cent of participants said that they 
+would recommend activities to a friend. 
+As well as achieving widespread reach and endorsement, analysis of the data from the KAP surveys provides 
+evidence that UNICEF’s campaign and mobilisation efforts may be having a significant impact in contributing to 
+transforming community norms and behaviours related to child protection. Respondents in the KAP surveys were 
+asked a range of questions about their attitudes and practices in relation to a variety of relevant topics, and changes 
+in results from baseline (2013) to endline (2020) were compared in both UNICEF intervention4 and non-intervention 
+communities. Overall, the findings indicate a significant improvement over time in attitudes and practices across a 
+range of issues, including: family separation, violence against children, child marriage, child justice and help seeking 
+behaviour. Yet despite the changes which occurred, there were no significant differences in rates of change in 
+UNICEF intervention sites compared to comparison sites, making it hard to determine whether changes can be 
+directly attributed to UNICEF’s campaign and mobilisation efforts.  
+Evidence from the KAP survey suggests that behaviours related to violence against children may be particularly 
+‘sticky’, or difficult to shift. Analysis of the data demonstrates a small but significant reduction in rates of violence 
+against children from baseline to endline.5  However, there were no significant improvements in rates of violence 
+in UNICEF intervention compared to control sites, and rates of change in intervention sites concerning attitudes 
+towards corporal punishment and children’s experiences of domestic and emotional violence were found to be 
+particularly slow. Whilst social norms endorsing violence against children are widespread and entrenched, drivers 
+of violence against children include structural factors such as poverty, low levels of education, lack of opportunity, 
+gender inequalities and children’s position of dependency in families and communities. These are complex factors 
+that may not be effectively addressed by sensitisation messaging alone. 
+Efficiency of UNICEF’s Child Protection Programme 
+UNICEF’s Child Protection programme was successful in mobilising significant financial resources to support its 
+system strengthening approach over both the 2012 – 2017 and 2018 – 2022 programme cycles. This is a notable 
+achievement given that UNICEF Country Offices have often struggled to obtain funding for CPSS work, as ‘issue 
+based’ programming tends to be more popular amongst donors6. The Child Protection Section was innovative in 
+recognising that funding for an ‘issue’ can be incorporated into a system strengthening approach and utilising issue-
+based funding to promote their broader systems strengthening objectives.  
+A lack of sufficient resources continues to hinder child protection outcomes in Ghana, however. Evaluation findings 
+demonstrate that district-level child protection services remain underfunded, resulting in significant disruptions to 
+their effective delivery. Adequate funding for local child protection response services is critical to ensuring that 
+resources are used efficiently within the child protection system. Without this component of the child protection 
+system in place, the efficiency of other investments made by UNICEF, the GoG and other partners, are likely to be 
+undermined, as cases are missed and duplication and fragmentation are more likely to occur. UNICEF has 
+acknowledged the lack of sufficient resources for frontline social workers, and the Child Protection Programme has 
+undertaken initiatives aimed at advocating for budget commitments from Government at central, regional and 
+MMDA levels, but significant work remains to be done.  
+Sustainability of UNICEF’s Child Protection Programme 
+Evaluation findings suggest that many programme outcomes have been institutionalised, enshrined in law, policy 
+or practice, and are therefore likely to continue even after programming ends or changes its focus. Evidence also 
+demonstrates that the GoG is increasingly taking ownership of programme activities. The next step in promoting 
+sustainable child protection outcomes is to ensure that policy level achievements translate into effective child 
+protection prevention and response services on the ground. This will require the GoG to commit sufficient funds to 
+service delivery and highlights the need for UNICEF to continue to prioritise achieving budget commitments from 
+the government. 
+UNICEF’s Child Protection Programme has made considerable contributions to building the capacity of  Ghanaian 
+government counterparts at national and sub-national levels, and this support was found to have resulted in 
+genuine improvements in the abilities and practices of beneficiaries. UNICEF’s programme design has been 
+ 
+4 Areas where UNICEF has conducted community engagement work using the child protection communication facilitation toolkit or other 
+interventions such as community theatre, Talking Books, or GACA activities. 
+5 Difference in difference analysis, linear regression. β = -.12  p<0.05. The regression analysis was only carried out on the ‘child sample’ (young 
+people were excluded).  
+6 Strengthening child protection systems: evaluation of UNICEF strategies and programme performance,  E/ICEF/2019/23 16 July 2019. 
+
+ 
+ 
+11
+conducive to sustaining capacities in the longer term. UNICEF developed materials, manuals and tools, which can 
+continue to be used by relevant agencies going forward, and, wherever possible, supported the integration of 
+training materials into national curricula to ensure their continued use. Whilst is too early to comment definitively 
+on the sustainability of capacities generated through the Programme, findings clearly indicate that they have the 
+potential to continue after the Programme’s conclusion.  
+Gender equality7 
+Efforts have been made to mainstream gender in the child protection programme by recruiting a dedicated gender 
+specialist and developing a Child Protection Programme Gender Strategy for the 2018-22 programme.8 While child 
+protection responses are evenly split by gender, the low number of child abuse cases overall suggests that a 
+significant proportion of cases involving violence, neglect and abuse are not receiving an appropriate response, a 
+phenomenon likely to affect girls more seriously than boys given their higher vulnerability. Whilst social and 
+behaviour change programming has raised awareness of gender equality and shifted some norms, particularly those 
+related to women’s economic empowerment and child marriage, much work remains to be done to address 
+entrenched norms and to reduce the high levels of violence reported by girls in Ghana.  
+1.4. 
+Lessons learned 
+A number of ‘lessons learned’ emerged from the evaluation, which can be used to inform future programming: 
+1. Legal reform is more likely to be successful when it is evidence based, drawing on analysis of existing laws, solid 
+empirical evidence on the issues at stake and consultation and engagement with stakeholders. 
+2. Building a fully functioning child protection system requires sufficient resourcing, a continuum of services, 
+monitoring and oversight and community engagement in addition to a legislative and institutional framework; it 
+requires a long-term commitment to realise.  
+3. The identification and referral of suspected child abuse cases is an essential step in child protection system 
+building and requires both effective referral processes and widespread training and awareness-raising. 
+4. Strengthening prevention and early intervention can promote an effective, efficient and sustainable child 
+protection system. Acting early when risk is first identified can prevent cases from reaching crisis point. 
+5. Coordination amongst different bodies with child protection duties and roles is key to ensuring effective 
+implementation of the child protection system and delivering outcomes for children. 
+6. In contexts where particular forms of violence are normalised, shifting attitudes and practices requires that 
+sensitisation messaging be integrated with other programming approaches (social welfare, livelihoods, etc). 
+7. Building an effective foster care service requires appropriate funding for foster families and sufficient support 
+from a social service workforce. 
+8. Gender empowerment programming may produce unintended consequences and must be done sensitively in 
+order to avoid reinforcing stigma or discrimination. 
+1.5. 
+Final Conclusions 
+The findings of this evaluation demonstrate that UNICEF Ghana’s Child Protection Programme has made significant 
+contributions to strengthening the national child protection system in Ghana. In addition to being well aligned with 
+UNICEF’s global strategies, the programme’s system strengthening approach was found to be highly relevant in the 
+Ghanaian context. UNICEF’s Child Protection Programme has made significant contributions to addressing gaps in 
+Ghana’s child protection system. A number of important outcomes of this work include: institutionalising a social 
+welfare workforce at the district level and building the capacity of that workforce to deliver child protection 
+response services; establishing frameworks for alternative care and justice reform and models for service delivery, 
+and building duty bearer’s capacity to implement those frameworks and models, and supporting the delivery of 
+community mobilisation and awareness campaigns which achieved remarkable coverage and high levels of public 
+approval; amongst many others. The Child Protection Programme employed an efficient design and was effective 
+in mobilising resources across diverse partners and stakeholders. Many of its achievements are likely to remain after 
+programming has ended or changed focus, and the programme’s capacity building work has generated capacities 
+ 
+7 In the full length report, findings and analysis on gender equality are integrated throughout the  effectiveness section in order to avoid 
+repetition and enrich analysis. 
+8 UNICEF Ghana, ‘Child Protection Programme Gender Strategy 2018-2022’, March 2018

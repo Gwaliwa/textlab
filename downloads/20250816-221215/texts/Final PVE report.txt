@@ -1,0 +1,680 @@
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Report 
+– 
+Final Evaluation of the joint project “Communities 
+Resilient to Violent Ideologies”  
+ 
+January 2022 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+2  
+ 
+ 
+ACKNOWLEDGEMENTS 
+ 
+ 
+This report was written by Tommaso Balbo di Vinadio (team leader), Gulnara Asilbekova and 
+Kanykei Latipova. 
+ 
+The authors would like to thank UNICEF, UN Women and UNFPA in Kyrgyzstan, for their 
+guidance, support and contribution to the evaluation. In particular, the evaluation team would like 
+to extend its deepest thanks to Tolgonai Berdikeyeva for her contributions and for the 
+coordination of the evaluation process. 
+ 
+The authors would further like to thank the State Agency for Youth and Sports of Kyrgyzstan, the 
+Municipalities of Ak-Ordo (Bishkek), Sary-Bulak (Issyk-Kul), Kyzyl-Kiya (Batken), Alla Anarov 
+(Osh), Nookat city (Osh) and Suzak (Jalalabad),  and the implementing partners of the project, for 
+their assistance in the evaluation, as well as all those who participated in interviews and focus 
+groups. 
+ 
+Special gratitude goes also to the members of the evaluation’s reference group who accompanied 
+the entire process of evaluation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3  
+ 
+I. 
+Project and Evaluation Information Details  
+ 
+Title 
+Communities Resilient to Violent Ideologies 
+Country  
+Kyrgyzstan (PBF/KGZ/A-7)1 
+Recipient agencies 
+UNICEF, UNFPA, UN Women 
+Starting Date 
+11.01.2018 
+Duration 
+36 months with 7-month extension due to Covid-19. Total: 43 months  
+Implementing Partners 
+President’s office, Prime Minister Office, Ministry of Education and Science; State Agency 
+for Vocational Education; Kyrgyz Academy of Education; State Agency for Youth and 
+Sports; Agency on Religious Affairs; State Agency on Local Self Governance and 
+Interethnic Relations; Local Self-Governance (LSG) bodies in selected districts, CSOs 
+Target Areas 
+12 municipalities: 
+1) Bishkek city: Bakai-Ata, Ak-Ordo  
+2) Osh city: Sulaiman-Too, Kerme-Too, Amir-Temur 
+Osh province: 3) Alla Anarov municipality in Aravan district; 4) Karasuu municipality in 
+Karasuu district; 5) Nookat city; 6) Gulistan municipality in Nookat district 
+Jalalabad province: 7) Jalalabad city, 8) Suzak municipality in Suzak district 
+Batken province: 9) Kyzyl-Kiya city in Kadamjai district 
+Issyk-Kul province: 10) Sary-Bulak municipality in Tyup district 
+Naryn province: 11) Ugut municipality in Ak-Talaa district 
+Talas province: 12) Kara-Buura municipality in Kara-Buura district 
+Budget 
+$2,601,082 distributed as follows: 
+UNICEF – $1,358,000  
+UNFPA – $908,000  
+UN Women – $335,082  
+Funding Source 
+UN Peacebuilding Fund (PBF) 
+Goal 
+To build community resilience to violent and manipulative ideologies, including those 
+exploiting faith, through the means of education, empowerment, and dialogue. 
+ 
+ 
+ 
+1 The project's Gateway page  http://mptf.undp.org/factsheet/project/00108337 
+
+ 
+4  
+ 
+ 
+Evaluation information 
+Evaluation type (project/ 
+outcome/thematic/country 
+program, etc.) 
+Project Evaluation 
+Final/midterm review/ other 
+Final Review 
+Period under evaluation 
+Start 
+End 
+11.01.2018 – 
+10.07.2021 
+Evaluators 
+Tommaso Balbo di Vinadio, Gulnara Asilbekova, Kanykei Latipova 
+Evaluator email address 
+tommasobalbo@gmail.com 
+gulnara.asilbekova@yahoo.com 
+klatipova@gmail.com 
+Evaluation dates 
+Start 
+Completion 
+ 
+14.07.2021 
+28.01.2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5  
+ 
+II. 
+Table of Contents 
+I. 
+Project and Evaluation Information Details .................................................................................. 3 
+III. Acronyms ............................................................................................................................................ 7 
+IV. Executive summary ........................................................................................................................... 8 
+V. 
+Introduction ...................................................................................................................................... 12 
+Context and Conflict Analysis ........................................................................................................................................... 13 
+Legislation and National Policies on Youth and Prevention of Radicalization in Kyrgyzstan ................................... 15 
+Brief project description ...................................................................................................................................................... 17 
+Stakeholder analysis .................................................................................................................................................................. 19 
+VI. Purpose, Objectives and Scope of the Evaluation ...................................................................... 21 
+Evaluation purpose................................................................................................................................................................... 21 
+Evaluation objectives ............................................................................................................................................................... 22 
+Scope of the evaluation............................................................................................................................................................ 22 
+VII. Theory of Change ............................................................................................................................ 22 
+VIII. Description of Methodology .......................................................................................................... 26 
+Ethical Issues and limitations to the evaluation .................................................................................................................. 32 
+IX. Data Analysis - Findings ................................................................................................................. 36 
+Relevance 
+36 
+Coherence 
+45 
+Effectiveness/Impact............................................................................................................................................................... 50 
+Efficiency 
+62 
+Sustainability 66 
+X. 
+Conclusions and Lessons Learned ................................................................................................ 69 
+Conclusions 
+69 
+Lessons learned ......................................................................................................................................................................... 70 
+XI. Recommendations ........................................................................................................................... 71 
+XII. Annexes ............................................................................................................................................. 78 
+Annex 1. 
+References ...................................................................................................................................................... 78 
+Annex 2. 
+Evaluation Matrix ......................................................................................................................................... 80 
+Annex 3. 
+Project stakeholder’s information and their roles in peacebuilding ..................................................... 84 
+Annex 4. 
+List of Project Documents .......................................................................................................................... 90 
+Annex 5. 
+Terms of Reference for the Evaluation Reference Group .................................................................... 93 
+Annex 6. 
+Summary of Potential Benefits for stakeholders ..................................................................................... 97 
+Annex 7. 
+List of Stakeholders Interviewed ................................................................................................................ 99 
+Annex 8. 
+Evaluation questionnaire for interviews ................................................................................................. 100 
+Annex 9. 
+Focus Group Discussions (FGDs) .......................................................................................................... 103 
+Annex 10. 
+Guided questionnaire ................................................................................................................................. 104 
+Annex 11. 
+Consent Forms ............................................................................................................................................ 108 
+Annex 12. 
+Results of the Questionnaire in Charts and Diagrams ......................................................................... 112 
+Annex 13. 
+Research Ethics Approval Letter ............................................................................................................. 116 
+Annex 14. 
+Research Ethics Review Document ........................................................................................................ 117 
+Annex 15. 
+Information about the Evaluators ........................................................................................................... 134 
+
+ 
+6  
+ 
+ 
+ 
+List of Tables 
+ 
+Table 1. Brief description of the 3 outputs ...................................................................................................... 18 
+Table 2. Sampling of project municipalities ..................................................................................................... 29 
+Table 3. Adjustments to the project made as a response to the COVID-19 pandemic ..................................... 63 
+ 
+List of Figures  
+ 
+Figure 1. Map of Kyrgyzstan, showing provinces, administrative centers, and neighboring countries (Research 
+Gate) ............................................................................................................................................................ 13 
+Figure 2. Degree of youth’s trust in various organizations according to questionnaire results conducted by 
+Nasritidinov, et. al. (2019) ........................................................................................................................... 14 
+Figure 3. Priority areas of youth development in Kyrgyzstan ............................................................................ 16 
+Figure 4. Theory of Change............................................................................................................................ 24 
+Figure 5: Outcomes of the civic education course in vocational schools ............................................................... 55 
+Figure 6. Sense of belonging of young people to community ............................................................................... 60 
+Figure 7. Confidence of young people in the state ............................................................................................. 60 
+Figure 8. Violence related behaviors and beliefs among young people ................................................................ 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+7  
+ 
+III. 
+Acronyms 
+ 
+CRM  
+CSOs 
+DAC 
+EMT 
+ERG 
+EQ 
+EU 
+FEIS 
+FGD 
+FTI 
+GYPI 
+IDEA CA 
+IP 
+JSC 
+LSG 
+M&E 
+MEL 
+MoF 
+MoJ 
+MTU 
+NGO 
+PBF 
+PPP 
+PVE 
+QA 
+RC 
+RF 
+RUNOs 
+SDGs 
+ToC 
+ToR 
+TOT 
+VE 
+UN 
+UNDP 
+UNFPA 
+UNICEF 
+UNODC 
+UN OHCHR 
+UNV 
+UN Women 
+Child Rights Monitoring  
+Civil Society Organizations 
+Development Assistance Committee 
+Evaluation Management Team 
+Evaluation Reference Group 
+Evaluation question 
+European Union 
+Foundation for Education Initiatives Support 
+Focus Group Discussion 
+Foundation for Tolerance International 
+Gender and Youth Promotion Initiative  
+Public Fund "International Debate Education Association in Central Asia" 
+Implementing Partner 
+Joint Steering Committee 
+Local Self-Government  
+Monitoring and Evaluation 
+Monitoring, Evaluation and Learning  
+Ministry of Finance  
+Ministry of Justice  
+Municipal Territorial Unit 
+Non-Governmental Organization  
+UN Peacebuilding Fund 
+Peacebuilding Priority Plan 
+Prevention of Violent Extremism 
+Quality Assurance  
+Resident Coordinator 
+Result Framework 
+Recipient UN Organizations 
+Sustainable Development Goals 
+Theory of Change 
+Terms of Reference 
+Training of Trainers 
+Violent Extremism  
+United Nations 
+United Nations Development Program 
+United Nations Population Fund 
+United Nations International Children's Fund 
+United National Office on Drugs and Crime 
+United Nations Human Rights Office of the High Commissioner  
+United Nations Volunteers 
+United Nations Entity for Gender Equality and Empowerment of Women 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+8  
+ 
+IV. 
+Executive summary  
+This is the final evaluation of the joint $2.6 million project “Communities Resilient to Violent 
+Ideologies,” PBF/KGZ-A-72, which was funded by the UN Peacebuilding Fund (PBF) and 
+implemented by UNICEF, UNFPA, and UN Women.  The project was a multi-agency effort to 
+increase community resilience to violent and manipulative ideologies, including those exploiting 
+faith, through the means of education, empowerment and dialogue. It focused on 12 municipalities 
+in the north and south of Kyrgyzstan.  The project aimed at empowering youth to take critical 
+stances toward extreme ideas. It also supported horizontal and vertical trust with institutions, 
+communities, and families. The project strategy included three separate but interconnected 
+outputs. The first output was youth, adolescents and women in target communities gaining civic 
+competencies in schools, homes and the community. The second output was young people and 
+adults in target communities collaborating to address local vulnerabilities that lead to violent 
+extremism.  The third output was strengthening the capacity of opinion leaders, civil society 
+activists and religious leaders to build meaningful dialogue and exchange resulting in positive 
+messaging. The project began in January 2018, was extended due to the COVID-19 pandemic, and 
+ended in July 2021. 
+The purpose of this evaluation was to fulfil UNICEF, UNFPA and UN Women’s accountability 
+with the national government, PBF and other stakeholders by providing an assessment of the 
+results of the project. It also addresses the circumstances influencing the project’s achievements. 
+This allows the evaluation of evidence of achievements, lessons learned and recommendations for 
+strategic directions. 
+ 
+The intended users of the evaluation include decision-makers from the government, implementing 
+partners and the implementing UN agencies (UNICEF, UNFPA, UN Women), the UN 
+Peacebuilding Fund, local self-government staff in project communities, and project beneficiaries 
+in the 12 target municipalities. 
+ 
+This evaluation covers the entire period of the project implementation, from 11 January, 2018 to 
+10 July, 2021. The evaluation was conducted from June 2021 to January 2022. 
+ 
+The methodological approach of this evaluation aligns with the evaluation criteria of the OECD 
+DAC Criteria for Evaluating Development Assistance. This includes assessing relevance, 
+effectiveness, efficiency, sustainability, impact, and the newly agreed criteria on coherence. It also 
+evaluates cross-cutting themes such as gender and equity, as per the Terms of Reference. After 
+reviewing the conflict analysis and reconstructing the Theory of Change (TOC), the evaluation 
+team used a mixed-method approach of data collection. This includes a desk review and literature 
+review, key informant interviews, focus group discussions, and an online guided survey. Analysis 
+of TOC and contribution analysis, content and qualitative analysis, and quantitative analysis were 
+employed to answer the questions developed against the evaluation criteria. In addition, the 
+evaluation built on the good practices from the literature on peacebuilding and peacebuilding 
+evaluation.  
+ 
+ 
+Key Findings and Conclusions 
+ 
+Relevance: The evaluation found that the PBF-funded project was relevant as the project design 
+was anchored on a sound understanding of the context of Kyrgyzstan and the root causes of 
+ 
+2 The project's Gateway page  http://mptf.undp.org/factsheet/project/00108337 
+
+ 
+9  
+ 
+violent extremism. The project’s assumption that youth and women have a potential as 
+peacebuilders was validated by the project. However, the lack of agreement on the clear definition 
+on violent extremism and radicalization caused some uncertainty among project participants, 
+especially at the beginning of the project implementation.   
+ 
+The project strategy was adequate for addressing the root causes of violent extremism that the 
+project had identified. The project strategy included using education, empowerment, and dialogue 
+to address the drivers of violent extremism and to build resilience to violent and manipulative 
+ideologies. The project is innovative, as it was the first in the country to use such an approach to 
+counter VE. However, the TOC could have been improved by more thoroughly articulating 
+assumptions at the project development stage.  
+ 
+The project was based on research on the needs of young women, and men, particularly in 
+vulnerable groups. It was designed to engage young people seen as marginalized, vulnerable, or 
+‘hard to reach’. The project objectives aligned with both national strategies and UN key strategies 
+for Kyrgyzstan.  
+ 
+Coherence: The project was designed and implemented building on the comparative advantage 
+of each UN agency. Several factors facilitated cooperation between the agencies and with the CSP 
+implementing partners, such as 1) the willingness of the agencies to cooperate with each other; 2) 
+the clear vision for what the project intended to achieve; 3) the clarity of comparative advantages 
+of each agency. However, the evaluation found some minor obstacles to developing a more 
+effective joint program, such as 1) not clearly defining the roles and responsibilities of each agency; 
+2) not mapping complementary projects at the beginning of its implementation; and 3) not clearly 
+documenting interaction with complementary projects during implementation.  
+ 
+Effectiveness/Impact: The evaluation found that, within its sphere of influence, the project 
+successfully empowered youth, women, and other beneficiaries. The project increased young 
+people’s confidence and self-esteem, and it helped them to develop critical thinking, 
+communication, teamwork, and leadership skills. The project empowered beneficiaries such as 
+community leaders, local authorities, and adults to engage with youth and to deliver positive 
+messages to counter violent extremism.  
+ 
+The evaluation also found some evidence that its integrated approach, targeting the individual, 
+institutions, and families and communities, had a positive impact on youth resilience to violence. 
+This was confirmed through triangulation of data and by a guided questionnaire specifically 
+devised to measure youth’s resilience to violence. The results of the survey, developed by the 
+project, suggested that participation in project activities fostered a sense of belonging to community, and 
+increased confidence in the state among young people. It also influenced their violence related behaviors 
+and beliefs by leading them to be more open to communication and dialogue as a way to resolve 
+conflicts. The underpinning assumption of the project was validated by this evaluation: 
+empowering youth and other main beneficiaries, strengthening their trust in government and 
+developing a sense of belonging in the community/family can have a positive impact on their 
+resilience to violence. However, it is too early to verify all results of the project, especially at the 
+community level. 
+ 
+Efficiency: Project activities were implemented in a timely and resource appropriate manner, 
+resulting in overall project efficiency. The project responded smoothly and quickly to the 
+challenges posed by the COVID-19 pandemic, adjusting some of its activities so that the pandemic 
+became an opportunity for stronger impact. For instance, quickly moving its training programs 
+online resulted in reaching a wider audience. There was a demonstrated commitment to follow 
+project plan and measure its results, but the monitoring and evaluation system suffered from some 
+
+ 
+10  
+ 
+weaknesses. These included 1) the complexity of the concept of VE and how to measure them; 2) 
+the absence of a strategic peacebuilding framework at the portfolio/country level that would 
+facilitate the measurement higher-level results of impact; and 3) the absence of the project baseline 
+or an end-line data for measuring its indicators.  
+ 
+The focus on good reporting and knowledge management could be improved by allowing the 
+project team to clearly document the progress of the project, its challenges, and all the solutions 
+that were tested to address those challenges.  
+ 
+Sustainability: The evaluation identified signs of sustainability for some of the project activities 
+and results. For instance, the project supported the development of child and youth friendly plans 
+that now ensure that the needs of the young people and women are integrated with the socio-
+economic development plans of the pilot communities. Other results of the project have already 
+been institutionalized, such as the gender and anti-discrimination educational materials that have 
+been adopted by the MoES.  
+ 
+The evaluation also highlighted that for community resilience to withstand violent extremist 
+ideologies, follow-up activities will need to be developed by the government, with the support of 
+International Organizations and CSOs.  
+ 
+Gender Equality: The project also showed the importance of gender mainstreaming throughout 
+activities related to all three outcomes. Most gender equality commitments in the initial project 
+documents were realized during the implementation of the project. The project contributed to the 
+commitments of the Women, Peace and Security (WPS) Agenda and UNSCR 1325 by 
+implementing initiatives for young women in local communities, such as training and mentoring 
+workshops and events, and promoting women’s initiatives and collaboration with local level 
+institutions on addressing women’s rights and gender equality. 
+ 
+The evaluation concludes that the project was highly relevant for the country and its intended 
+beneficiaries. It had an integrated approach to resilience to violence that proved efficient and 
+effective even when implemented under challenging circumstances including the COVID-19 
+pandemic. While some of the results of the project need follow-up to be sustained over time, there 
+is solid evidence of a positive impact on youth empowerment and on strengthening youth 
+resilience to violence.  
+   
+The evaluation result in a series of recommendations: 
+ 
+• The PBF should continue supporting youth empowerment projects shown to be effective 
+around VE. It should also formalize the development of a long-term strategic framework 
+to represent the foundation of the youth empowerment projects; 
+• The PBF should build on the existing platforms it has already developed to strengthen 
+knowledge management and facilitate the exchange of information among countries that 
+receive peacebuilding funds; 
+• The PBF secretariat should consider helping country follow PBF guidance and possibly 
+strengthen the capacity of country teams to develop peacebuilding projects; 
+• The UNRC office should continue providing guidance on addressing complex concepts 
+such as VE; 
+• The RUNOs should continue focusing on youth empowerment and peacebuilding around 
+VE through an integrated approach, including peacebuilding into their regular programs 
+and investing in skill development for peacebuilding; 
+
+ 
+11  
+ 
+• RUNOs should strengthen MEL systems so that learning can become one of the priorities 
+when developing and implementing peacebuilding projects; 
+• When conducting joint projects, RUNOs should clarify the level of collaboration they seek 
+by clarifying roles and responsibilities; 
+• When developing peacebuilding projects, RUNOs should develop solid partnerships with 
+complementary projects by identifying them at the conception stage, building on the 
+common synergies, interact with them during implementation, and document those 
+interaction in progress reports; 
+• The government should build on the results of the project to ensure sustainability.  
+ 
+ 
+Lessons Learned 
+ 
+This evaluation offers a series of lessons learned, including…  
+1. spending enough time to develop a solid and coherent project;  
+2. developing a well-articulated TOC at design stage;  
+3. learning being integrated with the core of peacebuilding projects so that teams can 
+continuously see the progress of the activities;  
+4. defining operational terms of VE concepts at the design stage;  
+5. envisioning longer term projects or develop a strategic framework that could fund shorter 
+projects with realistic indicators that complement each other over a period of five years or 
+more;  
+6. developing a sustainability strategy from the very beginning of their design.
+
+ 
+ 
+ 
+12 
+ 
+ 
+V. 
+Introduction 
+ 
+The project “Communities Resilient to Violent Ideologies” (hereafter “the project”) was 
+implemented as a joint initiative by the United Nations Children’s Fund (UNICEF), United 
+Nations Population Fund (UNFPA) and United Nations Women (UN Women) from 11 January 
+2018 and 10 July 2021. The total budget of the project was 2,601,082 USD, which was provided 
+by the United Nations Peacebuilding Fund (PBF). The project’s geographical scope is focused on 
+12 municipalities spread across 2 cities, Bishkek and Osh, and Kyrgyzstan’s 6 provinces: Batken, 
+Jalal-Abad, Issyk-Kul, Naryn, Osh, and Talas. 
+ 
+The objective of this evaluation report is to share the findings, conclusions and recommendations 
+based on the Theory of Change (ToC)-based evaluation of the project. The evaluation was both 
+summative, presenting how ToC was implemented through the reference period, and formative, 
+demonstrating the dynamics influencing the results and contributing to long term impact, and 
+follow-up. The report unpacks the lessons learned and recommendations for implementation for 
+United Nations agencies, civil society implementing partners, the PBF, and national duty bearers.  
+ 
+The evaluation was commissioned by UNICEF Kyrgyzstan, supervised by the UNICEF 
+Kyrgyzstan Child Rights Monitoring Specialist, Tolgonai Berdikeyeva, and entrusted to the 
+following evaluation team:  
+• 
+Mr. Tommaso Balbo Di Vinadio, International Consultant, Team Leader 
+• 
+Ms. Gulnara Asilbekova, National Consultant 1  
+• 
+Ms. Kanykei Latipova, National Consultant 2  
+The evaluation process was accompanied by reviews and comments from UNICEF Child Rights 
+Monitoring Specialist and the UNICEF Europe and Central Asia Regional Office Evaluation 
+Specialist, colleagues from an Evaluation Reference Group (ERG), Evaluation Management team 
+(EMT), PBF and UNICEF external quality assurance team. (Annex 5: Terms of Reference of the 
+Evaluation Reference Group)  
+The evaluation process was composed of three phases:  
+Phase 1. Inception: review of documentation, elaboration of the methodology, identification of 
+stakeholders, consultation with the Reference Group, development of the Inception 
+Report.  
+Phase 2. Data collection and field work: conducting remote data collection (as per standard 
+COVID-19 prevention measures. with 90 interviews), two focus groups, an additional 
+desk-review, and the consultation with the Evaluation Reference Group regarding the 
+preliminary findings. 
+Phase 3. 
+Data analysis and reporting: conducting the analysis of interview and focus group 
+notes, analysis of project documentation, report drafting, remote consultation with 
+Reference Group and UNICEF Kyrgyzstan, and finalization of the Evaluation Report.

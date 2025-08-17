@@ -1,0 +1,562 @@
+Evaluation of UNICEF Interventions Addressing Inclusion of Children with 
+Disabilities in North Macedonia 
+ 
+Findings Report 
+ 
+Submitted by: 
+Inclusive Development Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2022 
+
+ 
+ 
+This evaluation was commissioned by the United Nations Children’s Fund (UNICEF) Skopje Office. It was prepared by 
+Inclusive Development Partners’ staff and consultants including Valerie Karr, Emily Kochetkova, Ana Mickovska-Raleva, 
+Goce Kocevski, and Shahrzad Sajadi. The statements in this report are the views of the authors and do not necessarily 
+reflect the policies or the views of UNICEF.  
+
+ 
+ 
+1 
+TABLE OF CONTENTS 
+Acronyms ...................................................................................................................................................... 3 
+Executive Summary ....................................................................................................................................... 5 
+Part 1. Introduction ..................................................................................................................................... 10 
+Part 2. Evaluation Findings .......................................................................................................................... 17 
+Relevance ................................................................................................................................................ 17 
+Coherence ............................................................................................................................................. 24 
+Effectiveness ........................................................................................................................................... 25 
+Efficiency ................................................................................................................................................. 35 
+Impact ..................................................................................................................................................... 35 
+Sustainability ........................................................................................................................................... 45 
+Part 3. Conclusions and Recommendations ................................................................................................. 48 
+Annex A. Evaluation Matrix......................................................................................................................... 57 
+Annex B. Summary of Findings and Quality of Evidence Tables .................................................................. 62 
+Annex C. Normative Frameworks ................................................................................................................ 76 
+Annex D. Theory of Change ......................................................................................................................... 86 
+Annex E: References .................................................................................................................................... 87 
+Annex F: Participant Protection Protocol and Informed Consent Form ....................................................... 90 
+Annex G: Data Collection Instruments ......................................................................................................... 93 
+Annex H: Stakeholder map .......................................................................................................................... 94 
+Annex I: Key Informant Interview Participants ............................................................................................ 98 
+Annex J: Terms of Reference ........................................................................................................................ 99 
+Annex K: Ethical review board approval letter .......................................................................................... 122 
+ 
+ 
+ 
+ 
+
+ 
+ 
+2 
+TABLES 
+Table 1. Quality of Evidence and EQ Answer Rubric .................................................................................................................. 14 
+Table 2. Data Collection Sample (Actual) .................................................................................................................................... 15 
+Table 3. The Poverty Rate in North Macedonia (2017–2020)  .................................................................................................. 20 
+Table 4. Bottlenecks Identified by UNICEF, by Sector ................................................................................................................ 26 
+Table 5. Data on Personal Assistants and Beneficiaries ............................................................................................................. 27 
+Table 6. Number of Assessments Conducted by the ICF Bodies ............................................................................................... 27 
+Table 7. Overview of the last phase (2016 – 2020) of the Resettlement Process ................................................................... 27 
+Table 8. Statistical Data about Social Welfare Beneficiaries ...................................................................................................... 31 
+Table 9. Gender Structure of Children with Disabilities as Beneficiaries of Social Services..................................................... 41 
+Table 10. Gender Structure of Children with Disabilities as Beneficiaries of Day Care Centre Services ................................ 41 
+Table 11. Gender Structure of Children with Disabilities Attending Resource Centres, by School Year ................................ 42 
+Table 12. UNICEF M&E Data ........................................................................................................................................................ 43 
+Table 13. Extracts from the Budget for the Period 2016–2022 on Social Protection (in millions) ......................................... 47 
+ 
+FIGURES 
+Figure 1. Educator Perception of Relevance of Inclusive Education Policies (Survey) ............................................................. 21 
+Figure 2. Assessment of the Relevance of UNICEF Interventions by Health Care Providers (Family Doctors and Patronage 
+Nurses) ........................................................................................................................................................................................... 22 
+Figure 3. Educator Perceptions of Effectiveness of Inclusive Education Policies (Survey) ...................................................... 29 
+Figure 4. Self-Assessment of Training Effectiveness (Patronage Nurse Survey) ...................................................................... 29 
+Figure 5. Self-Assessment of Training Effectiveness (Family Doctor Survey) ........................................................................... 30 
+Figure 6. Number of Beneficiaries of Main Cash Benefits, 2018–2020 .................................................................................... 32 
+Figure 7. Educator Perceptions on Effectiveness of Teacher Training (Survey) ....................................................................... 38 
+Figure 8. Assessment of Training Impact (Patronage Nurse Survey) ........................................................................................ 39 
+Figure 9. Assessment of Training Impact (Family Doctor Survey) ............................................................................................. 40 
+Figure 10. Equal Availability of Health Care Services for Different Sub-Categories of Children with Disabilities .................. 43 
+ 
+ 
+
+ 
+ 
+3 
+ACRONYMS 
+BDE  
+ 
+Bureau of Development of Education 
+CA 
+ 
+Child Allowance 
+CITI  
+ 
+Collaborative Institutional Training Initiative 
+CPD  
+ 
+Country Programme Document 
+CRC 
+ 
+Convention on the Rights of the Child 
+CRPD  
+ 
+Convention on the Rights of Persons with Disabilities 
+CSO 
+ 
+Civil Society Organisation 
+CSP 
+ 
+Centre for Social Protection 
+CSW  
+ 
+Centre for Social Work 
+CWD 
+ 
+Children with Disabilities  
+DAC 
+ 
+Development Assistance Committee 
+DK  
+ 
+Demir Kapija 
+EA 
+ 
+Educational Assistant 
+EMIS  
+ 
+Education Management and Information System 
+EQ 
+ 
+Evaluation Question 
+ERG 
+ 
+Evaluation Reference Group 
+EU  
+ 
+European Union 
+FGD 
+ 
+Focus Group Discussion 
+GDP  
+ 
+Gross Domestic Product 
+GMA 
+ 
+Guaranteed Minimum Assistance 
+HIF  
+ 
+Health Insurance Fund 
+HIS  
+ 
+Health Information System 
+ICF 
+ 
+International Classification of Functioning, Disability, and Health  
+IDP 
+ 
+Inclusive Development Partners 
+IEP 
+ 
+Individualized Education Plan 
+IP 
+ 
+Implementing Partner 
+ISA  
+ 
+Institute for Social Affairs 
+KAP  
+ 
+Knowledge, Attitudes, and Practices 
+KII 
+ 
+Key Informant Interview 
+M&E  
+ 
+Monitoring and Evaluation  
+MLSP   
+Ministry of Labour and Social Protection 
+MoES   
+Ministry of Education and Science 
+MoH 
+ 
+Ministry of Health 
+NGO 
+ 
+Non-Governmental Organisation 
+OECD   
+Organisation for Economic Co-operation and Development 
+OPD 
+ 
+Organisation of Persons with Disabilities 
+PFA 
+ 
+Permanent Financial Assistance 
+RI 
+ 
+Residential Institution  
+SDG  
+ 
+Sustainable Development Goal 
+SEN  
+ 
+Special Educational Needs  
+SFA  
+ 
+Social Financial Assistance 
+SIT 
+ 
+School Inclusion Team 
+SPL  
+ 
+Social Protection Law 
+TOC  
+ 
+Theory of Change 
+TOR  
+ 
+Terms of Reference 
+
+ 
+ 
+4 
+UDL  
+ 
+Universal Design for Learning 
+UN  
+ 
+United Nations 
+UNDP   
+United Nations Development Programme 
+UNEG   
+United Nations Evaluation Group 
+UNICEF   
+United Nations Children’s Fund 
+ 
+
+ 
+ 
+5 
+EXECUTIVE SUMMARY 
+Programme Description 
+The United Nations Children’s Fund (UNICEF) North Macedonia 2016–2020 Country Programme highlighted the inclusion 
+of children with disabilities and introduced a disability component to all programmes. These efforts align with several 
+sustainable development goals (SDGs): SDG 1 as it relates to the financial costs to families of children with disabilities; SDG 
+3 as it relates to providing equitable and quality health care to children with disabilities, including identification and 
+habilitation/rehabilitation services; SDG 4 as it relates to providing quality inclusive education; and SDG 10 as it relates to 
+reducing inequalities between people with and without disabilities.  
+At the mid-point of programme implementation in early 2018, UNICEF, in collaboration with the government and key 
+partners, conducted a Light Strategic Review of the country programme, resulting in a shift in the program’s strategic 
+direction and a broadened focus from specific groups of vulnerable children to major issues concerning all children. While 
+this shift was considered necessary to accelerate reforms for the social good of children given the country’s readiness in 
+light of a leadership change, addressing the needs of children with disabilities and the commitment to inclusion remained 
+in UNICEF’s programme.   
+UNICEF North Macedonia’s most prominent efforts toward policy reform and advocacy for the rights of children with 
+disabilities can be summarized in the following six sectors.  
+1. Social Protection: Introducing a new model of disability assessment based on the International Classification of 
+Functioning, Disability, and Health (ICF) and adopting a rights-based model of disability in the country’s welfare 
+system. 
+2. Child Protection: Supporting the country’s effort to strengthen the childcare system, ensuring the 
+deinstitutionalisation of all children, and developing community-based services for children with disabilities and their 
+families.  
+3. Education: Developing a legal framework and inclusive practices that support the inclusion of children with disabilities 
+in the mainstream education system by 2023 and transforming ‘special’ schools to resource centres that support the 
+effort toward inclusion. 
+4. Health: Enhancing the capacities of front-line health care workers, including family doctors and patronage nurses, 
+and training them in early detection and early intervention for children with developmental disabilities. 
+5. Communication: Communication for social and behaviour change initiatives included awareness campaigns to 
+address the public’s negative attitudes and perceptions toward disability, community dialogue events, public 
+advocacy to support sector-specific reforms, and partnerships to promote inclusion in sport and culture.  
+6. COVID-19 Pandemic Response: Developing online individualized support for children with disabilities and their 
+families in early intervention, early stimulation, speech therapy, and psychological support. 
+ 
+ 
+ 
+Evaluation Purpose, Methodology, and Limitations 
+The purpose of this evaluation is to examine how and to what extent UNICEF North Macedonia’s inclusion programming 
+from 2016-2020 has contributed to addressing system-level bottlenecks impacting access to social, health, and education 
+services for children with disabilities and their ability to live in caring family environments, as is their right. The objective of 
+the evaluation is to inform UNICEF’s ongoing and future programming on behalf of children with disabilities and their 
+families. The intended audience is UNICEF country office programme officers and relevant duty bearers within and outside 
+of the government. UNICEF formed an Evaluation Reference Group (ERG) composed of duty bearers and other 
+stakeholders from across sectors, including government officials, advisors, and implementers. The ERG convened during 
+the inception phase of the evaluation as well as at its conclusion, to hear the findings and refine and prioritize the 
+recommendations. 
+Inclusive Development Partners (IDP) used the below methodologies for the evaluation: 
+• 
+Planning and programme inquiry meetings with UNICEF programme officers to guide the evaluation design and 
+methodology and to validate findings.  
+• 
+Desk-based review and portfolio analysis of UNICEF’s existing documentation and other existing documentation, 
+reports, and data.  
+• 
+Country mission and data collection. Overall, feedback was collected from 42 stakeholders through key 
+informant interviews and focus group discussions and from 2,552 stakeholders via online surveys. 
+
+ 
+ 
+6 
+• 
+Data analysis using evaluative frameworks (rubrics) based on the quality of the data and its alignment with global 
+normative standards for best practices in inclusion, per the CRPD and existing evidence.  
+This evaluation’s primary limitation was the lack of reliable or consistent data related to children with disabilities from 
+before and during the period of this evaluation. The sectorial approach used by UNICEF was an additional limitation, as it 
+focused not only on children with disabilities but also on other vulnerable categories of children. This created some 
+methodological challenges because it was necessary to extract interventions targeting children with disabilities from those 
+that, to some extent, also targeted other children. In order to mitigate this, the team conducted a set of targeted meetings 
+with relevant representatives of the different sectors in order to extrapolate the specific interventions that were related 
+to inclusion of children with disabilities, and following data collection, held additional meetings to validate findings. 
+Evaluation Findings 
+Relevance: UNICEF interventions were internally coherent and contributed strongly to producing the intended outcomes 
+(though, in some cases, outcome measurement data was not available). The work led to significant progress in addressing 
+the needs of children with disabilities and their families, but within each sector, some needs or intended outcomes have 
+not yet been met. UNICEF made strong efforts to involve relevant partners, but perceptions of stakeholder involvement 
+varied by stakeholder, and not all felt sufficiently involved.  
+Coherence: UNICEF worked to align actions and interventions and they were, to a significant extent, mutually 
+complementary and harmonized. UNICEF engaged multiple actors from the government, organizations of people with 
+disabilities, and the international donor community, and worked hard to align with other activities and to ensure the 
+synergy of all efforts.  
+Effectiveness: UNICEF-supported interventions contributed greatly to increasing the availability and supply of services as 
+well as qualified human resources. Children who have benefitted from the deinstitutionalisation process have much better 
+living conditions, but those living in small group homes need more individualized support than they are receiving. 
+Educators found that the training on inclusive education was very effective and expressed that they need more training 
+and additional personnel to support children with disabilities in mainstream schools. Medical professionals found their 
+training helpful in understanding and identifying disability and reducing unnecessary referrals; however, the overall lack 
+of health system personnel and infrastructure remains a barrier. The presence or absence of political will is a critical factor 
+in achievements and challenges related to UNICEF objectives. Social perceptions are also a key a factor. 
+Efficiency: Stakeholders agreed that UNICEF’s budget and human and technical resources were adequately budgeted 
+across all sectors, and a good division of expenses among donor organisations avoided the multiplication of costs. The 
+same programme results could not have been achieved with less resources; many stakeholders observed that more 
+resources were and are needed.  
+Impact: Although available data for rigorously measuring impact is limited, existing data and stakeholder reports indicated 
+that UNICEF’s inclusion programming made a significant impact, although geographical disparities in programme reach, 
+and gender and socioeconomic differences also exist generally and in relation to location (urban versus rural). UNICEF 
+significantly helped to positively shift the paradigm and improve public understanding on disability, but also acknowledged 
+that more work is needed to eliminate stigma and discrimination. Tangible services offered within and across sectors 
+(especially in social and child protection and education) contributed to needs being met to varying degrees, and UNICEF’s 
+simultaneous communications campaigns reinforced these efforts by pushing citizens to confront their assumptions and 
+biases. Caregivers, especially, were pleased that the public’s perception of their children had improved.   
+Sustainability: UNICEF interventions are integrated into national policies, though with varying degrees of detail and 
+specificity to enable implementation. Similarly, budget allocations exist in all sectors, but many stakeholders and 
+beneficiaries deem funding to be inadequate. Quality-assurance mechanisms are lagging and may need further 
+development; however, direct training in relation to this has taken place in the education sector with state education 
+inspectors. The country remains dependent on foreign technical and financial support for quality-assurance mechanisms 
+and capacity-building mechanisms. Long-term sustainability requires local governments to be more actively engaged in 
+the process.  
+
+ 
+ 
+7 
+Conclusions and Recommendations 
+Relevance 
+Conclusion 1. UNICEF’s interventions, which were based upon needs assessments, were relevant to the needs of 
+children with disabilities and their families, addressed many of these needs, and were planned and implemented with 
+the inclusion of key stakeholders. Participation from caregivers and OPDs could be strengthened, and data points to 
+gender disparities in access to services.  
+Strategic Recommendation (SR) 1. To ensure that the rights of children with disabilities and their inclusion in society is set 
+on the political agenda and that policies are relevant and include measures for ensuring sustainable provision of social 
+services, facilitate networking and opportunities for advocacy between rights holders, particularly representatives of OPDs 
+and parents of children with disabilities, with duty-bearers, particularly members of parliament and representatives of 
+political parties. Priority: MEDIUM. Responsible party: GOV.  
+• 
+Operational Recommendation (OR) 1.1 Support and facilitate the work of the members of the National Coordination 
+Body for implementation of the CRPD related to inclusion of CwD. The support should focus on improvement of 
+coordination among the members and cooperation with CSOs and OPDs.  
+• 
+OR 1.2 Provide support for implementation of the measures and activities planned in the National Strategy for 
+Inclusion of Persons with Disabilities related to inclusion of Children with Disabilities. The Strategy and corresponding 
+action plan should ensure that the interventions in this area are well planned, coordinated among different sectors 
+and in accordance with the HRBA, the CRPD and the latest global evidence on best practices.   
+• 
+OR 1.3 Support coordination, networking and coalition building activities for OPDs advocating for inclusion of children 
+with disabilities in different sectors and on behalf of different disability types. Establish a structured consultation 
+mechanism for engaging OPDs and parents of children with disabilities in the planning and implementation processes 
+within UNICEF as well as in sectors where UNICEF works.  
+SR 2. Take measures to understand and address the gender gap in children with disabilities accessing social services. 
+Conduct research to examine the cause(s) behind fewer females than males using social services as well as whether there 
+are different needs across genders, and, based on the findings, design or adjust training and programme interventions to 
+close gaps and target needs more accurately. Priority: MED. Responsible party: UNICEF. 
+• 
+OR 2. Conduct another KAP study that includes collecting data related to gender disparities, support gender 
+mainstreaming in policy making processes, and develop training modules for duty-bearers on gender-specific aspects 
+of service provision.  
+Coherence  
+Conclusion 2. Across all sectors, UNICEF engaged multiple actors and made concerted efforts to align with other 
+activities and efforts in the country. Nevertheless, the lack of a clear, detailed TOC to drive and focus programming, as 
+well as the lack (in many cases) of baseline data to inform goal and target setting as well as measurement of progress, 
+may have limited the potential for even greater coherence and synergy.  
+SR 3. Develop a robust and detailed TOC that is informed by baseline data, which allows for outcome goals related to 
+increases, decreases, and improvements to be set and measured with more rigor than stakeholder perceptions can 
+provide. UNICEF would lead this effort but validate assumptions, goals, and targets with both Government duty bearers 
+as well as rights holders among the disability population. Priority: MED. Responsible party: UNICEF.   
+• 
+OR 3. Conduct another KAP study to continue measuring changes in the general population. Also conduct baseline 
+studies of duty-bearers, by sector, ahead of interventions, to understand needs and assess skills and knowledge. 
+Analyse data for themes that transcend sectors and can inform the ToC and support alignment and coherence during 
+intervention planning. 
+Effectiveness 
+Conclusion 3. UNICEF-supported interventions contributed greatly to eliminating bottlenecks by increasing the 
+availability and supply of services as well as qualified human resources and facilitated large positive changes in public 
+perception of disability and inclusion.  
+
+ 
+ 
+8 
+SR 4. Carry forward capacity-building activities with targeted trainings as well as develop other tools, such as long-term 
+mentoring and peer-to-peer activities, which are approaches that educators, social workers and other service providers 
+view as successful and desired. Priority: HIGH. Responsible party: GOV. 
+• 
+OR 4.1 Introduce methodologies that will measure the impact of the capacity-building activities for a long period of 
+time after they have been completed.  
+• 
+OR 4.2. Provide a clear transition plan for supporting students’ move from primary into secondary school, which 
+includes training secondary school teachers and support staff and ensuring that the adequate support measures are 
+in included in plans and budgets. Support Resource Centres to engage and train additional staff and provide technical 
+resources for effective support to schools.  
+SR 5.  Enhance the development of a diverse and functional set of services for children with disabilities such as: alternative 
+care units’ foster care as a substitute for small group homes, support for the transition of existing day care centres into 
+Disability Support Centres, tailored services for social inclusion of children with disabilities, and gender mainstreaming in 
+service planning and provision. Priority: HIGH. Responsible party: GOV. 
+• 
+OR 5.1. Provide technical support to the MLSP and other relevant stakeholders for further development of alternative 
+and foster care, including support in development of policies and standards, trainings as well as direct support to 
+alternative and foster care units.  
+• 
+OR 5.2. To better ensure that children with disabilities living in small group homes have access to educational and 
+other activities necessary to support their inclusion in communities, provide children currently residing in them with 
+better supports, including personal assistants outside of the care provided by the SGH staff and increased involvement 
+and engagement from the children themselves, their parents, and the surrounding communities in planning and 
+carrying out services. In addition, support municipalities, local CSOs, sport clubs, and cultural centres in developing 
+and conducting cultural, sport and other socially meaningful activities for inclusion of children with disabilities living 
+in small group homes, alternative care units and foster care.  
+SR 6. Promote legislative amendments that will ensure that families of children with disabilities are subsidized for specific 
+disability-related costs (e.g., medical treatments and diagnostics, specialist care, medication and supplements, assistive 
+devices, transport costs, etc.), so that those costs do not create or exacerbate a state of poverty for these families. Priority: 
+HIGH. Responsible party: GOV.  
+• 
+OR 6. Collect healthcare needs and cost data from families through the KAP survey mentioned above in OR 2. Work 
+with relevant government ministries and agencies to assess the feasibility of covering additional costs as well as to 
+identify and negotiate efficiencies with service or product providers. Explore social entrepreneurship as a means of 
+supplementing outstanding benefits (see SR 10 below). 
+Efficiency 
+Conclusion 4. While in-depth financial analysis was outside the scope of this evaluation, stakeholders agreed that 
+UNICEF funding as well as human and technical resources were adequately budgeted across all sectors, and there was 
+a good division of expenses among donor organisations to avoid the multiplication of costs.  
+SR 7. Advocate for greater and more efficient public spending on children with disabilities, including better and more 
+equitable availability of support services. Priority: HIGH. Responsible party: GOV. 
+OR 7. A state-conducted financial analysis of current spending could uncover ways to increase efficiency among 
+existing service providers as well as inform the provision of new services in areas of the country that still lack support 
+for children with disabilities. Service providers themselves, as well as families of children with disabilities, are likely to 
+have useful insights into how to make the most of public spending.   
+Impact 
+Conclusion 5. Many sectors lacked clear, measurable targets for intervention outcomes related to inclusion at the start 
+of the 2016-2020 programme. However, M&E reporting showed progress on the majority of output indicators related 
+to inclusion of children with disabilities, and all stakeholders as well as documentation pointed to UNICEF’s positive 
+impact on shifting public perception of disability.  
+
+ 
+ 
+9 
+SR 8. Further strengthen internal monitoring systems for tracking progress and support and impel State efforts for setting 
+up an adequate and accessible unified system for collecting and processing data on children with disabilities. Do this in 
+cooperation with relevant ministries, institutions, and the State Statistical Office. Priority: HIGH. Responsible party: GOV. 
+• 
+OR 8.1 Negotiate and facilitate collaboration and sharing between the health, education, and social protection 
+management information systems (HMIS and EMIS), so that all relevant data regarding children with disabilities is 
+accessible by qualified service providers. Such data will also provide baseline figures that can inform UNICEF 
+programming, which will further enable impact evaluation.  
+• 
+OR 8.2. Developing a more robust and detailed ToC (SR 2) and using baseline data to set targets can drive robust 
+impact and outcome measurement, which will enable more targeted planning for future and ongoing interventions. 
+SR 9. Continue and expand efforts to shift public opinion on disability through communications and awareness raising 
+campaigns that draw from and highlight recent successes. Priority: MED. Responsible party: UNICEF 
+• 
+OR 9. Work with families of children with and without disabilities, OPDs, educators, and heath care providers to 
+share positive experiences within schools, health centres, and during daily life of children with disabilities being 
+included in ways they were not previously.  
+Sustainability 
+Conclusion 6. Across all four sectors, UNICEF interventions are integrated into national policies and budgets, which is an 
+important outcome and a strong foundation for sustainability.  
+SR 10. Encourage efforts for the increased sustainability of social services through decentralising and introducing social 
+entrepreneurship as an innovative means for funding social services. Priority: LOW. Responsible party: GOV. 
+• 
+OR 10.1 In cooperation with other international donors, support local government efforts to set up and implement a 
+local social protection program that will be focused on inclusion of children with disabilities. Social services could be 
+much more cost-efficient if planned and implemented by the local government, which is closer to the citizens. Support 
+the Government to strengthen the donations from the central budget to the local government and require that they 
+match the funds from their own sources or local donors. In addition, track spending to ensure that the funds are used 
+for children with disabilities. 
+• 
+OR 10.2 Train OPDs and other CSOs that provide services to introduce and utilize social entrepreneurship endeavours 
+as a means to enhance sustainable funding for service provision. Train service providers on skills for fund-raising and 
+conducting economic activities for funding their efforts so that they can secure additional sources of financing that 
+will allow for continuous provision of services that are less dependent on international donor support.    
+ 
+Lessons learned 
+1. The interventions implemented by UNICEF would have benefited from a more detailed ToC document which 
+precisely defines the causal linkages within and across its programs and the potential internal and external factors 
+which may impede or slow down implementation of sector-level interventions. This would have also enabled more 
+effective progress monitoring and measurement of outcomes and impact. 
+2. UNICEF’s inclusion interventions were gender-neutral in design, but data showing disparities in boys’ and girls’ 
+enrolment in social services and education indicates that more attention should be paid to the different and unique 
+needs of girls, and programming should include gender-specific elements and associated training for service 
+providers.  
+3. Although UNICEF interventions are national in scope, the consultative and decision-making processes were mainly 
+centralized and did not always consider the regional perspectives and specifics. This resulted in the centralization of 
+services and prevalence of the needs of rights holders from the capital city. 
+
+ 
+ 10
+PART 1. INTRODUCTION 
+This report presents the main findings, conclusions, and recommendations of an evaluation of UNICEF Interventions 
+Addressing Inclusion of Children with Disabilities in North Macedonia implemented from 2016 to 2020. The 
+evaluation was commissioned by the United Nations Children’s Fund (UNICEF) and conducted by Inclusive 
+Development Partners (IDP) in 2022.    
+The purpose of the evaluation was to examine how and to what extent UNICEF North Macedonia’s inclusion 
+programming has contributed in addressing system-level bottlenecks impacting the access to rights for children with 
+disabilities in the area of social protection, healthcare and education, their ability to live in caring family 
+environments, as well as their right to equality in line with the international conventions for human rights protection.  
+The objective of the evaluation is to inform UNICEF’s ongoing and future programming in order to ensure full 
+realization of the rights of children with disabilities and their families and addressing any gender gaps that may exist 
+in the access to rights. The intended audience is UNICEF country office programme officers and relevant duty 
+bearers within and outside of the government.  
+This report of findings is organised in three parts, structured as follows: 
+Part 1 describes the country context within which UNICEF’s disability inclusion efforts took place and includes a 
+description of the interventions; an overview of the evaluation, including the purpose, objectives, and scope as well 
+as IDP’s approach and methodology; and a summary of the evaluation’s limitations. 
+Part 2 presents the evaluation findings in relation to six Organisation for Economic Co-operation and 
+Development/Development Assistance Committee (OECD/DAC) evaluation criteria and the practice sectors of 
+interest, as required in the Terms of Reference (TOR).  
+Part 3 provides conclusions and recommendations.  
+ 
+Country Context 
+Republic of North Macedonia is located in south-eastern Europe. It is a NATO member and a candidate for 
+membership in the European Union (EU). On 19 July 2022, the EU opened accession negotiations with North 
+Macedonia1. North Macedonia has ratified most international human rights instruments on both the United 
+Nations (UN) and European levels, including the Convention on the Rights of Persons with Disabilities (CRPD) and 
+the Convention on the Rights of the Child (CRC).  
+North Macedonia has a multi-ethnic society with a resident population of 1,836,713.2 It faces negative population 
+growth of -5.4% (data from 2021). The main ethnic groups are Macedonians who comprise 58.4% of the population 
+and Albanians who are 24.3%. Other ethnic groups include Turks, Romani, Serbs, Bosniaks, and Vlachs.3 The 
+Macedonian and the Albanian languages are the official languages;4 however, in local self-governments, other 
+languages may also have official status. 
+The country is governed by a centre-left led coalition of political parties with a mandate until 2024, and this coalition 
+holds a narrow majority in the legislature. The current ruling coalition took power in 2017 following a severe and 
+ 
+1 The continuation of the negotiation process, following the initial screening phase, is conditioned by a mandatory constitutional 
+amendment required for resolution of a bilateral dispute with Bulgaria.  
+2 State Statistical Office. 2021 Census, https://www.stat.gov.mk/InfoGraphic/2022/Broshura-mk-web.pdf 
+3 Data from the 2021 Census.   
+4 Constitution of the Republic of North Macedonia, Art. 7.

@@ -1,0 +1,649 @@
+Itad  
+24 November 2022 
+ 
+  
+ 
+ 
+ 
+UNICEF Ethiopia Adolescent Nutrition-
+WASH-Education Joint Programme 
+Evaluation  
+Midline Process Evaluation Report                    
+(Oct 2021 – Jan 2022) 
+Date: Revised 24 November 2022 
+Authors: Jennifer Leavy & Catrin Hepworth 
+Regions Covered: Southern Nations Nationalities and Peoples’ Regional State 
+(SNNPR), Somali, Oromia. 
+Submitted by Itad 
+In association with MMA 
+
+Itad  
+24 November 2022 
+ 
+i 
+ 
+Acknowledgements 
+The evaluation team would like to thank all the adolescents and their families for taking the time to speak 
+to us about their lives. We are also grateful for the support of UNICEF Ethiopia programme staff, as well as 
+everyone whose assistance made this study possible: community leaders, officials and liaison people in all 
+eight regions. 
+The field research was carried out on behalf of Itad by MMA (MMA Development Consultancy), to whom 
+we are extremely grateful. This report, of course, draws heavily on their data, reports, transcripts and other 
+contributions. We would particularly like to highlight the contributions of Mesay Kebede and Siseraw Dinku, 
+with excellent oversight from Mohammed Mussa. We were supported also by Ruth Edmonds (Kore Global), 
+who provided excellent qualitative training to the team. 
+The transcripts were coded by Catrin Hepworth. The report was authored by Jennifer Leavy and Catrin 
+Hepworth. The data collection activities and evaluation protocol have all undergone ethical clearance 
+through the Ethiopia Public Health Institute (EPHI). 
+The ethical clearance certificate for this evaluation can be found in Annex G. 
+The midline has been peer reviewed by Rebecca Calder (Kore Global) and the Project Director Philippa 
+Tadele (Itad). 
+Disclaimer 
+The views expressed in this report are those of the evaluators. They do not represent those of UNICEF or of 
+any of the individuals and organizations referred to in the report. 
+‘Itad’ and the tri-colour triangles icon are a registered trademark of ITAD Limited. 
+ 
+
+Itad  
+24 November 2022 
+ 
+ii 
+Contents 
+List of illustrations 
+iv 
+List of acronyms and abbreviations 
+v 
+1 Executive summary 
+1 
+Methodology 
+2 
+Summary Findings 
+2 
+Context 2 
+Implementation 
+3 
+Change Pathways 
+4 
+Conclusions and Recommendations 
+6 
+2 Introduction 
+7 
+2.1 
+Purpose of the process evaluation at midline 
+7 
+2.2 
+Context for the programme 
+8 
+2.2.1 
+Intervention approach and target groups 
+8 
+2.2.2 
+Intended results and summary theory of change 
+9 
+2.3 
+Process evaluation framework 
+9 
+2.3.1 
+Conceptual framework 
+9 
+2.3.2 
+Key functions of process evaluation at the midline 
+10 
+2.3.3 
+Process evaluation questions 
+11 
+2.4 
+Overview of methods 
+12 
+2.4.1 
+Qualitative data collection 
+13 
+2.4.2 
+Secondary data 
+14 
+2.4.3 
+Ethical approval and quality control 
+15 
+2.5 
+Limitations and challenges 
+15 
+3 Midline process evaluation findings 
+16 
+3.1 
+Implementation: programme activities 
+16 
+3.2 
+Impact of context on implementation 
+17 
+3.2.1 
+How do the contexts in the regions/nationally/locally enable or inhibit implementation?
+17 
+3.2.2 
+Programme responses to context 
+22 
+3.3 
+Implementation processes 
+28 
+3.3.1 
+Targeting 
+28 
+3.3.2 
+Coherence 
+32 
+3.3.3 
+Coordination 
+33 
+3.3.4 
+‘Do-no-harm’ 
+34 
+3.3.5 
+Good practice and sustainability 
+36 
+3.4 
+Change pathways 
+39 
+3.4.1 
+Knowledge and attitudes 
+39 
+3.4.2 
+Access and use of services 
+45 
+3.4.3 
+Programme perceptions 
+49 
+
+Itad  
+24 November 2022 
+ 
+iii 
+3.4.4 
+Explanatory factors 
+54 
+4 Conclusions 
+57 
+5 Lessons Learned and Recommendations 
+59 
+5.1 
+For UNICEF’s programme implementation 
+60 
+5.2 
+For UNICEF’s programme monitoring 
+61 
+5.3 
+For further evaluation rounds 
+61 
+Bibliography 
+61 
+ANNEX A: UNICEF Joint Programme summary and theory of change 
+62 
+Programme summary 
+62 
+UNICEF Ethiopia joint programme theory of change 
+64 
+Voice and agency 
+64 
+Assets and services 
+65 
+Enabling environment 
+66 
+ANNEX B: Evaluation matrix 
+69 
+The original evaluation matrix for the evaluation is presented here. The process evaluation that replaced 
+the midline evaluation developed its own set of process evaluation questions that included EQs from 
+the original matrix below. These are referenced against the PE questions in the main report. 
+69 
+ANNEX C Timeline for the Evaluation 
+74 
+ANNEX D: Data collection deployment plan 
+75 
+ANNEX E: Coding framework for UNICEF Ethiopia Joint Programme 
+79 
+ANNEX F: Ethical approval from EPHI (revised for midline) 
+83 
+ANNEX G: Terms of Reference 
+85 
+ 
+ 
+ 
+
+Itad  
+24 November 2022 
+ 
+iv 
+List of illustrations 
+Table 1: Case study interviews by location ................................................................................................... 13 
+Table 2: Overview of UNICEF Joint Programme components ....................................................................... 16 
+Table A.1: Core components of the UNICEF Joint Programme ..................................................................... 64 
+Table A.2: UNICEF Joint Programme target woreda by region ....................................................................  66 
+ 
+Figure 1: Analytical framework for the midline process evaluation ............................................................. 10 
+Figure A.2: Programme Theory of Change ……………………………………………………………………………………………….70 
+ 
+ 
+ 
+
+Itad  
+24 November 2022 
+ 
+v 
+List of acronyms and abbreviations 
+ADGs 
+ 
+Adolescent girls 
+BMI  
+ 
+Body mass index 
+CINuS  
+Comprehensive integrated nutrition services 
+EPHI 
+ 
+Ethiopia Public Health Institute 
+FAO 
+ 
+Food and Agricultural Organization 
+FGD 
+ 
+Focus group discussion 
+FGM 
+ 
+Female genital mutilation 
+FMoH  
+Federal Ministry of Health 
+HH 
+ 
+Households 
+IFA 
+ 
+Iron folic acid 
+KAP 
+ 
+Knowledge, attitudes and practice 
+KII 
+ 
+Key informant interview 
+MHH 
+ 
+Menstrual health and hygiene 
+MMA  
+Mohammed Mussa Associates Development Consultancy 
+MoAG  
+Ministry of Agriculture 
+MoH 
+ 
+Ministry of Health 
+OOS 
+ 
+Out of school 
+PSNP 
+ 
+Productive Safety Net Programme 
+PTSA 
+ 
+Parent-Teacher Student Association 
+RHB 
+ 
+Regional Health Bureau 
+SBCC 
+ 
+Social Behaviour Change Campaign 
+SNNPR  
+Southern Nations Nationalities and Peoples’ Regional State 
+UNICEF  
+United Nations Children’s Fund 
+WASH  
+Water, sanitation and hygiene 
+YFHS 
+ 
+Youth-friendly health services
+
+Itad  
+24 November 2022 
+ 
+1 
+1 
+Executive summary 
+The overall objective of the UNICEF Ethiopia Joint Adolescent Nutrition-WASH-Education Programme is 
+to demonstrate and provide evidence on how a scalable programme can provide immediate and long-term 
+nutrition and health benefits to adolescent girls (age 10-19) across 100 targeted Woredas in Ethiopia1. The 
+programme focuses on adolescent malnutrition, through providing the resources, facilities and soft skills 
+required to meet immediate needs surrounding malnutrition and ill-health, while also providing a range of 
+support functions aiming to address some of the underlying issues facing adolescents in Ethiopia. This will 
+better equip adolescent girls to make positive life choices, resulting in long-term improvements in their own 
+health and nutrition, as well as that of their future infants and children.  
+In order to do this, UNICEF Ethiopia, with the support of Global Affairs Canada, is implementing a five-year 
+project (2018-2022) originally valued at CAD 14.8 million, CAD 18.5 million (USD 14.7 million) including 2020 
+top-up. As of 31st January 2022, USD 10,836,832.90 had been utilised.2 The mixed package of interventions 
+includes a number of different activities aiming to:  
+ influence and improve knowledge, perceptions and outcomes in nutrition and menstrual health 
+and hygiene (MHH); and  
+ improve access to and use of health and nutrition-related goods and services, through building 
+the self-esteem and agency of adolescent girls.  
+The programme’s implementing partners are: the Ethiopian Federal Ministry of Health (FMoH), Regional 
+Health Bureaus (RHB), Schools, Regional Water Resources Bureau, Regional Education Bureau, the 
+Population Media Centre and the Girl Effect, to support the Yegna health radio show. 
+This process evaluation of UNICEF Ethiopia’s Joint Adolescent Nutrition-WASH-Education joint 
+programme was carried out at midline from October 2021 through to January 2022, across three of the 
+eight regions where the UNICEF Ethiopia Joint Programme is being implemented: Southern Nations 
+Nationalities and Peoples’ Regional State (SNNPR), Somali, Oromia. Originally, we envisaged a midline that 
+would have both qualitative and process evaluation components. Due to implementation challenges, and 
+given the stage in implementation achieved thus far, we shifted in emphasis to favour the process element, 
+encompassing a qualitative focus on experiences of programme implementation from implementer and 
+participant perspectives. This additionally enables an explanation of whether and how activities are forming 
+the stepping-stones towards achieving higher level outcomes further down the line, by capturing any early 
+outcomes. 
+The key objectives of this round of evaluation research were to: 
+ understand the extent to which the programme is achieving its objectives and provide measures 
+of attribution for the programme where possible; 
+ unpack how and why the programme is or is not working as planned; and 
+ understand how and why the changes have occurred, to identify course correction during the 
+implementation of the programme and to provide recommendations for scaling up the 
+programme. 
+Midline process evaluation questions are grouped into three domains, guided by the conceptual 
+framework, with sub questions and prompts to guide and structure the data collection and analysis. 3 
+ 
+1 The Joint Programme intervention areas have been selected to align with woredas receiving comprehensive integrated nutrition 
+services (CINuS), a programme implemented by the FMOH and UNICEF to provide community-based nutrition interventions. 
+2 UNICEF (2022). Improving the Reproductive Health and Nutritional Status of Adolescent Girls in Ethiopia: Progress report prepared for DFTAD 
+Canada. March 2022. 
+3 Relevant OECD-DAC Criteria are in parentheses. 
+
+Itad  
+24 November 2022 
+ 
+2 
+1. Context questions consider the contexts in which the Social and Behavioural Change Communication 
+(SBCC) – Adolescent WASH Nutrition Education Joint Programme operates, including the enablers and 
+barriers to implementation and the contextual relevance of the programme to the local context. [Relevance] 
+2. Implementation process questions explore the SBCC – Adolescent WASH Nutrition Education Joint 
+Programme approach and its governance and how this plays out in practice during implementation. 
+[Relevance; Effectiveness; Sustainability]. 
+3. Change pathways questions look specifically at the activities/interventions, considering how they have 
+been operationalised and the experiences and perceptions of community members and other 
+stakeholders (such as implementers and government). [Relevance; Effectiveness; Impact] 
+Methodology 
+The Midline Process Evaluation primarily drew on qualitative data collection methods and tools and 
+secondary data (document) analysis to explore experiences of programme implementation and to uncover 
+how and why change is happening along key change pathways, for whom and in what contexts. This helped 
+to capture emerging changes – anticipated and unanticipated - in implementation and in early stages of 
+causal pathways. The overall evaluation approach is theory of change- based. The process evaluation 
+component focused on the programme’s implementation, and how it could be improved to enhance impact 
+at endline. It is developmental in the sense that the findings are intended to assist the programme 
+implementers to adjust operations to enhance the overall impact of the programme. To this effect, process 
+evaluation is an inward-looking reflective exercise, focused on the activities level of the theory of change 
+with some exploration of outputs and early outcomes. 
+Summary Findings 
+The midline process evaluation finds more evidence of important positive changes and outcomes associated 
+with the programme than one would expect given the stage of implementation and the challenges faced by 
+the programme to date. The interviews with girls and guardians present powerful testimonies to the 
+importance of the programme in providing a service so desperately needed in communities. This refers not 
+only to the provision of sanitary pads, but the combination of programming including messaging about 
+harmful practices and gender equality more broadly delivered through the gender clubs.  Here we 
+summarise the main findings of the midline process evaluation structured by the three domains in the 
+conceptual framework: 
+Context  
+• 
+A number of external contextual factors have impeded implementation, including the COVID-19 
+pandemic and civil conflict, insecurity and political instability. A knock-on effect of these have been 
+budget cuts and reallocations that have also affected implementation. Other important contextual 
+factors highlighted in the midline process evaluation include challenges related to environmental 
+factors and remote locations. 
+• 
+The COVID-19 pandemic caused major disruption to implementation, due to restricted movement and 
+school closures, and this had a significant effect on girls accessing and benefitting from the programme. 
+COVID-19 restrictions affected school attendance, which interviewees described as persisting once 
+schools had reopened. 
+• 
+Lockdown and closure of schools, with absences prolonged even after restrictions have been lifted, may 
+have increased girls’ vulnerability to child marriage.   
+• 
+Water scarcity acts as a serious barrier to effective implementation and uptake of WASH activities, and 
+other activities that depend upon access to water, as well as being a ‘push’ factor, displacing people 
+and fuelling school absenteeism.  
+
+Itad  
+24 November 2022 
+ 
+3 
+• 
+The Programme is relevant to the local context: In its focus on raising awareness of gender equality, the 
+midline process evaluation found the programme to be relevant to the inequities faced by women and 
+girls and to addressing damaging gendered socio-cultural norms and practices in the communities.  It 
+also directly addresses the lack of affordability of and access to sanitary protection. 
+• 
+The main changes to the programme in response to contextual factors have been adaptations to 
+respond to COVID-19, including pausing implementation.  
+• 
+Closure of schools due to COVID-19 meant that gender clubs could no longer run, and the main access 
+point to the programme was removed. Since schools reopened, finding enough space to run gender 
+clubs has been challenging due to restricted numbers of people permitted to gather and social 
+distancing rules. 
+• 
+Budget reductions either due to redirection of funds for COVID-19 response, or a shift in UNICEF 
+budgets to deal with displaced communities due to the war in Northern Ethiopia have reportedly 
+diverted resources away from the programme, with overall budget constraints leading to incomplete 
+programming. 
+Implementation 
+Targeting 
+• 
+Key informants from all stakeholder groups were unanimous in understanding and confirming the value 
+of the programme to the target group. Implementers felt the programme was targeted appropriately, 
+seeing a wide range of positive impacts on adolescent girls who participated, including greater 
+empowerment, and better access to information. 
+• 
+Many implementers expressed concern that large groups, such as out of school adolescent girls, who 
+would likewise benefit from the programme, were excluded. Some boys were included in relevant 
+gender club activities, though this was not widespread practice. Out of school adolescent girls, and 
+those who attended school part time, or at weekends, were excluded from the programme. Both 
+implementers and adolescent girls highlighted this as a significant issue during interviews. The 
+production of the OOS guide had been delayed by 8 months due to  COVID-19, but some progress has 
+been reported in the recent annual report to DFTAD Canada (March 2022). 
+• 
+The gender clubs were designed to be attractive, engaging places for adolescent girls to be, employing 
+a range of different activities to encourage participation. Community sensitisation was also considered 
+at the design stage, based on the knowledge that parental and community approval would be a key 
+factor in encouraging girls’ engagement.  
+• 
+The influence of three key groups of people – peers, teachers, and families – emerged as crucial to 
+encouraging and increasing engagement.  Tangible, material benefits are effective in increasing 
+engagement. Girls’ improved self-confidence, and enjoyment of new learning and understanding built 
+through the gender club was also key to maintaining their engagement over time. 
+• 
+The most commonly cited barrier to engagement was the impact of cultural beliefs and community 
+attitudes to gender. A reported lack of engagement of influential leaders at the local level in Oromia 
+was seen as a missed opportunity by some interviewees to engage community members and overcome 
+social and cultural barriers or resistance to some elements of the programme. Another key barrier was 
+the lack of necessary infrastructure, and resourcing to support implementation of the project. 
+• 
+Implementers found that having an effective network of professional support was vital. When 
+professionals across sectors worked together as a team, and were committed to implementing the 
+programme, respondents saw a positive impact on engagement.  
+Coherence 
+• 
+There was a strong consensus from informants that the combination of WASH, nutrition and education 
+elements in the programme respond to the needs of the target groups effectively, and to the contexts 
+in which they operate. Interviewees reflected that the elements of the programme were not only 
+
+Itad  
+24 November 2022 
+ 
+4 
+complementary but necessary to approach together. The chief concern expressed by implementers 
+were that coordination issues and other barriers prevented different interventions being implemented 
+together coherently. Coordination challenges varied from region to region, and woreda to woreda, with 
+no clear pattern emerging. Reasons reported for breakdown in coordination included: staff turnover or 
+missing key staff members, tensions between sector offices over the choice of focal point and 
+committee leaders, variation in levels of engagement between different sector office, lack of 
+engagement and motivation at woreda or zonal level. 
+Coordination  
+• 
+Issues with coordination were among the most commonly cited barriers to effective programme 
+implementation. These varied from region to region, and woreda to woreda, with no clear pattern 
+emerging. A joint programme of this type has lots of moving pieces, requiring a lot of coordination. 
+There are therefore many different places where coordination may break down, depending on the 
+particular context, and it is vital that UNICEF plays a strong role in coordinating across the programme. 
+‘Do No Harm’ 
+• 
+Do no harm principles were put in place by UNICEF from the programme design stage - including policies 
+both for preventing and responding to harms – and interviewees described clear processes to report 
+potential and actual harms, including early marriage and gender-based violence. Respondents detailed 
+coordinated measures – education, gender, health, legal and police departments working together to 
+respond to reports of early marriage or gender-based violence. Some participants in gender clubs from 
+the 14-19 age bracket were also familiar with reporting processes for girls at risk of harm. They reported 
+having received training on risks of early marriage, and gender-based violence. They knew how to report 
+any harm and were able to share this information with their friends.  
+• 
+One important issue arising from the data was that 8 out of 20 implementers interviewed had no 
+apparent knowledge of ‘do no harm’ as a concept, even though they were from woredas where other 
+implementers confirmed do no harm policies being in place. It seems likely that they use other language 
+to describe these processes and any future evaluation or research work should bear in mind differences 
+between terminology used by the programme and language on the ground.  
+• 
+There was a clear acknowledgement across implementer interviews that some components of the 
+programme directly challenge prevailing cultural norms and practices around gender equality, early 
+marriage and Female Genital Mutilation (FGM), as well as cultural taboos around discussing 
+menstruation. There was some variation from region to region in the impact of these attitudes, and the 
+scale of the challenge this posed to programme implementation.  However, a majority of implementers 
+also felt that this demonstrated that the programme was responding to contextual issues. They 
+discussed the risks and harms posed to adolescent girls by existing attitudes to gender and saw the 
+programme as a necessary intervention based on accurate analysis of the context. 
+Good practice and sustainability 
+• 
+There was consistent feedback that all the main elements of the programme were good practice and 
+should be replicated. Implementers were clear that the gender club model was effective and should be 
+continued and expanded where possible. In particular, they mentioned the provision of sanitary pads, 
+soap and underwear as important. While ultimately lack of and provision of these items is a policy issue 
+for government, requiring advocacy, in the meantime the programme needs to provide materials 
+essential for clubs to operate and programme uptake. Many implementers described the benefits they 
+saw for adolescent girls in terms of improved knowledge and understanding of menstruation, and some 
+emphasised the improved self-confidence and happiness among participant girls.  
+• 
+Implementers especially found the combination of the three aspects of the programme – education, 
+nutrition, and WASH – to be an effective approach, highlighting how interlinked these areas are. Within 
+this, two elements were emphasised as crucial: investment in water supply to schools to improve the 
+
+Itad  
+24 November 2022 
+ 
+5 
+quality of toilet and washing facilities, and provision of iron supplements. Participants’ feedback echoed 
+that of implementers in confirming that the package of gender club interventions was good practice.  
+Change Pathways 
+Knowledge and attitudes 
+• 
+Interviews with implementers, girls and guardians all point to positive outcomes already in terms of 
+improved knowledge and understanding of MHH, by both girls and their families, as well as the impacts 
+of harmful practices such as early marriage, FGM and heavy domestic work on children. This is through 
+girls participating in gender clubs and directly sharing this information with family members. 
+• 
+Girls’ improved understanding about what is happening when they menstruate also appears to 
+contribute towards greater confidence to ask for things like toilet breaks, sanitary pads or pain relief, 
+so that their needs are met. 
+• 
+Overall, improved knowledge and understanding of menstruation appears to be contributing towards 
+the more supportive environment for girls in schools. There also is emerging evidence for some shifts 
+in attitude, with ridiculing girls about menstruation becoming less acceptable. 
+• 
+Girls who participate in gender clubs feel it is important to share the knowledge they have gained with 
+non-participants. This includes not only their peers who are not attending school, but also their mothers 
+and other female family members. Guardians reported improved knowledge and understanding of 
+impacts of early marriage on girls’ health as well as the needs of girls during menstruation. 
+• 
+Reported improved communication in families related to menstruation has led to greater 
+understanding and increased wellbeing overall, and improved family relations. 
+• 
+There is some evidence for increased support to daughters to prioritise their homework and studying 
+over domestic chores. Alongside parental support, girls’ also reported that they themselves were more 
+focused on their studies, and perceived improvements in academic performance and attitude as a 
+result.   
+• 
+Increased awareness of what constitutes abusive behaviour by men towards females was reported by 
+younger and older girls.  
+• 
+One interviewee, however, described a potential backlash against girls who do things differently, with 
+some tension between girls who attend gender club and those who do not. This may be minimised by 
+increasing programme coverage and including all girls (and boys) in a school. 
+• 
+At the Community level there is some increased awareness and understanding of specific nutritional 
+needs of women, but this is still at an early stage of implementation and there is still some way to go. 
+Access and use of services  
+• 
+Gender clubs work well as a point of access for young people (girls) to youth-friendly health services. 
+Access to sanitary pads and health benefits from taking deworming tablets and iron supplements have 
+had positive impacts on girls’ wellbeing. 
+• 
+Much understanding is gained or reinforced through watching the Yegna drama – but this is hampered 
+by lack of access to televisions and/ or electricity. 
+• 
+The most serious impediment to being able to follow through on activities and practices encouraged by 
+the programme is the lack of continuous water supply. Access is also constrained by lack of space in 
+schools to be able to provide adequate safe spaces. 
+• 
+Interviewees reported early signs that the provision of safe spaces for girls, where available, as well as 
+menstrual pads have already reduced absenteeism, (SNNPR, Somali). This sounds promising but needs 
+to be backed up by monitoring data and in subsequent evaluation.   
+Programme perceptions 
+
+Itad  
+24 November 2022 
+ 
+6 
+• 
+Involvement in gender clubs was linked to improved commitment and focus at school. Adolescent girls 
+and their caregivers also reported marked changes in their knowledge of gendered vulnerabilities they 
+face since participating in gender clubs.  They described a better understanding of the risks of early 
+marriage and pregnancy, and of sexual and reproductive health. They also outlined improved awareness 
+of different forms of gender-based violence, and knowledge of how to report any incidents they or 
+others experienced.  
+• 
+Participants were able to articulate their own changing ideas about gender, their greater belief in 
+equality between men and women, and the ways this made them reflect on their families’ and 
+communities’ attitudes and treatment of girls and women. 
+• 
+Many girls also felt a growing sense of confidence to communicate their feelings and opinions, and to 
+share the things they had learned from gender clubs. 
+• 
+The impact of girls’ improved confidence, happiness and ability to communicate often spilled over into 
+other areas of their lives, improving the quality of key relationships. 
+Explanatory Factors and Programme Relevance 
+• 
+Interviewees (implementers, guardians, girls) widely recognise that the programme addresses an 
+important unmet need of women and girls, with the potential to be life-changing. 
+• 
+Programme relevance means that so far there has been strong commitment from a wide range of 
+stakeholders to the programme, from parents to teachers in schools, to woreda staff 
+• 
+Support from active, committed teachers is key to making sure the school environment is conducive to 
+programme success. 
+• 
+Students and implementers are encouraged by demonstrated positive impacts of the programme, with 
+high teacher and student engagement in the interventions. 
+• 
+Family support is a crucial enabler for engagement with and participation in the programme, especially 
+in gender club. 
+Conclusions and Recommendations 
+For UNICEF’s programme implementation 
+• 
+There is a need for greater investment in school infrastructure to support programme delivery. 
+Improved water supply and toilet facilities were mentioned most frequently. Greater investment is 
+needed in building extra rooms for safe spaces, and gender club meetings, it would be hard to expand 
+the programme without these. 
+• 
+The programme needs to explicitly design for and mitigate against water scarcity as a priority. The 
+WASH component is foundational for many programme activities. Effectiveness is limited by lack of 
+water, limiting the benefits girls derive from safe spaces and female only toilets.  
+• 
+Interviewees gave clear feedback that the programme should be scaled up in its current form and 
+expanded where possible to include currently excluded groups. The out of school component could 
+have proved indispensable during the school closures and should be up and running as soon as possible.  
+• 
+Educating boys on menstruation and gender equality issues is needed as a next step to improving the 
+school and community environment for girls.  
+• 
+Gender club heads are a vital bridge between girls (their peers) and leadership. We advise that gender 
+club head should be a rotating office, giving ALL girls a chance to feel special and to build their leadership 
+skills.  
+• 
+There needs to be a continued and increased focus on influential community figures such as religious 
+leaders and community elders. Investing in changing community perceptions would also help to close 
+the any gaps between participants’ own knowledge of gender equality issues, gained through the 
+programmes, and ideas about gender in the community.

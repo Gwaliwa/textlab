@@ -1,0 +1,561 @@
+Page | 1 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© UNICEF/UN0207505/Sokol 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending 
+Child Marriage in Bangladesh 
+Final Evaluation Report  
+November 2021 
+
+Page | 2 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Evaluation of UNICEF’s Work for Accelerating Action towards Ending Child Marriage 
+in Bangladesh 
+ 
+© UNICEF Bangladesh Country Office 
+UNICEF House, Plot E-30 
+Syed Mahbub Morshed Avenue, Sher-e-Bangla Nagar 
+Dhaka 1207, Bangladesh 
+ 
+November 2021 
+ 
+This evaluation report was prepared by a team of independent consultants from Ernst & 
+Young LLP India. Andrea Parks of SPEAR Section, UNICEF Bangladesh, managed and led 
+the overall evaluation process in close collaboration with Tom Pellens of UNICEF Regional 
+Office for South Asia. 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Office is 
+to fulfil a corporate commitment to transparency through the publication of all completed 
+evaluations. The reports are designed to stimulate a free exchange of ideas among those 
+interested in the topic and to assure those supporting the work of UNICEF that it rigorously 
+examines its strategies, results, and overall effectiveness. 
+ 
+The contents of the report do not necessarily reflect the priorities or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no 
+responsibility for error. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any 
+country or territory, or of its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund. Permission is 
+required to reprint/reproduce/photocopy or in any other way to cite or quote from this report 
+in written form. UNICEF has a formal permission policy that requires a written request to be 
+submitted. For non-commercial uses, the permission will normally be granted free of charge. 
+Please write to the SPEAR Section at the address below to initiate a permission request.  
+ 
+Attribution: Please cite the work as follows: UNICEF. 2021. “Evaluation of UNICEF’s Work 
+for Accelerating Action towards Ending Child Marriage in Bangladesh.” UNICEF SPEAR 
+Section, Bangladesh. 
+ 
+For further information or a permission request, please contact: 
+Social Policy, Evaluation, Analytics & Research (SPEAR) Section 
+UNICEF Bangladesh Country Office 
+UNICEF House, Plot E-30, Syed Mahbub Morshed Avenue, Sher-e-Bangla Nagar, Dhaka 
+1207, Bangladesh 
+Telephone: +880 255668088 
+Email: mwoldegorgis@unicef.org  
+www.unicef.org.bd  
+ 
+ 
+ 
+
+Page | 3 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Contents 
+Table of figures ................................................................................................................... 5 
+Table of tables ..................................................................................................................... 5 
+Table of graphs ................................................................................................................... 6 
+List of abbreviations ........................................................................................................... 7 
+Executive summary ............................................................................................................ 9 
+Chapter 1: Background .................................................................................................... 14 
+1.1 Situation and context of child marriage in Bangladesh .............................................. 14 
+1.2 Programme description ....................................................................................................... 18 
+Chapter 2: Evaluation purpose and methods ................................................................. 24 
+2.1 Theory of Change for Ending Child Marriage in Bangladesh .................................... 24 
+2.2 Purpose and objectives of the evaluation ...................................................................... 25 
+2.3 Scope of evaluation .............................................................................................................. 26 
+2.4 Approach and methodology ............................................................................................... 26 
+2.5 Quality assurance procedures ........................................................................................... 33 
+2.6 Risk and mitigation measures ........................................................................................... 33 
+2.7 Ethical considerations ......................................................................................................... 33 
+2.8 Limitations............................................................................................................................... 34 
+Chapter 3: Evaluation findings......................................................................................... 36 
+Chapter 4: Conclusions and lessons learnt .................................................................... 97 
+Chapter 5: Recommendations ....................................................................................... 103 
+Annexures ....................................................................................................................... 108 
+Annexure 1: GPECM result framework ................................................................................ 108 
+Annexure 2: Stakeholder mapping ........................................................................................ 110 
+Annexure 3: Ethical considerations and code of conduct .............................................. 113 
+Annexure 4: IRB approval letter ............................................................................................. 116 
+Annexure 5: Literature review log ......................................................................................... 117 
+Annexure 6: Evaluation framework ....................................................................................... 132 
+Annexure 7: Theory of Change: Ending Child Marriage in Bangladesh ..................... 146 
+Annexure 8: ToR for ERG ........................................................................................................ 148 
+Annexure 9: ToR for field team .............................................................................................. 150 
+Annexure 10: Field plan ........................................................................................................... 152 
+Annexure 11: Quality assurance plan .................................................................................. 153 
+Annexure 12: Risk and mitigation measures ...................................................................... 154 
+Annexure 13: Evaluation team................................................................................................ 156 
+
+Page | 4 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Annexure 14: Terms of Reference ......................................................................................... 157 
+Annexure 15: List of interviewees ......................................................................................... 171 
+Annexure 16: Evaluation rubric.............................................................................................. 176 
+Annexure 17: Human interest stories ................................................................................... 187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page | 5 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Table of figures 
+Figure 1: Strategies developed by UNICEF BCO to end child marriage .............................. 20 
+Figure 2: Blended approach ................................................................................................ 27 
+Figure 3: Socioecological Model ......................................................................................... 29 
+Figure 4: Respondent selection criteria ............................................................................... 30 
+Figure 5: Gender transformative approach .......................................................................... 63 
+Figure 6: Adolescent friendly health services ...................................................................... 65 
+ 
+Table of tables 
+Table 1: BCO ECM Strategy Note: Target implementation areas ........................................ 21 
+Table 2: Geographical Coverage of GPECM ....................................................................... 22 
+Table 3: Site for Field-Based Data Collection ...................................................................... 29 
+Table 4: Data Collection Tool with Achieved Sample .......................................................... 31 
+Table 5:Type of Analysis and Objective .............................................................................. 32 
+Table 6: General Rubric Ranking Descriptors ..................................................................... 33 
+Table 7: Summary of Relevance EQ Findings ..................................................................... 36 
+Table 8: Summary of Effectiveness EQ Findings ................................................................ 44 
+Table 9: Percentage of girls who are married in evaluation districts .................................... 45 
+Table 10: Summary of Efficiency EQ findings ..................................................................... 70 
+Table 11: Expenditure across GPECM Outcomes ............................................................... 76 
+Table 12: Per beneficiary cost (2017-2019) ......................................................................... 82 
+Table 13: Per beneficiary cost across GPECM countries (2017-19) .................................... 82 
+Table 14: Summary of BCO expenditure for ECM ............................................................... 83 
+Table 15: Expenditure across Child Protection and Communication interventions .............. 85 
+Table 16: Break-up of the expenditure on C4D interventions .............................................. 86 
+Table 17: Summary of Sustainability EQ Findings ............................................................... 87 
+Table 18: Stakeholders engaged ........................................................................................ 93 
+ 
+
+Page | 6 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Table of graphs 
+Graph 1: Indicators of child marriage- MICS 2013 & MICS 2019 ......................................... 47 
+Graph 2: Number of girls aged 10-19 actively participating in targeted interventions ........... 55 
+Graph 3: Number of individuals in programme areas who regularly participate in dialogues 
+promoting gender equitable norms including delaying child marriage .................................. 58 
+Graph 4: Number and proportion of service delivery points in programme areas implementing 
+guidelines for adolescent girl-friendly health and protection services .................................. 66 
+Graph 5: Adolescent girls (aged 10-19) are actively participating in a targeted programme (life 
+skills, health information, economic empowerment, social protection) ................................. 77 
+Graph 6: Adolescent girls are supported to enrol and remain in formal and non-formal 
+education, including through the transition from primary to secondary education ................ 78 
+Graph 7: Households that are increasingly aware of the benefits of investing in adolescent 
+girls and ending child marriage ........................................................................................... 78 
+Graph 8: Graph 4: Number of Media Campaigns and Community Dialogues ...................... 79 
+Graph 9: Health and protection systems supported to implement guidelines, protocols, and 
+standards for adolescent girl-friendly health and protection services ................................... 79 
+Graph 10: Non-formal/primary/secondary schools supported to improve quality of education 
+for adolescent girls .............................................................................................................. 80 
+Graph 11: Output comparison across GPECM countries .................................................... 81 
+Graph 12: Expenditure on C4D ........................................................................................... 86 
+ 
+
+Page | 7 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+List of abbreviations  
+AFHS 
+Adolescent Friendly Health Services 
+BCO 
+Bangladesh Country Office  
+CBCPC 
+Community Based Child Protection Committee 
+CEDAW 
+Convention on the Elimination of all Forms of Discrimination against Women  
+CMRA 
+Child Marriage Restraint Act 
+C4D 
+Communication for development 
+CBCPC 
+Community Based Child Protection Committee 
+CCT 
+Conditional Cash Transfer 
+CP 
+Country Programme 
+CPD 
+Country Programme Document 
+CRC 
+Committee on Rights of Children 
+CRC 
+Convention on the Rights of the Child 
+CSO 
+Civil Society Organisation 
+CWB 
+Child Welfare Board 
+C4D 
+Communication for Development 
+DNCC 
+Dhaka North City Corporation 
+DRR 
+Disaster Risk Reduction 
+EE 
+Entertainment-Education 
+ECM 
+Ending Child Marriage 
+EY LLP 
+Ernst & Young LLP  
+FGD 
+Focussed Group Discussion 
+GBV 
+Gender-Based Violence 
+GE 
+Gender Equality 
+GoB 
+Government of Bangladesh 
+GPECM 
+Global Programme on Ending Child Marriage 
+HR 
+Human Rights 
+ICRW 
+International Centre for Research on Women 
+IDI 
+In-depth Interview 
+INGO 
+International non-governmental organizations 
+IR 
+Immediate Results 
+KAP 
+Knowledge, Attitudes and Practices 
+KII 
+Key Informant Interview 
+LCG WAGE Local Consultative Group Women Advancement and Gender Equality 
+LSBE 
+Life Skills Based Education 
+M&E 
+Monitoring & Evaluation 
+MFLO 
+Muslim Family Law Ordinance  
+MoWCA 
+Ministry of Women and Child Affairs 
+NGO 
+Non-Governmental Organisation 
+NAP 
+National Action Plan 
+OECD DAC Organisation for Economic Co-operation and Development, Development Assistance Committee 
+PCR 
+Programme Component Results 
+PMO 
+Prime Minister’s Office 
+RBMF 
+Results-Based Management Framework 
+RCT 
+Randomised Controlled Trial 
+SBCC 
+Social and Behaviour Change Communication 
+SDGs 
+Sustainable Development Goals 
+SEM 
+Socio-Ecological Model 
+SPOC 
+Specific Points of Contact 
+ToC 
+Theory of Change 
+ToR 
+Terms of Reference 
+UNDAF 
+United Nations Development Assistance Framework 
+
+Page | 8 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+ 
+ 
+ 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNICEF 
+United Nations Children's Fund 
+WASH 
+Water, Sanitation and Hygiene 
+
+Page | 9 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+Executive summary 
+Background  
+The practice of child marriage has been a critical area of focus for Bangladesh. Currently, it is ranked 
+at 134 out of 175 countries on the End of Childhood Index 20201 and has the fourth highest rate of 
+child marriage in the world after African countries of Niger, the Central African Republic, and Chad2 
+Statistics from the MICS 2019 show that 19.8 per cent of women before turning 15 years of age (aged 
+15-49 years) and 60 per cent (aged 20-49 years) before turning 18 are married.3 Drivers of child 
+marriage are complex, diverse, interlinked4 and at times, context specific. Gender and social norms 
+interact with several socio-economic factors to form a complex web of interrelated facets to place a girl 
+child at risk of marriage. 
+The key drivers of this pervasive practice are rooted in gender-based violence and inequality, 
+intergenerational cycles of poverty, lack of access to education, poor income generating 
+capacities, vulnerability caused due to climate change and natural disasters, and limited access 
+to resources for girls and women, especially a lack of their own income and financial planning skills.5 
+Distinctions also exist for factors such as differences in the rates of employment among young women, 
+economic conditions of those who facilitate child marriage and economic pressures related to dowry 
+payments. Further area of concern is the linkage between an ageing population and the occurrence 
+of child marriage. Moreover, the influence of religion in the context of Bangladeshi society has also 
+been highlighted as a key driver of child marriage in the country.  
+Programme description 
+At a global level, in 2015, United Nations Population Fund and UNICEF launched their Global 
+Programme to Accelerate Action to End Child Marriage (GPECM) across twelve programme 
+countries.6 Bangladesh is one of the 12 countries in the world that is a part of the joint UNICEF and 
+UNFPA GPECM that also implements its strategies with a goal to delay marriage, address associated 
+conditions that are contributing factors to child marriage nationally and provide support to girls who have 
+already been married off early.  
+To work towards Ending Child Marriage (ECM), Government of Bangladesh, UNICEF BCO and its 
+partners support various programmes that engage adolescents in increasing their awareness on the 
+adverse consequences of child marriage while simultaneously providing them with adequate skills to 
+help improve their lives and delay marriage. In 2015, the BCO received initial funding and the New 
+Country Programme Document of 2016 acknowledged the opportunity to sharpen the approach 
+on ECM across the country. The strategy note on ECM was used as a basis for the GPECM when 
+Bangladesh became one of the three GPECM countries in UNICEF’s South Asian Region for Phase 1 
+of the joint UNFPA-UNICEF GPECM programme. 
+Objective and scope of the evaluation  
+The overall objective of the evaluation was to assess the progress made by BCO towards achievements 
+of results of its ECM programmes. The evaluation has analysed the relevance of BCO’s work on ECM, 
+effectiveness and added value of the joint UNFPA UNICEF GPECM and BCO’s ECM interventions 
+ 
+1 End of Childhood Index 2020 
+2 Human Rights Watch, “Bangladesh: Girls Damaged by Child Marriage,” June 9, 2015. Retrieved from 
+https://www.hrw.org/news/2015/06/09/bangladesh-girls-damaged-child-marriage 
+3 Multiple Indicator Cluster Survey, 2019 
+4 Key Drivers of the Changing Prevalence of Child Marriage in Three Countries in South Asia, Working Paper, UNICEF and 
+UNFPA, 2018 
+5  Buchmann, N., Field, E., et al., Power vs Money: Alternative Approaches to Reducing Child Marriage in Bangladesh, a 
+Randomized Control Trial, 2018 
+6 The twelve programme countries in the first phase of the GPECM are: Bangladesh, Burkina Faso, Ethiopia, Ghana, India, 
+Mozambique, Nepal, Niger, Sierra Leone, Uganda, Zambia and Yemen. 
+
+Page | 10 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+outside the GPECM funded through OR of different sections. It has identified opportunities and barriers 
+of the implementation of cross sectoral evidenced based intervention strategies. Additionally, it has also 
+identified good practices of convergence among sectors and lessons especially from Phase I of the 
+GPECM.  
+The evaluation has included all activities under the CP 2017-2020 and the GPECM Phase 1 (2016-
+2019). Additionally, aspects of the impact of the COVID-19 pandemic have also been covered. Further, 
+the evaluation has covered work undertaken at the national level and aspects of the programme that 
+were conducted at ECM districts, either through GPECM interventions or other ECM activities.  
+Our approach and methodology 
+ 
+The evaluation incorporated a theory-based evaluation framework, and the OECD DAC criteria of 
+relevance, effectiveness, efficiency, and sustainability was applied in the evaluation of the 
+programme. Further, a non-experimental evaluation design was adopted wherein qualitative data 
+collection in all five divisions as stated in the ToR namely, Mymensingh, Dhaka, Barisal, Khulna 
+and Rangpur were undertaken. The evaluation was approached through highly consultative and 
+participatory lenses.  
+ 
+As a result of the COVID-19 pandemic our team adopted a “blended methodology” as the way 
+forward to allow flexibility in design. To initiate the organisation of data collected, a workshop mode 
+was adopted wherein the objective was to triangulate the data collected against the information 
+provided by the various stakeholders in order to derive final conclusions/answers against each 
+evaluation question. After analysing the information, the insights obtained was grouped as per various 
+heads related to the evaluation questions. They were then summarised and critically analysed to find 
+answers to the evaluation questions.  
+An evaluation rubric was also developed to map BCOs performance against each evaluation question. 
+The parameters of assessment include Excellent/Good/Adequate/Poor. 
+Limitations 
+Overall limitations in undertaking the evaluation may be attributed to the extensive delays caused by 
+the COVID-19 pandemic and subsequent travel and mobility restrictions. Despite rigorous sampling, 
+due to the time lag and unavailability of key stakeholders, it is possible that some significant aspects of 
+the programme were missed, and some biases crept in reaching out to the respondents in the 
+community. The COVID-19 induced restrictions made it challenging to access data and information on 
+how the pandemic has impacted the programme and its beneficiaries in sampled Upazillas and districts. 
+Further, programmatic and financial, reporting undertaken by UNICEF during the implementation did 
+not have clear compartmentalisation between the two. Therefore, maintaining clear separation or to 
+avoid overlap in terms of findings related to the two programmes was not possible.  
+Key findings  
+Relevance 
+Ending child marriage (ECM), is a relevant and required priority area for both the Government of 
+Bangladesh (GoB) and its development partners. Additionally, through the adoption of an area-based 
+approach, life cycle approach and multisectoral approach. the programme was excellently 
+designed in a comprehensive manner, accounting for varied contexts of different groups in society. 
+The programme has also incorporated a gender-transformative approach to address the drivers 
+of child marriage and structural drivers of inequality in the context of Bangladesh. However, while there 
+have been efforts to correctly implement the programme following a human rights, equity and culturally 
+sensitive approach, inclusion of certain vulnerable groups can be further strengthened. Further, 
+
+Page | 11 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+ECM work in BCO is found to be guided by two Theories of Change. One at the National level 
+and the other proposed by GPECM. Bangladesh was one of the few GPECM countries that formally 
+adapted the global ToC to the country level. Moreover, while the programme was found to be aligned 
+to the objectives of the NAP to ECM to a good degree, there were challenges with respect to 
+awareness, resources, collaboration and monitoring impede NAP’s seamless implementation. 
+Effectiveness and Impact  
+BCOs ECM efforts have made an adequate impact in terms of contributing to the process of 
+reduction in number of child marriages. The evaluation finds that predominant focus of the 
+interventions was on Adolescent empowerment through Adolescent Clubs, and Community 
+Mobilisation. Additionally, partnerships at the highest levels developed through advocacy carried out 
+by UNICEF and UNFPA will ensure that ECM remains a significant agenda of the Government. 
+However, a stronger focus also needs to be placed on the promotion of income generation and 
+livelihood opportunities for girls. Overall review of the progress of the strategies highlights that BCO 
+will need to continue its concerted efforts at all levels (individual, community, institutional, state 
+and policy) to effectively combat child marriages. Further, wider and more focused engagement 
+is needed with different stakeholders for a longer period for achievement of gender transformation. 
+Further, ECM efforts and its planned results for its five strategies needs to be seen 
+corroboratively with the Outcome on Adolescents as well as GPECM reporting as the entire gamut 
+of ECM efforts does not adequately report against a combined RBM. It is key to note that the evaluation 
+team has also been limited in its ability to comment on the entire impact of the programme due 
+to COVID-19 induced discontinuity in regular ECM efforts and challenges to accessing protection 
+services that threatens the momentum gained for ECM as well as restrains spillover effects. 
+Efficiency and Cost-effectiveness 
+UNICEF and UNFPA, have worked jointly for the GPECM programme. However, both the 
+organisations predominantly implemented GPECM interventions in Bangladesh without any 
+combined planning, except at the national or policy advocacy level, limiting impact at the sub-
+national and sub-district levels, further challenged by gaps in coordination at field level. Moreover, the 
+GPECM helped streamline good efforts and aid the process of evidence generation which was 
+critical for strengthening the overall ECM agenda. While funding priorities were aligned to 
+organisational mandates as well as sectoral priorities within UNICEF BCO, GPECM funding, 
+though limited, helped streamline various ongoing efforts under a comprehensive programme. 
+With regards to cost-effectiveness, it was seen that most of the ECM funds were allocated to 
+Education and Child Protection interventions aimed at reducing child marriages.  
+Sustainability  
+BCO’s ECM interventions promoted sustainability through various good practices and 
+strategies, including advocacy, institutionalisation, strengthening systems, developing capacities and 
+mobilising complementary funding. However, there is scope for enhanced advocacy and 
+engagement to sustain gains in social norm change and redressal of harmful behaviours. For sustained 
+efforts and scaling up interventions, adequate system strengthening needs to be embedded at all 
+levels including national policies, programme planning and design and in implementation, especially at 
+the sub-district levels.  
+Conclusions and lessons learnt 
+BCO’s ECM interventions and the GPECM have made some significant inroads in propelling collective 
+efforts to meet the stated national targets. The evaluation notes that cross sectoral convergence and 
+collaboration and the partnership between UNICEF and UNFPA was a key strength of BCOs ECM 
+efforts. Moreover, partnerships with stakeholders including women’s groups have been found to be 
+
+Page | 12 
+Final Evaluation Report: 
+Evaluation of UNICEF’s work for Accelerating Action towards Ending Child Marriage in Bangladesh  
+ 
+diverse and effectively leveraged to further the agenda for ECM. Advocacy at the highest levels has 
+also contributed to the creation of government ownership and commitment to ECM through the 
+development of the NAP. There is however scope for improvement with respect to monitoring and 
+tracking results achieved against BCO ECM Strategy Note and the GRF as current systems are 
+collecting data aligned to Outcome 3 of BCO CPD. While there is ownership at the highest levels of 
+government, the same rigour is absent at the district and Upazilla level and requires focused and 
+consistent capacity building. Significantly, while interventions have recorded success at different 
+degrees, some strategies worked better than others and recorded better results. Key lessons learnt 
+from the evaluation are as follows: 
+• 
+Joint programming by UNICEF and UNFPA has enhanced ECM efforts in Bangladesh. 
+There is enough reason to believe that the partnership between UNICEF and UNFPA has 
+worked well to this programme. Both the organisations have their unique strengths which have 
+complemented each other and strengthened the voice of the United Nations on this issue  
+• 
+Incentives and conditional cash transfers seem to have worked well in some parts. This 
+needs to be examined more closely. In case it is found to make a positive impact, a solution 
+to this may be found to provide incentives to girls, perhaps by helping the Government to design 
+a suitable scheme  
+• 
+The existing monitoring system within UNICEF is not designed to collect relevant data 
+for ECM. The mismatch in monitoring programmes makes collation of relevant data collection 
+very challenging and there is likelihood of missing out of information that may provide evidence 
+for planning 
+Overarchingly, each question of the evaluation criterion has been given a ranking of 
+Excellent/Good/Adequate/Poor. General improvement may be required to enhance effectiveness of 
+strategies with respect to mapping the results achieved, and over all sustainability of interventions rolled 
+out. 
+Recommendations  
+• 
+UNICEF should work towards providing social protection to vulnerable children and their 
+families for overall poverty reduction. As per the definition of UNICEF “Social protection 
+covers the range of policies and programmes needed to reduce the lifelong consequences of 
+poverty and exclusion.” Therefore, the focus of interventions in future should be to ensure that 
+essential services are provided to all vulnerable families to reduce inequality, poverty and 
+vulnerability. This would require working together with other organisations with similar mandate 
+of poverty alleviation  
+• 
+Vulnerability mapping needs to be more nuanced and evidence based where factors 
+other than incidence of child marriage should also be considered. The scope of 
+vulnerability mapping should be increased by including other factors such as low level of 
+education (including drop outs and out of school children); economically disadvantaged 
+population, incidence of gender-based violence, disaster prone areas and other 
+vulnerable sections such as migrants. This will help in identifying other vulnerable pockets 
+and interventions can be designed accordingly 
+• 
+UNICEF should limit the number of interventions it carries out to address the issue of 
+ECM. Research has shown that programmes with fewer interventions reaches out to a larger 
+population and shows better sustainability. Therefore, UNICEF may consider focusing on 
+fewer interventions where it has achieved better results and aim at scaling up the pilots 
+• 
+There is a need for greater engagement and involvement with the Ministry of Law, Justice 
+and Parliamentary Affairs, Ministry of Social Welfare and Ministry of Home Affairs to act 
+on child marriage within their own sectors. UNICEF has been working primarily with 
+MoWCA on the issue of ECM. It may consider working more closely with other Ministries too

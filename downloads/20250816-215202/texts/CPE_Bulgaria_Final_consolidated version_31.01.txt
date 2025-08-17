@@ -1,0 +1,578 @@
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Multi-Country Programme Evaluation 
+ECA Region – Republic of Bulgaria, Kyrgyzstan,  
+Moldova and Ukraine  
+ 
+Country evaluation report 
+BULGARIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2022 
+ 
+ 
+ 
+
+ 
+ 
+2
+ 
+This report represents the evaluation of Country Programme of Co-operation between the Government 
+of Bulgaria and UNICEF 2018-2022 within the framework of the Multi-Country Programme Evaluation, 
+covering UNICEF Country Programmes in Bulgaria, Kyrgyzstan, Moldova and Ukraine 
+ 
+ 
+ 
+ 
+Evaluation team 
+- 
+Team leader - Laura Trofin 
+- 
+Evaluation specialists - Mihaela Iorgulescu-Aioanei, Fatma Nil Ayhan, Irina Lonean, Robert Petraru 
+- 
+Country expert – Assenka Hristova 
+ 
+ 
+ 
+
+ 
+ 
+3
+Executive summary 
+This report presents the findings, conclusions, lessons learned and recommendations of the evaluation 
+of the UNICEF Bulgaria Country Programme (CP) 2018-2022. The evaluation is part of the Multi-country 
+Programme Evaluation, commissioned by UNICEF’s Europe and Central Asia Regional Office, covering 
+UNICEF programmes in Bulgaria, Kyrgyzstan, Moldova and Ukraine, with a focus on relevance, 
+coherence, and impact.    
+Overview of the Country Programme 2018 – 2022 
+The overall goal of the UNICEF CP 2018-2022 is to assist Bulgaria to “ensure that all of its children and 
+adolescents, particularly the most disadvantaged, enjoy their rights and develop to their full potential 
+in an inclusive and protective society that respects their voice”.1  
+The CP has four mutually reinforcing core Outcomes: 1) Early Childhood Development (ECD) and child 
+care, 2) Inclusive education and early learning, 3) Prevention of violence, protection of victims and the 
+promotion of access to justice for all children and 4) Partnerships for child rights.  
+Outcome 1 focuses on: the development of child-focused policies and programmes for family support 
+and social inclusion; the improvement of national policies for ECD; the improvement of coordination 
+between the health, social and child protection sectors on ECD; and increased access to quality and 
+holistic services. Outcome 2 aims to increase access to better quality and inclusive education services.  
+Outcome 3 aims to decrease social tolerance for violence against children; strengthen the commitment 
+of Bulgaria’s Government and Parliament to legislative reform on children in conflict with the law, child 
+victims and witnesses of violence and crime; and strengthen the prevention systems for violence against 
+children. Outcome 4 supports the generation and use of evidence to promote child rights; the 
+strengthening of partnerships among key stakeholders; and raising awareness about the situation of 
+children in Bulgaria, with a firm focus on reaching the most vulnerable groups and reducing the 
+discrimination, stigmatization and negative social norms that often shape their lives. 
+The CP Updated Strategy Note 2020 places more emphasis on emphasizes the most disadvantaged and 
+marginalized children and on closing existing gaps in child rights realization. The document emphasizes 
+the importance of Communication for Behavioural and Social Change (C4BSC) to promote solidarity and 
+to counter the impact of discriminatory public attitudes, public hate speech and anti-human rights 
+movements, and mobilize public and private support.  
+In response to the COVID-19 pandemic, the UNICEF Bulgaria Country Office (CO) has added five new 
+COVID-19-related indicators to outputs in three areas: support for ECD; support to reduce school 
+dropout; and support for the prevention of (and response to) violence against children and gender-
+based violence.2 
+Purpose of the evaluation and its audience 
+This strategic evaluation aims to support the development of the next UNICEF Country Programme 
+Document (CPD) by understanding the strategies used by the CO to drive changes for children, 
+particularly those who are the most vulnerable. It draws lessons from the activities undertaken in order 
+to enhance results in the future. At the same time, the evaluation aims to strengthen UNICEF’s 
+accountability to its national stakeholders.  
+The primary users of this evaluation are intended to be the UNICEF Country and Regional Offices. 
+Secondary users are the Government of Bulgaria, UN agencies and development partners with a 
+presence in Bulgaria. The evaluation builds on the agreements made among these partners and aims to 
+assist the establishment of strategies for their future collaboration, as the parties move together into the 
+next planning and programme cycle. 
+Evaluation context 
+The evaluation was conducted in a context marked by a complex political context, as a result of political 
+instability (with three parliamentary  and one presidential elections held in 2021), and also movements 
+ 
+1 UNICEF Bulgaria Country Office (CO), Bulgaria Update Strategy Note 2020, p. 2. 
+2 UNICEF Bulgaria CO, Results Assessment Module (RAM) Report 2020. 
+
+ 
+ 
+4
+opposing to human rights. In addition, the country had to contend with the impact of the global COVID-
+19 pandemic, which reduced access to education for many children, including the most marginalized, 
+increased domestic violence and triggered an economic crisis.  
+This challenging context added to an already difficult situation for many children in Bulgaria. In 2019, 
+38.6 per cent of Bulgarian children were at risk of poverty before social transfers, and 27.5 per cent after 
+transfers3 (close to half a million children). Every fifth Bulgarian child lives in severe material 
+deprivation (close to 250,000 children).4 
+In the recent years, the anti-human and anti-child rights narrative of some political parties and extremist 
+groups, gained strong momentum in Bulgaria, impeding key children-related strategic and legislative 
+changes, including adoption of the UNICEF-supported National Strategy for the Child 2019-2030. 
+Moreover, in the context of Covid19 crises, anti-Roma public and politic rhetoric increased, in some 
+cases even officials being engaged in this kind of discriminatory acts.  
+While the regulatory framework for children has been through significant reforms in recent years, the 
+necessary enforcement is lacking. In line with this, the low enforcement of children rights has been 
+recognized by some stakeholders as a serious challenge to Bulgaria’s overall regulatory stability. As 
+confirmed by the Situation Analysis of Children’s Rights in Bulgaria conducted in 2020, in the area of 
+Justice for Children, the low level of enforcement is inconsistent, because the authorities adopt a 
+discriminatory approach towards crimes with a gender element, including domestic violence or rape, 
+leading to biased prosecutions. Moreover, in the case of the Social Services Act adoption many 
+interviewed stakeholders expressed their concern regarding the extent to which its implementation will 
+be effective (taking into consideration the political will, the administrative capacity of responsible 
+bodies and the available specialized human resources). 
+There are also regional disparities – and particularly at municipal level – in the provision of services to 
+address vulnerability, minimize dependency, and prevent the intergenerational cycle of poverty and 
+social exclusion, both in terms of the types of services available and capacity for service provision 
+Bulgaria’s social protection system in the country remains fragmented with considerable gaps in 
+coverage, especially for people in the bottom 20 per cent in terms of their income. Many families are not 
+accessing the services and benefits that are available or the support they are offered may not meet their 
+needs. 5  
+Evaluation methodology 
+The Terms of Reference proposed a theory-based approach, based on the CP Theory of Change (ToC) 
+developed by the UNICEF Bulgaria CO. The evaluation questions are structured around the OECD DAC6 
+criteria of relevance, coherence and impact. The evaluation criterion of sustainability is also covered to 
+a certain extent by the evaluation, under the wider impact criterion. An Evaluation Matrix was 
+developed during the inception phase to map out evaluation questions and sub-questions, judgement 
+criteria, data collection methods and data sources.  
+An in-depth impact assessment was undertaken for three selected areas: early childhood development, 
+inclusive education for children with disabilities, and violence against children, to provide lessons on 
+UNICEF practices and strategies in achieving impact for children at scale. Other important evaluation 
+methods utilized for the evaluation include a stakeholder analysis and a social network analysis. The 
+evaluation also uses systems-based evaluation principles. 
+Data collection methods were mainly qualitative, requiring a wide-ranging document review and 
+consultations with 24 key informant interviewees at national, regional and local level. The CO supported 
+the identification of respondents who were consulted using semi-structured interviews. They included 
+interviewees from UNICEF, government entities, UN agencies and other development agencies, and civil 
+ 
+3 Eurostat, European Union Statistics on Income and Living Conditions (EU-SILC). 
+4 Ibid. 
+5 Eurostat, Gini coefficient of equivalized disposable income - EU-SILC survey, tessi190 2020. 
+6 The Development Assistance Committee of the Organisation for Economic Co-operation and Development. 
+
+ 
+ 
+5
+society organizations (CSOs). In addition, UNICEF CO staff completed a questionnaire for the social 
+network analysis.  
+The evaluation methodology fully considered the ethical obligations of evaluators. Child rights, equity 
+and gender were key issues throughout the evaluation process. 
+Key findings 
+Relevance 
+The analysis shows that UNICEF has been relevant in addressing the changing needs of the most 
+vulnerable children in Bulgaria throughout the implementation of its CP, and that the equity focus of the 
+programme is being well defined and applied. The evaluation finds that the Country Programme 
+Document (CPD) is fully aligned with the Convention on the Rights of the Child and the observations of 
+the Committee on the Rights of the Child, the UNICEF Strategic Plan (2018–2021) and the Council of 
+Europe Strategy for the Rights of the Child (2016–2021).  
+First, the CP targets vulnerable groups through the models or pilots envisaged, and their 
+implementation has generated observable results for the most marginalized, hard-to-reach families and 
+children. Second, the CO has prioritized the generation of evidence on child rights realization in Bulgaria, 
+with technical support to ministries and advocacy activities based on the studies that have been 
+developed.  
+Third, UNICEF adjusted its activities to ensure a timely respond to the challenges caused by the COVID-
+19 pandemic. The CO has conducted studies and analyses on the impact of the pandemic on children’s 
+lives and has supported the government, local public actors and other stakeholders in providing access 
+for children and their families to relevant information and vital services, including health and education. 
+UNICEF also adjusted its strategies to respond to the growth in anti-human rights movement and 
+discriminatory public narratives. The aim has been to achieve further results for the most marginalized 
+children, but the response has been cautious rather than proactive, in the sense that the CO used several 
+entry-points (such as domestic violence policy and practice opportunities) as to be able to promote child 
+rights realization, being careful regarding the generalized negative perspective) on social protection 
+services, promoting rights of children from Roma communities or on early childhood development legal 
+framework. The evaluation found that this approach provided UNICEF Bulgaria CO the opportunity to 
+maintain and strengthen their partnership with the government and also, maintain its status at national 
+level as a key actor promoting child-rights realization.  
+UNICEF addresses gender equality to some extent in all aspects of its programming and implementation. 
+While some planned actions address specific gender-related needs (such as the prevention of child 
+marriages in Roma communities, and gender-sensitive statistics on violence against children), there are 
+CP areas where the gender equality principle is not explicit in the programming or design phases (such 
+as ECD). 
+Coherence 
+The UNICEF Bulgaria CPD remains true to its mandate to ensure the rights of all children to survival, 
+development, protection and participation and has been prepared and implemented in line with 
+UNICEF’s global and regional strategies.  
+The evaluation finds that UNICEF has strong credibility among all CP stakeholders and is well-
+acknowledged as the primary defender of child rights in Bulgaria. UNICEF – with its accumulated 
+knowledge, experience and expertise at the global, regional and national level – has gained the trust of 
+all social and economic actors as a facilitator for policy dialogue across the public, private and civil 
+sectors. UNICEF is perceived as a reliable partner that supports the government and strengthens its role 
+in the fields of health, education and protection.  
+The overall partnership network developed by UNICEF Bulgaria CO can be defined as a relatively strong 
+community, with various connections with actors from different sectors, such us governmental bodies, 
+public agencies and institutes, CSOs, local authorities, and UN agencies and other international 
+organizations. According to the data collected through interviews and the findings of the social network 
+
+ 
+ 
+6
+analysis, the most stable and strong type of partnership is the one established with governmental 
+bodies, followed by the partnerships with CSOs.  Building strong partnerships, it has translated into 
+programmatic work that allow the CO to provide technical support to governmental bodies and other 
+implementing partners, conduct evidence-based advocacy, and develop and demonstrative models to 
+be brought to scale.  
+UNICEF has commissioned or supported the collection of evidence through numerous research and 
+studies, including research to inform the design of activities under outcome areas and generate valuable 
+data on vulnerable and marginalized children. The UNICEF CO has used the evidence gathered to review 
+and revise its strategic partnerships with a view to: 1) engage more academia in partnerships; 2) 
+enhance collaboration with the regional or local service units that are gaining importance and focus on 
+special groups (such as children from Roma community); 3) strengthen partnerships with the media for 
+fundraising campaigns and to advance the application of the C4BSC approach; and 4) develop strategic 
+partnerships to engage the private sector in common projects and leverage resources for children. 
+Impact 
+UNICEF actions have generated changes in the legislative framework for ECD, child protection and 
+justice for children. The adoption of the New Social Act, for example, represents significant progress at 
+the national level on the promotion and realization of child rights in social protection and justice for 
+children.  
+Other legislative improvements that have been achieved with UNICEF’s contribution include: the 
+development of the National programme for prevention and protection of domestic violence for 2020; 
+the adoption of the National Strategy for Promoting Equality between Women and Men for the period 
+2021-2030; the adoption of the amendments of the Law on Asylum and Refugees and the amendments 
+of the Regulations and the Law on Aliens in the Republic of Bulgaria.  
+While UNICEF has also helped to enhance cross-sectoral cooperation, the impact remains limited to the 
+tested models, such as the Home-Visiting Service (HVS) or Child Advocacy Centers models. There are 
+also concerns about the continuation of such cooperation after the end of the projects. However, the 
+models developed and implemented by UNICEF have proven to be very effective in improving the 
+quality of integrated support services provided for children and their families in all CP areas. They have 
+also helped to change the attitudes and behaviors of parents (in terms of the child care provided) and 
+teachers (contributing to a more inclusive school environment). Through the Family Consultative 
+Centers and HVS models, UNICEF has provided effective alternative care and support solutions to 
+support the deinstitutionalization process in Bulgaria. But, without the national expansion of such pilots, 
+their limited impact in terms of the numbers of people who benefit cannot generate a significant at-scale 
+change in the lives of children in Bulgaria. 
+Data and other information collected by the evaluation team demonstrate that the CP and its 
+implementation took into account the specific needs of different groups of children. Although most of 
+the interventions are designed to provide universal impact for all children, in practice they tend to target 
+and offer support for the most marginalized children. They achieve results, mainly, for these groups.  
+The CP documents include strategies to address the most critical bottlenecks. Comprehensive situation 
+and needs assessments, surveys and evaluation studies suggest that UNICEF Bulgaria take a proactive 
+approach to the identification of risks at different stages of the interventions, and uses different 
+monitoring mechanisms to revisit these risks and identify mitigation measures.   
+Nevertheless, the bottlenecks that were initially identified have persisted over time and some have 
+become serious threats to the efforts of the CO to achieve results at scale. Therefore, the sustainability 
+of many CP outcomes is highly dependent on political will, existing institutional arrangements, and 
+capacities at national and local level. As noted, UNICEF Bulgaria collaborates successfully with different 
+government bodies. However, the prospects for the sustainability of the results achieved to date are 
+uncertain. given the current political instability, strong opposition to human rights, constant changes in 
+the policy agenda on children rights, weak cross-sectoral cooperation, fragmented institutional 
+practices and limited capacities (especially at local level).  
+
+ 
+ 
+7
+The evaluation found that CPD logic of the intervention lacks in coherence. While, many outcomes and 
+outputs indicators define impacts rather than results, the causal links between outcome level and output 
+level is week. Thus, in some cases, the expected outputs could not significantly contribute to the related 
+outcome.  
+Conclusions 
+The evaluation finds that UNICEF is well-positioned to assume a pivotal role in persuading actors from 
+different sectors to engage in concerted efforts to produce results for children. Building on this strength, 
+the CO has widened the scope and content of its partnerships when faced with political resistance to 
+child rights, to ensure the continued promotion of these rights without compromising its strategic 
+partnerships with the Government of Bulgaria and line ministries at the central and local level.  
+In this context, the evaluation shows that the CO has successfully addressed important and pressing 
+needs of children in the country, especially for groups of vulnerable children, and has supported policy 
+and institutional development for their benefit. UNICEF’s efforts to improve the situation for the most 
+marginalized children is well documented, with most CPD outputs focusing on specific groups of 
+disadvantaged children, such us children in residential care; children living in poverty; Roma children; 
+children with disabilities and/or at risk of developmental difficulties; child victims of violence; children 
+in conflict with the law; and refugee and migrant children.  
+An important contribution identified by the evaluation has been the CO’s provision of effective technical 
+support for the development of the legislative framework in all areas of the CP. The available evidence 
+shows important progress in the realization of child rights in most areas where the CO works.  
+UNICEF has, for example, made significant contributions to the process of deinstitutionalization and 
+solutions for alternative care, as well as support and counselling for parents from disadvantaged and 
+vulnerable groups. Its contribution to improving the legislative framework for child rights realization in 
+Bulgaria is well documented. Nevertheless, UNICEF should pursue its work in this area and provide 
+direct support for implementation through its available means. The process is long-term and the 
+changes that should be generated at-scale at the level of children’s lives will only be observable in time 
+(see Recommendation 1). 
+The evidence collected for the evaluation shows that the modeling components of the CP have been very 
+effective. The projects implemented have strengthened cooperation between duty bearers, and have 
+improved the quality of services for children in marginalized areas or children in precarious living 
+situations, in the areas of social protection, health and education. They have also increased access to 
+proper educational services for children with special educational needs and have improved the 
+knowledge, attitudes and practices of parents, especially those from the most remote and marginalized 
+settings. Additionally, these models have improved access to justice for children in contact with the law, 
+as well as access to specialized case-tailored services for child victims of neglect, abuse and violence or 
+for children at risk.  
+UNICEF has also contributed to the development of human resource capacity (such as social workers, 
+teachers and prosecutors) at the level of local public authorities and other public bodies involved in pilot 
+initiatives. As noted, the impact of UNICEF’s work can be observed mainly among disadvantaged 
+children, and analysis of the results at-scale of UNICEF CO Bulgaria in the period of 2018 – 2020/2021 
+indicates that the effects do go (to a limited extent) beyond the geographic areas where the pilot 
+programmes are implemented.  
+Nevertheless, there has been less progress on the objective of scaling up these pilots, and their impact 
+remains limited to the geographic areas where they are implemented.  Most of these interventions 
+remain rather small in scale and local in scope.   The data collected indicate that the provision of 
+integration could not be delivered to the same level of quality or intensity without the support of UNICEF 
+because of an ongoing lack of institutional capacity, and long-term impact is limited by the unclear 
+strategy to engage the government in the scaling-up of pilot projects (see Recommendations 3, 5 and 
+7). 
+ 
+
+ 
+ 
+8
+A shift towards a more preventive approach and “positive messaging on child well-being and good 
+practice of the realization of children’s rights” was taken. However, there is room of improvement as 
+regards CO involvement in better addressing public prejudices and to tackle both the strong anti-child 
+propaganda and violation of child-rights. While UNICEF Bulgaria CO managed to generate results for 
+children’s lives (through the demonstrative models developed and regulatory and legislative changes 
+supported), the extent to which the new adopted legislation will be enforced or the current legislative 
+framework will be further improved depends also on the evolution of this movement.  (see 
+Recommendations 2 and 3). 
+The evaluation found that the overall programming approach demonstrates gender sensitivity, with two 
+gender-related interventions: (1) prevention of child marriages in some of the most vulnerable Roma 
+communities and activities to empower the girls at risk; (2) interventions on violence against children. 
+In addition, gender responsiveness and gender mainstreaming are incorporated into the 
+implementation of other CP components (such as the HVS, parenting support programmes and the 
+capacity building of frontline workers on ECD). However, UNICEF’s gender priorities are insufficiently 
+clear and most stakeholders do not distinguish the gender equality aspect of its work. One serious 
+limitation is the lack of disaggregated data by gender in all cases; there are few gender-sensitive 
+indicators within UNICEF’s monitoring system (see Recommendation 6).  
+In addition to the gaps identified in the evidence to support UNICEF’s contributions to changes at 
+national level, the evaluation identified a series of inconsistencies in the CP logic of intervention, as well 
+as gaps in the CP performance framework (see Recommendations 8). 
+Lessons learned 
+UNICEF has adjusted its strategies to continue its work, despite the negative public discourse and 
+movements that affect the realization of human and child rights in Bulgaria. As a result, the CO learned 
+that there should be a balance between the extent to which its shifts its strategy to address the needs of 
+most vulnerable children and the expected results. UNICEF have used several entry-points to promote 
+the realization of child rights, being cautious in the face of negative perspectives, disseminated by 
+Bulgaria’s media, on social protection, on the rights of children from Roma communities, and the legal 
+framework for ECD. As a lesson learned, UNICEF has understood that a more proactive approach is 
+needed to advance its work. It has, for example, tried to find sources of funding through which to target 
+the Roma population directly and has, therefore, managed to advance its work through the European 
+Union Child Guarantee programme. 
+Perhaps the most important lesson learned by the CO is the need for more efforts on in the scale-up of 
+models. Without the development of a scaling-up strategy, agreed with all duty bearers in the early 
+stages of the project, the prospects of public institutions taking up the intervention remain unclear, 
+mainly due to a lack of public financial resources. Experience has revealed the challenges to the pilot 
+model used by UNICEF, and the CO needs to address sustainability from the outset.  
+As a result of the first three years of the CP implementation, the CO has realized that it should do more 
+to build upon the status of Bulgaria as a EU Member State and align more closely with EU priorities, to 
+position itself as a strategic partner for the government in using EU funds to improve the situation of 
+children in Bulgaria. UNICEF has worked to support the implementation of the EU Child Guarantee in 
+Bulgaria, and to leverage the available funds to improve access for the most disadvantaged and 
+marginalized children to quality, integrated services.  
+Another lesson learned relates to the strategy adopted by the CO when developing partnership with the 
+business sector. Experience has shown that UNICEF’s usual approach to the fundraising component of 
+the CP does not achieve the same impact when engaging with the private sector. In addition, the CO aims 
+to create partnerships beyond fundraising and to engage the business community in a more strategic 
+way, with interventions developed together and resources leverages on a more sustainable basis. There 
+is, therefore, a need for a more structured and focused strategy on the development of partnerships with 
+the business sector.  
+UNICEF has reacted in a timely and effective way to the COVID-19 pandemic in Bulgaria, with support 
+to the government to contain the impact on children’s lives. UNICEF provided support that 
+complemented the work of the government, as seen in pre-school education, where UNICEF has 
+
+ 
+ 
+9
+provided technical and IT support for children and teachers to help them continue the educational 
+process. Nevertheless, as the CO observed, there is still a pressing need to improve the quality and 
+coverage of data on the effects of the crisis on the most disadvantaged children. The inconsistency of the 
+national monitoring system on child rights has influenced the capacity of public institutions and UNICEF 
+to addresses the specific needs of the most marginalized children in the context of the COVID-19 
+pandemic.  Therefore, the improvement of the monitoring system remains a priority for the 
+development of well-grounded and effective policies. 
+Recommendations 
+The evaluation team formulated eight recommendations based on the findings and conclusions of the 
+evaluation report. These cover four main areas of action:  policy advocacy (from a sustainability 
+perspective); partnership building and cross-sectoral cooperation; programming; and monitoring.  
+The team has developed a set of indicative measures (institutional, programmatic and operational), that 
+can be used by the CO to guide the effective implementation of these recommendations, which are 
+presented in the main report. 
+Policy advocacy  
+Recommendation 1. Continue to conduct advocacy activities and provide technical assistance to 
+improve the legal framework, support the development of law enforcement documents and continue to 
+follow-up on their implementation. 
+Partnership building and inter-sectoral cooperation 
+Recommendation 2. Continue to strengthen partnerships with both the government and key 
+stakeholders in the country and develop partnerships with other international organizations and other 
+UN agencies in a more strategic way. 
+Recommendation 3. Continue to support and facilitate the development of cross-sectoral cooperation at 
+all levels and all areas addressed by the CPD.  
+Programming  
+Recommendation 4. Prioritize specific objectives under each area of the CPD to focus more resources on 
+one single aim and to develop more coherent strategies for actions (this recommendation should be 
+considered together with recommendation 5). 
+Recommendation 5. For results-at-scale, plan comprehensive activities that combine advocacy 
+activities, technical assistance for improved financing/budgeting and support for capacity building 
+(training, leadership development, procedures, and development of IT capacity) 
+Recommendation 6. Integrate equity and gender equality into all CP outcomes (where relevant). 
+Recommendation 7. Embed sustainability into the design of pilot interventions, including follow-up 
+plans, handover and exit strategies, and arrangements for scaling-up. 
+Monitoring 
+Recommendation 8. Define the indicator framework of the CPD and the monitoring process to better 
+record the actions and the results of the UNICEF CO. 
+ 
+ 
+ 
+
+ 
+ 
+10
+Table of Content 
+Executive summary .................................................................................................................................................................... 3 
+List of tables ................................................................................................................................................................................. 12 
+List of figures ............................................................................................................................................................................... 12 
+Table of acronyms .................................................................................................................................................................... 13 
+1. 
+INTRODUCTION ................................................................................................................................................................ 14 
+1.1. 
+Brief description of the context and current situation .................................................................... 14 
+1.2. 
+Country Programme components and goals .......................................................................................... 17 
+1.3. 
+Purpose, objectives and scope of the evaluation ................................................................................. 22 
+2. 
+METHODOLOGY ............................................................................................................................................................... 25 
+2.1. 
+Evaluation framework: criteria and questions .................................................................................... 25 
+2.2. 
+Data collection and analysis methods ....................................................................................................... 26 
+2.3. 
+Ethical issues and considerations of child rights, equity and gender ...................................... 27 
+2.4. 
+Limitations ................................................................................................................................................................ 27 
+2.5. 
+Management of the evaluation ...................................................................................................................... 28 
+3. 
+MAIN EVALUATION FINDINGS .................................................................................................................................. 30 
+3.1. 
+RELEVANCE ............................................................................................................................................................... 30 
+3.1.1. 
+To what extent has UNICEF responded to the (changing) needs of the most 
+vulnerable throughout the programme implementation ........................................................................ 30 
+3.1.2. 
+To what extent has UNICEF consistently integrated the equity and gender equality 
+in all aspects of programming and implementation, including policy and advocacy? ............ 31 
+3.1.3. 
+To what extent has UNICEF been able to respond to changes in national needs and 
+rights of the beneficiaries, especially of the most vulnerable and in national priorities 
+during programme implementation? .................................................................................................................. 33 
+3.1.4. 
+To what extent has UNICEF been able to respond to the shifts caused by crisis or 
+major socio-economic and political changes? ................................................................................................ 38 
+3.2. 
+COHERENCE .............................................................................................................................................................. 39 
+3.2.1. 
+To what extent has UNICEF’s Country Programme kept true to its mandate and 
+aligned with UNICEF’s global and regional strategies as well as UNSDCF and SDGs in any 
+given country? .................................................................................................................................................................. 39 
+3.2.2. 
+To what extent did UNICEF manage to build effective and sustainable partnerships 
+in working towards addressing the predefined bottlenecks, advocating for evidence for 
+equity and contributing to results at scale? ..................................................................................................... 45 
+3.2.3. 
+What are the comparative advantages of UNICEF in relation to other actors in the 
+country, including development partners, private sector, and non-government sector, and 
+to what extent were they necessary and sufficient for contributing to the results at scale to 
+be achieved? ....................................................................................................................................................................... 49 
+3.2.4. 
+How has UNICEF’s approach to strategic partnerships changed over time, if any? 51 
+3.3. 
+IMPACT ........................................................................................................................................................................ 52 
+3.3.1. 
+Did UNICEF Bulgaria contribute to results at-scale? If yes, how and why did it make 
+a difference and for whom? If not, why not? .................................................................................................... 52 
+
+ 
+ 
+11
+3.3.3.1. Evaluation of UNICEF impact under each Outcome of the Country Programme ........ 54 
+3.3.3.2. Conditions and factors influencing the impact of UNICEF’s Country Programme ..... 65 
+3.3.2. 
+Did UNICEF identify and reassess bottlenecks throughout programme 
+implementation? ............................................................................................................................................................. 67 
+3.3.3. 
+Did different groups, including children and the most marginalized, benefit in 
+different ways from the Country Programme? .............................................................................................. 69 
+3.3.4. 
+Are the results likely to be maintained over time? .................................................................. 74 
+3.3.5. 
+Which strategies or group of strategies were effective in producing results at 
+scale? 
+74 
+4. 
+CONCLUSIONS AND FORWARD-LOOKING RECOMMENDATIONS .......................................................... 77 
+4.1. 
+CONCLUSIONS .......................................................................................................................................................... 77 
+4.2. 
+LESSONS LEARNED ................................................................................................................................................ 81 
+4.3. 
+RECOMMENDATIONS ........................................................................................................................................... 82 
+5. Annexes ..................................................................................................................................................................................... 88 
+Annex 1. Evaluation Matrix ............................................................................................................................................ 88 
+Relevance ............................................................................................................................................................................ 88 
+Coherence ............................................................................................................................................................................ 89 
+Impact .................................................................................................................................................................................... 90 
+Annex 2.A. Summary analysis of UNICEF Bulgaria impact ............................................................................ 97 
+Annex 2.B. Detailed analysis of general impact of the CP in Bulgaria ..................................................110 
+Annex 3. Process Tracing – Case Studies ..............................................................................................................121 
+Case study 1: Assessment of UNICEF Bulgaria contribution in the area of early childhood 
+development (ECD) ......................................................................................................................................................123 
+Case Study 2: Assessment of UNICEF Bulgaria contribution in the area of inclusive 
+education for children with disabilities ...........................................................................................................131 
+Case study 3: Assessment of UNICEF Bulgaria contribution in the area of protection from 
+violence against children (VaC) ............................................................................................................................145 
+Annex 4. Results of the Social Network Analysis and stakeholder analysis .....................................163 
+Annex 5. Data collection instruments ....................................................................................................................174 
+Semi-structured interview guidelines ..............................................................................................................174 
+Questionnaire for Social Network Analysis....................................................................................................181 
+Annex 6. List of interviewees ......................................................................................................................................185 
+Annex 7. List of documentary evidence.................................................................................................................185 
+     ANNEX 8. TERMS OF REFERENCE……………………………………………………………………………………………………….187 
+ 
+ 
+
+ 
+ 
+12
+List of tables 
+Table 1. Consistency between the national priorities and CPD 2018-2022 ....................................................... 35 
+Table 2. Consistency between the UNICEF global and regional strategies, UNSDCF and SDGs and CPD 
+2018-2022 ...................................................................................................................................................................................... 41 
+Table 3. Process Tracing summary analysis for the area of early childhood development ................. Error! 
+Bookmark not defined. 
+Table 4. Process Tracing summary analysis for the area of inclusive education .... Error! Bookmark not 
+defined. 
+Table 5. Process Tracing summary analysis for the area of protection from violence against children
+ ................................................................................................................................................. Error! Bookmark not defined. 
+Table 6  The most marginalized and vulnerable children benefiting from UNICEF Bulgaria CP 
+implementation ............................................................................................................................................................................ 71 
+Table 7 Strategies used by UNICEF Bulgaria in selected areas of impact ............................................................ 75 
+Table 8. Metrics of the Social Network Analysis in Bulgaria ...................................................................................166 
+Table 9. Top 5 nodes in number of degrees in UNICEF network in the Republic of Bulgaria ...................168 
+Table 10. Top 5 nodes in betweenness centrality in UNICEF network in Bulgaria .......................................169 
+Table 11. Top 5 nodes in closeness centrality coefficients in UNICEF network in Bulgaria ......................170 
+ 
+List of figures 
+Figure 1. Stakeholders position in Bulgaria ..................................................................................................................... 22 
+Figure 2. The procedural flow of the evaluation ............................................................................................................ 28 
+Figure 3 Type of institutions/organizations indicated as important partners by Bulgaria CO 
+respondents ................................................................................................................................................................................... 45 
+Figure 4. Social Network of UNICEF in Bulgaria ................................................................................................................... 
+Figure 5 Type of information or support provided by the partners of UNICEF CO Bulgaria ...................... 49 
+Figure 6 Average value of the collaboration with key partners as perceived by UNICEF CO............................ 
+Figure 7. Summary of mechanisms enabling UNICEF contribution to change for children at scale ........ 66 
+Figure 8 Type of institutions/organizations indicated as important partners by Bulgaria CO 
+respondents (annex) ................................................................................................................................................................164 
+Figure 9 Type of information or support provided by the partners of UNICEF CO Bulgaria ....................165 
+Figure 10. Social Network of UNICEF in Bulgaria (annex) .......................................................................................166 
+Figure 11. Social Network of UNICEF in Bulgaria filtered by number of degrees ..........................................167 
+Figure 12. Social Network of UNICEF in Bulgaria filtered by betweenness centrality .................................168 
+Figure 13. Social Network of UNICEF in Bulgaria filtered by closeness centrality ........................................170

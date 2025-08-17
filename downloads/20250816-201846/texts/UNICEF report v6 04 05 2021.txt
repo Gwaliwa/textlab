@@ -1,0 +1,504 @@
+May 2021    \\
+Evaluation of 
+Models for Scale-
+up Potential in 
+Serbia 2016-2020 
+Final Report. May 2021 
+Prepared for UNICEF Country Office, 
+Serbia 
+ 
+
+ 
+ 
+Authors 
+Jane Lewis, Thomas Steele, Gayatri Kembhavi-Tam PhD, Robyn Mildon PhD (Centre for 
+Evidence and Implementation) 
+Jovana Obradovic, Olivera Vuković, Marija Babović (SeConS Development Initiative Group) 
+Jelena Žarković (University of Belgrade and Foundation for the Advancement of 
+Economics)  
+ 
+Suggested citation 
+Lewis J., Steele T., Kembhavi-Tam G., Mildon R., Obradovic J., Vuković O., Babović M., & 
+Žarković J. 2020. Evaluation of Models for Scale-up Potential in Serbia 2016-2020. Final 
+Report. UNICEF, Serbia 
+About CEI 
+The Centre for Evidence and Implementation (CEI) is a global, not-for-profit evidence 
+intermediary dedicated to using the best evidence in practice and policy to improve the 
+lives of children, families, and communities facing adversity. Established in Australia in late 
+2015, CEI is a multi-disciplinary team across four offices in Singapore, Melbourne, Sydney 
+and London. We work with our clients, including policymakers, governments, practitioners, 
+program providers, organization leaders, philanthropists and funders in three key areas of 
+work: 
+• 
+Understand the evidence base 
+• 
+Develop methods and processes to put the evidence into practice 
+• 
+Trial, test and evaluate policies and programs to drive more effective decisions 
+and deliver better outcomes 
+About SeConS 
+SeConS Development Initiative Group is an independent think-tank organisation of experts, 
+established in Belgrade, Serbia, in 2005 with the aim of contributing to long-term socio-
+economic development and improvement of living conditions of individuals and social 
+groups in Serbia and the region. As a policy and research-oriented NGO, SeConS gathers an 
+inter-disciplinary group of experts focused primarily on study of policy issues related to 
+inclusive development. 
+Acknowledgements 
+We are very grateful to all those who participated in evaluation interviews and who shared 
+their experiences, analysis and insights with us. We thank the UNICEF personnel in the 
+Serbia Country Office and in the Regional Office who supported this evaluation, in 
+particular the three teams whose models were the focus of the evaluation and Ana 
+Prodanovic whose commitment, support, insight and advice throughout the project has 
+been invaluable. We are very grateful to the external reference group (Kerry Albright, John 
+Gargani and Carlos Acosta) for the advice and support they provided to the evaluation 
+team. Finally, we are also grateful to colleagues at CEI and SeConS who provided support 
+at different stages throughout the project.  
+ 
+ 
+ceiglobal.org 
+London / Melbourne / Singapore / Sydney 
+
+ 
+Contents 
+Executive Summary 
+1 
+Introduction 
+1 
+Findings 
+3 
+Discussion 
+4 
+Conclusions, lessons learnt and recommendations 
+5 
+1. Introduction 
+9 
+Chapter summary 
+9 
+1.1. Scale-up and modelling 
+10 
+1.2. Objectives of this evaluation 
+10 
+1.3. Evaluation methods 
+15 
+1.3.1. Evaluation methodology 
+15 
+1.3.2. Inception period 
+17 
+1.3.3. Evaluation: elements of work 
+18 
+1.3.4. Gender equality considerations 
+21 
+1.3.5. Reference group 
+22 
+1.3.6. Strengths and limitations of evaluation and methods 
+22 
+1.4. Report structure 
+23 
+2. Serbia national context 
+24 
+Chapter summary 
+24 
+2.1 Serbia social context 
+25 
+2.1.1. Social and political framework 
+25 
+2.2 Political and financial context 
+27 
+
+ 
+2.1.2. Public finance systems: central and local government responsibilities 
+27 
+2.1.3. Constraint and austerity 
+32 
+2.1.4. Other finance systems 
+33 
+2.1.5. Public policy framework for social protection 
+36 
+2.1.6. Government planning processes and where to intervene 
+41 
+2.2. Key features of the enabling environment for modelling 
+43 
+3. Did modelling result in an optimised 
+programme? 
+45 
+Chapter summary 
+45 
+3.1. Initiating modelling 
+46 
+3.2. The approach to modelling 
+46 
+3.3. Developing key programme components 
+48 
+3.4. Use of the Sine Qua Non 
+52 
+4. Did modelling build the evidence base? 
+53 
+Chapter summary 
+53 
+4.1. The need for evidence 
+53 
+4.2. The nature and quality of evidence generated in modelling
+ 
+54 
+4.2.1. Evidence about implementation 
+54 
+4.2.2. Evidence about outcomes 
+58 
+4.2.3. Evidence about cost-effectiveness 
+59 
+4.2.4. Gaps in evidence 
+60 
+5. Did modelling result in a model that fits the 
+context? 
+61 
+Chapter summary 
+61 
+
+ 
+5.1. Why are acceptability and fit important? 
+62 
+5.2. Are the models viewed as relevant, credible and having 
+clear benefits? 
+64 
+5.2.1. Relevance and addressing a high priority equity-based need 
+64 
+5.2.2. Credibility 
+65 
+5.2.3. Relative advantage and visible benefits 
+65 
+5.3. Are the models viewed as acceptable, appropriate, feasible 
+and a good fit? 
+66 
+5.3.1. Acceptability and appropriateness 
+67 
+5.3.2. Feasibility and fit 
+69 
+5.4. Implications for modelling 
+73 
+6. Has modelling secured commitment to scale-
+up? 
+75 
+Chapter summary 
+75 
+6.1. Securing commitment: why it matters 
+76 
+6.2. To what extent has UNICEF secured commitment? 
+77 
+6.3. How has UNICEF secured commitment 
+78 
+6.3.1. UNICEF’s advantageous legacy position in Serbia 
+78 
+6.3.2. Securing commitment to modelling 
+79 
+6.3.3. Securing commitment to scale-up 
+79 
+6.4. Opportunities to strengthen commitment 
+81 
+6.4.1. Strengthening government advocacy 
+81 
+6.4.2. Strengthening financial advocacy 
+82 
+6.4.3. Influencing government through others 
+82 
+6.4.4. Building movements and leveraging social commitment 
+83 
+6.4.5. Integrating modelling, advocacy and communications 
+84 
+
+ 
+7. Discussion 
+85 
+Chapter summary 
+85 
+7.1. Readiness for scale-up of the exemplar models 
+86 
+7.1.1 
+Family Outreach Worker 
+87 
+7.1.2. Intermittent Foster Care 
+88 
+7.1.3. Diversionary Measures 
+91 
+7.1.4. Early Childhood Intervention 
+93 
+7.1.5. Dropout Prevention Programme 
+95 
+7.2. Modelling as assessed against the OECD/DAC criteria 
+97 
+7.3.1 Relevance 
+97 
+7.3.2 
+Efficiency 
+97 
+7.3.3 
+Sustainability 
+98 
+7.3. Strengthening modelling 
+98 
+7.3.1. Situating modelling within systems change ambitions and a wider portfolio of 
+work 
+99 
+7.3.2. Improving model evaluation 
+100 
+7.3.3. Adapting and optimising the models 
+101 
+7.3.4. Sharpening the focus on gender 
+103 
+7.3.5. Influencing the allocation of funds 
+105 
+7.3.6. Extending advocacy and communications 
+106 
+7.3.7. Planning and governance 
+107 
+8. Conclusions, lessons learnt and 
+recommendations 
+109 
+8.1. Conclusions 
+109 
+8.1.1. Strengths of modelling 
+109 
+8.1.2. Weaknesses of modelling 
+110 
+
+ 
+8.1.3. Unintended consequences of modelling 
+110 
+8.1.4. Implications for the future of modelling 
+110 
+8.2. Lessons learnt 
+111 
+8.3. Recommendations 
+111 
+Annexes 
+117 
+Annex 1 – Terms of Reference 
+118 
+Annex 2 – Theory of Change for modelling 
+138 
+Annex 3 – Model Summaries 
+140 
+Family Outreach Worker 
+140 
+Intermittent Foster Care 
+143 
+Diversionary Measures 
+146 
+Early Childhood Intervention 
+148 
+Drop-Out Prevention 
+150 
+Annex 4 – Country Programme Theory of Change 2016-2020 152 
+Annex 5 – UNICEF model funding requirements 
+153 
+Annex 6 – Costing the models 
+154 
+Annex 7 – List of reviewed documents 
+157 
+Annex 8 – UNICEF Scale-up Framework and development 
+161 
+Annex 9 – Modelling Activity checklist 
+166 
+Annex 10 – Organisations interviewed 
+167 
+Annex 11 – Evaluation methods 
+168 
+Annex 12 – Ethical considerations 
+192 
+Annex 13 – Sine Qua Non 
+194 
+Annex 14 – Other scaled-up initiatives 
+196 
+Annex 15- Information about the evaluation team 
+197 
+ 
+ 
+ 
+
+ 
+ 
+List of tables 
+Table 1.1 Evaluation questions ............................................................................................................. 11 
+Table 1.2 The five exemplar models ..................................................................................................... 13 
+Table 1.3 Number of interviews and participants involved .................................................................. 19 
+Table 1.4 Survey sample profile ........................................................................................................... 21 
+Table 2.1 General Government Expenditure by Function, 2018 .......................................................... 27 
+Table 2.2 Serbian budgetary calendar .................................................................................................. 41 
+Table 3.1 Sufficiency of support for implementation ........................................................................... 48 
+Table 3.2 Completion of core programme components ...................................................................... 49 
+Table 3.3 ECI model guidelines ............................................................................................................. 50 
+Table 5.1 Perceptions of value of the exemplar models ...................................................................... 66 
+Table 5.2 Staff capacity issues .............................................................................................................. 69 
+Table 5.3 Views about continuing delivery ........................................................................................... 70 
+Table 5.4 Quality of local cooperation.................................................................................................. 72 
+Table 5.5 Legislative and regulatory change requirements.................................................................. 73 
+Table 6.1 Indicative summary of commitment attained by models ..................................................... 78 
+Table 6.2 Government Ministries engaged in modelling...................................................................... 79 
+Table 7.1 Scaling-up FOW: sequencing further work ........................................................................... 87 
+Table 7.2 Scaling-up IFC: sequencing further work .............................................................................. 90 
+Table 7.3 Scaling-up DMs: sequencing further work ............................................................................ 92 
+Table 7.4 Scaling-up ECI: sequencing further work .............................................................................. 94 
+Table 7.5 Scaling-up DOP: sequencing further work ............................................................................ 96 
+Table 7.6 Gender-related questions for each model.......................................................................... 104 
+ 
+ 
+ 
+ 
+ 
+
+ 
+List of figures 
+Figure 0.1 Mapping evaluation recommendations to perceived urgency and impact ....................... 116 
+Figure 1.1 UNICEF Scale-up Framework ............................................................................................... 18 
+Figure 2.1 Financial resources of local social services .......................................................................... 32 
+Figure 2.2 Share structure of IPA funds by sector 2014 - 2020 ............................................................ 34 
+Figure 2.3 Open Budget Index (OBI) scores- Serbia (2008-19) ............................................................. 42 
+Figure 5.1 The Dynamic Sustainability Framework (adapted from Chambers et al., 2013) ................. 63 
+Figure 7.1 Readiness for scale-up: FOW ............................................................................................... 88 
+Figure 7.2 Readiness for scale-up: IFC .................................................................................................. 90 
+Figure 7.3 Readiness for scale-up: DMs ............................................................................................... 92 
+Figure 7.4 Readiness for scale-up: ECI .................................................................................................. 94 
+Figure 7.5 Readiness for scale-up: DOP ................................................................................................ 96 
+Figure 7.6 Iterative system improvement .......................................................................................... 102 
+ 
+List of boxes 
+Box 1.1 Defining scale-up ..................................................................................................................... 10 
+Box 1.2 Topics covered by interviews .................................................................................................. 20 
+Box 3.1 The importance of a model-level theory of change ................................................................ 50 
+Box 3.2 The Sine Qua Non .................................................................................................................... 52 
+Box 4.1 Implementation evaluations .................................................................................................... 55 
+Box 5.1 Fit and alignment: The Dynamic Sustainability Framework ..................................................... 63 
+Box 5.2 What is systems change?......................................................................................................... 67 
+Box 5.3 How systems neutralise innovation ......................................................................................... 74 
+Box 7.1 Approaches to systems change ............................................................................................. 100 
+Box 7.2 Balancing fidelity with adaptation ......................................................................................... 103 
+ 
+ 
+ 
+
+ 
+List of acronyms 
+BPC 
+Belgrade Psychology Centre 
+CEDAW 
+Convention on the Elimination of all Forms of Discrimination Against Women 
+CEI 
+Centre for Evidence and Implementation 
+CEP 
+Centre for Education Policy 
+CFC 
+Centres for Foster Care 
+CFIR 
+Consolidated Framework for Implementation Research 
+CO 
+Country Office 
+CPD 
+Country Programme Document  
+CRC 
+Convention on the Rights of the Child 
+CRPD 
+Convention on the Rights of Persons with Disabilities 
+CSW 
+Centres for Social Work 
+CWD 
+Children with Disabilities 
+DM 
+Diversionary Measures 
+DOP 
+Drop-Out Prevention 
+ECA 
+Europe and Central Asia 
+ECI 
+Early Childhood Intervention 
+ERG 
+Evaluation Reference Group 
+ERP 
+Economic Reform Programme 
+EU 
+European Union 
+EUR 
+Euro 
+FOW 
+Family Outreach Worker 
+GDP 
+Gross Domestic Product 
+
+ 
+IFC 
+Intermittent Foster Care 
+IPA 
+Instrument for Pre-Accession Assistance 
+IR 
+Inception Report 
+LSG 
+Local Self-Government 
+MICS 
+Multiple Indicator Cluster Survey 
+MLEVSA 
+Ministry for Labour, Employment, Veterans and Social Affairs 
+MOF 
+Ministry of Finance 
+NGO 
+Non-Government Organisation 
+OBI 
+Open Budget Index 
+OECD/DAC 
+Organisation for Economic Co-operation and Development’s Development 
+Assistance Committee 
+PHC 
+Primary Health Care 
+PPP 
+Public/Private Partnerships 
+RISP 
+Republic Institute for Social Protection 
+RSD 
+Serbian Dinar 
+SDC 
+Swiss Agency for Development and Co-operation 
+SDES 
+Strategy of Education Development Serbia 
+SQN 
+The Sine Qua Non for Modelling 
+ToC 
+Theory of Change 
+ToR 
+Terms of Reference 
+UNEG 
+United Nations Evaluation Group 
+UNICEF 
+United Nations Children’s Fund 
+ 
+ 
+
+Evaluation of Models for Scale-up Potential in Serbia 2016-2020 
+1 
+Executive Summary 
+Introduction 
+This report presents the findings of an evaluation of UNICEF’s modelling activity, which 
+was commissioned by UNICEF to support their work to test and scale-up models. 
+Modelling means piloting an intervention in new contexts to demonstrate its replicability 
+and effectiveness1. Between 2016-2020 UNICEF initiated or continued to develop a 
+number of models in the areas of health, child protection, education and adolescent 
+wellbeing. A set of 10 necessary conditions or ‘Sine Qua Non’ (SQN) for modelling is 
+intended to guide this work.  
+In this evaluation, modelling was examined through five exemplar models, each at a 
+different stage in modelling and work towards scale-up: 
+• 
+Family Outreach Worker (FOW): an intensive family support service for families 
+with children with multiple and complex needs, intended to improve the capacity 
+of families to support children’s development and to avoid out-of-home care. 
+Modelling took place from 2013-18 in Belgrade, Novi Sad, Kragujevac and Niš. 
+Delivery ceased after the end of modelling except in Novi Sad. Amendments to 
+legislation required to take the model to national scale have been drafted but not 
+adopted. 
+• 
+Intermittent Foster Care (IFC): periodic family-based respite care for children with 
+disabilities, to support families and improve care for children, and connect 
+families and children with their local community. The model was implemented in 
+2015-2016 in Novi Sad, Belgrade, Kragujevac and Nis by regional Centres for 
+Foster Care and Adoption, working with Centres for Social Work.  
+The amendments to law required for scale-up have been drafted but not enacted. 
+The model continues to be used in Novi Sad, and elsewhere some families from 
+ 
+1 Terms of Reference for this evaluation- see Annex 1 
+\\
+Executive Summary

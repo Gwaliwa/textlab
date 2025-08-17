@@ -1,0 +1,325 @@
+Country-Led Evaluation of Preschool 
+Education in Timor-Leste (2012–2020) 
+Final Report 
+ 
+April 2022 
+ 
+ 
+Commissioned by: 
+Conducted by: 
+Supported by: 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Country-Led Evaluation of Preschool 
+Education in Timor-Leste (2012–2020) 
+Final Report 
+April 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Country-Led Evaluation of Preschool Education in Timor-Leste was commissioned by the 
+Ministry of Education, Youth and Sport (MoEYS) in Timor-Leste through the United Nations 
+Children’s Fund (UNICEF) Timor-Leste. The evaluation was conducted by the American 
+Institutes for Research (AIR) and data were collected by colleagues from the Universidade 
+Nacional Timor Lorosa’e. 
+ 
+The opinions expressed within this report are those of the authors and evaluation 
+informants and do not necessarily reflect the views of the government or UNICEF.  
+ 
+Photo credits. Front cover: Bernardino Soares 2018. Back cover: Bernardino Soares 2017. 
+ 
+ 
+For further information, please contact:  
+UNICEF Timor-Leste UN House 
+ 
+Caicoli Street, Dili, Timor-Leste  
+ 
+P.O. Box 212  
+ 
+www.unicef.org/timorleste  
+ 
+www.facebook.com/uniceftimorleste  
+ 
+ 
+Timor-Leste Ministry of Education, Youth, and Sport 
+ 
+CHR9+43F 
+Dili, Timor-Leste 
++670 333 1065 
+info@moe.gov.tl 
+http://moe.gov.tl/tl/
+
+ 
+iii |   
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Contents 
+ 
+Acronyms ...................................................................................................................... vi 
+Acknowledgements ..................................................................................................... viii 
+Executive Summary ........................................................................................................ 1 
+Methodology .............................................................................................................. 1 
+Key Findings ............................................................................................................... 2 
+Conclusions ................................................................................................................ 4 
+Recommendations ..................................................................................................... 5 
+1. Background and Context ............................................................................................ 7 
+2. Object of the Evaluation .......................................................................................... 10 
+3. Purpose, Objectives and Scope ................................................................................ 15 
+3.1. Purpose ............................................................................................................. 15 
+3.2. Objectives of the Evaluation ............................................................................. 16 
+3.3. Scope of the Evaluation .................................................................................... 16 
+4. Methodology ............................................................................................................ 17 
+4.1. Evaluation Criteria ............................................................................................ 17 
+4.2. Evaluation Framework ...................................................................................... 18 
+4.3 Evaluation Design and Methods ........................................................................ 20 
+4.4. Data Sources and Sampling .............................................................................. 22 
+4.5. Stakeholder Participation ................................................................................. 25 
+4.6. Ethical Considerations ...................................................................................... 25 
+4.7. Constraints and Limitations .............................................................................. 27 
+5. Findings .................................................................................................................... 28 
+5.1 Relevance ........................................................................................................... 28 
+5.2 Coherence .......................................................................................................... 30 
+5.3 Effectiveness ...................................................................................................... 34 
+5.4 Efficiency ............................................................................................................ 51 
+5.5 Sustainability ...................................................................................................... 63 
+6. Conclusions .............................................................................................................. 66 
+7. Lessons Learned ....................................................................................................... 70 
+8. Recommendations ................................................................................................... 71 
+Annex A: Terms of Reference ...................................................................................... 77 
+
+ 
+iv |   
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Annex B: Evaluation Matrix.......................................................................................... 90 
+Annex C: Documents Reviewed ................................................................................. 103 
+Annex D: Interview and Focus Group Protocols ........................................................ 107 
+Annex E: Sample ........................................................................................................ 138 
+Annex F: IRB Certificate ............................................................................................. 139 
+ 
+ 
+
+ 
+v |   
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Figures 
+ 
+Figure 1. Theory of Change .......................................................................................... 12 
+Figure 2. Country-Led Evaluation of Preschool Education in Timor-Leste: Summary of 
+Approach ...................................................................................................................... 20 
+Figure 3. Gross Enrolment Rate per Municipality, 2013 and 2020 .............................. 23 
+Figure 4. Preschool GER 2013–2020 ............................................................................ 45 
+ 
+
+ 
+vi | 
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Acronyms 
+ 
+AIR 
+ 
+American Institutes for Research 
+CSEP  
+Civil Society Education Partnership 
+DG 
+ 
+Directorate General 
+ECD 
+ 
+Early childhood development 
+ECE 
+ 
+Early childhood education 
+ERG 
+ 
+Evaluation Reference Group 
+EGRA  
+Early Grade Reading Assessment 
+EMIS  
+Education Management Information System 
+ESP 
+ 
+Education Sector Plan 
+FGD 
+ 
+Focus group discussion 
+DGP 
+ 
+Gross domestic product 
+GER 
+ 
+Gross enrolment rate 
+GEROS  
+Global Evaluation Reports Oversight System 
+HANDS 
+Halimar, Aprende no Descobre Susesu 
+INFORDEPE 
+Instituto Nacional de Formação de Docentes e Profissionais da Educação 
+IRB 
+ 
+Institutional review board 
+KII 
+ 
+Key informant interview 
+MoEYS  
+Ministry of Education, Youth and Sport  
+NCF 
+ 
+Nurturing Care Framework 
+NER 
+ 
+Net enrolment rate 
+NESP  
+National Education Strategic Plan 
+NGO 
+ 
+Non-governmental organisation 
+
+ 
+vii | 
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+OECD  
+Organisation for Economic Co-operation and Development 
+SDG 
+ 
+Sustainable Development Goal 
+ToR 
+ 
+Terms of reference 
+UNICEF  
+United Nations Children’s Fund 
+UNTL  
+Universidade Nacional Timor Lorosa’e 
+WASH  
+Water, sanitation and hygiene 
+ 
+ 
+ 
+
+ 
+viii | 
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Acknowledgements 
+ 
+The authors would like to thank the Ministry of Education, Youth and Sport, particularly 
+Directorate General (DG) for Education and Teaching Luis Fernandes and Former DG for Pre-
+school, Basic Education and Recurrent Education Apolinario Serpa Rosa, and the Evaluation 
+Reference Group for their guidance and support of this project. We would also like to thank 
+UNICEF Timor-Leste for their financial, logistical and technical support of this evaluation. 
+The authors have very much enjoyed our collaboration with UNICEF and would especially 
+like to thank James Kimani, Ameena Didi, Erika Tsuruyama, Santina Da Cruz, Jieun Jung and 
+Aurelio Da Costa. We would also like to thank the gracious participants who shared their 
+perspectives in interviews for this project; this evaluation would not have been possible 
+without them. 
+The study team included the following personnel: 
+Elizabeth Spier, Paula Dias, Anna Warren & Yasmina Haddad 
+American Institutes for Research 
+ 
+Therese Tam, Lili Chen, Antonio do Carmo, João de Freitas, Luis Pinto & Noviana Simões 
+Universidade Nacional Timor Lorosa’e 
+
+ 
+1 | 
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Executive Summary 
+ 
+United Nations Sustainable Development Goal (SDG) 4.2 states that by 2030, all children 
+should have access to quality preschool education to ensure they are ready for primary 
+education.1 Preschool education improves long-term educational and life outcomes in 
+developing countries especially; school readiness programmes have the potential to provide 
+additional support to students who are otherwise socio-economically disadvantaged.2,3 
+Whilst access to education has substantially improved in recent years, Timor-Leste’s 
+preschool education sector is not prepared to achieve this SGD, or its own targets.  
+To help inform future planning for its preschool subsector, the Ministry of Education, Youth 
+and Sport (MoEYS) commissioned this independent evaluation of Timor-Leste’s preschool 
+education subsector. The United Nations Children’s Fund (UNICEF) Timor-Leste engaged the 
+American Institutes for Research (AIR) to conduct the evaluation, with support from the 
+Universidade Nacional Timor Lorosa’e (UNTL) as an in-country partner for this work.  
+The evaluation focused on Timor-Leste’s preschool education subsector and covered years 
+2012–2020 to align with the launch of the Policy Framework for Preschool Education. It 
+fulfilled the three main objectives: (1) Develop a theory of change to capture the pathways 
+towards increasing equitable access to quality preschool education in Timor-Leste; 
+(2) Assess the relevance, coherence, effectiveness, efficiency and sustainability of the 
+preschool education policy and programmes in Timor-Leste; and (3) Identify lessons learned 
+and make recommendations useable by the government and its key partners to inform 
+decision-making on policy and programme design and implementation of the preschool 
+subsector.  
+Methodology 
+This thematic evaluation consisted of a single round of data collection, with a desk review of 
+relevant documentation and education management information system (EMIS) data, plus 
+36 key informant interviews with government stakeholders at the national and municipal 
+levels, international organisations such as UNICEF and the World Bank, teacher training 
+institutions, non-governmental organisations (NGOs) and preschool programme providers. 
+Team members from UNTL also conducted a focus group discussion with Timor-Leste’s Early 
+Childhood Development (ECD) Working Group.  
+ 
+1 United Nations Department of Economic and Social Affairs, ‘The 17 Goals’, <https://sdgs.un.org/goals>, accessed 
+1 February, 2022. 
+2 Arnold, Carolyn, Kathy Bartlett, Saima Gowani, and Rehana Merali, Is everybody ready? Readiness, transition, and 
+continuity: Lessons, reflections and moving forward, UNESCO, 2006.  
+3 Gertler, Paul, James Heckman, Rodrigo Pinto, Arianna Zanolini, Christel Vermeersch, Susan Walker, Susan M. Chang, 
+Sally Grantham-McGregor, ‘Labor market returns to early childhood stimulation: A 20-year follow-up to an experimental 
+intervention in Jamaica’, NBER Working Paper No. 19185, National Bureau of Economic Research, Cambridge, MA, 2013. 
+
+ 
+2 | 
+ Final Report: Country-Led Evaluation of Preschool Education in Timor-Leste  
+Key Findings 
+In this section, we 
+present key findings 
+related to each of the 
+evaluation questions.  
+Presence of 
+comprehensive and 
+evidence-based policies 
+and plans for the 
+delivery of high-quality 
+preschool education. 
+Taken together, Timor-
+Leste’s preschool 
+policies and plans address the key areas required for high-quality preschool education 
+systems. However, plans are fragmented across documents and are mostly at a high level. 
+There are substantial gaps in the availability of relevant data, making it very challenging for 
+Timor-Leste stakeholders to engage in evidence-based planning. 
+Extent to which actors in Timor-Leste’s preschool education sector collaborate and 
+coordinate with one another and with actors in other sectors to meet children’s holistic 
+needs. There are a variety of actors in the preschool subsector, but there is no coherent 
+national plan that integrates Timor-Leste’s efforts into a larger framework. The main 
+collaboration mechanism for preschool education at the national level was the ECD Working 
+Group (which was established to review multisectoral ECD policy more broadly, including 
+preschool education). However, the group’s work stalled due to staff turnover and the 
+pandemic. At the municipal level, there are no systematic mechanisms of coordination in 
+place amongst municipal education authorities, partners and the MoEYS. 
+Presence of adequate governance and accountability structures and strategies. Timor-
+Leste has clear lines of authority and explicitly defined roles and responsibilities for the 
+subsector. National-level stakeholders indicated a need for more effective collaboration on 
+financing and implementation amongst government actors and between the government 
+and other organisations. Municipalities have primary responsibility for preschool financing 
+and implementation, and they would like improved guidance on preschool standards.  
+Budgeting and financing for the provision of cost-effective preschool education. As a 
+portion of gross domestic product (GDP), the budget allocated to preschool is less than one 
+tenth the recommended level (of 1 per cent of GDP). Within the education sector budget, 
+the subsector receives one third or less of the recommended proportion. Timor-Leste 
+appears to start with a budget allocation for preschool in the education sector plan, then 
+determines how to use it best, rather than basing the budget on a comprehensive and long-
+©UNICEF / BBenevides

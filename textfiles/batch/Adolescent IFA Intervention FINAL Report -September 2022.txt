@@ -1,0 +1,2862 @@
+Final Evaluation of the
+Adolescent Iron and Folic
+Acid (IFA) Intervention in
+Mangochi, Salima and Dedza
+Districts of Malawi
+Commissioned by
+UNICEF Country Office
+Lilongwe
+Malawi
+July 2022
+Summary of the Intervention
+Intervention Name Adolescent Iron and Folic Acid (IFA) Intervention in Malawi
+(LRPS-2021-9170281)
+Donors The Global Thematic Fund through the Netherlands grant
+Implementer Malawi Government with support from UNICEF
+Key Partners ▪ Ministry of Health (Department of Nutrition, HIV and AIDS
+(DNHA), Reproductive Health Unit, Department of
+Community Nursing and District Health Offices)
+▪ Ministry of Education (Department of School Health,
+Nutrition, HIV and AIDS)
+▪ Ministry of Youth (MoY)
+▪ Story Workshop Educational Trust (SWET)
+Lifespan 3 years (2018-2021)
+Targeted Districts Mangochi, Salima and Dedza
+Goal To improve the nutritional status of adolescents, with a focus on
+school going and out-of-school adolescent girls aged 10-19
+years in the three targeted districts of Malawi by 2021.
+Specific Objectives i) To promote consumption of diversified diets using the
+Malawi six food groups’ approach among 70 per cent of
+adolescent boys and girls aged 10-19 years.
+ii) To standardize the integration of weekly IFA supplements in
+the Ministry of Health (MoH) supply chain.
+iii) To promote compliance with iron and folic acid supplements
+and deworming in 70 per cent of school going and 60 per
+cent of out-of-school adolescent girls.
+iv) To create an enabling environment for effective
+implementation of adolescent nutrition intervention.
+Beneficiaries 35,000 adolescent girls aged 10-19 years (24,500 in school and
+10, 500 out of school)
+Key Activities i) IFA supplementation to adolescent girls 10-19 years.
+ii) Deworming of adolescent girls 10-19 years with albendazole
+iii) Promotion of diversified diets guided by the Malawi six food
+groups through Social Behaviour Change and
+Communication (SBCC)
+ii
+Acronyms
+ABC Actor Based Change
+ADC Area Development Committee
+AEDC Agriculture Extension Development Coordinator
+AEDO Agricultural Extension Development Officer
+AEHO Assistant Environment Health Officer
+AIDS Acquired Immunodeficiency Syndrome
+ANCC Area Nutrition Coordinating Committee
+BMI Body Mass Index
+CHN Community Health Nurse
+CMAM Community-based Management of Acute Malnutrition
+CMSD Central Medical Stores Department
+CPD Country Programme Document
+CRC Convention on the Rights of the Child
+CSO Civil Society Organization
+DAC Development Assistance Committee
+DEM District Education Manager
+DFID Department for International Development
+DHIS District Health Information System
+DHO District Health Office
+DNCC District Nutrition Coordinating Committees
+DNHA Department of Nutrition, HIV and AIDS
+DNO District Nutrition Officer
+DP Development Partners
+ESAR Eastern and Southern Africa Region
+EU European Union
+FAO Food and Agriculture Organization of the United Nations
+FGD Focus Group Discussion
+FNO Food and Nutrition Officer
+FUM Farmers Union of Malawi
+iii
+GBV Gender Based Violence
+GFF Global Financing Facility
+GoM Government of Malawi
+GTF Global Thematic Fund
+GVH Group Village Headman
+HDDS Household Dietary Diversity Score
+HGSM Home Grown School Meals
+HIV Human Immunodeficiency Virus
+HSA Health Surveillance Assistant
+IDA Iron Deficiency Anaemia
+IEY Investing in Early Years
+IFA Iron and Folic Acid
+JPGE UN Joint Programme on Girls Education
+KAP Knowledge, Attitude and Practice
+KfW Kreditanstalt für Wiederaufbau
+KII Key Informant Interview
+MDHS Malawi Demographic and Health Survey
+MGDS Malawi Growth and Development Strategy
+MoE Ministry of Education
+MoH Ministry of Health
+MoY Ministry of Youth
+NAPE Afikepo’s Nutrition and Access to Primary Education
+NECS Nutrition Education and Communication Strategy
+NMSNP National Multi-Sector Nutrition Policy
+NSO National Statistical Office
+ONSE Organized Network of Services for Everyone's Health Project
+ORT Other Related Activities Transaction
+PNHAO Principal Nutrition, HIV and AIDS Officer
+PRA Participatory Rural Appraisal
+PTA Parents and Teachers’ Association
+iv
+RHU Reproductive Health Unit
+SBCC Social Behaviour Change Communication
+SDG Sustainable Development Goals
+SHN School Health and Nutrition
+SMART Standardized Monitoring and Assessment of Relief and Transition
+SUN Scaling Up Nutrition
+SWET Story Workshop Educational Trust
+TA Traditional Authority
+TDC Teacher Development Centre
+TFD Theatre for Development
+ToC Theory of Change
+UNEG United Nations Evaluation Group
+UNFPA United Nations Population Fund
+UNICEF United Nations Children’s Fund
+USAID United States Agency for International Development
+WASH Water, Sanitation and Hygiene
+WFP World Food Programme
+WHO World Health Organization
+WRA Women of Reproductive Age
+v
+Acknowledgement
+This report is for the final evaluation of the Adolescent Iron and Folic Acid (IFA)
+Intervention that the Government of Malawi with support from UNICEF implemented in
+Mangochi, Salima and Dedza districts as a proof of concept under the Global Thematic
+Funds between 2018 and 2021.
+The authors, William Kasapila and Amanda Bangura, an international social development
+specialist and consultant, would like to acknowledge generous funding from the Global
+Thematic Funds through the Netherlands grant that has made implementation of the
+Adolescent IFA Intervention and this evaluation possible.
+The consultants are thankful to several project staff members at the country and field
+offices for their technical and logistical support. In particular, the consultants are grateful
+to Mussarrat Youssuf, Abiba Longwe-Ngwira, Benson Kazembe, Chimwemwe Jemitale,
+Owen Nkhoma, Nissily Mushani, and Olipa Shaba among other staff members for their
+input, time and efforts. Without their support it would have been challenging to deliver this
+assignment within the short time frame. Sincere gratitude to every staff member who
+played a very crucial role to make this evaluation a success.
+Efforts of the staff from the Ministry of Health, Ministry of Education, Ministry of Youth,
+Department of Nutrition, HIV and AIDS (DNHA), Principal Nutrition, HIV and AIDS Officers
+(PNHAO), District Nutrition Officers (DNO), Health Surveillance Assistants (HSAs),
+School Health and Nutrition (SHN) coordinators, Head Teachers and SHN teachers for
+providing useful information, insights and recommendations presented in this report are
+acknowledged and appreciated.
+Vehicle drivers and local guides, who in most cases were government frontline workers
+involved in the project, played an important role of mobilizing adolescent girls and taking
+the team to selected schools and health facilities for interviews. For the time, patience
+and commitment they provided throughout the process, the consultants are greatly
+indebted.
+Lastly, sincere gratitude for adolescent girls and boys for taking the time to speak to the
+evaluation team, patiently. It is anticipated that the findings of this evaluation will
+contribute to improving overall well-being.
+vi
+Table of Contents
+Acronyms ........................................................................................................................ iii
+Acknowledgement ...........................................................................................................vi
+Executive Summary ........................................................................................................xi
+1.0 Introduction ......................................................................................................... 1
+1.1 Rationale for Adolescent Nutrition ............................................................................. 2
+1.2 Adolescent IFA Intervention in Malawi ...................................................................... 3
+1.3 Activities of the Adolescent IFA Intervention ............................................................. 4
+1.4 Partnerships in the Adolescent IFA Intervention ....................................................... 5
+1.5 Reporting Channels ................................................................................................... 6
+2.0 Evaluation Type, Purpose and Specific Objectives ............................................. 7
+2.1 Specific objectives (SO) of the evaluation ................................................................. 8
+2.2 Scope of Work ........................................................................................................... 8
+2.3 Main users of the evaluation ..................................................................................... 8
+3.0 Evaluation Criteria and Key Evaluation Questions .............................................. 9
+4.0 Methodological Design and Approach ................................................................ 11
+4.1 Recruitment and Training of Research Assistants................................................... 12
+4.2 Sample Size Determination ..................................................................................... 13
+4.3 Qualitative Data Collection ...................................................................................... 14
+4.4 Data Analysis .......................................................................................................... 16
+4.5 Ethical Consideration .............................................................................................. 16
+4.6 Limitations of the Evaluation ................................................................................... 17
+5.0 Evaluation Results ................................................................................................ 18
+Evaluation Criterion 1: Coherence ................................................................................ 19
+Evaluation Criteria 2 – Efficiency ................................................................................... 22
+Evaluation Criterion 3: Effectiveness ............................................................................. 29
+Evaluation Criterion 4: Sustainability ............................................................................. 43
+Evaluation Criterion 5: Gender and Human Rights ....................................................... 47
+Lessons Learned ........................................................................................................... 49
+Challenges of the Adolescent IFA Intervention ............................................................. 51
+6.0 Conclusion and Recommendations .................................................................... 54
+ix
+List of Tables
+Table 1: Schools and health facilities in which the project was implemented .................. 4
+Table 2: Definitions for the evaluation criteria ................................................................. 9
+Table 3: Interviews completed and response rates ....................................................... 13
+Table 4: A list of key persons interviewed in the evaluation .......................................... 14
+Table 5: Focus group discussion conducted in the three districts ................................. 15
+Table 6: Expenditure by category of the Adolescent IFA Intervention, year 1 to 3 ........ 23
+Table 7: Cost per beneficiary (adolescent girl 10-19 years) registered in the project .... 24
+Table 8: Dietary diversity by adolescent girls in the three pilot districts ......................... 30
+Table 9: Average household diversity by district ........................................................... 32
+Table 10: Coverage and compliance with IFA supplementation in Salima by the girls .. 35
+Table 11: Girls who received albendazole in the past 12 months ................................. 36
+Table 12: Girls who received albendazole by district..................................................... 36
+Table 13: Sensitization work done by SWET as part of the intervention ....................... 43
+Table 14: Duty bearers and service providers trained by the IFA Intervention ............. 43
+Table 15: Performance of the project on sustainability .................................................. 47
+Table 16: IFA Interventions by disability status ............................................................. 49
+Table 17: A summary of recommendations to guide implementation of the scaling up
+phase ............................................................................................................................ 56
+List of Figures
+Figure 1: Prevalence of iron deficiency, anaemia & Iron deficiency anaemia .................. 1
+Figure 2: Anaemia prevalence trends between 2004 and 2016 ...................................... 1
+Figure 3: Stakeholder mapping and relationships in the intervention .............................. 6
+Figure 4: Activities and reporting channels in the project (Source: Minutes by UNICEF) 7
+Figure 5: Key Actors and Target Behaviours ................................................................. 26
+Figure 6: The IFA Theory of Change ............................... Error! Bookmark not defined.
+Figure 7: Food consumption at baseline (2018) and final evaluation (2022) ................. 30
+Figure 8: Consumption of six food groups by district ..................................................... 31
+Figure 9: Common sources of iron consumed by adolescent girls ................................ 32
+Figure 10: IFA supply chain versus Central Medical Stores Department system .......... 33
+Figure 11: Adolescent girls who have received nutrition education ............................... 37
+Figure 12: Declines in underweight in girls between the baseline and endline (%) ...... 40
+Box 1: Reporting tools used by schools and health facilities……………………………….7
+Box 2: Misconceptions about IFA tablets in the pilot districts ........................................ 17
+Box 3: Key strengths and best practices for IFA supplementation ................................ 54
+x
+Executive Summary
+1. This report summarizes results of the final evaluation of a three-year (2018-2021)
+Adolescent Iron and Folic Acid (IFA) Intervention that UNICEF, the Ministry of Health’s
+Department of Nutrition, HIV and AIDS (DNHA) and Reproductive Health Unit (RHU),
+Ministry of Education (MoE) and their partners implemented with US$250,000 support
+from the Global Thematic Funds through the Netherlands grant. This funding, when
+provided in 2018, targeted 12 per cent of adolescent girls 10-19 years in Salima,
+Dedza and Mangochi districts, which translated to 35,000 girls - 24,500 in school and
+10,500 out of school. In line with Article 24 of the Convention of the Rights of the Child
+(CRC), the goal was to prove the concept of whether anaemia as high as 35.3 per
+cent in Malawian adolescent girls can be reduced by complementing diversified diets
+with IFA supplementation and deworming. Salima, Dedza and Mangochi were
+selected because they were the core of the problem and were part of the first six
+districts (others were Lilongwe, Machinga and Dowa), which piloted the IFA
+supplementation in 2019, with resources from the Department for International
+Development (DFID).
+2. Key activities of the Netherlands-funded Adolescent IFA Intervention in Malawi were
+the provision of weekly IFA tablets to adolescent girls in and out of school, deworming
+with albendazole biannually and nutrition education with emphasis on the Malawi six
+food groups to improve diets and intake of iron. School Health and Nutrition (SHN)
+teachers and Health Surveillance Assistants (HSAs) were the ones administering
+tablets in schools and communities respectively.
+3. The evaluation assessed the intervention using 18 key evaluation questions
+formulated based on the standard Development Assistance Committee (DAC)
+evaluation criteria of coherence, efficiency, effectiveness and sustainability. It
+integrated human rights, gender and equity under each evaluation criterion and
+question in the data collection tools. Field work took place between 11th and 24th
+February 2022 in all the three targeted districts.
+4. Quantitative and qualitative data, both primary and secondary, came from:
+▪ A review of key documents, including the project proposal, situation analysis
+report, minutes of review meetings and various policies among others.
+▪ A survey of 662 adolescent girls in and out of school.
+▪ An anthropometric survey of 662 girls to assess their nutritional status.
+▪ A total of 14 focus group discussions (FGDs) across the districts.
+▪ 58 key informant interviews (KIIs) with Principal Nutrition, HIV and AIDS Officer
+(PNHAOs), District Nutrition Officers (DNOs), SHN coordinators and teachers,
+head teachers, district pharmacists, HSAs, community health nurses (CHN), and
+staff from UNICEF and its government partners.
+5. A multi-stage cluster sampling, involving purposive, stratified and random sampling,
+was used to select 20 schools for the evaluation. The plan was to select and interview
+4 girls in each of the eligible classes (standard 4-8), making a total of 20 per school.
+Girls out of school were stratified by age (corresponding to classes they would have
+xi
+been in) and selected from each stratum using random sampling to participate in the
+study. Girls remaining in the strata participated in focus group discussions (FGDs) and
+other Participatory Rural Appraisal (PRA) sessions to triangulate the findings.
+6. The intended users of the evaluation include the Government of Malawi (GoM), line
+Ministries of Health, Education and Youth, concerned district assemblies, country and
+regional offices of UNICEF, UN agencies implementing the JPGE programme (WFP
+and UNFPA), the Netherlands Government as the donor and non-governmental
+organizations (NGOs) involved in health and nutrition programming in the country.
+7. Key findings from the evaluation are summarized below in accordance with the DAC
+criteria that was used.
+8. Evaluation criterion 1 – Coherence: In Malawi, the Netherlands-supported IFA pilot
+intervention is the first of its kind. The intervention was implemented in districts where
+the need was greatest, evidenced by high rates of anaemia in women of reproductive
+age (WRA) 15-49 years.
+9. Evaluation Criterion 2 – Efficiency: Efficiency of the Adolescent IFA Intervention
+was assessed to be highly satisfactory. Between 2018 and 2021, the intervention has
+invested US$ 59,332 to procure 182,000 blisters of Iron 60mg (as Ferrous Fumarate
+185mg) and Folic Acid 400mcg Remodia-Chypre and provided 52 tablets per girl in a
+year. Every girl received 26 blisters in the whole year, each with 10 tablets and had to
+take 1 tablet per week. Compliance, defined as adhering to a weekly regimen, as
+reported by adolescent girls themselves, was high at 79 per cent because they were
+taking tablets in the presence of SHN teachers, HSAs and parents, if at home.
+10. Evaluation Criterion 3 – Effectiveness: A study on anaemia is scheduled to be
+conducted later in 2022 by the Malawi Demographic and Health Survey (MDHS)
+commissioned by the National Statistical Office (NSO). However, trends from other
+countries that have implemented similar interventions show significant reductions of
+anaemia among adolescent girls only in 8 to 14 weeks of IFA supplementation for
+example, from 49 to 5 per cent in Tanzania, 20 to 5.7 per cent in Indonesia, 70.1 to
+13.4 per cent in Nepal and 29.8 to 0 per cent in Thailand. The impact of the Adolescent
+IFA Intervention on reduction of anaemia in Malawi is therefore anticipated to be huge.
+11. Descriptive analysis of anthropometric data shows that the prevalence of underweight
+(defined as Body Mass Index, BMI < 18.5 kg/m2) in adolescent girls 10-19 years old
+has decreased from 12.9 per cent reported by the MDHS of 2015/2016 to 10.4 per
+cent in February 2022 when field work for this evaluation took place. In younger girls,
+10-14 years, underweight prevalence has declined by 4.1 percentage points from 21
+per cent to 16.9 per cent, as reported by MDHS. When compared to the prevalence
+reported by the situation analysis study that was conducted to establish baseline
+information for the six pilot districts, the decrease is much higher at 20.3 percentage
+points in Salima, Dedza and Mangochi from 30.7 per cent to 10.4 per cent on average.
+xii
+12. Between 2010 and 2016, the prevalence of underweight and thinness deteriorated in
+Malawi, with underweight rising from 14 per cent to 21 per cent and thinness from 2
+per cent to 8 per cent among adolescent girls aged 6-12 years old for which data is
+available. These figures mean that underweight prevalence increased by 50 per cent
+and thinness by 300 per cent. By implication, reductions observed in this evaluation
+represent the beginning of positive trends that need to be nurtured and scaled up.
+13. Through community radios, community sensitization and door to door campaigns,
+available data by the Story Workshop Educational Trust (SWET) show that the project
+has managed to reach 54,826 adolescents (32, 354 girls and 22,472 boys) with
+messages of IFA supplementation and diets. Adolescents have also been receiving
+nutrition education, particularly on the Malawi six food groups from SHN teachers and
+HSAs in schools and communities.
+14. More than half (51.4%) of the adolescent girls surveyed in this evaluation reported to
+have attended nutrition education classes. In-school girls were more likely to have
+attended a nutrition class (54.3%) compared to out-of-school girls (40.3%).
+15. As a result of these efforts, adolescent girls and boys consistently demonstrated
+knowledge of the Malawi six food groups’ model, including recognition of the individual
+groups, and the foods contained therein. Nearly two-thirds of them (65.5% - 67% in-
+school and 60% out-of-school) were able to name all six food groups in the model
+diagram when displayed in front of them during interviews.
+16. In the 24-hour dietary diversity survey conducted, 68.4 per cent of the girls reported
+to have consumed various meat and meat products compared to 47 per cent reported
+by the situation analysis study three years ago. Consumption of dark green leafy
+vegetables, which are also a good source of iron, has increased as well from 89.5 per
+cent to almost 100 per cent (99.1%), legumes from 49 to 50.9 per cent and fats and
+oils from 70 per cent to 87.9 per cent. Vegetables were abundant during the time of
+the evaluation due to the rains and with the acquired nutrition knowledge adolescent
+girls consumed them regularly as part of their diet.
+17. From 2018 to 2019, the intervention trained 1,810 government frontline workers (665
+SHN and head teachers and 1,145 HSAs) in areas of supply, administration,
+management and IFA supplementation as reported by district staff. Teachers can now
+administer IFA tablets to pupils competently which will continue to reduce workload
+for HSAs and increase coverage of the intervention. Interviews conducted showed
+that HSAs and SHN teachers are able to order supplies from district pharmacy stores,
+manage them and provide reports for compliance with minimal supervision, which are
+all indicators of ownership necessary for long-term sustainability of the intervention.
+18. Besides IFA supplementation, close to three quarters of all adolescent girls (65.2%)
+interviewed indicated to have received albendazole tablets within the last 12 months.
+A total of 98 per cent of these girls ingested the tablets, with the majority in Mangochi
+(36.7%) and girls in school at 81.4 per cent, taking them twice (mean=1.53) on
+average. Interviews with health workers in all the three districts revealed that the
+Adolescent IFA Intervention did not provide any albendazole to the schools and health
+centres to deworm girls. Albendazole was provided as part of the Bilharzia program
+by the district hospitals to deworm masses.
+19. Gender and Human Rights: By implementing these activities, the Adolescent IFA
+Intervention in Malawi has upheld rights to health, nutrition and education, including
+xiii
+but not limited to those outlined in the CRC, not only for adolescent girls in and out of
+school, but also boys who are sometimes left out by humanitarian and development
+projects. The intervention made deliberate efforts to train both female and male
+frontline workers to ensure equity and inclusiveness in capacity building and service
+delivery, which has resulted in tangible results registered.
+20. Challenges faced: Despite numerous successes registered, the Adolescent IFA
+Intervention faced many challenges during the three years of its implementation. The
+main challenge was addressing misconceptions as IFA tablets were perceived as
+either family planning pills to curtail population growth, COVID-19 vaccination or the
+medication for cancer in Salima. This is likely to continue if no mass awareness is
+conducted within communities, local leaders, parents and girls in the future. The other
+challenges were related to the COVID-19 pandemic (hence the misconception above)
+and frequent political violence during the disputed presidential elections in Malawi.
+Project officers worked remotely for a good part of 2020 in fear of the consequences.
+Activities that were intended to be implemented during this period were interrupted.
+The aforementioned delays affected the project’s impact.
+21. The following are the key recommendations for the Ministry of Health (DNHA and
+RHU), Ministry of Education (MoE), Ministry of Youth (MoY), UNICEF and the
+concerned districts - to be implemented by December 2023:
+1) UNICEF, as one of the agencies championing the sector, should leverage on the
+existing projects and scale up IFA supplementation to additional four of the
+remaining eight districts in the country (namely Ntchisi, Nkhotakota, Nkhata Bay,
+Mzimba, Karonga, Balaka and Mulanje) by the end of 2023.
+2) DNHA and RHU, MoE, MoY, UNICEF and concerned district councils should
+address the existing misconceptions surrounding IFA supplementation to increase
+acceptance and compliance.
+3) Train 4 SHN teachers at each school from standard 4 to 8 to reduce the access
+work load and interruption of classes during IFA days.
+4) Collaborate with the World Health Organization (WHO) and explore the possibility
+of leveraging resources and efforts around procurement and distribution of
+albendazole for the Adolescent IFA Intervention.
+5) Provide adequate fuel (at least 130 litres per quarter) to each district to allow district
+teams carry out joint monitoring and supervision of activities.
+6) Provide resources and introduce quarterly review meetings for the district teams
+to look at the district performance, identify bottlenecks on time, and plan for
+activities for the next quarter.
+7) Improve the collection of IFA compliance data. Train data entry clerks already
+available at district hospitals to enter the data into the District Health Information
+System (DHIS2).
+8) Provide clear roles to address current tensions between PNHAOs and DNOs.
+9) Integrate the IFA supplement supply chain within the Ministry of Health (MoH) and
+Central Medical Store Trust (CMST) system to strengthen capacity and
+sustainability. Table 17 at the end of this report provides a summary of specific
+recommendations, implementers and the timeframe required.
+xiv
+1.0 Introduction
+1. In 2018, UNICEF Malawi Country Office received US$250,000 from the Global
+Thematic Funds (GTF) through the Netherlands grant to pilot a 3-year (2018-2021)
+programme as a proof of concept for the efficacy of iron and folic acid (IFA)
+supplementation in reducing anaemia and other forms of undernutrition in adolescent
+girls, 10-19 years of age. Despite a decrease among children under five,
+undernutrition remains high in Malawian adolescents. The Malawi Demographic and
+Health Survey (MDHS) of 2015/2016 reported that 12.9 per cent of adolescent girls
+15-19 years of age are underweight, after registering a low BMI of <18.5 kg/m2,
+compared to 5.7 per cent women of 20-49 years of age because nutrition interventions
+are not adequately accessible for adolescent girls.
+2. The prevalence of anaemia among adolescent girls (15-19 years) in Malawi is at 35.3
+per cent, overweight 7.1 per cent and obesity, which increases the risk of nutrition-
+related diseases (heart diseases, stroke, diabetes and cancer) is at 12 per cent, as
+reported by the MDHS of 2015/2016. Between 2004 and 2010 rates of anaemia
+dropped by 13 percentage points from 42.4 per cent to 28.6 per cent, but these gains
+were reversed, and the prevalence increased by 6 percentage points to 35.3 per cent
+in 2015/2016 (Figures 1 and 2).
+40 35.3 50 42.2
+30 40 35.3
+17 28.6
+20 14 30
+10 1 0.2 6 7 9 1 20 20. 1 7 6. 2 4 0.1 18. 1 2 1. 1 4 4.5
+0 10 3.2 0.8
+0.7
+10 to 14 15 to 19 10 to 14 0
+Any Mild Moderate Severe
+Girls Boys
+2004 DHS 2010 DHS 2015/16 DHS
+Iron Def Aenemia Iron deficiency aenemia
+Figure 1: Prevalence of iron deficiency, Figure 2: Anaemia prevalence trends
+between 2004 and 2016
+anaemia & Iron deficiency anaemia
+Source: Data for boys and girls 10 to 14 years (IFA
+Situation Analysis-2018. Data for girls 15 to 19 is from Source: The Malawi Demo graphic and Health
+Malawi Adolescent Nutrition Documentation, Web Survey of 2015/2016
+version, UNICEF Malawi Office, June 2020
+3. Anaemia is a condition in which the number and size of red blood cells, or the
+haemoglobin concentration, falls below an established cut-off value, consequently
+impairing the capacity of the blood to transport oxygen around the body. Anaemia is
+an indicator of both poor nutrition and poor health. The most common cause of
+anaemia worldwide is iron deficiency, resulting from prolonged negative iron balance,
+caused by inadequate dietary iron intake or absorption, increased needs for iron
+1
+during pregnancy or growth periods,
+and increased iron losses as a result
+of menstruation and helminth
+(intestinal worms) infestation. In
+women, an estimated 50% of anaemia
+worldwide is due to iron deficiency.
+4. Other important causes of
+anaemia include infections, other
+nutritional deficiencies (especially
+folate and vitamins B12, A and C) and
+genetic conditions, including sickle
+cell disease, thalassaemia - an
+inherited blood disorder- and chronic
+inflammation. Pregnant adolescents
+are particularly vulnerable to anaemia
+because they have dual iron
+requirements, for their own growth
+and the growth of the foetus, and are
+less likely to access antenatal care.
+5. The map to the left shows
+anaemia rates in women of
+reproductive age, 15-49 years, in
+Malawi as reported by the MDHS of
+2015/2016. It also illustrates the first
+six pilot districts and the three districts
+where UNICEF has pre-tested the IFA
+intervention as a proof of concept with support from the Global Thematic Funds (GTF).
+1.1 Rationale for Adolescent Nutrition
+6. Anaemia is of public health concern in Malawi. In women, especially during
+pregnancy, anaemia is associated with premature births, low birth weight babies, still
+births, miscarriages, death of the baby and/or the mother during or after delivery. In
+both adolescent boys and girls, anaemia limits concentration in daily tasks, may
+contribute to high school dropout, and reduces physical fitness and work productivity.
+Periodic blood loss through menstruation for the adolescent girl imposes additional
+need for iron and other essential nutrients, and can contribute to anaemia. Anaemic
+girls have lower pre-pregnancy iron stores, and the pregnancy period is too short to
+build iron stores for the growing foetus and mother.
+2
+7. Adolescence is an appropriate time for interventions to address anaemia as it is a time
+for rapid growth and development, and a critical time for laying the nutrition foundation
+for childbearing. Providing Iron and Folic Acid (IFA) supplements during adolescence,
+continuing into adulthood, improves iron status and reduces the risk of developing iron
+deficiency and anaemia.
+8. In addition, adolescence is a critical stage when knowledge and attitudes about
+nutrition are still forming and as such behaviour changes may create a positive and
+long-lasting impact with respect to prevention of adult malnutrition and long-term
+communicable diseases. Improving nutrition during adolescence can also help
+individuals who have had a challenging childhood with respect to their physical growth
+and cognitive development. Interventions for adolescents will in this regard help
+ensure young women enter pregnancy with knowledge and nutrition support.
+9. Global evidence shows that investing in adolescent nutrition yields four dividends: (1)
+it improves the present nutritional status of the adolescents, (2) it improves the well-
+being and productivity in their adult life, (3) it reduces nutrition and health risks of their
+children and (4) it breaks the vicious intergenerational cycle of malnutrition and the
+multiple problems associated with it.
+10. As per the WHO threshold for nutritional deficiencies, intermittent iron and folic acid
+supplementation is recommended if anaemia prevalence is 20 per cent or higher
+among non-pregnant women of reproductive age (15-49 years). Under this context,
+the Government of Malawi has prioritized implementation of multi-sectoral
+interventions to address the nutritional needs of adolescent girls 10-19 years of age,
+including the use of IFA supplementation to address the problem of anaemia.
+1.2 Adolescent IFA Intervention in Malawi
+11. In 2018, UNICEF Malawi became the first country in the Eastern and Southern Africa
+Region (ESAR) to support the government to pilot IFA supplementation and prevent
+anaemia among adolescent girls. UNICEF Malawi Country Office championed
+resource mobilization and received US$250,000 from the Global Thematic Funds
+(GTF) through the Netherlands government, which was used to fund the intervention.
+This funding targeted adolescent girls and boys in where the Government of Malawi
+was already implementing the UN Joint Programme on Girls Education (JPGE II).
+The efforts were consolidated with technical support from UNICEF and its partners,
+World Food Programme (WFP) and United Nations Population Fund (UNFPA). The
+IFA intervention was implemented in the existing schools and health facilities across
+three districts - Mangochi, Salima and Dedza. These districts were part of the first six
+districts (Mangochi, Salima, Dedza, Lilongwe, Machinga and Dowa) that piloted the
+adolescent IFA supplementation in 2019 with funding from the Department for
+International Development (DFID).
+3
+12. Overall goal of the Adolescent IFA Intervention: To improve nutritional status of
+adolescents, with a focus on school going and out-of-school adolescent girls aged
+10-19 years in Mangochi, Salima and Dedza districts, by 2021.
+13. Specific objectives to achieve the goal were:
+i) To promote consumption of diversified diets using the Malawi six food groups
+approach among 70 per cent of adolescent boys and girls aged 10-19 years.
+ii) To standardise integration of weekly IFA supplements in the Ministry of Health
+supply chain.
+iii) To promote compliance of IFA supplements and deworming tablets in 70 per cent
+of school going and 60 per cent out-of-school adolescent girls.
+iv) To create an enabling environment for effective implementation of adolescent
+nutrition intervention in Malawi.
+14. Population Coverage: The intervention targeted 35,000 adolescent girls (24,500 in
+school and 10,500 out-of-school) and 34,462 boys aged 10-19 years. These figures
+represent 12 per cent of adolescent girls and boys in the districts. Administratively,
+every district in Malawi is divided into Traditional Authorities (TAs), which are sub-
+divided into Group Village Headman (GVH) areas and then villages as the smallest
+administrative units. The intervention was implemented in 764 schools, 99
+communities and 32 TAs (Table 1) as reported by District Nutrition Officers (DNOs)
+and Principal Nutrition, HIV and AIDS Officers (PNHAOs).
+Table 1: Schools and health facilities in which the project was implemented
+District TAs School Number of Number of
+Zones Schools Facilities
+Salima 11 14 164 21
+Dedza 8 19 297 34
+Mangochi 13 22 303 44
+Total 32 55 764* 99
+*JPGE III is in 169 of these schools
+1.3 Activities of the Adolescent IFA Intervention
+a) Weekly IFA supplementation for adolescent girls
+15. Adolescent girls registered in this intervention received tablets containing 60mg
+elemental iron and 400ug folic acid weekly, on Wednesdays. Adolescent girls absent
+from school on these days were given their weekly tablets on the next day that they
+attended classes. Stocks were kept in the head teachers’ offices. School Health and
+Nutrition (SHN) teachers administered tablets to girls at schools and recorded it in
+compliance cards immediately. SHN teachers gave girls a complete set of IFA tablet
+blisters to take at home during holidays under direct supervision of their parents. Girls
+4
+living close to health facilities received their tablets from HSAs or community health
+nurses (CHN) during holidays along with girls out of school.
+Photo: An example of a blister of iron and folic
+acid tablets used in the project
+b) Deworming among girls
+16. Another activity of the Adolescent IFA Intervention was deworming of the girls by
+providing them with 400mg of albendazole. Deworming reduces blood loss and
+prevents anaemia. Periodic mass deworming protects communities by removing or
+reducing the worm burden and decreasing the risk of new individuals becoming
+infected. In Malawi, deworming is carried out with albendazole tablets supplied by the
+World Health Organization (WHO) biannually.
+c) Nutrition Education
+17. The intervention also offered nutrition education to both girls and boys to increase
+consumption of diversified diets, rich in iron and other micronutrients, based on the
+Malawi six food groups.
+1.4 Partnerships in the Adolescent IFA Intervention
+18. Key stakeholders were the Department of Nutrition, HIV and AIDS (DNHA), which was
+responsible for coordinating activities of the intervention across the three districts, and
+the Reproductive Health Unit (RHU). The RHU was facilitating integration of IFA into
+the medical supply system by the Ministry of Health (MoH).
+5
+19. Additional partners included the Department of School Health, Nutrition, HIV and AIDS
+in the Ministry of Education, the Department of Community Nursing and District Health
+Offices (DHOs) in the Ministry of Health and Ministry of Youth. These ministries
+provided key frontline workers to conduct various project activities. UNICEF also had
+an NGO implementing partner, the Story Workshop Educational Trust (SWET), which
+promoted Social Behaviour Change and Communication (SBCC). Figure 3 presents
+relationships among these partners. Annex 1 provides further details about their roles.
+Figure 3: Stakeholder mapping and relationships in the intervention
+1.5 Reporting Channels
+20. Reporting lines were clear and followed the opposite channel for the supply of IFA
+tablets. School Health and Nutrition (SHN) teachers prepared monthly reports and
+submitted them to health facilities when they collected tablets for their schools. Health
+facilities in turn sent the reports together with theirs to the district hospital. The
+Assistant Environment Health Officer (AEHO) validated the reports before sharing
+them with the DNO for compilation and submission to DNHA.
+6
+Box 1: Reporting tools used by the schools and health facilities
+Reporting tools at school level for the SHN teacher
+Registration book (IFA Supplementation and Weekly Registers)
+Self-compliance card for each registered girl
+Monthly IFA supplementation school report
+At community level
+Monthly community platform register
+Compliance cards
+Monthly community platform report
+At facility (district level)
+Monthly health facility report that included data for schools and communities
+21. The requirement was that schools should submit reports to health facilities on the 5th
+of every month. District hospitals expected to receive the reports from health facilities
+for compilation on the 10th and PNHAOs were supposed to send them to DNHA on
+the 15th.
+District District M&E Principal Nutrition,
+Nutritionist/Mat for Health and
+Senior HSA ernal Nurse HIV/AIDS Officer
+NNIS
+Monthly
+Monthly Monthly Monthly total
+total of
+total of total coverage of Girls
+coverage
+coverage, coverage of and compliance of
+compliance
+compliance girls and IFA doses PPT and
+and supply
+and supply compliance graphic
+of tablets
+of tablets of IFA doses presentation for
+for all
+for school in the NNIS / DNCC, sharing
+platforms in
+and in DHIS
+District with relevant
+community
+report / Directors and
+platforms
+Computer review meetings
+system
+Figure 4: Activities and reporting channels in the project (Source: Minutes by UNICEF)
+2.0 Evaluation Type, Purpose and Specific Objectives
+22. This was an end of project evaluation to assess coherence, efficiency, effectiveness
+and sustainability of the Adolescent IFA Intervention after three years of its
+implementation. Key questions included: 1) has the Netherlands-funded Adolescent
+IFA Intervention succeeded in achieving its desired results? and 2) whether the
+intervention was able to improve nutritional status of adolescents, with a focus on
+school going and out-of-school adolescent girls aged 10-19 years in the three pilot
+districts by 2021.
+7
+2.1 Specific objectives (SO) of the evaluation
+23. The specific objectives of the evaluation are as follows:
+i) Assess the extent to which context factors were considered in the design of the
+intervention and if they were coherent with policies and programmes of other
+partners operating in the same districts.
+ii) Evaluate the extent to which the intervention was implemented in the cost-efficient
+manner in the targeted schools and communities.
+iii) Propose a Theory of Change (ToC) in consultation with all key stakeholders.
+iv) Evaluate effectiveness of the intervention in producing expected results for
+adolescent girls and boys, service providers, parents and community leaders.
+v) Evaluate outcomes and the extent to which the intervention has contributed to
+improving compliance with IFA intake.
+vi) Evaluate the extent to which the intervention promoted social behavioural change
+towards intake of diversified foods, including iron rich foods among adolescents.
+vii) Document lessons, key challenges, gaps, strengths and good practices.
+2.2 Scope of Work
+24. The evaluation covered the whole period of the intervention from 2018 to December
+2021 and was conducted in all the three targeted districts. It interviewed and
+measured adolescent girls 10-19 years of age as primary beneficiaries. Boys received
+nutrition education in the project and participated in focus group discussion (FGDs).
+Schools, communities, key persons and various groups of people were consulted as
+well to obtain first-hand information and perceptions regarding the intervention.
+25. Areas not covered: The evaluation did not include the relevance criterion because
+anaemia rates in non-pregnant women of reproductive age (15-49 years) are above
+20 per cent in almost every district as reported by the MDHS of 2015/2016, therefore
+intermittent IFA supplementation is needed. In addition, the evaluation did not assess
+rates of anaemia as this is already scheduled to be conducted by the forthcoming
+MDHS of 2022/23 by the National Statistical Office (NSO).
+2.3 Main users of the evaluation
+26. Primary users of the evaluation are the Government of Malawi (GoM), country and
+regional offices of UNICEF and the targeted schools and communities. Line Ministries
+of Health, Education and Youth, and UNICEF can use the findings to understand the
+extent to which the intervention has (a) proved that IFA supplementation can work in
+Malawi and (b) generated useful lessons to guide future programming. UN agencies
+implementing the JPGE programme (WFP and UNFPA) that have been providing
+support throughout and UNICEF as a recipient of the grant are particularly interested
+in the overall performance, efficiency and effectiveness of such an intervention in the
+local context of Malawi and sharing of the results with the regional office (ESAR) and
+other UN agencies to enhance learning.
+27. District assemblies and Civil Society Organisations (CSOs) working on nutrition are
+interested in the impact and benefits of the intervention to adolescent girls with respect
+to improving nutritional status.
+8
+28. On the other hand, the current and prospective donors - the GTF, Netherlands
+government and World Bank, have a key interest regarding the accountability, value
+for money and worth of continuing to provide funding for adolescent nutrition in the
+country.
+3.0 Evaluation Criteria and Key Evaluation Questions
+29. The Organisation for Economic Cooperation and Development’s DAC (Development
+Assistance Committee) criteria of efficiency, effectiveness and sustainability
+(OECD/DAC, 2019) were used to assess the intervention. Another criterion assessed
+in the evaluation was gender equality and human and child rights, specifically the right
+to the highest attainable standard of health (article 24 of the CRC) as defined in Table
+2.
+30. The ToRs listed the main questions to be considered under each evaluation criterion.
+The evaluation team reviewed these questions during the inception phase and
+developed a matrix for the evaluation. The matrix (Annex 2) presents the evaluation
+criteria, definitions of each criterion, questions asked, tasks performed to respond to
+each question, main sources of information as well as data collection methods and
+data availability. The main evaluation questions were accepted as proposed in the
+Terms of Reference (Annex 3), with a few questions added by the evaluation team.
+Table 2: Definitions for the evaluation criteria
+Criteria Definition
+Coherence The compatibility of the intervention with other interventions in a
+How well does the country, sector or institutions
+intervention fit?
+Effectiveness The extent to which implementation strategies were effective and
+Is the intervention successful in achieving planned outcomes and results for school
+achieving its going and out-of-school adolescents across all socio-cultural
+objectives? groups, including the vulnerable in the targeted communities
+Efficiency The extent to which outputs of the intervention have been
+How well are achieved, in terms of quality and quantity, with the allocated
+resources used? resources and inputs (such as funds, time and procedures)
+Sustainability The extent to which various stakeholders, including service
+Will the benefits providers, community leaders, parents and households are likely
+last? to sustain behaviour changes related to the goals of the project
+after it has ended.
+Gender and Defined in accordance with “Integrating Human Rights and
+Human Rights Gender Equality in Evaluation Towards UNEG Guidance, 2011”
+(page 30, table 2.4) as 1) the extent to which the intervention has
+contributed to human and child rights and gender equality in
+Malawi and 2) the extent to which stakeholders regardless of sex,
+geographical location, disabilities and age have benefited from it
+9
+31. The evaluation matrix guided the development of data collection tools (Annex 4), key
+persons and groups to be interviewed. The evaluation team referred to the matrix
+throughout the process to ensure that answers were adequately provided to the
+questions developed under each evaluation criterion.
+32. Key Evaluation Questions
+(Questions added by the evaluation team are in italics)
+Coherence
+1.1 To what extent were contextual factors considered in the design and delivery of the
+intervention?
+1.2 How did various components of the same intervention and other interventions by
+UNICEF operate together to achieve its objectives?
+1.3 To what extent was the Adolescent IFA Intervention by the GoM and UNICEF
+coherent with policies and programmes of other partners operating in the same
+districts?
+Efficiency
+2.1 How well have UNICEF’s resources, both human and financial, been managed to
+ensure timely, cost-effective and efficient attainment of the results?
+2.2 How efficient was the collaboration and coordination at national, zone, district and
+community levels?
+2.3 What factors affected the efficiency of the project?
+Effectiveness
+3.1 To what extent has the Netherlands-funded adolescent nutrition programme on IFA
+provision and capacity building of service providers been successful in achieving its
+objectives?
+3.2 What were the major factors influencing the achievement or non-achievement of the
+project objectives?
+3.3 To what extent has the implementation of strategies and project approaches, such as
+intake of weekly IFA supplements worked as intended?
+3.4 How effectively did UNICEF engage with the government to strengthen coordination
+and how far did government leadership and political will influence achievement of the
+results and vice versa?
+3.5 How successful was UNICEF in reaching the most vulnerable groups in the target
+districts?
+3.6 What other changes (positive, negative, direct, indirect, intended or unintended)
+occurred as a result of the project’s interventions?
+Sustainability
+4.1 To what extent has the programme contributed to the strengthened capacity of duty
+bearers/service providers in nutrition, health, and other relevant sectors?
+4.2 What evidence exists to inform the view that particular activities in the project are
+being replicated beyond the initially intended reach of the project (for example, outside
+of geographic areas or target groups)?
+10
+4.3 What internal/external factors and drivers have contributed to or constrained
+sustainability of the programme?
+4.4 To what extent are various stakeholders, including service providers, community
+leaders, parents and households likely to sustain behavioural changes related to the
+goals of the project after it has ended?
+Gender and human rights
+5.1 To what extent has the intervention been aligned with UNICEF’s equity agenda in
+addressing the needs of the target groups (i.e.to what extent has the initiative reached
+different groups, including the most marginalized and people living with disabilities)?
+5.2 Has the intervention contributed to equitable participation/reach and benefits to
+various groups (boys, girls and people with disabilities)?
+4.0 Methodological Design and Approach
+33. A mixed methods and participatory approach to collecting quantitative and qualitative
+data was used to ensure that voices of all stakeholders were taken into account and
+findings were verified. The evaluation findings, conclusions and recommendations
+were formulated with the aim of guiding future policy and programming by the
+Government of Malawi (GoM), in particular Ministry of Health (DNHA and RHU),
+Ministry of Education, Ministry of Youth, UNICEF and other key partners.
+34. Prior to data collection, the evaluators and UNICEF held a number of virtual meetings
+to streamline the design and activities for the intervention, beneficiary targeting, scope
+of work, data needs and sampling issues. The design of the evaluation incorporated
+several elements agreed during these meetings and followed guidelines, norms and
+standards of the United Nations Evaluation Group (UNEG).
+35. Data for the evaluation was obtained from the following sources:
+i. A review of the key documents such as the project proposal, situation analysis
+report, minutes of review meetings and various policies
+ii. A survey of 662 adolescent girls in and out of school
+iii. An anthropometric survey of 662 girls to assess nutritional status
+iv. A total of 14 FGDs with groups of interest (see annex 5)
+v. 58 key informant interviews (KIIs) with PNHAOs, DNOs, SHN coordinators and
+teachers, head teachers, district pharmacists, HSAs, community health nurses
+(CHN), and staff from UNICEF, SWET and government partners (Annex 5).
+36. In the adolescent girls’ survey, the evaluation adapted the English questionnaire used
+by the situation analysis study to make comparisons easy and uploaded it into ODK
+to minimize errors and ensure quality of the final dataset. The questionnaire was
+translated and back translated into vernacular Chichewa to avoid misunderstanding
+and misinterpretation of the questions by enumerators and respondents. It included
+11
+questions on IFA supplementation, deworming with albendazole, nutrition education,
+access to diversified diets based on the Malawi six food groups, knowledge, attitude
+and consumption of iron rich foods and an anthropometric form.
+37. Disability Inclusion: In-line with international best practice, the adolescent survey
+included the Washington Group Questions Short Set1 to determine the disability status
+of individual respondents. Research assistants were provided training for
+administering the questions in accordance with guidelines provided by the Washington
+Group therefore, the findings have been disaggregated by disability status to provide
+further insight into reach and benefits experienced by adolescent girls with disabilities.
+4.1 Recruitment and Training of Research Assistants
+38. A total of 10 enumerators were recruited and trained for 4 days from 7th-9th February,
+2022 at the Ministry of Gender’s Adult Literacy and Education Centre in Lilongwe to
+ensure they understood the questionnaire and could administer it uniformly. They
+included three interns from UNICEF as part of capacity building.
+39. The training was based on the following components:
+i. Going through the paper version of the survey tool question wise, to ensure
+that the enumerators were well-acquainted with it.
+ii. Role plays by research assistants depicting the actual interview scenario with
+adolescent girls.
+iii. Training on ODK version of the survey questionnaire.
+iv. Orientation on the evaluation methodology, roles of the evaluation team
+members, work performance expected, ethics in data collection and the field
+protocol – how to sample schools and health facilities and get consent from
+gate keepers, like teachers and parents, and girls sampled as respondents.
+40. On the 4th day of the training (10th February, 2022), the evaluation team pre-tested the
+methodology and tools in TAs Maganga and Kambwiri of Salima. Each enumerator
+completed at least two surveys. This exercise helped them (a) get familiarized with
+the electronic questionnaire, (b) practice the methodology and (c) identify glitches,
+lack of clarity, and misleading/difficult-to-comprehend questions. The survey team
+held a de-briefing session after the pre-testing exercise and addressed minor
+problems faced with the methodology and the use of ODK questionnaires. The pre-
+test sample was not included in the actual sample for the survey because it was for
+learning purposes.
+41. UNICEF staff provided backstopping services throughout the training. They oriented
+the evaluation team on the child safeguarding and protection policy. Towards the end
+of the orientation, the whole team signed a copy of the policy to show their commitment
+to abide by it.
+1 See https://www.cdc.gov/nchs/washington_group/wg_questions.htm
+12
+4.2 Sample Size Determination
+42. A rapid formative Knowledge, Attitudes, Behaviour and Practices situation analysis
+that served as the baseline for this project sampled a total of 513 adolescent girls in
+the 6 pilot districts. For this evaluation, the sample size of adolescent girls was
+increased to 840 to easily disaggregate and generalize the results by district, category
+of girls (in and out of school) and age group (10-14 and 15-19 years old).
+43. The sample size was calculated using the USAID’s FANTA sampling guidelines by
+Robert Magnani (1997) for cross sectional studies and was based on 95 per cent
+confidence level, 80 per cent power level and a design effect (D) of 2 (Annex 6).
+44. A three-stage stratified sampling technique was used to select adolescent girls for
+interviews and anthropometric measurements. Stage 1 involved random selection of
+two or three Teacher Development Centres (TDC) in each district depending on the
+number of schools sampled. In stage II, the evaluation team selected one primary
+school and one group village headman (GVH) area at random from the catchment
+areas of the selected TDCs. Stage III involved stratification of girls (standard 4-8) and
+random sampling for interviews. Districts with larger numbers of adolescents
+participating in the IFA intervention contributed to larger sample sizes than their
+counterparts. Four girls were selected for interviews from each class, making a total
+of 20 per school.
+45. Out-of-school adolescents - In consultation with Community Health Nurses (CHN)
+and HSAs, the evaluation team mobilized adolescent girls out of school who were
+receiving IFA supplementation from health facilities. These girls were stratified by age
+(corresponding to the classes they would have been in) and selected from each
+stratum using random sampling to participate in the study. Girls remaining in the strata
+participated in FGDs and other Participatory Rural Appraisal (PRA) sessions to
+triangulate the findings.
+46. Field work was carried out from the 11th till the 24th of February 2022 in Salima. By the
+end of the field work, a total of 662 interviews with adolescent girls were completed.
+Table 3 summaries the numbers of interviews completed in the three districts.
+Table 3: Interviews completed and response rates
+District In school Out of school Total
+Planned Done RR* Planned Done RR Planned Done RR
+Dedza 202 166 82.2% 87 62 71.3% 289 228 78.9%
+Mangochi 252 228 90.5% 108 21 19.4% 360 249 69.2%
+Salima 134 124 92.5% 57 61 107.0% 191 185 96.9%
+Total 588 518 88.1% 252 144 57.1% 840 662 78.8%
+*RR stands for response rate
+13
+47. UNICEF provided a list of all the schools and health facilities that the evaluation used
+as a sampling frame. Upon getting to the districts, the evaluation team first met with
+the PNHAO and SHN coordinators to discuss and finalize the sampling plan and make
+bookings. This process helped to ensure that schools and health facilities visited
+included those in remote areas and their counterparts closer to the roads and trading
+centres. This also helped in ensuring that schools that were close to each other were
+not selected to ensure heterogeneity of responses. SHN teachers were asked to
+provide a list of girls who were present on that day from which the team selected some
+for interviews.
+48. An anthropometric survey of the sampled adolescent girls took place at the schools
+and communities. Two teams of trained enumerators took the measurements. Each
+team comprised of 5 people, 1 person for registering the girls, 2 people for taking
+height measurements, and 2 for weight and mid-upper arm circumference (MUAC).
+49. At each school and health facility, the teams started with measurements before
+interviewing the girls. Each enumerator had samples of IFA and albendazole tablets
+to show to the girls and help them remember. The enumerators also displayed copies
+of the Malawi six food group guide and seasonal food calendars during interviews to
+ensure credibility and validity of the data collected.
+4.3 Qualitative Data Collection
+a) Key Informant Interviews (KIIs)
+50. The evaluation team conducted Key Informant Interviews (KIIs) at national, district and
+community levels to triangulate information from the adolescent survey. Participants
+were adolescent girls and key persons who took part in the project from its inception
+till completion (Table 4). These interviews were useful in collating stakeholders’
+viewpoints on various issues concerning the IFA intervention, particularly those that
+were difficult to derive from the adolescent girls who participated in the survey.
+Table 4: A list of key persons interviewed in the evaluation
+National
+Key persons Dedza Mangochi Salima Total
+Level
+Health Surveillance Assistance (HSAs) 2 2 4 N/A 8
+SHN teachers 1 10 3 N/A 14
+SHN coordinators 1 1 1 N/A 3
+Head Teachers 6 5 2 N/A 13
+District Nutrition Officer (DNO) 1 1 1 N/A 3
+Principal Nutrition and HIV/AIDS Officers 1 0 1 N/A 2
+SWET 0 0 0 4 4
+District Pharmacist 1 0 1 0 2
+Food and Nutrition Officer (FNO) 0 0 1 0 1
+UNICEF Staff 0 0 1 7 8
+Total 13 19 15 11 58
+14
+b) Focus Group Discussions (FGDs)
+51. The evaluation conducted a total of 14 FGDs with groups of 6-10 people selected
+purposively from all the three pilot districts for first-hand information (Table 5).
+Discussions centred on selected topics with planned questions using the PRA
+methodology, while allowing for interesting, new or unplanned follow up questions.
+The emphasis was on examining adolescent girls’ knowledge, attitudes, practices and
+behaviours in relation to nutrition, gender equality and human rights. Semi-structured
+questionnaires with open ended questions and PRA guidelines were used to guide
+the discussions. An anonymous voting game was used with girls and mothers to elicit
+unbiased responses towards IFA compliance. Girls and mothers were asked:
+1) When the IFA supplements were available, how frequently were you/your daughter
+given a tablet?
+2) When the IFA supplements were given to you, how frequently did you/your
+daughter take the tablet?
+52. Respondents were then invited to anonymously place a stone in a covered cup (so
+that other respondents could not see) to vote for one of the following four options:
+1) Every week without fail
+2) Sometimes it was given/taken, sometimes it wasn’t given/taken
+3) Never
+4) I don’t know
+53. The groups then witnessed the counting of the stones and were invited to discuss the
+total votes. At no point were the respondents asked to reveal their answers and their
+reasons.
+Table 5: Focus group discussion conducted in the three districts
+Group Mangochi Salima Dedza Total
+Girls (in and out of school) 2 3 2 7
+Boys (in and out of school) 1 2 1 4
+Mothers 0 2 1 3
+Total 3 7 4 14
+54. Supervision: Evaluators were present in the field with the teams to supervise and
+continue mentoring them. Supervision involved ensuring that the survey methodology
+was followed closely, confirming that enumerators were asking questions and
+recording answers as agreed, checking how enumerators were completing
+questionnaires and taking anthropometric measurements daily and organising
+evening wrap-up sessions with all of them together to discuss any problems
+encountered and addressing them.
+15
+4.4 Data Analysis
+55. Electronic data from the adolescent girls’ survey were exported, cleaned and analysed
+in SPSS computer package (Version 21, IBM Corp. IBM SPSS Statistics for Windows,
+Armonk, NY: IBM Corp. Released 2016). Descriptive statistics, such as frequencies
+and means, were generated and used to describe the findings in line with the
+intervention’s results framework. Cross tabulations were used to disaggregate the
+findings by district, category of girls and age (10-14 vs 15-19 years).
+56. Qualitative data from FGDs, KIIs and simple observations were analysed by field
+teams at the end of each day and upon completion of data collection in a particular
+area. Analysis of this data involved verifying the information collected, compiling and
+summarising it and identifying key findings in order to contextualize quantitative
+findings.
+4.5 Ethical Consideration
+57. The evaluation followed UNICEF’s procedure of Ethics in Evidence Generation and
+all its guidelines on the ethical participation of human participants, including children,
+and conformed to the 2020 United Nations Evaluation Group’s (UNEG) Ethical
+Guidelines as well.
+58. After a briefing that UNICEF made during the training, each one of the evaluation team
+members signed the policy to show commitment to uphold UNICEF’s values and
+observe the do no-harm principle. This entailed treating all people (women, men, girls,
+boys, children, the elderly and chronically ill people) with respect and dignity and
+challenging any form of harassment, discrimination, intimidation and exploitation.
+59. Every team member agreed to promote human and child rights and oppose criminal
+and unethical behaviours. All interviews were preceded by a brief introduction about
+the purpose of the evaluation and seeking consent from the respondents. All the
+research tools underwent a rigorous ethical review by UNICEF and were approved
+(annex 7). All parents, guardians and teachers signed consent and assent forms to
+give permission for the team to administer questionnaires with adolescents (annex 8),
+capture photos if deemed relevant and take anthropometric measurements.
+60. Enumerators informed teachers, parents and girls that participation was voluntary,
+highlighting on people’s rights to refuse participation, skip questions they did not want
+to answer, and to stop interviews at any time they wanted. They were informed that
+there would be no implications for exercising these rights. The evaluation team abided
+by their professional ethical conduct, such as guaranteeing confidentiality, neutrality
+and respect for respondent’s dignity and culture.
+16
+4.6 Limitations of the Evaluation
+61. Resistance by parents to provide consent – Parents in some communities,
+especially in Mangochi, were reluctant to provide consent for their children to
+participate in the study due to misconceptions that surround the IFA supplementation.
+Adolescent girls were discouraged to come to the health facilities where they were
+receiving IFA tablets for anthropometric measurements and interviews in this regard.
+The survey team made prior appointments and efforts to engage parents through
+HSAs, but low numbers turned up for interviews in many communities.
+62. A mixture of in and out of school adolescents receiving IFA supplementation at
+health centres – Following the closure of schools in March 2020, some adolescent
+girls continued to receive IFA supplementation from health facilities even after opening
+of schools. When HSAs mobilized adolescent girls, who were receiving IFA
+supplementation at health facilities, the evaluation team discovered that the majority
+of them were those in school. Lower numbers of out-of-school adolescent girls were
+interviewed than planned in this regard.
+Box 2: Misconceptions and perceived side effects caused by IFA tablets
+i. IFA tablets are intended for pregnant women, meaning that adolescent girls who are
+not pregnant should not take them.
+ii. IFA tablets are contraceptives. District staff suggested that the misconception may
+relate to the appearance of the IFA tablets and the blister pack they are provided in,
+which resembles contraceptive tablets. For this reason, communities and parents
+were frightening girls in some areas that those who will take the tablets will not
+conceive in future. Conversely, in other communities in Salima and Mangochi there
+were reports that some girls had become pregnant as a result of engaging in
+sexually risky behaviours due to the belief that they had taken contraceptives. In
+future, during the orientation of district staff, frontline workers and communities the
+two types of tablets need to be displayed. The project should make some women,
+like those in care and mother groups, champions of change to continue reaching out
+to communities and girls in youth clubs that JPGE has already established with
+correct messages to foster behavioural change and compliance.
+iii. IFA tablets are distributed to reduce the population. Significantly, this was related
+by community and district level stakeholders to a population report that was
+published by the Government of Malawi around the time that the IFA intervention
+commenced, which stated that Malawi is over-populated and that efforts should be
+made to reduce the population.
+iv. IFA tablets were wrongly seen as COVID-19 tablets for vaccination, particularly in
+Mangochi
+v. Girls in some areas said they do not like the smell of IFA tablets, reporting “They
+smell bad”.
+vi. Other girls in Salima and Mangochi said that IFA tablets have side effects of vomiting
+and triggering menstruation.
+vii. IFA tablets would prevent cervical cancer. The fear was that taking such medication
+when one does not have cancer may lead to the development of the disease.
+17
+63. Unavailability of key persons and focus group discussion participants at
+national and district levels – Critical key informants that could otherwise have
+provided strategic information with regards to the design, implementation and
+effectiveness of the approaches were not always available for interviews. This delayed
+the evaluation process as they kept postponing the interviews to an extent that some
+could not be interviewed during the time of the evaluation. Likewise, though the
+consultants worked collaboratively with District Coordinators and frontline workers,
+they were unable to identify members of youth clubs and care groups targeted by the
+IFA Intervention to participate in the FGDs. In Salima, the PNHAO indicated that youth
+clubs born out of the IFA Intervention in collaboration with Afikepo’s Nutrition and
+Access to Primary Education (NAPE) project had just been formulated and no
+activities had commenced yet.
+64. Lack of routine monitoring data from the District Nutrition Offices (DNOs).
+Another challenge was DNOs failure to share electronic data from schools and health
+facilities as most of it remained in hard copy formats. It was therefore difficult to
+quantify achievements and impact of the project in some areas.
+65. Expectation of allowances by key persons – There were high expectations of
+allowances from key informants in schools and health facilities, particularly in
+Mangochi. The evaluation did not budget for any allowances as guided by ethical
+requirements, which discourage making payments of any kind to study respondents.
+In some cases, such key persons declined to help in mobilizing adolescents in their
+schools and catchment areas. To mitigate the problem, the consultants made lunch
+compensations of four thousand Kwacha to maintain good relationships.
+66. Social desirability bias – A key theme emerging from the qualitative data was the
+reference to ‘others’ in the reporting of ‘socially undesirable behaviours’ as perceived
+by respondents, namely non-compliance with the IFA supplements. Where
+respondents discussed this, they commonly noted that ‘other girls did not take the
+tablets, but we did’, or ‘other girls engaged in risky sexual behaviour because they
+thought they had taken contraceptives, but we did not’. This may indicate that
+respondents were biasing their responses to conform to what they perceived to be the
+socially accepted response in the context of being interviewed. This is a common
+phenomenon in interviews or FGDs. Findings should be read in the knowledge that
+they may reflect a more positive picture than reality.
+5.0 Evaluation Results
+67. UNICEF and its partners from the Government of Malawi have pre-tested iron and
+folic acid supplementation among girls (10-19 years) for the first time and succeeded.
+Over a relatively short period of time (2018-2021), the intervention accomplished most
+of what it set out to do, reaching or exceeding many of its most important targets.
+18
+Systems have been put in place to set a foundation for other interventions, capacities
+of government frontline workers while service providers have been strengthened and
+promising practices have been tested for wider application. These approaches will
+benefit not only the communities, schools and adolescents in the impact districts, but
+also others in Malawi and elsewhere. The results under each criterion assessed in the
+evaluation were found to be satisfactory and in a number of cases, highly satisfactory.
+Specific Objective (SO) 1: Assess the extent to which context factors were
+considered in the design of the intervention and how it was coherent with policies
+and programmes of other partners operating in the same districts
+Evaluation Criterion 1: Coherence
+Question 1.1: To what extent were contextual factors considered in the design and
+delivery of the intervention?
+68. The Adolescent IFA Intervention was found to fit the health and nutritional needs of
+adolescent girls in the targeted districts quite well. Mangochi, Salima and Dedza had
+one of the highest rates of anaemia in women of reproductive age ranging from 59 per
+cent in Dedza, 69.7 per cent in Mangochi and 72 per cent for Salima according to the
+Malawi Demographic and Health Survey (MDHS) of 2015/2016.
+69. Adolescents’ diets were poor; solely composed of stiff maize porridge and vegetables
+as relish, as reported by the situation analysis study conducted from November to
+December, 2018. Consumption of meats, poultry, eggs, milk and milk products was
+very low. Production of small livestock, for instance goats and chickens, was low and
+a majority of the households could not afford to buy these food commodities from the
+market. Local foods that are good sources of iron, such as caterpillars, ants and
+indigenous vegetables were despised and not eaten in adequate amounts that could
+result in substantial intake of iron. The situation analysis study reported that more than
+half of the girls and their households lacked knowledge about iron deficiency,
+anaemia, foods that can help prevent the disease and how to prepare them.
+Therefore, UNICEF and its partners designed and implemented the IFA Intervention
+to address these problems and prevent the situation from deteriorating.
+70. Interviews with adolescent girls in and out of school showed that many of them feel
+that their situation has changed as a result of the intervention. One girl from TA
+Kalonga in Salima attested that, “I did not know that a variety of foods found locally in
+our communities, such as wild fruits, vegetables and animals, which we do not like
+eating much thinking they are traditional for girls like us, are very good sources of iron,
+but are lacking in our bodies. The project has taught us about the Malawi six food
+groups and to eat them (local foods) regularly in our diet.” Similar sentiments were
+echoed in other communities in the three districts as well.
+19
+Question 1.2: How did various components of the same intervention and other
+interventions by UNICEF operate together to achieve its objectives?
+71. Weekly IFA supplementation, deworming, nutrition education for social behaviour
+change and dietary diversity as well as capacity building and involvement of frontline
+workers, including teachers and HSAs, have shown to synchronize well and be an
+effective model of reaching out to adolescent girls and boys in and out of school.
+72. UNICEF and its partners did well to pre-test the IFA supplementation and deworming
+in the same three districts, targeted by the UN Joint Programme on Girls Education
+(JPGE) II. The programme was implemented by the Government of Malawi from 2018
+to 2020 with technical support from three United Nations agencies (UNFPA, UNICEF
+and WFP) and financial support of the Royal Norwegian Government. A new four-year
+phase was approved in December 2020 and is currently ongoing (2021-2024). JPGE
+III is implemented in 169 primary schools in these districts and targeting the same girls
+from standard 5-8 because it is within this age when girls in Malawi tend to drop out
+of school due to numerous socio-economic and cultural reasons. JPGE III is also
+focusing on out-of-school adolescent girls targeted by the IFA Intervention, ensuring
+that they receive basic life skills that they currently need and would require during their
+adult life.
+73. The impact has been huge because of this co-existence, and sound collaboration and
+coordination. Government frontline workers, parents and communities corroborated
+that the two programmes together have upheld girls’ rights to education, health and
+nutrition in addition to avoiding duplication of efforts that would result in wastage of
+resources if each one of them was working separately.
+74. As an example, in Salima JPGE introduced school health clubs in 6 of the targeted 11
+TAs and promoted backyard gardens and orchards to support the dietary diversity
+component of the IFA Intervention. JPGE has trained food committees, mother groups
+and SHN teachers on cooking demonstrations and nutrition education as mentors for
+the school clubs formed. The IFA Intervention used these clubs to implement activities
+on nutrition and diets to increase iron intake. According to the PNHAO and DNO for
+the district, JPGE also purchased and supplied additional reporting tools for supply to
+various schools and health facilities after they finished in the final year of the IFA
+Intervention. Traditional Authorities (TAs) where JPGE and IFA Interventions worked
+together in the district are Kambalame, Ndindi, Kambwiri, Pemba, Maganga and
+Kaulunda. The impact registered is huge and needs to be scaled up to other TAs.
+20
+Question 1.3: To what extent was UNICEF’s Adolescent IFA Intervention by the
+GoM and UNICEF coherent with policies and programmes of other partners
+operating within the same context?
+75. The Adolescent IFA Intervention was a multi-sectoral project that integrated health
+and nutrition actions to address the problem of iron deficiency and anaemia in line
+with priorities and commitments of the government of Malawi, UNICEF and other
+External Development Partners (EDPs), in particular the donor, the Netherlands
+Government.
+76. The intervention was aligned to the Multi-Sectoral Adolescent Nutrition Strategy of
+2019-2023, and the National Multi-sectoral Nutrition Policy (NMNP) and its Strategic
+Plan of 2018-2022 as the main policy documents guiding the programming of nutrition
+as a human and child rights issue in the country. As an example, the intervention has
+achieved three of the nine activities outlined under strategy 2 of objective 1 of the
+NMNP and its Strategic Plan, namely: 1) provide iron-folate supplementation to
+pregnant and all women 15-49 years of age, 2) conduct nutrition education and
+counselling for adolescent girls and women at facility and community levels, and 3)
+procure and distribute the following to all facilities: iron, folic acid, vitamin A and de-
+worming tablets for women 15-49 years (including pregnant women).
+77. Additionally, the Adolescent IFA Intervention by UNICEF and GoM provided synergy
+and complementarities to other policies like the Malawi Growth and Development
+Strategy III (MGDS III) (2017-2022), the National Agriculture Policy (NAP) (2016-
+2021) and National Resilience Strategy (2018-2030), which seek to address
+micronutrient deficiencies, through other means, such as biofortification and
+fortification of major staple foods.
+78. From a global perspective, the IFA Intervention has contributed to achieving agenda
+2030, especially indicator 2.2.3 for target 2.2 of SDG 2 that aims to “end hunger,
+achieve food security, improve nutrition and promote sustainable agriculture. Target
+2.2 of this goal states that “By 2030, end all forms of malnutrition, including achieving
+the internationally agreed-upon targets on stunting and wasting in children under 5
+years of age, by 2025, and address nutritional needs of adolescent girls, pregnant and
+lactating women and older persons. Indicator 2.2.3 is about reducing the prevalence
+of anaemia in women of 15-49 years of age. This indicator is based on the goals
+outlined by the 65th World Health Assembly (WHA) that took place in May 2012 for
+fighting all forms of malnutrition globally.
+79. The Adolescent IFA Intervention partnered well with other programmes throughout its
+period of implementation.
+1) Afikepo Nutrition and Access to Primary Education (NAPE) project funded by
+the European Union (EU) and the Government of Germany with support from GIZ.
+21
+NAPE (2017 to April 2022) trained school club patrons, matrons and community
+members on how to establish school gardens and grow indigenous and nutritious
+crops and vegetables. NAPE focused on Home-Grown School Meals (HGSM) to
+enrich school meals with indigenous vegetables and legumes that are highly
+nutritious. NAPE has established adolescent clubs in schools receiving IFA
+supplementation in Salima to leverage efforts by UNICEF and DNHA.
+2) CARE Malawi provided fuel to distribute IFA reporting tools in schools and health
+centres.
+3) WFP provided vehicles for district teams to carry out monitoring activities for the
+Adolescent IFA Intervention.
+4) Organized Network of Services for Everyone's (ONSE) Health project funded
+by USAID supported nutrition activities, particularly in Salima.
+SO 2: Evaluate the extent to which project activities were implemented in a cost-
+efficient manner in the targeted communities.
+Evaluation Criteria 2 – Efficiency
+80. The evaluation team analysed efficiency of the IFA Intervention in the targeted districts
+to be very satisfactory based on three questions outlined in the ToRs.
+Question 2.1: How well have UNICEF’s resources, both human and financial, been
+managed to ensure timely, cost-effective and efficient attainment of the results?
+81. According to individual interviews with project managers and staff in the districts,
+funding for the IFA project was disbursed as planned. Since the funding came in the
+form of a grant, the project was designed in accordance with the financial envelope
+made available to UNICEF by the donor.
+82. The total budget that UNICEF Malawi country office received from the Netherlands’
+government is US$250,000. Table 6 shows that different categories of activities were
+fully funded as planned. In terms of expenditure by category, Table 6 shows that the
+purchase and replenishment of IFA tablets accounted for 30 per cent of the total
+budget, 23.7 per cent was allocated for actual purchasing of the IFA tablets, and 3.6
+per cent went to freight costs and local distribution to the schools and health facilities.
+Monitoring and evaluation spent 30 per cent through costs for the baseline and endline
+studies, monitoring support to the districts and integration of IFA indicators in the
+national M&E system. The project spent 17.2 per cent of the budget on social
+behaviour change communication (SBBC), which included planning and facilitation of
+community engagements, mass media engagement and mobilization, and the
+identification, engagement and empowerment of adolescent nutrition champions.
+Capacity development had a cumulative expenditure of 13.4 per cent, emanating from
+learning and development sessions, printing of compliance cards for 35,000
+adolescent girls and demonstrations of diversified diets using locally available foods.
+22
+83. Other budget categories represent smaller shares of the total project cost. These
+include expenditures on visibility at US$14,000, representing 5.6 per cent of the
+budget, and cross sectoral support at US$9,616 (4%) as illustrated in Table 6.
+84. In summary, operational costs related to the provision of IFA supplements and
+associated activities accounted for almost 100 per cent of the total expenditures
+incurred. No investment was made on equipment, vehicles and furniture. Moreover,
+the budget did not include administrative costs like salaries and remuneration of staff.
+The presence of in-country experts at UNICEF and partner organizations helped the
+project to save time and resources that would have otherwise been spent on additional
+recruitment processes or hiring consultants to do certain tasks. The use of the national
+supply chain from district hospitals to communities also enabled the project to make
+financial savings in terms of staff salaries, logistics, and monitoring and supervision
+costs, thereby making it possible to reach a larger number of beneficiaries at a lower
+cost, as desired.
+85. A large portion of the budget was disbursed in the first year (US$109,740 – 43.9%).
+This is because large components of M&E and SBCC, and 50 per cent of expenditures
+for the IFA tablets were planned to be spent in the year (Table 6). With respect to cost-
+effectiveness, the evaluation found an average cost of US$2.38 per beneficiary girl
+registered in the project per year; disaggregated as follows: US$3.13, US$2.07 and
+US$1.94 for years 1 to 3 respectively (a total of US$7.14 in three years) as illustrated
+in Table 7. This level of efficiency compares favourably well with similar interventions
+implemented elsewhere. For example, the cost of the IFA programs per adolescent
+girl per year in Sri Lanka, for which data is available, is estimated at US$2.272 and in
+India US$0.583 for projects that have taken place most recently in the past five years.
+Data from other countries in Asia, such as Cambodia, the Lao People’s Democratic
+Republic, the Philippines and Vietnam, show that in previous efficacy studies, the cost
+varied from US$0.12 to $3.64 for an annual supply of 52 IFA supplements to
+adolescent girls4.
+Table 6: Expenditure by category of the IFA Intervention, year 1 to 3
+Project Activity Year 1 Year 2 Year 3 Total %
+(USD ) (US D) (US D) (USD )
+Capacity Development in Weekly Folic Acid roll out
+Learning and development sessions- 1 per district 5,000 5,000 2.0
+Printing of compliance cards for 35,000 adolescent girls in 10,000 10,000 20,000 8.0
+Salima, Mangochi and Dedza districts at USD 0.29 per card
+Feeding demonstration for diversified meals using locally 8,522 8,522 3.4
+available foods among adolescent girls (Cost of conducting
+cooking demonstrations in 150 platforms in the district)
+Sub Total - 10,000 23,522 33,522 13.4
+2 https://www.nutritionintl.org/wp-content/uploads/2020/11/MMS-policy-brief-sri-lanka-2020-05-07-web.pdf
+3 ttps://apps.who.int/iris/bitstream/handle/10665/148556/WHO_NMH_NHD_14.4_eng.pdf?sequence=1&isAllowed=y
+4 https://iris.wpro.who.int/bitstream/handle/10665.1/5518/9789290615231_eng.pdf
+23
+Social Behavioural Change Communication (SBCC)
+Planning and facilitation of community engagement and 10,000 10,000 7,807 27,807 11.1
+empowerment with traditional and religious leaders (30
+forums/dialogues etc.) to support positive social norms and
+practices on adolescent nutrition
+Mass media engagement and mobilization (5 radio 10,000 10,000 4.0
+programmes on IFA, 10 articles on IFA project on web-based
+platforms, 10 jingles on IFA project, 5 documentaries
+developed and aired)
+Identification, engagement and empowerment of Adolescent 5,000 50,000 20.0
+Nutrition Champions (Community drama sessions, community
+dialogues, food festivals)
+Sub Total 20,0 00 10,0 00 12,8 07 42,8 07 17.1
+Monitoring and Evaluation -
+Baseline and endline survey and documentation for 3 districts 30,000 24,000 54,000 21.6
+Monitoring support to districts education department/school 10,000 5,000 20,000 8.0
+health and nutrition program for Iron Folic Acid
+Supplementation roll out (development and printing of tools,
+orientation of focal persons and supportive supervision
+Integration of IFA indicators in the National M & E system 1,000 1,000 0.4
+Sub Total 41,0 00 5,0 00 29,0 00 75,0 00 30.0
+Procurement and Replenishment of Iron Folic Acid and -
+Albendazole Tablets
+Iron 60mg+Folic Acid 40mgcg/PAC-10x10 blisters 29,666 29,666 59,332 23.7
+35000 Adolescent girls-1-year course -1 tab per week for
+every adolescent girl (10-19 years) 52 tablets per adolescent
+Freight cost for the iron folic acid, and albendazole 4,450 4,450 8,900 3.6
+Sub Total 34,1 16 34,1 16 68,2 32 27.3
+Supplies Integration Support to CMST to Deliver to Last -
+Mile
+District level IFA distribution cost to Health facilities in 3 3,412 3,412 6,824 2.7
+districts from Central Warehouse-health facility
+Visibility -
+Provide visibility for the 'second opportunity' adolescent 7,000 7,000 14,000 5.6
+nutrition programme and the Netherlands support through
+branding of the project sites, supplies and donor field visits
+Sub Total 10,412 10,412 - 20,824 8.3
+Cross Sectorial Cost (4%) 4,221 2,781 2,613 9,615 3.9
+Sub Total 4,221 2,781 2,613 9,615 3.9
+Total Programmable Costs 109,749 72,309 67,942 250,000 100
+Percentage 43.9 28.9 27.2 100
+Table 7: Cost per beneficiary (adolescent girl 10-19 years) registered in the project
+Year 1 Year 2 Year 3 Total
+(USD) (USD) (USD) (USD)
+Yearly expenditure 109,749 72,309 67,942 250,000
+Beneficiaries reached 35,000 35,000 35,000 35,000
+Cost per beneficiary 3.14 2.07 1.94 7.14
+Question 2.2 How efficient was the collaboration and coordination at the national,
+zone, district and community levels?
+86. Collaboration and coordination of IFA activities were assessed to be good and
+expected to be scaled up. At the national level, DNHA was responsible for the overall
+coordination and management of project activities. When IFA tablets were procured,
+Pharmacy Departments at district hospitals received and stored them before supplying
+them to PNHAO offices. From these offices, supplies were delivered to health centres
+24
+by drivers. District Nutritionist, members of District Nutrition Coordinating Committees
+(DNCC) like Youth Officers, SHN coordinators and the PNHAO monitored the whole
+process to ensure consignments were delivered as dispatched. SHN coordinators
+were the ones instructing the SHN teachers to collect supplies from the health centres
+and to store them in the head teachers’ offices for weekly distribution.
+Question 2.3 What factors affected the efficiency of the project?
+87. Despite the availability of funding and its disbursement as planned, a number of
+factors affected efficiency of the intervention. The main factor was the expiration and
+stock out of IFA tablets before the project came to an end. Procurement of IFA tablets
+and supply to health centres and schools was carried out immediately in the first
+months of 2019 to save freight and distribution costs. Being on a pilot basis, the project
+only budgeted and procured IFA tablets for years I and 2; 52 doses per year for each
+of the 35,000 girls registered in the project. IFA supplementation therefore did not take
+place after expiration of the consignments that were delivered. During field work for
+this evaluation, no school had supplies and supplementation had since stopped.
+88. At the district level: District pharmacy managers, in-charges of health centres and
+DNOs complained that they were not involved in the targeting of beneficiaries (girls),
+ordering of the tablets and planning of delivery to schools and health facilities. All
+these activities were said to be unilaterally managed by UNICEF and DNHA parallel
+to the national supply chain system followed by the district hospitals.
+89. At the school and health centre level: The main problem was low storage capacity.
+Schools, as reported by the SHN Teachers and Head Teachers, in particular, had
+limited space to keep huge quantities of IFA tablets.
+90. At the community level: Efficiency of the project was affected by misconceptions
+regarding the IFA tablets that reduced compliance by the girls.
+SO 3: Propose a Theory of Change in consultation with all key stakeholders.
+91. The Theory of Change (ToC), detailed in Annex 9, draws from multiple sources
+including:
+- The ‘Framework of interventions and determinants of adolescent nutrition’
+provided in the Multi-Sectoral Adolescent Nutrition Strategy of 2019-20235.
+- The ‘Socio-Ecological Model’ provided in the Multi-Sector Nutrition Education and
+Communication Strategy (NECS) II, 2019-20236.
+- Data collected through this evaluation.
+5 Multi-Sectoral Adolescent Nutrition Strategy, 2019-2023, Government of Malawi, Ministry of Health,
+page 10
+6 Multi-Sectoral Nutrition Education and Communication Strategy (NECS) II, 2019-2023, Government of
+Malawi Department of Nutrition, HIV and AIDS, pp 9
+25
+92. These data sources are reviewed through an Actor Based Change (ABC)
+framework lens7. Given the IFA Intervention’s objectives, the Theory of Change
+identifies two key actors, and two target behaviours that it seeks to address, as
+shown in Figure 5.
+Figure 5: Key Actors and Target Behaviours
+93. As outlined further in Annex 9, a socio-ecological model, and behavioural analyses of
+the two target behaviours are presented. These analyses form the basis of two
+proposed Theories of Action, which outline the pathways of change from intervention
+toward changes in the targeted behaviours. The two Theories of Action, are then
+presented jointly in a Theory of Change (Figure 6), which shows how changes in the
+target behaviours, if sustained over time and adequately resourced, will contribute
+toward the proposed outcomes in adolescent health and nutrition, as outlined in the
+‘Framework of interventions and determinants of adolescent nutrition’ provided in the
+Multi-Sectoral Adolescent Nutrition Strategy 2019-2023.
+94. The IFA Intervention is in line with the Multi-Sectoral Adolescent Nutrition Strategy of
+2019-2023 whose goal is to have well-nourished adolescents who can contribute to
+economic growth and development of the country. The Theory of Change (ToC)
+adopts and feeds into the conceptual model presented in this Strategy. The Theory of
+Change (Figure 6) developed through a rigorous analysis of the final evaluation
+primary data, desk review of the national nutrition policy and its accompanying
+strategy papers, envisages that supplementation of iron through IFA tablets coupled
+with positive practices on diversified diets as guided by Malawi’s six food groups in an
+enabling environment will lead to significant improvement in adolescent nutrition. A
+key component of the Adolescent IFA Intervention is the financial support from
+UNICEF and technical support from the DNHA, Ministries of Health and Education as
+agents of delivery of the program support to the adolescents.
+7 Koleros, A., Mulkerne, S., Oldenbeuving, M., Stein, D. (2018) The Actor-Based Change Framework: A
+Pragmatic Approach to Developing Program Theory for Interventions in Complex Systems, American
+Journal of Evaluation, Vol. 41 (1) 34-53, pp 34
+26
+Figure 6: Theory of Change
+27
+95. A few components have been added to the Conceptual Framework presented in the
+Multi-Sectoral Adolescent Nutrition Strategy. The additions made and their
+justifications are as follows:
+96. Inputs
+i. Funding – Currently, UNICEF is one of the main development partners
+supporting IFA supplementation in Malawi. Funding is a crucial component as the
+intervention cannot sustain itself until the Government of Malawi (GoM) is able to
+self-finance it.
+ii. Human Resource (roles of government implementing agencies) – The roles
+of the Ministry of Health through the DNHA, RHU and DHOs are key components
+of the intervention since IFA supplementation is also partly a health issue.
+Conversely, the ToC highlights the role of the Ministry of Education which is
+significant to the implementation. The intervention targets 70 per cent of in school
+adolescents and should continue in that manner when it is scaled up.
+iii. Stakeholders - Religious and traditional leaders determine the achievement of
+the IFA Intervention as they are culturally more empowered to determine
+behavioural change in a society (hence should be considered an important
+stakeholder to ensure success).
+97. Interventions
+i. Promotion of behavioural change through Social and Behavioural Change
+Communications (SBCC) approach is a key intervention outlined in the ToC
+(Theory of Change) to increase intake of iron rich foods, diversified diets and IFA
+supplementation among adolescents.
+ii. Provide targeted supplementation for adolescent girls 10-19 years: the main
+activity for the IFA Intervention for adolescents aimed at eradicating iron
+deficiency among adolescent girls 10-19 years. This needs to be reflected in the
+ToC to guide implementation.
+iii. Include nutritional education intervention through the Life Skills course, health
+talks and Care Groups as part of the ToC.
+iv. Build capacity of frontline workers in IFA provision, data management and
+reporting: The evaluation found that there are capacity gaps in the provision,
+data management and reporting by frontline workers such as SHN teachers and
+HSAs. In this ToC, the project should enhance training and incorporate on-going
+training of staff in schools and health facilities.
+v. Promoting coordination among facility, district and national level partners
+in IFA supplementation should be considered as one of the elements for the
+ToC for this project. Coordination gaps especially at district level compromised
+achievement of the results and contributed to poor distribution and management
+of IFA stocks. It is important that UNICEF facilitates engagement with key
+stakeholders at national and district levels to ensure the coordination structure is
+28
+owned by all stakeholders, with roles and responsibilities specified. These include
+the Ministry of Health, Ministry of Education, DNHA, District Health Officers,
+Districts Nutrition Officers and Principal Nutrition, HIV and AIDS Officers.
+SO 4: Evaluate effectiveness of the Adolescent IFA Intervention in producing the
+expected results for adolescent boys and girls, service providers, parents and
+community leaders in the targeted communities.
+Evaluation Criterion 3: Effectiveness
+Question 3.1: To what extent has the Netherlands-funded adolescent nutrition
+programme on IFA provision and capacity building of service providers been
+successful in achieving its objectives?
+98. The Adolescent IFA Intervention had four primary objectives:
+(i) To promote consumption of diversified diets using the Malawi six food
+groups approach among 70 per cent of adolescent boys and girls aged 10-
+19 years.
+(ii) To standardize integration of weekly iron and folic acid (IFA) supplements
+in the Ministry of Health’s (MoH) supply chain.
+(iii) To promote compliance of IFA supplements and deworming in 70 per cent
+of school going and 60 per cent of out-of-school adolescent girls.
+(iv) To create an enabling environment for effective implementation of
+adolescent nutrition in Malawi.
+Objective 1 of the Project: To promote consumption of diversified diets using the
+Malawi six food groups among 70 per cent of adolescent girls and boys aged 10-
+19 years.
+99. Through community radios, community sensitization and door to door campaigns,
+available data by the Story Workshop Educational Trust (SWET) show that the
+project managed to reach 54,826 adolescents (32,354 girls and 22,472 boys) with
+messages of IFA supplementation and diets, as of 2020. This figure represents an
+achievement of 78.9 per cent, which is higher by 28.9 percentage points since the
+project planned to have 50 per cent of the 69,462 adolescent boys and girls
+reached in the pilot districts.
+100. Descriptive analysis of data from the 24-hour dietary diversity score based on the
+Malawi six food group guide shows that the project has achieved tangible results
+by the end of three years. Figure 7 shows an increase in the consumption of iron-
+rich foods. More than two thirds of the girls interviewed (68.4%) reported to have
+consumed various forms of meat and meat products, including those that are
+locally available, compared to 47 per cent found by the situation analysis study in
+29
+2018. Consumption of dark green leafy vegetables, which are also a good source
+of iron, has increased too from 89.5 per cent to almost 100 per cent (99.1%),
+legumes from 49 per cent to 50.9 per cent and fats and oils from 70 per cent to
+87.9 per cent as illustrated in Figure 7. Vegetables were plentiful during the time
+of the evaluation due to rains and with nutrition knowledge acquired adolescent
+girls consumed them regularly as part of their diet. Conversely, the evaluation
+found a decline in the consumption of fruits by 18.1 percentage points from 63 per
+cent reported three years ago to 44.9 per cent. Focus group discussion (FGDs)
+revealed that indigenous fruits like mangoes and guavas were out of season and
+those that household grow in their fields, such as watermelons and cucumbers,
+had not yet matured in February when the evaluation took place. Adolescent girls
+and their families lacked money to buy and eat fruits that were available at the
+market (e.g. bananas and apples) regularly as required in this regard.
+120.0
+100.0 100.0 99.1
+100.0 91.0 87.9
+80.0 68.4 70.0
+63.0
+60.0 47.0 44.9 49.0 50.9
+40.0
+20.0
+0.0
+Staples Animal products Vegetables Fruits Fats and Oils Legumes
+Baseline Final Evaluation
+Figure 7: Food consumption at baseline (2018) and final evaluation (2022)
+101. Table 8 shows that more than half (58.6%) of the girls had high dietary diversity as
+they consumed five or all the six food groups a day before the survey. More than
+one third of them (35.6%) consumed 3-4 groups (medium diversity) and only 5.8
+per cent were in the low diversity category because they ate 1-2 food groups.
+These results, while not entirely due to this project since the presence of other
+interventions in the same districts, suggest a positive contribution of the project
+through nutrition education and promotion of iron rich foods. Trends were similar
+across the districts, with Mangochi reporting the highest diversity (Table 8).
+Table 8: Dietary diversity by adolescent girls in the three pilot districts
+Dietary Dedza Mangochi Salima Total
+Diversity
+Baseline EOT Baseline EOT Baseline EOT Baseline EOT
+Low (1-2) 8.9 12.7 7.6 0.8 25.3 3.5 13.9 5.8
+Medium (3-4) 12.7 36.8 7.6 31.7 13.3 39.6 11.2 35.6
+High (5-6) 78.5 50.4 84.8 67.5 61.4 57.0 74.9 58.6
+30
+102. A further assessment was carried out to understand the type of foods among the
+six food groups that were available and constituted diets of the adolescent girls in
+the targeted districts. Girls in Mangochi reported the highest consumption of animal
+food products (81.9%) a day before the survey followed by Salima (61.6%) and
+Dedza (59.3%) as shown in Figure 8.
+120.0
+100.0 100. 1 0 00. 1 0 00. 1 0 00.0 98.799.2 99.5 99.1 96.0 89.787.9
+81.9
+77.6
+80.0
+68.4
+59.2 61.6
+60.0 55.8 44.9 48.2 53.8 50.3 50.9
+41.7
+40.0 34.1
+20.0
+0.0
+Staples Animal products Vegetables Fruits Fats and Oils Legumes
+Dedza Mangochi Salima Total
+Figure 8: Consumption of six food groups by district
+103. Organ meats, while are a very rich source of iron, were rarely accessed and
+consumed by adolescents as already indicated above. Only 5.1 per cent of the
+girls had consumed this essential source of iron in the 24 hours prior to the study.
+They confirmed that organ meat and meat in general are expensive and eaten
+occasionally in most households. “Our parents cannot afford to buy meat regularly,
+although it is readily available at the market,” a girl reported at Kankhombe primary
+school in Salima. Fish is the most common source of iron, especially in Salima and
+Mangochi because they are close to the lake. Caterpillars, insects and ants remain
+largely unpopular and seasonal. More efforts are needed to increase consumption
+of these local foods and make them reliable sources of iron in the districts.
+104. Table 9 shows that households from which adolescent girls reside are now eating
+one more food group with an average dietary diversity score of 4.6 compared to
+4.1 recorded by the situational analysis study of 2018.
+105. SHN teachers explained that at times IFA supplementation sessions were
+preceded by health talks, which included guidance on the Malawi six food groups
+and foods that are rich in iron to complement the tablets. Adolescent girls reported
+to have received information from other sources about nutrition and diets including
+wrappers worn by women (zitenje in Chichewa) that Feed the Children provided
+through Tiwalere project, radios and parents at home.
+31
+Figure 9: Common sources of iron consumed by adolescent girls
+Table 9: Average household diversity by district
+District Baseline Final Evaluation
+Dedza 4.4 4.3
+Mangochi 4.0 4.9
+Salima 3.9 4.7
+Total 4.1 4.6
+106. Further engagements with SHN teachers revealed that they have not received any
+standard guidelines to use in nutrition education of adolescent girls to promote
+consumption of iron foods. Most of the teachers explained that their weekly roles
+were therefore limited to the distribution of IFA tablets and keeping records on
+compliance, but little on nutrition education. “We give nutrition education because
+we see that it is necessary, but it is not a major component of this program. We
+have no topics and reference guidelines to use. We only talk about the Malawi six
+food groups and we cannot be delivering the same topic every week,” said one of
+the SHN teachers in Mangochi. Similar sentiments were expressed by teachers in
+most schools of Salima and Dedza.
+Objective 2 of the Project: To standardize integration of weekly iron and folic acid
+supplements in the Ministry of Health (MoH) supply chain
+107. Over the past 3 years, from 2018 to 2021, the project invested US$59,332 to
+procure IFA tablets for 35,000 girls and ensured that each one of them had 52
+tablets in a year to allow weekly intake. In the initial phase (2019), the project used
+the Ministry of Health (MoH) and Central Medical Stores Trust (CMST) supply
+chain system to procure tablets, as confirmed by district and community staff -
+32
+SHN teachers and HSAs. In subsequent consignments of November 2021 and
+March 2022 (Figure 10), the project changed and set up a parallel structure and
+the reasons for doing this remain unknown.
+Figure 10: IFA supply chain versus Central Medical Stores Trust (CMST) system
+108. As an example, in supplies for November 2021 and March 2022, UNICEF and
+DNHA delivered supplies to PNHAOs who then circumvented district pharmacy
+stores and distributed directly to health centres for further sharing with beneficiary
+schools and community delivery points.
+109. The parallel structure resulted in a number of challenges related to monitoring,
+stock management and reporting. Several schools and health facilities reported to
+have received more supplies than were actually needed due to the lack of accurate
+information on the numbers of registered girls. “Tablets have expired because it
+has taken longer for the girls to finish the huge supplies delivered,” SHN teachers
+and HSAs said.
+110. In some cases, due to poor information and monitoring in the parallel structure,
+IFA tablets meant for adolescent girls were distributed among pregnant women by
+health facilities, for instance in Salima. These inconsistences and anomalies
+presented a high cost to the project and need to be addressed in the future.
+33
+Objective 3 of the Project: To promote compliance of iron and folic acid
+supplements and deworming in 70 per cent of school going and 60 per cent of out-
+of-school adolescent girls
+111. Interviews with girls in all the three districts revealed that when IFA supplements
+were available in the first and second years, 79 per cent of them complied by taking
+weekly doses as recommended.
+112. To promote compliance, the project required adolescent girls to take tablets weekly
+on spot under direct supervision of teachers, HSAs or Community Health Nurses
+and parents. The following procedure was followed and is recommended to be
+continued:
+i. All registered girls came to a common place.
+ii. Each girl washed her hands when it was her turn to take the tablet.
+iii. SHN teachers and HSAs provided the tablet to each girl to ingest on spot.
+iv. Girls brought their cups from home as a COVID-19 precautionary
+measure.
+v. SHN teachers and HSAs recorded in the compliance forms for each girl
+after taking the tablet.
+vi. In instances where a girl missed her weekly dose, it was given on another
+day within the same week. However, if this was not possible, the following
+week’s dose was given when it was due.
+113. During the holidays, SHN teachers provided girls with the IFA tablets to take at
+home and record it on the compliance forms themselves. This practice was
+particularly for schools away from health facilities. Girls living close to health
+facilities received their tablets from HSAs and through the various forums available
+in the communities during holidays.
+114. In spite of these achievements, after March 2020 the project suffered from stock
+out of supplies mainly because of disruptions by the COVID-19 pandemic. Girls
+did not have the opportunity to comply, therefore, when asked during the
+quantitative survey, ‘Have you received IFA supplements in the past 6 months
+(referring to the period from September 2021 till February 2022 when the endline
+data was collected), 13.6 per cent said yes’. The rest (85.4%) of the girls did not
+take any supplements during this period.
+115. These results are similar to those in Salima for which data were available and
+shared with the evaluation team. Table 10 shows 12.4 per cent and 20 per cent
+compliance, by adolescent girls in schools and communities in the district, for the
+months of September and October 2021 respectively. Most schools had no IFA
+stocks during this period, hence lower compliance was reported when compared
+to communities. UNICEF placed an intern in the office of the PNHAO who captured
+this data. Dedza and Mangochi had no such data to share with the evaluation team.
+34
+Table 10: Coverage and compliance with IFA supplementation in Salima by the girls
+Indicator Site Sep-21 Oct-21 Nov-21 Dec-21 Jan-
+22
+In school 16128 16128 16128 16128 16128
+Total # of adolescent girl(s)
+Community 7319 7319 7319 7319 7319
+# of adolescent girls enrolled In school 14033 14033 14033 14033 14033
+in program Community 6331 6331 6331 6331 6331
+# of girls consuming 4/5 IFA In school 1742 1742 0 0 0
+tablets in a month Community 1268 1268 0 0 0
+In school 87.0 87.0 87.0 87.0 87.0*
+Coverage % Community 86.5 86.5 86.5 86.5 86.5
+In school 12.4 12.4 0 0 0
+Compliance % Community 20.0 20.0 0 0 0
+# of girls consuming In school 0 0 0 0 0
+albendazole Community 0 0 0 0 0
+Albendazole coverage % In school 0 0 0 0 0
+Community 0 0 0 0 0
+# of Nut & Health Education In school 4 4 4 4 4
+lessons planned Community 99 99 99 99 99
+# of Nut & Health Education In school 5 5 5 5 5
+lessons conducted Community 65 65 65 65 65
+# of girls who experienced In school 3 3 3 3 3
+adverse effects Community 0 0 0 0 0
+*Coverage was calculated based on the numbers enrolled in the program versus the number registered
+by the schools
+In the picture, the SHN teacher is giving IFA tablets to girls at Nthulu Primary School in
+Dedza and making sure they take them on spot
+35
+Deworming of Adolescent Girls
+116. The Adolescent IFA Intervention was designed to provide albendazole tablets
+twice every year to treat intestinal worms in girls. The survey asked a series of
+questions to establish coverage of the intervention. Results (Tables 11 and 12)
+show that close to two thirds of the girls (65.2%) indicated to have received
+albendazole tablets within the 12 months preceding the survey. On average, the
+girls received the tablets twice (mean=1.56) as recommended.
+117. In terms of albendazole intake, 98 per cent of those who received the tablets were
+from Mangochi (36.7%) and girls in school (81.4%). Interviews with health workers
+in all the three districts revealed that the IFA Intervention did not distribute any
+albendazole to the schools. Albendazole was provided as part of the Bilharzia
+program by district hospitals.
+Table 11: Girls who received albendazole in the past 12 months
+Have you received albendazole in
+the past 12 months Frequency Per cent
+No 246 34.8
+Yes 461 65.2
+Total 706 100
+Table 12: Girls who received albendazole by district
+Have you received albendazole District
+in the last 12 months? Dedza Mangochi Salima Total
+No Count 101 77 67 245
+% 41% 31% 27% 100%
+Yes Count 126 172 163 461
+% 27.3% 37.3% 35.4% 100%
+Total Count 227 249 230 706
+% 32% 35% 33% 100%
+Objective 4 of the Project: To create an enabling environment for effective
+implementation of adolescent nutrition intervention
+Question 3.2: What were the major factors influencing the achievement or non-
+achievement of the project objectives?
+118. The project achieved notable successes in creating an enabling environment for
+effective implementation of adolescent nutrition in the targeted districts. Examples
+of factors that show the environment was conducive include the following:
+36
+1) Delivery of IFA tablets directly in schools and health facilities –The choice
+of schools and health facilities as distribution places made it possible for girls
+to access the tablets easily from teachers and HSAs whom they saw daily and
+trusted.
+2) On spot monitoring for compliance – SHN teachers, HSAs and parents had
+a responsibility to observe girls when taking IFA tablets and record it, which
+helped to ensure compliance whether girls were at school or home.
+3) Training of government frontline workers helped improve capacities while
+increasing competence and efficiency for carrying out project activities within
+the busy working schedules.
+4) Increasing knowledge about the Malawi six food groups - Adolescent boys
+and girls consistently demonstrated knowledge of the Malawi six food groups
+model, including recognition of individual groups, and the foods contained
+therein. Nearly two-thirds adolescents (65.5% - 67% in-school and 60% out-
+of-school) were able to name all the six food groups in the model diagram when
+displayed in front of them during interviews. SHN teachers and HSAs covered
+the subject as part of nutrition education and health talks before administering
+tablets, although not regularly. More than half (51.4%) of the adolescent girls
+surveyed reported to have ever attended nutrition education classes. In-school
+girls were more likely (54.3%) to have attended such classes compared to 40.3
+per cent of out-of-school girls (Figure 11). SWET also covered issues of diets
+and the Malawi six food groups during mass awareness campaigns through
+community drama and radio, which reached adolescent girls and boys as well.
+Figure 11: Adolescent girls who have received nutrition education
+37
+Question 3.3: To what extent has the implementation of strategies and project
+approaches, such as intake of the weekly IFA supplements worked as intended?
+119. As outlined in detail above, implementation of strategies and project approaches
+such as the intake of weekly IFA supplements in schools and health facilities,
+involvement of government frontline workers, engagement of communication
+partners like SWET, and incorporating nutrition education as part of the IFA
+supplementation sessions have worked well and delivered the results. These
+approaches are some of the best practices that the project should scale up.
+Question 3.4: How effectively did UNICEF engage with the Government to
+strengthen coordination and how far did government leadership and political will
+influence the achievement of the results and vice versa?
+120. There is evidence to suggest that higher government ownership over the
+intervention at district level can be correlated with greater problem solving and
+resource mobilisation for effective delivery and monitoring.
+121. Political will is and has been demonstrated by the GoM through development of
+the Malawi Growth and Development Strategy (MGDS) III (2017-2022), and the
+National Multi-Sector Nutrition Policy and Nutrition Strategy (2018-2022) launched
+in June 2018. As one way of operationalizing the policy and strategy, the
+government has developed the Multi-Sectoral Adolescent Nutrition Strategy (2019-
+2023), which aims to deal with health and nutrition issues affecting adolescents.
+This, though not an end in itself, demonstrates affirmative action on part of the
+government. While UNICEF mobilized the funds for IFA supplementation and will
+continue to do so, government ministries and departments have been at the core
+of the implementation process. The DNHA and RHU coordinated IFA activities at
+the national level; district-level structures such as the PNHAO, DNO, SHN
+coordinators, SHN teachers and HSAs played key roles in providing IFA
+supplementation services.
+Question 3.5: How successful was UNICEF in reaching the most vulnerable
+groups in the target districts?
+122. In this intervention, UNICEF and its partners succeeded quite well in reaching out
+to adolescent girls, including those in remote areas where there was a lack of basic
+amenities, including nutrition education and healthcare services. UNICEF and its
+partners implemented the Adolescent IFA Intervention in the same schools and
+communities where these girls are present in their daily lives, to enable them
+access IFA and deworming services easily. They put the same teachers,
+community health nurses (CHNs) and HSAs, who already educate the girls on
+issues of education and health, at the forefront to render services and ensure
+compliance.
+38
+123. Another unique result achieved by this intervention is its ability to reach out to boys
+who in most cases are left out by humanitarian and development projects. The
+boys took part in nutrition education and many of them testified in FGDs that they
+have been enlightened. “We have learned about the Malawi six food groups for the
+first time. We did not know anything about them previously and as a result we were
+eating food just to satisfy hunger. We have now started discussing the importance
+of nutrition in our youth clubs while increasing consumption of diversified diets at
+home, thanks to the project,” said one group of the boys during FGDs in Salima.
+Question 3.6: What other changes (positive, negative, direct, indirect or intended
+and unintended) have occurred as a result of the project interventions?
+As for unexpected and negative results, the following were identified:
+124. Sharing of the tablets with pregnant and lactating mothers by health
+facilities. According to pharmacists and DNOs interviewed, IFA tablets procured
+by the project were also given to pregnant and lactating women when normal
+supplies were out of stock at the hospital. Conversely, the project benefited from
+albendazole that hospitals procured for routine treatment of bilharzia as already
+stated.
+125. Increased workload for SHN teachers. Since one SHN teacher was trained and
+because only one day of the week was specifically dedicated to IFA
+supplementation (Wednesdays or Thursdays in most of the schools), rather than
+having sessions spread over several days of the week (for example, 1 day for each
+class to be done quickly), SHN teachers complained about heavy workload and
+that other school activities were neglected in favour of IFA supplementation. Head
+teachers, SHN coordinators and other key persons suggested supporting SHN
+teachers during these days to alleviate the workload by training additional teachers
+for standard 4-8.
+SO 5: Evaluate outcomes of the adolescent nutrition programme and the extent to
+which the project has contributed to improving compliance of the intake of Iron
+and Folic acid supplements.
+126. The goal of the Netherlands-supported IFA Intervention was “to improve nutritional
+status of in and out of school adolescent girls aged 10-19 years in the three districts
+by the end of 2021” The evaluation assessed whether this goal was achieved by
+asking girls, their schools and communities to respond to three main questions.
+127. The Adolescent IFA Intervention has worked and shown tangible impacts amidst
+the challenges faced. Both in and out of school girls complied well between 2019
+and 2021 because they were taking tablets in the presence of SHN teachers and
+39
+HSAs or parents, if at home. These frontline workers corroborated and anticipated
+the impact on reduction of iron deficiency and anaemia to be huge in the absence
+of an anaemia study.
+128. Nutritional Status of Adolescent Girls: Weight and height measurements were
+taken to derive Body Mass Index (BMI) and assess the prevalence of underweight
+girls. BMI was calculated by dividing weight in kilograms by height in meter
+squared (kg/m2). The values obtained were further compared with the reference
+population from the 2006 WHO Anthro to generate BMI-for-age. A BMI of less than
+18.5 kg/m2 was used to determine underweight. Results (Figure 12) showed that
+the underweight prevalence, which represents both chronic and acute deprivation,
+has decreased from 12.9 per cent reported by the MDHS of 2015/2016 to 10.4 per
+cent in February 2022 - when field work for the evaluation took place. In younger
+girls 10-14 years, underweight prevalence has declined by 4.1 percentage points
+from 21 per cent reported by the aforesaid MDHS to 16.9 per cent.
+129. When compared to the situation analysis study of nutrition, knowledge, attitudes,
+behaviour and practices of adolescents on iron and folic acid (IFA)
+supplementation, the decrease is much higher at 20.3 percentage points in Salima,
+Dedza and Mangochi from 30.7 per cent to 10.4 per cent (Figure 12).
+35
+30.7
+30
+25
+20
+15
+10.4
+10
+5
+0
+Situation Analysis (2018) Final Evaluation (2022)
+Figure 12: Declines in underweight in girls between the baseline and endline (%)
+130. Between 2010 and 2015/2016, the prevalence of underweight and thinness
+deteriorated in Malawi, with underweight prevalence rising from 14 per cent to 21
+per cent and thinness from 2 per cent to 8 per cent among young girls aged 6-12
+years old for which data are available. These figures mean that underweight
+prevalence increased by 50 per cent and thinness by 300 per cent. A SMART
+nutrition survey of 2018 in 26 out of 28 districts of Malawi found an underweight
+40
+prevalence of 14 per cent in adolescent girls of 10-14 years. In the selected six
+pilot districts, the SMART survey found underweight prevalence of 26.5 per cent.
+By implication, reductions observed in this evaluation represent the beginning of
+positive trends that need to be nurtured and scaled up.
+131. Of the 95 out of 662 girls who were underweight (14.4%), 15.6 per cent were in
+school and 9.7 per cent out of school. These results were expected because girls
+in school have busy work schedules during learning periods that reduce time for
+eating. The evaluation also found that girls out of school engaged in small
+businesses and earned money to fend for their food needs. Underweight
+prevalence in girls was lowest in Salima (10.3%), followed by Mangochi (14.9%)
+and then Dedza (17.1%). All the three districts are food sources for the country as
+they produce fish, rice, maize, groundnuts, soybeans and various vegetables.
+There is, therefore, need for further nutrition education to foster social behaviour
+change with respect to food utilization in the districts.
+132. The evaluation did not assess iron deficiency anaemia as the National Statistical
+Office (NSO) is scheduled to do the same survey in 2022-23. However, reductions
+in underweight prevalence serve as evidence for improvements in nutritional status
+in general as various foods consumed are sources of both macro and
+micronutrients, including iron.
+Contributing factors
+133. According to the participants in the individual interviews and FGDs, main factors
+that have positively contributed to the achievements of the project's outcomes are:
+i. Training of frontline workers. In this project, trainings of frontline workers
+(HSAs and teachers) for all the participating schools and health facilities, to
+offer nutrition education and IFA tablets, have contributed to the nutritional
+gains registered. Teachers, HSAs and their managers have acquired a good
+understanding of the program and delivered the results.
+ii. Delivery of the project in the existing schools and health centre
+infrastructure, has brought IFA tablets and other interventions much closer
+to the expected beneficiaries (adolescent girls and boys), thus increasing
+availability and access to services.
+iii. Nutrition education. Lessons offered have helped adolescent girls, boys and
+their communities diversify diets to include sources of iron, using the Malawi
+six food groups, and locally available food items. The evaluation found an
+increase in the consumption of certain foods like meat and meat products and
+dark green leafy vegetables.
+iv. Support to the districts by partners such as UNICEF, WFP and UNFPA
+(JPGE programme), CARE Malawi and EU (Afikepo - implemented by
+41
+UNICEF and FAO in collaboration with the Ministry of Agriculture) helped to
+leverage efforts and made it possible to carry out monitoring and supervision
+of activities, although these were irregular.
+v. Successful partnerships with various organizations and programmes also
+helped to consolidate resources and efforts that in turn accelerated
+performance and impact.
+SO 6: Evaluate the extent to which the intervention promoted social behavioural
+change towards the intake of diversified foods, including iron-rich foods among
+adolescents
+134. The IFA Intervention adopted the Social Behaviour Change Communication
+(SBCC) approach to help adolescent girls and boys, and community members at
+large understand the importance of adequate nutrition and IFA supplementation.
+The intervention required frontline workers (SHN teachers and HSAs) to conduct
+awareness talks before IFA supplementation in order to highlight benefits among
+adolescent girls. Interviews with SHN teachers and HSAs revealed that such talks
+were conducted mostly during initial stages of the intervention. Discussions with
+various groups of girls confirmed the reports by frontline workers.
+135. The Story Workshop Educational Trust (SWET), an implementing partner in the
+project, also supported promotion of social behaviour change through the following
+interventions:
+1) Mobilizing and conducting meetings with traditional leaders to eliminate harmful
+practices.
+2) Empowering school-based structures such as parent-teacher associations
+(PTAs) and mother groups to mobilize and engage parents on the uptake of
+IFA tablets by girls.
+3) Conducting community and school-based accountability meetings to reinforce
+community action and data reporting on nutrition and IFA supplementation.
+4) Awareness campaigns through community and school-based meetings and
+radio programmes on IFA supplementation and the value of girls’ education.
+136. SWET used theatre for development (TFD) tools, such as drama, radio programs,
+and dialogue sessions with community members and traditional leaders. Through
+these interventions, the project managed to reach 32,354 adolescent girls, 22,472
+boys and 2,510 local leaders with behavioural change messages to promote good
+nutrition and IFA uptake. Table 13 presents a summary of activities conducted by
+SWET to support social behaviour change and the extent of reach in the project
+districts.
+42
+Table 13: Sensitization work done by SWET as part of the intervention
+Activity Number
+School based community dialogues 164
+Men reached with GBV and IFA messages 18,405
+Women reached with GBV and IFA messages 23,058
+Adolescent girls reached with GBV and IFA messages 32,354
+Adolescent boys reached with GBV and IFA messages 22,472
+Local leaders reached with GBV and IFA messages 2,510
+People reached with radio drama 7,014,439
+Evaluation Criterion 4: Sustainability
+Question 4.1 To what extent has the programme contributed to the strengthened
+capacity of duty bearers and service providers in nutrition, health and other
+relevant sectors?
+137. The Adolescent IFA Intervention has trained and strengthened the capacity of
+district personnel in the health and education sectors in areas of distribution,
+administration and management of IFA tablets. In Salima, for instance, the project
+trained around 200 out of the 366 HSAs available, 164 SHN teachers and 164
+head teachers from the participating schools (Table 14). Teachers, can now
+administer IFA tablets to pupils competently, a practice that will continue to reduce
+workload for the HSAs. Interviews conducted showed that HSAs and SHN
+teachers are able to order supplies from district pharmacy stores, manage them
+and provide reports for compliance with minimum supervision.
+Table 14: Duty bearers and service providers trained by the IFA intervention
+Staff Dedza Mangochi Salima Total
+SHN and head teachers 297 40 328 665
+HSAs 465 480 200 1,145
+Total Staff trained 762 520 528 1,810
+Source: SHN coordinators and DNOs
+Question 4.2: What evidence exists to inform the view that particular activities in
+the project are being replicated beyond the initially intended reach of the project
+(e.g. outside of geographic areas or target groups)?
+138. By the time of the evaluation, IFA supplementation was limited to the schools and
+health centres participating in the project across the three districts. The use of own
+supplies from the Bilharzia program for young children to deworm adolescent girls
+(10-19 years) by the district hospital in Salima is a good spill over effect example
+of the IFA project because according to the DNO it has never happened before.
+43
+Question 4.3 What internal/external factors and drivers have contributed to or
+constrained the sustainability of the programme?
+139. In summary, the following are the internal and external factors that guarantee the
+sustainability of this intervention:
+i) Active involvement and capacity building of local communities and
+structures. The IFA Intervention did not establish new structures. It used
+existing structures with a long experience of working in the sectors and built
+their capacities before putting them in the forefront to lead.
+ii) Institutionalization of IFA activities into routine work of government
+workers. HSAs ordered IFA tablets from district hospitals together with other
+medical supplies for their health centres. Similarly, SHN teachers served the
+same girls they teach daily, which increased trust and compliance. Many of
+them continued to demonstrate commitment and the ability to plan and work
+without any incentives.
+iii) Engagement of the same team of district managers to monitor and
+supervise activities in the field. This enabled them to carry out IFA activities
+when they went out to perform other tasks.
+iv) A major external factor of relevance on sustainability are the partnerships
+and integration of IFA Interventions and those of large-scale projects working
+with adolescents like the JPGE and Afikepo. Activities that these projects
+leveraged, such as formation of adolescent clubs, Home-Grown School Meals
+(HGSM), nutrition education and hygiene promotion, will continue to have an
+impact on the adolescent girls in the years to come.
+140. Conversely, over the past three-years the Adolescent IFA Intervention has faced
+a number of misconceptions that have affected successful implementation and
+compliance by adolescent girls. This is likely to continue if no awareness is created
+within communities, local leaders and parents. There are also a number of
+challenges that need to be addressed which have been summarised in the
+subsequent sections on the report.
+Question 4.4: To what extent are various stakeholders, including service providers,
+community leaders, parents and households likely to sustain behaviour changes
+related to the goals of the project after it has ended.
+141. The IFA Intervention implemented a range of activities at different levels to address
+iron deficiency and anaemia in adolescent girls 10-19 years of age. This section
+discusses integration of the interventions in the national nutrition, health and
+education systems using the six pillars of governance, financing, human
+resources, service delivery, infrastructure and supplies, and information system.
+44
+142. For each pillar, the evaluation team analysed the level of integration based on the
+existing data to judge the degree of likelihood by various stakeholders to sustain
+behavioural changes and the best practices registered.
+Governance
+143. Full integration at this level is achieved when the mechanisms for accountability,
+drafting of policies, plans and reports, coordination and resource allocation are
+under the control of local authorities. Integration in the context of IFA Intervention
+is partial when these responsibilities are shared between the health and education
+system and other organizations. In Malawi, national policies including the Malawi
+Growth and Development Strategy (MGDS) III, National Multi-Sector Nutrition
+Policy (NMSNP) and National Multi-Sector Nutrition Strategic Plan (NMSNSP) of
+2018, the Multi-Sector Adolescent Nutrition Strategy (2019-2023) and Malawi
+Vision 2063, have been developed by the government with support from
+development partners placing nutrition on top of their agenda.
+144. A large part of this project’s governance was undertaken by government ministries,
+departments and frontline workers. DNHA provided overall coordination and
+management at the national level. At the district level, the project was managed by
+DNOs, PNHAOs and District Education Manager (DEM) who were working hand
+in hand with SHN teachers and HSAs at the community level. Distribution of IFA
+supplies from the district pharmacy store to health facilities was carried out by the
+districts themselves. However, being a pilot project provision of resources
+dedicated to the procurement of IFA tablets and distribution to district pharmacies
+came from UNICEF. In terms of governance, there is currently partial integration
+of the IFA Intervention in the nutrition, health and education systems in Malawi.
+Funding
+145. In this regard, funding refers to the raising of funds to support the IFA Intervention
+program and the means by which these funds are obtained. Integration is complete
+when the process of budgeting, fundraising and financing the program is entirely
+handled and provided by the government and local authorities.
+146. In Malawi, although malnutrition is considered a priority by the government through
+adherence to various multi-sectoral nutrition platforms and development of
+policies, strategies and plans, no national budget line is directly allocated to
+nutrition. Departments prepare budgets every year, but when the Other Recurrent
+Transactions (ORT) come there is no funding. Financing nutrition is heavily
+dependent on development partners who are at liberty to fund activities of their
+choice. For instance, funding for the Adolescent IFA Intervention was largely
+provided by UNICEF. However, the government participated through provision of
+45
+healthcare and education frontline workers, and infrastructure for the storage and
+provision of supplies to the girls. When the supplies expired, IFA supplementation
+sessions came to an immediate halt in all the three districts. The integration of
+funding for the IFA supplementation program therefore remains partial in the
+country.
+Service Delivery
+147. IFA services are fully integrated if they are delivered within the local infrastructure
+and under the responsibility of government health and education workers.
+Integration is partial when this responsibility is shared between government health
+workers and staff specifically recruited for the intervention.
+148. Since its inception, the provision of IFA supplementation services was
+institutionalized into routine and day-to-day activities of government structures.
+Administration of tablets to the girls was performed within these structures under
+the direct supervision of SHN teachers and HSAs. All supply and reporting
+activities were delivered by government health and education workers. Integration
+of service delivery is therefore full in the pilot districts.
+Human Resources
+149. UNICEF and DNHA provided training for staff involved in the project at its very
+onset in year 1. The project selected 2 SHN teachers at each school - one was
+trained along with the head teacher. It also trained Primary Education Advisors
+(PEAs), HSAs and district senior officers (PNHAO, DNO and SHN coordinator).
+The trainings offered were learning experiences and have equipped the personnel
+with the necessary knowledge and skills, which they will continue to employ in
+addressing iron deficiencies even after the program has ended.
+150. However, a challenge voiced by districts, schools and health facilities was the high
+turnover of trained staff. Some of the staff were posted to other locations, where
+the IFA Intervention was not available, while newly assigned officers to replace
+them were not part of the orientation training. The newly selected SHN and HSAs,
+in most cases did not participate in the project complaining that they were not
+trained. New PNHAOs and DNOs who also came to the districts after the training
+had already been cascaded, had difficulties catching up. Integration of human
+resources is therefore partial.
+Infrastructure and Input Supply Chain
+151. As mentioned in the preceding sections, IFA services were deployed within the
+national health and school structures, which is an important and positive element
+for sustainability. However, the delivery system for the IFA tablets ran parallel to
+the national supply chain system by the Central Medical Stores Trust (CMST). The
+46
+CMST in this regard had no direct oversight of the ordering of supplies (as it was
+done by UNICEF and DNHA). At the schools, space had shown to be limited and
+was not conducive for the storage of nutrition supplies such as IFA tablets for a
+period of one year. The supply chain system followed by the IFA Intervention and
+storage infrastructure are still not well integrated to the CMST system and
+therefore remain unsustainable in the end.
+Health Information System
+152. The monitoring system is fully integrated when the information technology
+infrastructure, data collection and analysis are provided by government
+institutions. In this program, data collection started from schools and health
+facilities to district hospitals, which then consolidated and shared the data with
+DNHA. IFA supplementation data are not part of the District Health Information
+System (DHIS2). This component is therefore partially integrated (Table 15).
+Table 15: Performance of the project on sustainability
+Sustainability Pillar Performance
+Governance Partial
+Funding Partial
+Service delivery Full
+Human resources Partial
+Infrastructure and supply chain Partial
+Health information system Partial
+153. In summary, the general finding on sustainability is that the program
+implementation has shown partial performance in different areas and, for this
+reason, the likelihood that it can be sustained without donor support is low at the
+moment. Nutrition activities as already stated depend on support from
+development partners. Behavioural changes that stakeholders of the project can
+sustain relate to those on nutrition education and diversification of diets to increase
+consumption of iron rich foods. Interviews with communities and girls have
+revealed that knowledge, willingness and practices are high, meaning that when
+these foods are available, they will continue to consume them.
+Evaluation Criterion 5: Gender and Human Rights
+154. This section presents findings from both quantitative and qualitative data in line
+with the OECD’s DAC criteria questions related to Gender and Human Rights. An
+overview of the evaluation questions has already been provided above in section
+3.0 (methodology).
+47
+Question 5.1: To what extent has the intervention been aligned with UNICEF’s
+equity agenda in addressing the needs of the target groups (i.e. to what extent has
+the initiative reached different groups, including those marginalized and living with
+disabilities)?
+155. In line with the Country Programme Document’s (CPD’s) focus on human-centred,
+rights-based approach to programming, the IFA Intervention had the intention to
+contribute toward greater gender equality between adolescent girls and boys. This
+section details the extent to which that intention was realised.
+156. The IFA Intervention specifically targeted adolescent girls for IFA supplements due
+to the biological and physiological drivers that
+cause this group to be more vulnerable to iron-
+‘We heard that the pills help ensure that
+deficiency anaemia. The evaluation found a high
+we have enough blood, especially during
+level of recognition of this amongst frontline delivery when we get pregnant’
+workers and community (girls, boys and mothers) In school girl FGD respondents
+respondents.
+157. The data suggests, however, that the recognition of this biological fact may have
+been confounded with social norms of girls and women as child-bearers and child
+carers, as a number of community-level respondents referenced this norm when
+articulating the reasons for girls to be provided IFA supplements. It is plausible to
+suggest that this linkage may be reinforcing inequitable gender norms within target
+communities. The scope of this evaluation is insufficient to draw strong conclusions
+in this regard, and so this hypothesis should be treated as a question for further
+research.
+158. Though key respondents noted that the UNICEF CPD focusses on social inclusion
+of marginalised groups, including people with disabilities, no documentation
+pertaining to how people with disabilities were to be targeted was made available
+to the evaluation team. Such documentation may include specific disability
+inclusion training for frontline workers and implementing partners, specific
+approaches to ensure that activities are accessible, available and acceptable to
+people with disabilities, and specific approaches to gathering monitoring data that
+can be disaggregated by disability status, such that disability inclusion is
+determined and responded to during programme delivery. Further information
+regarding reach and benefits to people with disabilities is discussed below.
+Question 5.2: Has the intervention contributed to equitable participation/reach and
+benefits to various groups (what proportion of boys, girls and people with
+disabilities)?
+159. Adolescent girls, as the key target for the IFA supplements, consistently reported
+engagement in the IFA supplementation intervention when tablets were available.
+48
+160. In general, there were no substantive differences in the scores on key indicators
+for in-school girls compared to out-of-school girls, though there were varying
+reports regarding the delivery of nutrition education classes. The strongest
+determinants of whether an adolescent girl had attended a nutrition education
+session were their enrolment in school and district of residence. Just over half
+(54%) of in-school girls reported to have attended a nutrition education session,
+compared to just 40 per cent of out-of-school girls. The district breakdown is shown
+in Table 16. Girls in Salima were more likely to report having attended a nutrition
+education session than in Dedza and Mangochi.
+Table 16: IFA interventions by disability status
+Indicator Proportion of Proportion of Difference
+adolescent adolescent between
+girls with girls without groups
+disabilities disabilities
+Proportion of girls who have received IFA N - 12/111 N – 82/596 3%
+in the 6 months preceding the survey 10.8% 13.8%
+Proportion of girls who have attended a N – 51/111 N – 284/596 1.8%
+nutrition education class 45.9% 47.7%
+Proportion of girls who could correctly N – 62/111 N – 374/596 6.9%
+name the Malawi six food groups model 55.9% 62.8%
+Proportion of girls who named animal N – 31/111 N – 181/596 2.5%
+foods as a source of iron 27.9% 30.4%
+Proportion of girls who stated that they N – 14/111 N – 63/596 2%
+were unable to buy animal foods due to 12.6% 10.6%
+lack of money
+161. Of the 662 respondents to the quantitative survey, 111 (16.8% of the sample) were
+determined that they haves a disability using the Washington Group Questions
+Short Set methodology. Overall, adolescent girls with disabilities scored slightly
+worse than adolescent girls without disabilities across all key indicators, as shown
+in Table 16. Disability inclusion requires intention of inclusion, meaning that an
+intervention that will make an effort to understand the specific needs of girls with
+disabilities, will adapt the outreach approach with these needs considered, and will
+monitor the extent to which girls with disabilities are included such that they can
+fully participate, benefit from and lead an intervention. These findings suggest that,
+though there may not have been discrimination (i.e. intention to marginalise) there
+was no inclusion (i.e. intention to include) either. This could explain why girls with
+disabilities scored slightly worse than girls without disabilities on all indicators.
+SO 7: Document lessons, key challenges, strengths and good practices.
+Lessons Learned
+162. Low sensitization resulted in uncertainty about project implementation and
+reduced acceptance of the IFA tablets by communities, parents and girls.
+Table 6 under the efficiency section shows that UNICEF budgeted for IFA tablets
+only for the first and second years since the project was for pilot purposes only.
+49
+Nevertheless, it did not inform health workers, SHN teachers and other
+government frontline workers at the district level adequately about this. Therefore,
+all of them expected a three-year supply to be available. When the supply ended
+in the second year, there was self-judgement that the project had no resources to
+proceed hence, other activities also slowed down.
+163. Similarly, communities and parents in the three districts lacked the basic
+understanding of the IFA tablets and had various misconceptions because they
+were not sensitized at the beginning according to the FGDs conducted.
+164. In areas where sensitization was done well by mother groups, school management
+committees (SMCs), HSAs and Agriculture Extension Development Coordinators
+(AEDCs), for instance in TA Kambalame and other parts of TA Kalonga in Salima,
+the project recorded high acceptance rates of the tablets because the stakeholders
+understood the benefits.
+165. The project became aware of the problem and engaged SWET in 2020. SWET
+addressed misconceptions around IFA supplementation through community
+dialogue sessions, radio and drama in communities. Nevertheless, three main
+factors affected the impact SWET would have made:
+i. Late approval of SBCC messages by the Ministry of Education, which
+delayed SWET in commencing its work on the ground.
+ii. COVID-19 pandemic – Unfortunately, barely 4 months into the program
+SWET’s activities coincided with peaks in COVID-19 infections and
+restrictions on crowding. SWET reprogrammed and started doing door to
+door awareness meetings. However, this reduced potentially high numbers
+of households that could have been reached had it been mass awareness
+campaigns.
+iii. Late engagement - The organization was engaged in the program late in
+2020 while intervention had already started in 2018.
+166. Lack of clear roles of the PNHAO, DNO and health workers created confusion
+and neglect of work. IFA tablets were initially supplied from pharmacy stores at
+the district hospital and the District Nutrition Office (DNO), according to the
+intervention design. In the course of implementation, the project started working
+with Principal Nutrition, HIV and AIDS Officers (PNHAOs) without official
+communication to the DNOs. This created tension and affected working
+relationships between the two offices in all the three districts.
+167. Likewise, SHN teachers, SHN coordinators and HSAs indicated that they had no
+idea who to consult at the hospital as there was no appointed person to coordinate
+issues related to IFA tablets among the pharmacist, AEHO and DNO. For instance,
+during stock outs none of the three could take the lead responsibility to inform
+schools and health centres of the problem or address restocking concerns.
+Schools and health facilities used to consult each one of them separately and got
+varied information. There is a need to draw ToRs for the PNHAO and DNO offices
+to streamline coordination, monitoring and management of activities.
+50
+168. Inability by the office of the DNO to compute data, from the schools and
+health centres, affected reporting of the project at district and national levels.
+As data were coming from the districts, DNO offices were overwhelmed to capture
+it in computers due to their busy schedules. The evaluation team found heaps of
+report forms piled in the offices. None of the three DNOs had electronic data ready
+to share with the evaluation team. In Salima, the project placed an intern in the
+office of the PNHAO who computed the data for a few months and shared it with
+the evaluation team. The recommendation is to include IFA data in the District
+Health Information System (DHIS2) and engage clerks who already enter data for
+other programs like Community-based Management of Acute Malnutrition
+(CMAM), malaria, tuberculosis and antenatal care at district hospitals to capture it.
+There is therefore a need to orient 2 or 3 clerks at every hospital about the project
+and data entry.
+169. Implementation of the Adolescent IFA Intervention in conjunction with JPGE
+II and III in the same districts has enabled UNICEF and DNHA leverage efforts
+and accelerate impact. On a positive note, JPGE II and III provided additional
+resources and support over the three years of the Adolescent IFA Intervention.
+This support included 1) training of teachers and health workers to lead the
+implementation of the IFA activities, 2) provision of resources to SWET for
+awareness campaigns around IFA supplementation, life skills and child marriages,
+and 3) provision of reporting tools when they got finished in the districts. These
+activities enhanced quality of service delivery and impact.
+Challenges of the IFA Intervention
+170. Although this intervention has met its goal of contributing to improving the
+nutritional status of adolescent girls (10-19 years) in the three pilot districts, the
+implementation process has been challenging. These challenges are not only the
+reasons for shortfalls in implementation, but also suggest that the impact would
+have been greater had the project operated smoothly.
+171. The main ones (for example those that have not been discussed in detail already
+in the preceding sections of the report) are:
+172. External factors beyond the control of the project
+i. Covid-19, which was first detected in early April 2020, in Malawi, disrupted
+activities in the entire lifespan of the project.
+ii. Frequent political violence during disputed presidential elections of May
+2019.
+Project officers worked remotely for a good part of 2020 and 2021 in fear of the
+consequences of the two external factors. Implementation of activities was affected
+in one way or the other. As an example, on 23rd March 2020 the government of
+Malawi closed schools as part of imposing stricter COVID-19 preventive measures.
+Schools remained closed for more than eight months. During this period,
+51
+adolescent girls took the IFA tablets and recorded the compliance cards
+themselves at home under the supervision of their parents. Administration of
+tablets at health facilities was not possible because crowding in public places was
+limited to 50 people.
+173. Lack of joint monitoring of activities in schools and health centres. PNHAOs,
+DNOs, SHN coordinators and the district teams used the vehicles they had from
+other projects to monitor activities. However, the project provided fuel only once
+toward the end of 2021 after the IFA supplies had already ended. The fuel provided
+at MK90,000 was not enough to visit all the schools and health centres. Project
+activities remained largely unmonitored within quarters and across all the three
+years.
+174. Lack of monthly and quarterly review meetings at the district level. The IFA
+Intervention held quarterly meetings at the national level where progress and
+planning of activities were discussed. The minutes of these meetings were shared
+with the evaluation team. However, interviews with PNHAOs, DNOs and SHN
+coordinators revealed that no such meetings took place in the districts. Lack of
+necessary facilities and limited connectivity in the districts made it difficult to
+convene virtual meetings that would include all the concerned parties.
+175. Inability to procure and distribute albendazole tablets. Interviews with key
+persons and schools involved showed that albendazole tablets were not provided
+to the health facilities and schools under the IFA Intervention. In Salima,
+albendazole was provided to girls in 2020 under the Bilharzia program which the
+district hospital ensures routinely to deworm masses.
+176. Low implementation of nutrition education to girls and boys. SHN teachers
+and HSAs only briefed girls and boys on the Malawi six food groups according to
+the interviews conducted. Teachers did not have reference materials or guides and
+there was limited time to do thorough nutrition education as part of IFA
+supplementation sessions since everything happened within class time by one
+SHN teacher. FGDs with boys in all the three districts revealed that they had been
+hardly reached with nutrition messages.
+177. Lack of data to show progress of the project. Inability by the District Nutrition
+Offices to compute results from schools and health facilities resulted in the lack of
+data for the IFA Intervention. The only electronic data from Salima that the districts
+were able to share with the evaluation team were collated by the intern placed by
+UNICEF. This has made it difficult to quantify some of the indicators of the project
+using routine monitoring data.
+178. Staff transfers and turnover. One difficulty voiced by the participants was the
+high turnover of trained staff. Replacements, if made, were done after the trained
+ones had already left. There was lack of orientation and transfer of information,
+which was creating dilemma on how to continue the project in various schools and
+health facilities. The project trusted that head teachers and SHN teachers trained
+would cascade the knowledge and skills to their colleagues, but this model did not
+52
+work well as every teacher wanted to attend the first training themselves. When
+they were left out, they felt rejected and refused to consider themselves part of this
+project. Trained SHN teachers therefore experienced work overload in this project
+because they could hardly be assisted by their fellow teachers who did not receive
+the first training. At the health facilities, HSAs newly employed and deployed
+lacked the orientation also since they come on the job with the Malawi School
+Certificate of Education (MSCE) and do not receive any formal nutrition education.
+Nutritionists and senior staff members who joined the project after it had already
+started, such as the PNHAO and DNO for Salima, were never trained which made
+the implementation and supervision of activities difficult.
+179. Delays in the submission of reports to health facilities. SHN teachers had
+difficulties taking reports to health facilities because most of them were located far
+away from the schools. Some schools failed to submit reports for particular months
+and provided them later which complicated the filing process, carried out by the
+district nutritionists.
+180. Reporting tools got finished in most schools and were not restocked as
+quickly as wanted. As a result, some schools and health facilities stopped
+sending reports. Other schools and communities devised their own tools. JPGE III
+bought various additional tools in July 2021 (compliance cards, monthly community
+platforms and monthly healthy facility tools). Nevertheless, as already pointed out
+the tools came at a time when provision of IFA supplementation had almost
+stopped due to lack of supplies and therefore remained unused in most of the
+schools and health facilities.
+181. Limited funding for nutrition by the government. Nutrition activities in the
+districts are donor dependent. The government does not fund despite districts
+putting them on the budget yearly. Even in the District Implementation Plan (DIP),
+there is no vote for nutrition. District offices, UNICEF, OXFAM, CISANET, CISONA
+and Save the Children have been analysing budgets, particularly in Salima and
+lobbying through District Executive Committees (DEC) and full council8 for
+inclusion of nutrition funding on the government budget. DNHA, UNICEF and
+CSONA have taken a step further and initiated advocacy meetings with members
+of the parliamentary committee, development partners and decision makers from
+the central government for budgeting and finance. Positive results have started
+emanating as a result of these efforts according to the PNHAOs and DNOs. In the
+agriculture and education sectors, there has been an increase in the funding under
+Other Related Activities Transaction (ORT), which cover nutrition. In Salima, plans
+were underway to allocate money from the local tax revenues to the PNHAO’s
+office, for nutrition activities.
+8 Full district council comprises of the executive committee (MPs, all sector heads of
+departments, Traditional Authorities (TAs) and counsellors. The lobbying is done for the council
+to advocate for inclusion and funding of nutrition on the development agenda of the country
+53
+Box 3: Key strengths and best practices for IFA supplementation
+The following are the key strengths and best practices observed:
+i. A strong policy environment that puts nutrition on top of the development
+agenda. The United Nations has cited Malawi as having a very high
+commitment to nutrition through the Hunger and Nutrition Commitment
+Index where the country is ranked number 2 among 45 countries.
+ii. Increasing number of NGOs, Civil Society Organisations (CSOs),
+Development Partners (DPs), Community Based Organizations (CBOs)
+and others working at community level interested in adolescent nutrition to
+reduce iron deficiency and anaemia.
+iii. Existence of nutrition coordination structures at national, sectoral, district
+and community levels. DNHA has posts at all these levels.
+iv. The SHN programme with a pool of teachers is available and modelled to
+promote agriculture, nutrition, health and sustainable environment
+targeting all school-going children, including adolescents.
+v. Decentralization of activities to district level, which is helping to ensure
+effective and timely implementation of agriculture and nutrition activities.
+6.0 Conclusion and Recommendations
+182. In conclusion, the Adolescent IFA Intervention is a success looking at the impact
+and lessons generated. The design used, which involved putting government
+frontline workers at national, district and community levels to lead in the
+implementation of activities, has shown to work well and is sustainable. Using the
+3-year generous support from the government of the Netherlands, the intervention
+is one of the first of its kind in Malawi to pre-test the use of iron and folic acid to
+reduce anaemia among adolescent girls (10-19 years) and has shown tangible
+results. No study has been conducted to assess levels of anaemia most recently
+by the NSO. Nevertheless, with 1,820,000 IFA tablets the project procured
+between 2018 and 2021 (52 for each one of the 35,000 girls targeted), most of
+which have been ingested by the girls on spot in the presence of SHN teachers
+and HSAs, coupled with improvements on diets as shown by results from the 24-
+hour dietary recall, reductions in anaemia are anticipated to be huge in the three
+pilot districts. Activities under the three key result areas (IFA supplementation,
+deworming with albendazole and nutrition education) synchronized well and
+should be scaled up. Co-existences, collaboration and coordination present with
+large-scale adolescent projects like the JPGE, Afikepo and ONSE should be
+fostered to continue leveraging resources and improving quality of service delivery.
+183. As per the WHO threshold for nutritional deficiencies, intermittent iron and folic
+acid supplementation is recommended if anaemia prevalence is 20 per cent or
+higher among non-pregnant women of reproductive age (15-49 years old).
+54
+184. The IFA Intervention is therefore an unfinished agenda because anaemia remains
+high among adolescent girls in the rest of the districts in Malawi where no such
+interventions have taken place. Between 2004 and 2010, rates of anaemia
+dropped by 13 percentage points from 42.2 per cent to 28.6 per cent, but these
+gains were reversed, and prevalence increased by 6 percentage points to 35.3 per
+cent according to the MDHS of 2015/2016. Many actions remain undone to scale
+up successful and pre-tested interventions for a wider impact.
+185. The government of Malawi with support from UNICEF is committed to scaling up
+the IFA supplementation to other districts in the country. After starting with the six
+districts, UNICEF and DNHA received funding from the German government
+through Kreditanstalt für Wiederaufbau (KfW) and sub-granted it to the Hunger
+Project for the implementation of adolescent nutrition in Phalombe and Nsanje
+from 2020-2023 under the SUN project. Most recently, UNICEF has started
+funding the Adolescent IFA Intervention in Kasungu and Blantyre (2020-2025, a
+period of 5 years) under the JPGE and KfW-SUN funded project by Farmers Union
+of Malawi (FUM) respectively. These efforts have brought the total number of
+districts receiving Adolescent IFA Interventions with grants from UNICEF to 10.
+186. Besides this, with funding from the World Bank and the Global Financing Facility
+(GFF) the government of Malawi is implementing a 5 year (2018-2023) US$60
+million Investing in Early Years (IEY) for Growth and Productivity project in 13
+districts of Malawi. In the districts, the project is benefiting 1.2 million children under
+five years, 2.2 million adolescent boys and girls of ages 11–19 years, and 370,500
+pregnant and lactating women. For adolescent girls, IEY is providing iron-folate
+supplements and deworming tablets to girls who are in and out of school. The 13
+districts are Rumphi, Mchinji, Ntcheu, Mangochi, Machinga, Neno, Chikwawa,
+Zomba, Likoma, Mwanza, Dowa, Thyolo, and Chiradzulu. UNICEF, as one of the
+agencies championing the sector, should leverage on the existing projects and
+scale up IFA programming to at least four of the remaining eight districts (Ntchisi,
+Nkhotakota, Nkhata Bay, Mzimba, Karonga, Balaka and Mulanje) by 2022
+depending on the severity of the problem and the availability of funding. Chitipa,
+not listed anywhere above, has a lower prevalence of anaemia in women of
+reproductive age 15-49 years at 16.1 per cent according to the MDHS of
+2015/2016. Adolescent interventions in the districts should continue to focus on
+nutrition education and dietary diversity.
+187. The evaluation supports scaling up in phases as already done with UNICEF
+support to allow time for standardizing procedures, addressing challenges
+identified and learning additional lessons for a wider application.
+188. Table 17 below summarizes recommendations to overcome identified bottlenecks
+in the implementation of the scaled-up phase.
+55
+Table 17: A summary of recommendations to guide implementation of the scaling up phase
+Recommendation, responsible Justification, specific actions and timeline Rationale
+organization and timing
+1. Widen coverage and impact by scaling Anaemia rates remain very high among women of The WHO requires that
+up the IFA supplementation to a total reproductive age 15-49 years in the remaining 7 anaemia prevalence of 20
+of 14 districts by adding 4 districts by districts of the country based on the results of the per cent or more should be
+the end of 2022. MDHS of 2015/2016. addressed by supplementing
+1. Scale up IFA supplementation. In the scaling up diets with IFA supplements.
+Responsible organizations: DNHA, phase, collaborate with the World Bank and Districts that are not yet
+Reproductive Health Unit (RHU), MoH, GFF’s IEY project and ensure that IFA covered by IFA
+MoE, UNICEF and concerned district supplementation and deworming cover all the supplementation for
+councils. girls in these pilot districts. Scale up to adolescent girls in Malawi
+Timing: High priority - over the next 2- additional 4 districts that have not yet been have the following rates:
+6 months reached by the end of 2023 to widen the Ntchisi (24.6%), Nkhotakota
+impact. The goal should be to standardize (46.5%), Nkhata Bay
+procedures and iron out challenges observed in (44.4%), Mzimba (30.3%),
+the next 3-5 years before scaling up to the rest Karonga (37.5%), Balaka
+of the districts in the country. (38.6%) and Mulanje
+2. Agree on the criteria for selecting additional 4 (31.0%). IFA interventions
+districts. Districts with the highest rates of have already proven to be
+anaemia and those that lack nutrition projects successful in a number of
+should be prioritized. countries. Preliminary results
+3. Strengthen linkages with the World Bank and in the 6 pilot districts in
+GFF’s IEY adolescent IFA project and Malawi are very promising
+collaboration with organizations that matter on and justify the need to scale
+the ground like WFP, CARE Malawi, FAO and up this intervention to benefit
+others to leverage efforts and accelerate more girls.
+impact. Draw memoranda of understanding
+(MOUs) to formalize relationships.
+2. Enhance awareness on IFA tablets to Awareness should take into account contextual The evaluation has revealed
+address misconceptions among and cultural factors contributing to misconceptions misconceptions around IFA
+communities, parents and girls. around IFA supplementation. supplementation among
+communities, parents and
+56
+Responsible organizations: DNHA, 1. Provide resources and hold community girls, which include thinking
+PNHAO, DNO, SHN coordinators, SHN engagements and dialogue sessions with that IFA tablets are
+teachers, HSAs, MoE, UNICEF, and traditional and religious leaders, parents and contraceptives, COVID-19
+SWET. adolescent girls to understand their concerns vaccine or medication for
+Timing: High priority - over the first 6 about IFA supplementation. cervical cancer.
+months and on-going 2. Radio programs should be in vernacular
+Chichewa and other commonly used languages Mangochi, with one of the
+to reach targeted girls easily. Inform them about highest rates of anaemia, is
+the times when radio programs will be aired where acceptance of IFA
+and encourage them to listen either as tablets is lowest among the
+individuals or in their clubs. Meetings of the three pilot districts. Local
+clubs can be scheduled during the same times leaders and communities are
+when radio programs are aired for all the girls very suspicious about the
+to listen together and have a discussion whole program in the district.
+afterwards. Any further interventions
+3. Ministry of Education (MoE) is a crucial partner should first of all address
+and should be engaged on time with regards to such barriers to succeed.
+radio, school and community messages and
+drama around IFA supplementation.
+4. Contribute to the efforts to finalise and roll out
+the Social and Behaviour Change
+Communication (SBCC) Strategy to guide
+messaging for IFA supplementation.
+3. Strengthen components of nutrition 1. Train SHN teachers and HSAs in nutrition Specific objective number
+education, deworming and social education for adolescents that should include one of the Adolescent IFA
+behaviour change in the scaled-up farmer field schools, the Malawi six food groups Intervention is to promote
+phase. with emphasis on iron-rich foods locally consumption of the Malawi
+available in the districts and cooking six food groups. The
+Responsible organizations: DNHA, demonstrations among other things evaluation findings show that
+MoE, MoH, participating districts 2. Continue to support efforts on revision of Life nutrition education was in
+(PNHAO, DNO, FNO etc.) and Skills curriculum to include nutrition that general sparingly offered,
+UNICEF Ministry of Education (MoE) is undertaking. In boys were hardly reached
+addition, explore possibilities of offering and the approach to delivery
+57
+Timing: High priority – during the nutrition education and cooking demonstrations varied significantly across
+entire period of implementation in adolescent clubs after classes or during and within districts. With an
+weekends to ensure both in and out of school anaemia prevalence of 9 per
+girls and boys are reached. cent, compared to 35.3 per
+3. Provide guides and booklets that SHN teachers, cent for girls, boys should
+HSAs and mentors of clubs should use as still be monitored to avoid
+reference materials. Make clear divisions about being overwhelmed in future.
+the topics to be covered in the first, second and
+third terms of the school calendars. The government of Malawi
+4. Increase numbers of boys in both in and out of has a booklet for IFA
+school youth clubs for them to access nutrition supplementation titled in
+education and information on diversified diets vernacular Chichewa as,
+easily. “Ndondomeko yopelekera
+5. Nutrition education tailored to increase iron-rich mankhwala a ayiloni ndi foliki
+food intake should target parents as well, kwa a tsikana a chisodzela a
+through Care Groups, because they are the zaka 10 mpaka 19”.
+ones who make decisions about food for Nevertheless, this booklet
+adolescents at home. The majority of Care has not been shared with the
+Groups are being involved in the Scaling Up schools and health facilities
+Nutrition (SUN) and other projects by NGOs to to use as a guide. More so,
+reduce undernutrition in children under five there are no guidelines and
+years of age by concentrating investment and topics that SHN teachers
+efforts in the first 1,000 days. There is need to and HSAs can use to
+engage and orient them on how they can educate girls and boys on
+disseminate information about adolescent nutrition besides the Malawi
+nutrition as they may not be very familiar with it. six food groups
+6. Liaise with the World Health Organization
+(WHO) regarding the possibility to leverage
+resources and efforts around procurement and
+distribution of albendazole for the IFA program.
+Albendazole used in this intervention was from
+the Bilharzia program by district hospitals. The
+58
+intervention was not carried out adequately due
+shortfalls in stocks.
+7. Draw lessons on the tracking of iron rich foods
+from Afikepo program for inclusion in the scale
+up phase, including those that are locally
+available such as various ants, insects and
+caterpillars, as other sources like poultry, meat
+and organ meat have shown to be scarce and
+expensive.
+4. Address problems associated with Interviews with various people at the district level Interviews with district
+implementation of the IFA Intervention have revealed a number of challenges in the hospital staff showed that
+implementation process of the IFA program. These they are not entirely involved
+Responsible organizations: DNHA, challenges need to be addressed by: in the whole procurement
+RHU, concerned district councils, 1. Devising ways of improving communication exercise until IFA tablets
+between UNICEF, DNHA, concerned ministries, come to the pharmacy stores
+MOH, MoE, district hospitals (DNO,
+district health offices, PNHAOs, schools and at the district hospital or
+AEHO and pharmacist), PNHAO,
+health centres involved with respect to PNHAOs’ office. The
+UNICEF and other stakeholders.
+determining quantities of IFA supplements to procurement office at the
+order or deliver in the health centres, status of hospital therefore does not
+Timing: High priority - over the next 6
+implementation of activities, challenges faced have much knowledge on
+months
+and possible solutions that can be used. This the transactions involved.
+will help keep all the players well informed,
+prevent stock-outs and retain momentum
+already gained.
+2. Clarifying roles of the DNO and PNHAO to There is conflict in the roles
+avoid confusion. Empower DNO to lead in the of the DNO and PNHAO of
+implementation of IFA activities that includes late. The central level
+identification and training of HSAs, overseeing changed roles of the two
+supplies of IFA tablets, compilation of data and offices in the course of the
+reporting to DNHA. The PNHAO should project. PNHAO has taken
+concentrate on overall coordination of the over roles of the DNO like
+program. Consult both parties and draw clear receiving and distributing IFA
+and agreed-upon Terms of References (TORs) supplies in the districts and
+59
+to address tensions that have arisen between capturing results from the
+them. field, which has been leaving
+3. Strengthen the capacity of PNHAOs to DNOs in a dilemma since
+coordinate the IFA program and other they have not been
+interventions specific and sensitive to nutrition communicated officially
+at district level from planning, resource about the changes. All the
+mobilization and implementation phase. Strong DNOs in the three districts
+coordination would facilitate the pooling of feel that asking the PNHAOs’
+resources and optimize the combined effects of offices to carry out the
+interventions in the targeted districts. above-mentioned tasks is an
+4. Analyse storage capacities of district hospitals, anomaly.
+health centres and schools in the intervention
+districts and maintain delivery of quarterly Despite limitations of space,
+supplies as they are easy to keep and distribute. head teachers’ offices in the
+pilot districts are used for
+These recommendations should be acted upon keeping all sort of things,
+in 2022, during the planning phase of the next including teaching materials,
+scale-up. dust bins, mops and
+brushes. Huge supplies of
+IFA tablets that were
+provided at once, therefore,
+complicated the situation.
+5. Integrate the IFA supplement supply 1. The IFA supplement supply chain should be As outlined under the
+chain within the Ministry of Health integrated within the MoH and CMST supply effectiveness section, the
+(MoH) and Central Medical Store Trust chain system, to enable the programme in: IFA supply chain has of late
+(CMST) system as outlined in objective i. Contributing to supply chain been set up in parallel to the
+number 2 of the project strengthening as per the original CMST supply chain, which
+programme plan has shown to contribute to
+Responsible party: DNHA, RHU, ii. Facilitating more effective monitoring and inadequate monitoring of
+MoH and UNICEF, reporting of stock and usage stocks, stock-outs and
+Timing: High priority – During the iii. Avoiding stock outs and delays in supply expirations. All this does not
+planning phase and over the after scaling up strengthen the MoH, RHU
+implementation period of the scaled up
+60
+phase 2. Moreover, a data flowchart should be and CMST supply chains as
+established such that stock data is provided to required.
+the programme team for effective monitoring of
+IFA compliance, which can feed into the
+monitoring system.
+6. Strengthen the capacity of district level 1. Develop and implement a range of activities for There is need to increase
+managers (PNHAO, DNO, SHN routine monitoring of the project. These joint monitoring and
+coordinators, Food and Nutrition activities may include: supervision of the program to
+Officers from (FNOs) and government ▪ Regular qualitative interviews with improve quality of services,
+frontline workers (SHN teachers and beneficiaries and various stakeholders. motivate SHN teachers and
+HSAs) in monitoring, supervision, ▪ Regular verification of data at health centres HSAs as the same visits can
+evaluation and reporting of activities and those registered in the databases. be used to provide further
+▪ Monthly and quarterly monitoring by district mentorship and appraisals
+Responsible organizations: DNHA, teams (DNO, PNHAO, SHN coordinators and for best performance.
+district managers, Ministry of Health, RHU staff) to ensure good coverage of the UNICEF’s allocation for fuel
+MoE and UNICEF program and to identify potential bottlenecks for one quarter has been
+Timing: High priority – during the in time. MK90,000 and this was
+entire period of implementation ▪ More in-depth analyses of the data to ensure described to be inadequate
+its consistency and quality. by the districts.
+2. Provide enough fuel for joint monitoring and
+supervision of activities. District teams
+suggested at least 130 litres (2 full tanks for a
+4x4 vehicle) month to enable them visit a
+number of schools and health centres.
+3. Consider providing Buffalo bicycles to focal
+SHN teachers and HSAs who collect supplies
+from health centres and bring reports every
+month.
+4. Improve the existing monitoring tools by
+including copies for SHN coordinators for them
+to compute figures from schools and share with
+the DEM and PEA. These management offices
+61
+do not receive copies of the monthly reports from
+the schools at the moment.
+5. Weekly registers are not user friendly, and SHN
+teachers find it difficult to follow records of
+beneficiary girls due to the way they have been
+designed. Schools and health facilities have
+already informed UNICEF and DNHA about this.
+Therefore, the design needs to be simplified for
+easy record-keeping and follow up.
+6. Another key reporting change to make the whole
+process inclusive and efficient is that schools
+should submit their reports to Teacher
+Development Centres (TDCs) where teachers
+go every month for Continuous Professional
+Development (CPD). This will reduce delays in
+the submission of reports. The AEHO should
+collect reports from all the schools at the CPD
+and submit them to health facilities. Health
+surveillance assistants (HSAs) can then submit
+both school and health facility reports to the
+district nutritionist. Thereafter, the district team
+should meet briefly every month to validate the
+district report before sharing with the DNHA to
+improve accuracy and quality of data at the
+national level.
+7. Improve data capturing for the adolescent IFA. The evaluation found it
+Configure IFA data into the District Health challenging to get up to date
+Information System (DHIS2) so that data entry data on compliance to IFA.
+clerks available (those who enter Community Electronic data was not
+Based Management of Acute Malnutrition available at the district level
+(CMAM), malaria, tuberculosis and antenatal to be shared. Data flow
+data) can capture it. This will reduce the work implementation charts need
+load in the office of the DNO and make to be operationalized as
+62
+electronic data for the project available to previously designed by the
+inform further programming. project.
+8. Train 2-3 clerks at each district hospital about
+the program and its indicators to address
+issues of staff turnover upfront.
+This should be done in 2022, during the
+planning phase of the next program cycle.
+Once the program commences, it should be
+completed throughout.
+5. 7. Introduce review meetings at the district 1. UNICEF, DNHA and MoE should provide Review meeting for the
+level. resources and introduce quarterly review Adolescent IFA Intervention
+meetings for the district teams to look at the have only been taking place
+1. Responsible organizations:
+district performance, identify bottlenecks on at the national level. No such
+2. DNHA, UNICEF, RHU and MoE
+time, and plan for activities for the next quarter. meetings have been
+3. Timing: High priority – over the period
+2. The suggestion is to have the SHN coordinator supported and convened in
+4. of the next phase (e.g. from August
+from the DEM’s office, District Nutritionist the districts.
+5. 2022 onwards)
+(hospital) and PNHAO meet with AEHO, SHN
+teachers and HSAs at the TDC, where the
+majority of teachers can easily be reached since
+they are in majority – to summarize data for each
+quarter and plan the way forward together for
+easy implementation.
+3. Alternatively, quarterly meetings can take place
+at health facility or school zone level (zones have
+4-6 facilities) to cut on costs.
+6. 8. Reduce work overload for SHN 1. Mobilize resources for capacity building As outlined in various
+7. teachers 2. Train all staff involved: sections of the report, a key
+8. Responsible organizations: i. Train senior staff at the district level who challenge to the
+9. DNHA, RHU, MoE, district managers oversee project implementation – PNHAO, achievement of objectives
+(PNHAO, DNO, SHN coordinators and District Nutrition Officer (DNO), Food and was the limited training that
+Food and Nutrition Officers - FNOs) Nutrition Officer (FNO) from agriculture, was provided at the
+and UNICEF, District Education Manager (DEM) and SHN commencement, and
+10. Timing: High priority – over the next 6 coordinator. Offer orientation and refresher
+63
+11. months training to address problems of staff throughout the course of the
+turnover, transfers and replacements programme.
+ii. Using the cascade model, the project should Each school has two SHN
+provide backstopping services and use teachers and only one and
+trained district trainers (PNHAO, DNOs and the head teacher were
+FNO) to train head teachers and all teachers trained. Other teachers
+from standard 4 to 8 for them to administer refused to help the trained
+IFA tablets to girls in their classes and SHN teachers stating they
+thereby reduce work overload on one teacher had not been trained. The
+as is currently the case. work load was overwhelming
+iii. One SHN teachers should be made the for one person. Long time
+focal person and be responsible for spent on this activity caused
+consolidating and submitting school reports. delayed classes in some
+Refreshers and training of new teachers and cases.
+HSAs are needed yearly to maintain good
+progress of the project. A good example is St
+iv. Senior HSAs and HSAs in health facilities Augustine I primary school in
+need trainings and refreshers as well to Mangochi that has an
+keep them updated. enrolment of more than
+v. Training workshops should be delivered 4,500 learners, with almost
+annually, and an in-depth induction package 50 per cent being girls. Using
+should be developed and rolled out to new the cascade model, the
+staff who join in between training workshops project should provide
+or after programme commencement. backstopping services and
+vi. Work with MoE and include issues of IFA use trained district trainers
+supplementation, deworming and (PNHAO, DNOs and Food
+adolescent nutrition in the curriculum for and Nutrition Officers -
+Teachers Training Colleges (TTCs) to FNOs) to train head teachers
+enable trainee teachers cover them before and all teachers from
+deployment to the schools. standard 4 to 8 for them to
+administer IFA and
+Apply these recommendations from the start of
+albendazole tablets to girls in
+the implementation of the next phase.
+their classes.
+64
+Training several teachers will
+therefore help reduce the
+amount of time spent in
+schools to administer tablets.
+In health facilities, when the
+project was starting, for
+instance in Salima, it trained
+less than 200 of the 366
+HSAs available according to
+the District Nutritionist. When
+the trained individuals were
+transferred to other places
+and replaced with untrained
+ones, the latter refused to
+administer IFA tablets citing
+they were not trained. On-job
+trainings and refresher
+trainings should therefore be
+on-going.
+6. 9. Enhance sustainability of the 1. Lobby for a step-by-step plan for the integration Adolescent IFA and nutrition
+intervention of IFA supplementation into budgets for activities are not currently
+7. Ministries of Health and Education to foster funded by the government
+8. Responsible organizations: UNICEF, sustainability in the end.
+9. government, DNHA and participating 2. Strive to maintain the MoH, RHU and CMST to
+10. districts. administer the procurement and supply chain of
+Timing: High priority – on-going the IFA tablets as suggested above.
+3. Trainings of government frontline workers
+should be prioritized as suggested above.
+4. IFA adolescent project is currently referred to
+as the UNICEF program in all the three
+65
+districts. Increase government ownership of the
+program by increasing its visibility through
+materials such as booklets, posters, wrappers
+and T-shirts. Ability by the government to
+finance some of the activities of the program,
+as suggested above, can also make
+stakeholders recognize it belongs to the
+government.
+At the community level, there should be more
+sensitization and increased involvement of
+structures on the ground, including Care
+Groups, Mother Groups and Community Health
+Nurses, from the very beginning of the project.
+66
+Annexes
+Annex 1 Key partnerships in the Adolescent IFA Intervention
+Annex 1 A list of
+partners for the IFA in tervention and their roles.docx
+Annex 2 Evaluation matrix
+67
+A n n eM x 2 E v a
+a tr ix .d
+lu
+o c
+ax tio n
+Annex 3: Terms of Reference (ToRs)
+Annex 4: Data collection tools
+c o
+A
+lle c
+n n
+tio
+en x 3
+to
+D a ta
+o ls IF A 1 8 0 1 2 0 2 2 .z ip
+Annex 5: A list of key persons and groups consulted
+p e
+Ao n n
+p le
+e x 5
+a n d
+A
+g
+lis t o f
+r o u p s c o n s u lte d .d o c x
+Annex 6: Sample size determination and procedure
+Annex 6 Sample size
+determination.docx
+Annex 7: Ethical approval for the evaluation
+Annex 8: Consent / assent form for the evaluation
+68
+AA n n
+s s e
+en x 8
+t F
+C o
+o r m
+n s.d eo nc t
+x
+Annex 9: Details about the proposed theory of change
+Annex 9 Detailed
+Explanation for Theory of Change.docx
+Annex 10: A list of school and communities visited by the evaluation team
+Annex 11: Evaluators’ CVs
+C V W illia m K a s a p ila .p d f
+C V A m a n d a B a n g u ra .p d f

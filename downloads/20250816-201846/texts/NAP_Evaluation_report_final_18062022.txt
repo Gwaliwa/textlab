@@ -1,0 +1,746 @@
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            i                                                
+ 
+ 
+Evaluation of the National Plan of Action for 
+Realization of Children’s rights in Turkmenistan 
+for 2018-2022 and UNICEF’s contribution to its 
+design, implementation and monitoring 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+2022 
+Commissioner:               UNICEF CO Turkmenistan 
+Consultant:                     DESSISLAVA ILIEVA (Ms.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            ii                                               
+ 
+ 
+Contents 
+Acknowledgements 
+iv 
+List of abbreviations and acronyms 
+v 
+1. 
+Executive summary 
+vii 
+2. 
+Background 
+1 
+2.1. 
+Object of the Evaluation 
+1 
+2.2. 
+Theory of change 
+1 
+2.3. 
+Stakeholders and their Role 
+3 
+2.4. 
+Context 
+3 
+2.4.1. 
+Political, Socio-Economic and Legal Context 
+ 4 
+2.5. 
+Significance of the evaluated intervention 
+6 
+3. 
+Purpose, objectives and scope of the evaluation 
+6 
+4. 
+Evaluation Methodology, Quality Assurance, and Ethics 
+8 
+4.1. 
+Evaluation design 
+8 
+4.2. 
+Conceptual framework 
+8 
+4.3. 
+Evaluation criteria 
+9 
+4.4. 
+Data sources, collection methods and sampling 
+9 
+4.5. 
+Data analysis 
+10 
+4.6. 
+Ethics 
+11 
+4.7. 
+Limitations, constraints and mitigation strategies 
+11 
+4.8. 
+Evaluation management 
+12 
+4.9. 
+Evaluation Oversight – Evaluation Steering Committee 
+12 
+4.10. 
+Work plan 
+12 
+5. 
+Gender Equality, Equity, and Human Rights Based Approach (HRBA) 
+13 
+6. 
+Evaluation findings 
+14 
+6.1. 
+Relevance 
+14 
+6.2. 
+Effectiveness 
+18 
+6.2.1. 
+Progress towards goals 
+18 
+6.2.2. 
+Overall NAP progress and contribution to SDGs 
+57 
+6.3. 
+Sustainability 
+60 
+7. 
+General conclusions and lessons learned 
+64 
+8. 
+Recommendations 
+67 
+ANNEXES 
+70 
+Annex 1 Evaluation matrix 
+70 
+Annex 2. List of Key informants 
+75 
+Annex 3. NAP framework of goals and objective 
+76 
+Annex 4. Compliance to UNICEF Ethical Standards Research, Evaluation 
+81 
+Annex 5. Research Ethics Approval 
+82 
+Annex 6 Data collection tools 
+83 
+Annex 7. Evaluation implementation approach 
+98 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            iii                                              
+ 
+Annex 8. Documents reviewed 
+99 
+Annex 9. List of piloted community-based services 
+101 
+Annex 10. Availability of child protection interventions across the three levels of prevention 
+102 
+Annex 11. Levels of participation 
+108 
+Annex 12. Terms of Reference 
+109 
+ 
+Figure 1 Theory of Change ...................................................................................................................... 2 
+Figure 2 Evaluation methods ................................................................................................................... 9 
+Figure 3 Key milestones predefining NAP development ...................................................................... 15 
+Figure 4 Groups of children covered by the NAP ................................................................................. 17 
+Figure 5 Neonatal mortality rate ............................................................................................................ 26 
+Figure 6 Infant mortality rate ................................................................................................................. 26 
+Figure 7 Under-5 mortality rate ............................................................................................................. 27 
+Figure 8 Main causes of death ............................................................................................................... 27 
+Figure 9 Exclusive breastfeeding of children 0-5 months (%)……………………………………….  27 
+Figure 10 Maternal mortality ………………………………………………………………………..   29 
+Figure 11 Stunting 2000 - 2019 (%) ...................................................................................................... 30 
+Figure 12 Anemia prevalence (%) ......................................................................................................... 31 
+Figure 13 % of population having access to clean water ....................................................................... 31 
+Figure 14 Official school ages and school age population .................................................................... 34 
+Figure 15 Participation in education by levels ....................................................................................... 34 
+Figure 16 Unemployment rates and Working poverty rates .................................................................. 39 
+Figure 17 Working hours lost due to the COVID-19 crisis ................................................................... 40 
+Figure 18 Share of youth not in employment ........................................................................................ 40 
+Figure 19 Recipients of childcare social benefits .................................................................................. 41 
+Figure 20 Percentage of disability pensioners who are children ............................................................ 41 
+Figure 21 N of children with disabilities living in families with no working adults…………………..41 
+Figure 22 Coverage of  community-based services for children ........................................................... 42 
+Figure 23 Placements in infant homes and child homes ........................................................................ 43 
+Figure 24 Share of residential care placements in boarding schools and share of CWD in public residential 
+care ......................................................................................................................................................... 44 
+Figure 25 N of children employed through employment agencies ........................................................ 49 
+Figure 26 Children with at least one living parent and separated from their family .............................. 50 
+Figure 27 Children placed in institutions………………………………………………………………51 
+Figure 28 Progress in ensuring child participation across child-related sectors .................................... 56 
+Figure 29 NAP progress against N of indicators ................................. 5Error! Bookmark not defined. 
+ 
+Table 1 NAP stakeholders ....................................................................................................................... 3 
+Table 2 Evaluation Users and Uses ......................................................................................................... 8 
+Table 3 Assessment of relevance ........................................................................................................... 14 
+Table 4 Relevance to context ................................................................................................................. 16 
+Table 5 Progress towards Goal 1 ........................................................................................................... 19 
+Table 6 Progress towards Goal 2 ........................................................................................................... 24 
+Table 7 Progress towards Goal 3 ........................................................................................................... 32 
+Table 8 Progress towards Goal 4 ........................................................................................................... 38 
+Table 9 Progress towards Goal 5 ........................................................................................................... 44 
+Table 10 Progress towards Goal 6 ......................................................................................................... 53 
+Table 11 Evaluation of child participation ............................................................................................. 54 
+Table 12 Assessment of sustainability ................................................................................................... 60 
+Table 13 Recommendations with priority status .................................................................................... 67 
+ 
+ 
+ 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            iv                                              
+ 
+Acknowledgements 
+ 
+The evaluator would like to thank the Government of Turkmenistan, specifically the Institute of State, Law 
+and Democracy and UNICEF Country Office Turkmenistan, for their leadership of this evaluation, for 
+providing all the requested documentation and contextual information, and for answering all the evaluator’s 
+questions and sharing their insights.  
+The evaluator also wishes to express gratitude to the Young Sustainable Development Goal Ambassadors 
+for collecting data from parents and children, as well as the Ministry of Education and the Women’s Union 
+for organizing the recruitment process for children and parents to inform this evaluation.  
+Special thanks go to Sofiya Yuvshanova for lending her continued support to the evaluation throughout the 
+process. 
+ 
+ 
+ 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            v                                               
+ 
+List of abbreviations and acronyms  
+ 
+ 
+CFS 
+child-friendly school 
+Covid-19  
+Coronavirus SARS CoV-2 
+CO 
+Country Office 
+CPD 
+Country Programme Document 
+CRC 
+Committee on the Rights of the Child 
+CRPD  
+United Nations Convention on the Rights of Persons with 
+Disabilities 
+CSO 
+civil society organization 
+ECD 
+early childhood development 
+ECDI 
+Early Childhood Development Index 
+FGD 
+focus group discussion 
+GANHRI 
+Global Alliance of National Human Rights Institutions 
+GoT 
+Government of Turkmenistan 
+HDI 
+Human Development Index 
+HR 
+human resources 
+HRBA  
+Human Rights Based Approach 
+ILO  
+International Labour Organization 
+IR 
+inception report 
+ISLD  
+Institute of State, Law and Democracy  
+JP 
+Joint Programme 
+KII 
+key informant interview 
+M&E 
+monitoring and evaluation 
+MFE 
+Ministry of Finance and Economy 
+MICS  
+Multiple Indicator Cluster Surveys 
+MLSPP 
+Ministry of Labour and Social Protection of the Population 
+MHMI  
+Ministry of Health/ Ministry of Health and Medical Industry 
+MoI 
+Ministry of the Interior/ Ministry of Internal Affairs 
+MPI 
+Multidimensional Poverty Index 
+NAP 
+National Plan of Action for Realization of Children’s Rights in 
+Turkmenistan 2018–2022 
+NEET 
+not in employment, education or training 
+NGO 
+non-governmental organization 
+OECD 
+Organisation for Economic Co-operation and Development 
+OECD DAC 
+OECD Development Assistance Committee 
+PP 
+purchasing power 
+PPP 
+purchasing power parity 
+SEND 
+special educational needs and/or disabilities 
+SDGs 
+Sustainable Development Goals 
+SMART 
+specific, measurable, achievable, results-focused and timely 
+SOP 
+standard operating procedure 
+ToC 
+Theory of Change 
+ToR  
+Terms of Reference 
+U5MR 
+under-5 mortality rate 
+UNCRC 
+United Nations Convention of the Rights of the Child  
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            vi                                              
+ 
+UNDP 
+United Nations Development Programme 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNICEF  
+United Nations Children’s Fund  
+UNODC  
+United Nations Office on Drugs and Crime 
+UN-SWAP 
+United Nations System Wide Action Plan 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            vii                                             
+ 
+1. Executive summary 
+This is the final report of the Evaluation of the National Plan of Action for Realization of Children’s rights 
+in Turkmenistan for 2018-2022 (NAP) and UNICEF’s contribution to its design, implementation and 
+monitoring. The evaluation was commissioned by UNICEF Country Office (CO) Turkmenistan to 
+Dessislava Ilieva, individual international consultant based in Bulgaria. The evaluation was undertaken 
+between Jul - Dec 2021. 
+The objects of this evaluation are: 
+• 
+The National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 
+(NAP), with a Road Map for Its implementation and Indicator’s Framework.  
+• 
+UNICEF’s contribution to the design, implementation and monitoring of the NAP 
+• 
+Impact of COVID-19 global pandemic on the implementation of NAP 
+• 
+Contribution of the NAP to the implementation of SDGs. 
+The NAP is based on the principles and provisions of the Constitution of Turkmenistan, Law of 
+Turkmenistan on ‘State Guarantees of the Rights of the Child’ and other international agreements in the 
+interest of children, to which Turkmenistan is a party. The NAP was adopted in 2015 and has been 
+instrumental in implementing the majority of the recommendations of the Committee on the Rights of the 
+Child (CRC). The Plan identifies key areas of state social policy in the interests of children based on the 
+principles of the UN Convention on the Rights of the Child.  
+The Government of Turkmenistan (GoT) is committed to advancing the 2030 Agenda, adopted the 
+Sustainable Development Goals (SDGs) in 2016 and has been working on integration of SDG targets and 
+indicators into national programmes and plans of actions, including the NAP, as well as on design of an 
+SDG monitoring system with technical assistance from the United Nations (UN).  
+The NAP is significant in terms of bringing together the effort of UNICEF, national partners, other UN 
+agencies and public organisations in delivering towards children’s rights. This is the first ever such a 
+comprehensive and multi-lateral effort to ensure rights of the children of Turkmenistan and a 
+comprehensive strategic document that is endorsed at the highest political level. 
+ 
+The main purpose of the evaluation is to: 
+• 
+Generate substantive evidence-based knowledge by identifying good practices and lessons learned 
+from the implementation of NAP.  
+• 
+Give adjustment necessary for the planning and implementation of support under the current UNICEF 
+CPD 2021-2025 and a basis for the development of the new NAP 2023-2028. 
+• 
+Strengthening UNICEF contribution to the realization of child rights and protection of children’s 
+access to quality services.  
+The timing of the evaluation is critical as the new Country Programme of Cooperation with the UN and 
+UNICEF was signed in 2020, current NAP will be completed in 2022 and the development of a new NAP 
+2023-2025 will be started this year. Thus, the evaluation will help to shape the programming and 
+policymaking in child-rights, including main elements of cooperation with UNICEF. 
+ 
+Evaluation methodology 
+The evaluation has both summative and formative dimensions and uses mixed-methods. The evaluation 
+was guided by the participatory approach as it engaged all key stakeholders during all stages of the 
+evaluation. The NAP result-framework is organised around children’s rights as per the UN Convention of 
+the Rights of the Child (UNCRC). The evaluation was performed along OECD DAC evaluation criteria: 
+Relevance – The extent to which NAP is relevant to the context and needs of children and families. 
+Effectiveness - The extent to which the NAP achieved its set goals. The objectives under each NAP 
+priority area were used to measure progress. The evaluation also analysed NAP contribution to SDGs. 
+Sustainability: The extent to which the achieved outcomes for children are likely to sustain after the 
+programme period. 
+The evaluation methodology involved a set of data collection methods (desk review, key informants 
+interviews and focus group discussions) and analytical methods (stakeholders’ analysis, qualitative and 
+content analysis). 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            viii                                            
+ 
+Desk research: The desk research was based on the available sources of secondary information concerning 
+children’s right interventions and gaps, data on achievements towards SDGs, available national data, 
+evaluations, monitoring data collected, etc.  
+Key Informants Interviews (KIIs) and Focus group discussions (FGDs): The data collection was 
+conducted in the period 10 Oct – 31 Dec 2021. It comprised online interviews. The evaluator conducted 19 
+interviews with key informants, individually and in a group. Data collection on velayat level was supported 
+by 8 Young SDG ambassadors after receiving an ethical training by the consultant. The SDGs 
+Ambassadors conducted 18 FGDs with children and parents. 
+ 
+Key findings 
+Relevance 
+The context of planning of the NAP is that of modernising the care systems in Turkmenistan following the 
+country’s independence, the ratification of the UNCRC in 1991 and other international human rights 
+conventions and protocols. The state introduced a number of national programmes and regulative 
+frameworks relevant to children’s rights regarding health, education, family upbringing, social support, 
+protection of the child from economic exploitation, etc. Some targeted children specifically (e.g. Law of 
+Turkmenistan on Promotion and Support to Breastfeeding, 2016; the law on State Guarantees of the Rights 
+of the Child, 2014, National Programme of Turkmenistan on early development and preparation of children 
+to school for 2011-2015, etc.). The NAP was approved by the Decree of the President of Turkmenistan of 
+22.06.2018. The Plan was elaborated considering the recommendations of the UN Committee on the Rights 
+of a Child (2015), with the participation of respective ministries and agencies, institutions and public 
+organizations of Turkmenistan, together with the UNICEF CO in Turkmenistan. 
+The evaluation did not identify government-led comprehensive needs assessments of children groups and 
+their families, national programmes’ evaluation reports or impact assessments of legislation or policies that 
+may have informed the design of the NAP. It had been informed by situational analysis conducted by 
+UNICEF in 2019.  
+The process of planning the NAP has employed a mixed approach to defining goals and objectives. On the 
+one hand the planning was based on the rights of the children generally (benefitting all children), and on 
+the other hand a focus was placed on certain groups in terms of vulnerability.  
+The NAP is equipped with a results framework but it was formulated as insufficiently specific, measurable 
+and realistic. Furthermore, the NAP has a wide strategic focus against a limited timeframe i.e. 5 years.  
+The NAP is generally aligned to the strategic priorities of child-rights’ national strategies as well as 
+strategic priorities identified in UN recommendations. The design of the NAP is moderately relevant to the 
+needs of the children as it is oriented to all children but some vulnerable groups identified by the 
+preliminary analysis as priority were not covered by the NAP on the level of objectives. 
+ 
+Effectiveness 
+The NAP priorities are organised under six goals areas with 36 objectives under these goals. An overall 
+strategic goal is missing. There has been considerable progress in establishing an enabling environment for 
+realising children’s rights in Turkmenistan. Turkmenistan has built on previous effort for ensuring an 
+environment for realization of human rights and child’s rights in the country in the area of human rights 
+protection, gender equality, protection of women’s, children’s rights and rights of people with disability, 
+youth policy, implementation of international conventions in the area of human rights protection. 
+Turkmenistan made some progress in improving children’s health and contributing to the targets on 
+children’s health such as high immunisation rates (achieved with UNICEF support), access to clean water, 
+reduction of malnutrition. There is significant progress in reducing stunting and development of young 
+children. Further effort is required to reduce mortality rates and prevalence of anaemia as well as enabling 
+better access of children with disabilities to specialised healthcare.  
+There is progress towards schools becoming more child-friendly, mostly in the area of early education for 
+children. These efforts have produced a notable increase of the children attending pre-school and pre-
+primary school but coverage is still insufficient. There is a conducive environment for increasing placement 
+of children with special educational needs in boarding schools, often away from their families. Whilst such 
+placement serve good educational purpose, it poses some limitations in exercising the child’s right to live 
+with its family, especially for children with disabilities.   
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            ix                                              
+ 
+There is no conclusive evidence that NAP interventions have contributed to better employment rates and 
+living standards of families. For the most vulnerable children and their families, support is still insufficient, 
+in particular single parents or parents with disabilities. Disability is a significant factor on the family 
+income as well as in terms of social inclusion. Among the most significant changes during the NAP 
+implementation has been the introduction of a modern concept of social services in the community and 
+introducing the profession of social worker. This is an achievement of a number of programmes and 
+interventions of which the NAP, being a national strategic child’s-rights document, is overarching. This has 
+contributed to a more enabling environment for family-support programmes in the community and is a 
+ground for developments in other areas e.g. child protection and child justice. 
+An important step is the introduction of a specialised approach to children in contact with the law. 
+Turkmenistan justice provides some essential elements of a child justice system in line with international 
+standards. This needs to be built on by shifting the system orientation from ‘correction’ to ‘resocialization’ 
+and ensue that interventions are based on interdisciplinary assessments which respond to the needs of each 
+child, including psychological and emotional needs. The concept of coordination for effective governance 
+of child protection and child justice is present but requires coordination mechanism for oversight of 
+children’s rights to be operationalised, including by describing the functions of agencies and law 
+enforcement bodies in terms of joint working and reporting. 
+Child-centred systems are still in the process of understanding what child participation is. Turkmenistan 
+has made the most progress regarding protecting the child's right to participation and the least progress in 
+creating space for actual participation. 
+In terms of COVID it should be noted that although some NAP interventions had to be readjusted, the 
+government put efforts to ensure the overall implementation of the NAP. Importantly, with support of UN 
+agencies, GoT did manage to sustain all essential health and education services in the country without 
+interruption. 
+ 
+Sustainability 
+The NAP ensured high level of sustainability of child’s rights mechanisms specifically in terms of 
+establishing the Ombudsman’s office.  
+NAP is fully aligned with the SDGs which demonstrates the high Government commitments towards 
+Sustainable Development Agenda. Data collection for children is strengthened in a sustainable way with 
+UNICEF and UN sister agencies. UNICEF has contributed significantly through raising the country’s 
+capacity to collect data on children. However, the culture to develop policies and services based on strong 
+detailed specific and measurable results frameworks according to the principles of strategic planning is not 
+yet fully in place. 
+Universal inclusive services for young children are in place but their scaling up and full coverage depends 
+on human resources investment and upgrading the capacity of education and healthcare. There is potential 
+for sustaining the achievements in the child protection system, including child justice. General and 
+specialised community-based support have a good replicable potential. The GoT has shown a commitment 
+to updating its legislative and regulatory regimes in favour of children’s rights, including in the area of 
+child protection and child justice. New laws on the treatment of victims of crime and defining the social 
+work function show important momentum in this area. To remain on this promising course of action it 
+requires the conceptualization of a robust child justice system capable of realizing the full rights for all 
+children who come into contact with the justice system, whether as victims, witnesses, accused of a crime, 
+or in a civil or administrative proceeding. 
+ 
+Conclusions 
+In terms of relevance to the context, the NAP is generally aligned to the strategic priorities of child-rights’ 
+national strategies as well as international strategic priorities identified in UN recommendations. In terms 
+of needs, there is moderate alignment between the needs addressed by the NAP and needs identified by 
+CRC recommendations and situational analyses. The internal causal links between goals, objectives and 
+interventions are mostly implicit. The result-framework is designed to capture outcomes for children 
+mainly on the level of activities and needs to be strengthened to include more comprehensive and valid 
+indicators on the level of goals and objectives. 
+In terms of effectiveness there has been considerable progress in establishing an enabling environment for 
+realising children’s rights as well as independent guarding of children’s rights e.g. establishing the 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            x                                               
+ 
+Ombudsman body. However, establishing permanent interagency body monitoring children’s rights in 
+every sector has not yet been achieved.  
+Significant progress was made in terms of data collection e.g. State Committee of Statistics of 
+Turkmenistan has been instrumental in collecting data for MICS 2019 and the country completed a 
+voluntary review on the achievement of SDGs. Yet there are still gaps in terms of data collection coverage 
+and data accessibility e.g. disaggregated data on children in conflict with the law and child victims and 
+witnesses of crime collected and shared systematically would greatly improve the planning of targeted 
+response to children in need.  
+Healthcare has improved in a number of areas e.g. immunisation, breastfeeding, nutrition, early childhood 
+development, maternal mortality, etc. There is room for development in terms of accelerating the reduction 
+of child mortality and further building on the existing achievements in the area of specialised care for 
+children with disabilities. There is progress towards schooling becoming more child-friendly, mostly in the 
+area of early education for children. However, there is a conducive environment for increasing placement 
+of children with special educational needs in boarding schools, which prevents social inclusion being 
+achieved for children with disabilities. Possible factors, among others, are social norms of parents, 
+specialised skills in working with children with disability being more available in special schools vs. 
+mainstream schools, community-based services for families of children with disabilities still not being 
+widely available. Feedback from parents indicates that disability may be a great factor on the family 
+income as well as on the level of social inclusion of children. The extent of this vulnerability requires 
+further studies.  
+Introducing the concept of social work and community-based services is one of the most significant 
+changes during NAP implementation. Family separations are on the increase hence gaps are wider for 
+families who face difficulties in taking care of their children and there is a risk of children being separated. 
+Main factors are: underdeveloped network of family-support services to address difficult life situations, 
+lack of reintegration services, and underdeveloped inclusive education combined with the lack of services 
+for disabled children. Turkmenistan has made progress mostly in terms of creating a more enabling 
+environment for family-support programmes. Components of a child-friendly justice system are in place 
+and provide good ground for modernising the child justice system towards shifting from “correction” to 
+“socialisation”; improving the coordination among law enforcement and child protection entities; 
+developing effective prevention and response programmes based on all needs of children in contact with 
+the law and children victims or witness of violence.    
+In terms of sustainability there has been development towards child’s rights mechanisms e.g. establishing 
+the Ombudsman’s office. Further promotion of child-friendly complaint mechanisms would strengthen the 
+position of the Ombudsman as a voice for children’s rights. Child’s rights monitoring can be sustained by 
+fostering data-driven decision-making culture and by introducing strong monitoring and evaluation results-
+frameworks that allow for measuring progress for children in accordance with the principles of strategic 
+planning. 
+ 
+Lessons learned 
+It is vital to support child-rights legislation along with developing other enabling factors. Legislation 
+alone is not a guarantee that these rights will be automatically exercised without also addressing social 
+norms and professional norms, capacity building of the systems around the child (healthcare, education, 
+child protection and justice). 
+High quality data is essential for priority setting, monitoring and achieving results. Continuous 
+monitoring of children’s rights across all areas ensures timely identification and development of 
+interventions addressing the most urgent bottlenecks. 
+Children’s needs are complex needs and cannot be addressed by each sector separately or on its own. An 
+integrated approach should be fostered when designing new services and, therefore, capacities of all child-
+relevant systems need to be addressed simultaneously: education, health, child protection and justice. 
+Importance of focusing on a limited number of priorities. Achieving strategic and long lasting impact is 
+challenging if NAP pursues multiple and too broad goals, and is spread too thin. Within the limited 
+timeframe of the NAP long-term vision and one strategic goal need to guide and steer the NAP. 
+Strong partnerships and collaboration are essential to achieving strategic results. The nature of 
+development challenges faced by Turkmenistan require extensive collaboration with various partners, 
+collective planning, implementation and monitoring.  
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            xi                                              
+ 
+Public associations can be an indispensable partner to the GoT to assume the provision of services to 
+children and families because they are closest to the communities and their needs. Social contracting 
+legislation may boost nation-wide service providers as currently they largely depend on insecure own 
+funding. 
+Child participation is a clear principle to understand, yet, very difficult to operationalise. Decision-
+makers should operationalise participation horizontally i.e. across various child-related areas e.g. when 
+developing community-based social services, making schools more child-friendly, improving access to 
+specialised healthcare for children with disabilities, etc. 
+Recommendations 
+Next NAP needs to preserve its comprehensive approach to children’s rights. At the same time, a vision of 
+change, one overarching strategic goal of the NAP and a detailed Theory of change should be developed 
+along with a high-quality result-framework with SMART objectives. ToCs development should become a 
+truly analytical and participatory exercise engaging multiple stakeholders. 
+The voice of children would be stronger in Turkmenistan if a permanent interagency body specifically 
+coordinating the work of all agencies relevant to children’s rights. It could be established as a separate body 
+or a specialised structure specifically responsible for children’s rights within existing human rights bodies 
+such as ombudsman or Inter-agency commission.1  
+The efforts in healthcare need to build on the work of the current NAP by extending access to specialised 
+care for some groups of children (e.g. children with disabilities, especially in remote areas) as well as 
+furthering the effort to reduce child mortality. Nutrition was reflected in the current NAP but there are still 
+some gaps (e.g. reasons for anaemia prevalence) requiring further analysis to inform next NAP cycle. Next 
+NAP needs to further address system changes that enable children with disabilities have better access to 
+specialised healthcare and rehabilitation services close to their community. Early childhood development 
+services need to be further developed and scaled up.  
+Rehabilitation services for children with disabilities at school age, too, need to be designed in a way that 
+meet their educational needs to enable their participation in mainstream school and prevent their placement 
+in a boarding school away from their families. 
+Any family-support services and child protection services (including child justice) need to be based on the 
+concept of case management, which is currently being introduced in the country. The efforts towards 
+creating the legislative environment for that as well as improving and expanding the workforce needs to be 
+extended in the next NAP cycle. 
+Next NAP should place bigger emphasis on inclusive education i.e. mainstreaming inclusiveness in the 
+meaning that any school is able to respond to the needs of every child, including children with special 
+needs. Social and professional norms need to be addressed through campaigning and promoting the right of 
+the children to receive quality education and live in its family at the same time. 
+Next NAP needs to extend its emerging good practices in child protection into the next period of planning. 
+Building on the models for community-based services for children and families within JP, next NAP needs 
+to address the need to scale these up. Service quality standards need to be elaborated in a way to include 
+mechanisms for participation of children as one of the underlying quality principles. 
+Follow-up child justice reforms need to consider strengthening the child justice legislative environment in a 
+way that ensures that rights of children in contact with the law are protected at all stages. Consideration 
+needs to be made to strengthening interagency coordination in the area of child justice; enhancing 
+prevention (comprehensive juvenile delinquency measures based on assessed risk factors) and response 
+(well-coordinated community-based child support programmes enhanced with professionally trained 
+workforce and developed on data-based pillars). 
+Data collection should be strengthened across all sectors of child well-being i.e. education, health, social 
+protection and justice.  
+It is vital that NAP encourages public associations of parents’ groups and grassroots organisations to be 
+involved in provision of services through more enabling legislation and funding. 
+ 
+ 
+ 
+1 The Inter-Agency Commission on Implementation of Turkmenistan’s international human rights obligations and incorporation of 
+the standards of the international humanitarian law is an advisory cross-sectoral body established to coordinate efforts of the state 
+agencies, local executive authorities, and enterprises, institutions, organizations, and voluntary associations, to implement 
+Turkmenistan’s international human rights commitments. 
+
+Evaluation of the National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 (NAP) and 
+UNICEF’s contribution to its design, implementation and monitoring 
+              
+ 
+ 
+            1                                               
+ 
+2. Background 
+This is the final report of the Evaluation of the National Plan of Action for Realization of Children’s 
+rights in Turkmenistan for 2018-2022 (NAP) and UNICEF’s contribution to its design, implementation 
+and monitoring. It was developed after conducting an external evaluation commissioned by UNICEF 
+Country Office (CO) Turkmenistan. The evaluation was undertaken between July 2021 to April 2022. 
+ 
+This section lays out the broader context in which the intervention was planned and implemented, 
+including a brief introduction to the regional context in which the interventions under evaluation took 
+place.  
+ 
+The National Action Plan (NAP) on Children’s rights was approved in 2018 and has been instrumental in 
+implementing the majority of the recommendations. The Plan identifies key areas of the state social 
+policy in the interests of children based on the principles of the UN Convention on the Rights of the 
+Child, to which Turkmenistan is a party.  
+All goals and objectives included in the NAP on Children’s rights are aimed at the realization of rights 
+and social safeguards for children, implementation of which requires an integrated approach, coordination 
+and cooperation of state bodies and public associations.  The aim, objectives, policies and indicators set 
+forth in the NAP on Children’s rights, represent an integrated ‘roadmap’ aiming at the implementation of 
+the UN Convention on the Rights of the Child by Turkmenistan. NAP was developed with consideration 
+of the UNICEF programmatic priorities and include all the areas of the UNICEF Strategic Plan and 
+Country programme Development (CPD). The CPD 2021-2025 was developed for addressing the main 
+priorities and challenges identified during implementation of the NAP. 
+ 
+The current evaluation is part of the effort of the GoT and UNICEF to assess the progress of the country 
+towards realisation of children’s rights and fine-tune further efforts in the next planning cycle of the NAP.   
+2.1. Object of the Evaluation 
+The objects of this evaluation are: 
+• 
+The National Plan of Action for Realization of Children’s rights in Turkmenistan for 2018-2022 
+(NAP), with a Road Map for Its implementation and Indicator’s Framework.  
+• 
+UNICEF’s contribution to the design, implementation and monitoring of the NAP 
+• 
+Impact of COVID-19 global pandemic on the implementation of NAP 
+• 
+Contribution of the NAP to the implementation of SDGs. 
+2.2. Theory of change 
+The NAP was not based on a clearly stipulated Theory of Change (ToC). The Theory of change was 
+reconstructed here, as requested by ToR, for the purpose of being tested during the data collection to 
+better understand the logic behind the interventions. Additional emphasis was given at reviewing 
+UNICEF’s core roles towards addressing bottlenecks in child’s rights implementation and improving 
+effective coverage with evidence-based interventions. The evaluation findings will be used by UNICEF 
+and Government of Turkmenistan to refine the paths of change to follow during the next implementation 
+period of NAP. 
+Turkmenistan created a favourable environment to realize rights of children and women. It ratified the 
+Convention on the Rights of the Child, the United Nations Convention on Rights of Persons with 
+Disabilities, Convention on the Elimination of all Forms of Discrimination against Women and aligned a 
+number of national laws with the Conventions. The new Constitution recognizes the primacy of 
+universally accepted norms of international law.  
+However, at the time of inception of NAP there was not a separate governance entity specifically focusing 
+on children’s rights in Turkmenistan, child mortality rate was still high and access to healthcare services

@@ -1,0 +1,645 @@
+Multi-Country Formative and Summative 
+Evaluation of Elimination of Violence 
+against Children in Egypt, Jordan and 
+Lebanon 
+Final Evaluation Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IOD PARC is the trading name of 
+International Organisation Development Ltd 
+Omega Court 
+362 Cemetery Road 
+Sheffield 
+S11 8FT 
+United Kingdom 
+Tel: +44 (0) 114 267 3620 
+www.iodparc.com 
+Prepared for // Robert Stryk, Senior 
+Evaluation Manager 
+By // Rima Al-Azar (Team Leader), Sirsa 
+Qursha (Child Protection Specialist), Sherry 
+Boutros (Researcher- Egypt), Leen Al Refai 
+(Researcher-Jordan), and Rachelle El-
+Hasrouny (Researcher-Lebanon) 
+Date // 21 June 2021 
+ 
+
+ 
+ 
+ 
+Table of Contents 
+Acknowledgements ................................................................................ 1 
+Acronyms and Abbreviations .................................................................. 1 
+Executive Summary ................................................................................. i 
+Objective, intended users, and scope ..................................................................... i 
+Context .................................................................................................................... i 
+Methodology ............................................................................................................ i 
+Key Findings ............................................................................................................ ii 
+Conclusions ............................................................................................................ iv 
+Recommendations .................................................................................................. vi 
+1. 
+Introduction .................................................................................... 1 
+1.1 Objective ........................................................................................................... 1 
+1.2 Intended Users.................................................................................................. 1 
+1.3 Scope................................................................................................................ 2 
+2. 
+VAC Context in the Three Countries ............................................... 3 
+2.1 Background ...................................................................................................... 3 
+2.2 Impact of Covid-19 on Levels of VAC ............................................................... 4 
+2.3 Violence within the Home ................................................................................. 5 
+2.4 Emotional Violence and Neglect ....................................................................... 6 
+2.5 Violence in Schools ........................................................................................... 8 
+2.6 Bullying ............................................................................................................. 8 
+2.7 Sexual Violence................................................................................................. 9 
+2.8 Commercial Sexual Exploitation and Trafficking ............................................ 11 
+2.9 Online Child Sexual Exploitation (OCSE) ........................................................ 12 
+3. 
+UNICEF VAC Activities in the Three Countries ............................. 12 
+3.1 UNICEF EVAC Activities in Egypt ................................................................... 12 
+3.2 UNICEF EVAC Activities in Jordan ................................................................. 13 
+3.3 UNICEF EVAC Activities in Lebanon ............................................................... 14 
+4. 
+Analytical Framework ................................................................... 15 
+5. 
+Methodological Approach ............................................................ 15 
+5.1 Quality Assurance Mechanisms ...................................................................... 17 
+6. 
+Evaluation Challenges, Mitigation Measures and Limitations ....... 18 
+7. 
+Findings ........................................................................................ 21 
+7.1 Relevance ....................................................................................................... 21 
+
+ 
+ 
+7.2 Efficiency ........................................................................................................ 36 
+7.3 Effectiveness ................................................................................................... 45 
+7.4 Sustainability ................................................................................................... 67 
+7.5 Gender ............................................................................................................ 73 
+8. 
+Conclusions.................................................................................. 80 
+9. 
+Recommendations ....................................................................... 82 
+ 
+ 
+Annexes 
+Annex 1.  
+ToRs of the Evaluation 
+ 
+Annex 2.  
+EVAC Theory of Change 
+ 
+Annex 3.  
+References 
+ 
+Annex 4.  
+Stakeholder Analysis  
+Annex 5.  
+Mapping of EVAC Interventions in the Three Countries 
+ 
+Annex 6.  
+Evaluation Matrix 
+ 
+Annex 7.  
+Proposed Modifications to EQs 
+ 
+Annex 8.  
+KII Interview Protocol  
+Annex 9.  
+Evaluation sub-questions per type of stakeholder  
+Annex 10.  
+List of People Interviewed 
+ 
+Annex 11.  
+Steering Committee Terms of Reference 
+ 
+Annex 12.  
+Research Ethics Approval 
+ 
+Annex 13.  
+Alignment of UNICEF EVAC Interventions with SDGs 5 and 16 
+ 
+Annex 14.  
+  
+Annex 15.  
+Children Programme Guidance: Seven Strategies  
+Annex 16:  
+Global School-Based Student Health Survey 
+ 
+Annex 17.  
+UNICEF Egypt External Communications EVAC Campaigns 2020  
+Annex 18.  
+Select RAM Indicators 2019-2020 
+ 
+Annex 19.  
+Case Management Indicators in Lebanon 
+ 
+Annex 20.  
+Planned Targets and Results Achieved (SitReps) 
+
+ 
+ 
+Acknowledgements 
+The Evaluation Team and the staff of IOD PARC wish to express their gratitude to all the 
+UNICEF staff in Egypt, Jordan and Lebanon who gave their time and insights and helped the 
+Team to better understand the context and the EVAC activities being implemented in the 
+three countries. The evaluation was facilitated by the support provided by 
+East and North Africa Regional Office and by focal points at the Jordan, Lebanon and Egypt 
+Offices. Special thanks go to the UNICEF staff who assisted the Team in arranging meetings 
+with key stakeholders and patiently responded to our queries and provided valuable data and 
+information for analysis. 
+ng 
+Government representatives, UN agencies, NGOs, and private sector stakeholders who 
+shared their insights and perspectives.  
+The Evaluation Team would also like to take the opportunity to convey our gratitude to all 
+those who contributed to the successful completion of the evaluation. In particular, we thank 
+participants of the three country debriefings as well as those who provided written comments 
+for their openness, and feedback which enabled production of a quality evaluation. We 
+appreciate the support, guidance, and understanding demonstrated by UNICEF COs in 
+Egypt, Jordan and Lebanon Child Protection and Planning Monitoring and Evaluation teams.  
+
+ 
+ 
+Acronyms and Abbreviations 
+AWP 
+Annual Workplan 
+BPP 
+Better Parenting Program  
+C4D 
+Communication 4 Development 
+CAPMAS 
+Central Agency for Public Mobilization and Statistics (Egypt) 
+CEDAW 
+Convention on the Elimination of all Forms of Discrimination Against Women 
+CETS 
+Child Exploitation Tracking Systems 
+CMR 
+Clinical Management of Rape 
+CO 
+Country Office 
+COAR  
+Country Office Annual Report 
+CP 
+Child Protection 
+CPC 
+Child Protection Committee 
+CPD 
+Country Programme Document 
+CPIMS 
+Child Protection Information Management System 
+CP SWG 
+Child Protection Sub-Working Group 
+CRC 
+Convention on the Rights of the Child 
+CSO 
+Civil Society Organization 
+DCPC 
+District Child Protection Committee 
+DHS 
+Demographic and health Survey 
+DRC 
+Danish Refugee Council 
+ECD 
+Early Childhood Development 
+EDHS 
+Egypt Demographic and Health Survey 
+EFACC 
+Egyptian Foundation for Advancement of the Childhood Condition 
+EQ 
+Evaluation Question 
+ET 
+Evaluation Team 
+EU 
+European Union 
+EVAC 
+Elimination of Violence Against Children 
+FBO 
+Faith Based Organization 
+FGD 
+Focus Group Discussion 
+FGM 
+Female Genital Mutilation 
+FPD 
+Family Protection Department (Jordan) 
+FVTS  
+Family Violence Tracking System 
+GBV 
+Gender Based Violence 
+HCC 
+High Council of Childhood (Lebanon) 
+HQ 
+Head Quarters 
+HRBA 
+Human rights-based approach 
+ICCS 
+Islamic Center Charity Society (Jordan) 
+
+ 
+ 
+ICT 
+Internet and Communications Technology 
+ILO 
+International Labour Organization 
+IMAGES 
+International Men and Gender Equality Survey 
+IMC 
+International medical Corps 
+IOM 
+International Organization for Migration 
+IP 
+Implementing Partner 
+IRC 
+International Refugee Committee 
+JRF 
+Jordan River Foundation 
+JWU 
+ 
+KAP 
+Knowledge, Attitude, and Practice 
+KII 
+Key Informant Interview 
+LGBTI 
+Lesbian, Gay, Bisexual, Transgender and Intersex 
+M&E 
+Monitoring and Evaluation 
+MCIT 
+Ministry of Communications and Information Technologies (Egypt) 
+MEHE 
+Ministry of Education and Higher Education (Lebanon) 
+MENA 
+Middle East and North Africa 
+MENARO 
+Middle East and North Africa Regional Office 
+MICS 
+Multiple Indicator Cluster Survey 
+MoE 
+Ministry of Education (Jordan) 
+MoETE 
+Ministry of Education and Technical Education (Egypt) 
+MoFA 
+Ministry of Foreign Affairs (Egypt) 
+MoHP 
+Ministry of Health and Population (Egypt) 
+MoJ 
+Ministry of Justice (Egypt and Lebanon) 
+MoLD 
+Ministry of Local Development (Egypt) 
+MoPH  
+Ministry of Public Health (Lebanon) 
+MoPIC 
+Ministry of Planning and International Cooperation (Jordan) 
+MoSA 
+Ministry of Social Affairs (Lebanon) 
+MoSD 
+Ministry of Social Development (Jordan) 
+MoSS 
+Ministry of Social Solidarity (Egypt)  
+MoU 
+Memorandum of Understanding 
+MSC 
+Most Significant Change 
+NGO 
+Nongovernmental Organization 
+NCCM 
+National Council for Childhood and Motherhood (Egypt) 
+NCFA  
+National Council for Family Affairs (Jordan) 
+NCW 
+National Council for Women (Egypt) 
+OCSE 
+Online Child Sexual Exploitation 
+OECD DAC 
+Organisation for Economic Co-operation and Development's Development 
+Assistance Committee 
+PHC 
+Public Health Center 
+
+ 
+ 
+PER  
+Performance Evaluation Review 
+PSEA 
+Preventing Sexual Exploitation and Abuse 
+PSS 
+Psychosocial Support 
+RAM 
+Result Assessment Module 
+RFP 
+Request for Proposal 
+RIMS 
+Referral Information Management System (Lebanon) 
+RO 
+Regional Office 
+SADD 
+Sex and age disaggregated data 
+SBCC  
+Social and behavioural change communication 
+SC 
+Steering Committee 
+SDC 
+Social Development Center (Lebanon) 
+SDG 
+Sustainable Development Goal 
+SITAN 
+Situation Analysis of Children 
+SMQ 
+Strategic Monitoring Questions 
+SOP 
+Standard Operating Procedure 
+TDHL 
+Terre des Hommes Lausanne 
+ToC 
+Theory of Change 
+ToR 
+Terms of Reference 
+ToT 
+Training of Trainers 
+UN 
+United Nations 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+ 
+UNODC 
+United Nations Office on Drugs and Crime 
+UNRWA 
+United Nations Relief and Works Agency for Palestine Refugees in the Near East 
+USAID 
+United States Agency for International Development 
+VAC 
+Violence Against Children 
+VASyR 
+Vulnerability Assessment of Syrian Refugees  
+VAW 
+Violence Against Women 
+WHO 
+World Health Organization 
+ 
+
+ 
+i 
+ 
+Executive Summary 
+Objective, intended users, and scope 
+Multi Country Formative and Summative Evaluation of Elimination of Violence Against 
+Children (EVAC) 
+ 
+Regional Office (RO) and has the dual objectives of accountability and learning. 
+The main audience of this report are UNICEF staff in the Middle East and North Africa 
+Regional Office (MENARO) and the three Country Offices (CO) covered by this evaluation. A 
+secondary audience will be UNICEF staff in other COs, ROs or in HQ that may have an interest 
+in the findings of the evaluation to feed into their programming; learn from MENA experiences; 
+and/or eventually replicate or adapt to their own contexts.  
+The evaluation covers three countries of the region - Egypt, Jordan and Lebanon. These three 
+countries were selected because it is where UNICEF has partnered most closely with national 
+governments in the MENA region to deliver a wide variety of EVAC programmes. It covers all 
+activities planned and/or implemented during the period between July 2019 and December 
+2020 that either protect children from violence directly or develop improved responses for 
+when violence against children occurs. 
+Context 
+The MENA region is affected by political instability, economic stresses and demographic 
+challenges. It is also home to the largest refugee and displacement crisis of modern times; 
+with a total of 10.5 million Syrian refugees and with the Syrian crisis impacting each one of 
+the three countries under study differently. The reg
+constituting 36 percent of its population according to UNICEF (2017), with more than one 
+  It is home to some of the highest rates of 
+violent disciplinary methods, with 106 million children (aged 2-14) regularly subjected to 
+violent discipline in the home and 27 million children having experienced severe physical 
+punishment; with the odds of boys being subjected to severe punishment being 1.3 times 
+more likely than girls. Furthermore, the same study found that 80 per cent in the MENA region 
+had experienced psychological aggression. While the three countries under study have 
+ratified the Convention on the Rights of the Child (CRC) as well as the Convention on the 
+Elimination of all Forms of Discrimination Against Women (CEDAW), significant concerns 
+regarding the protection of children from violence within Egypt, Jordan and Lebanon very 
+much exist.  
+Methodology 
+The evaluation s analytical framework was based on 
+Global Theory of Change for 
+Programme Guidance (2018). The evaluation was conducted remotely and was based on in-
+depth document review and key informant interview with 100 stakeholders. Debriefings were 
+held with key stakeholders in the three countries to validate the key findings. 
+Furthermore, the evaluation followed a gender-sensitive and human rights based approach. 
+It also adhered to the United Nations Evaluation Group (UNEG) ethical standards and norms. 
+
+ 
+ii 
+ 
+The evaluation faced severe limitations due to the COVID-19 pandemic and the team was 
+was unable to meet with key stakeholders (e.g., government and donor staff) which limited in 
+some cases the triangulation of information. 
+Key Findings 
+Relevance 
+At the country level, 
+level of violence against children in the three countries. Its activities are also aligned with 
+national priorities, strategies and frameworks. At the global level, 
+are 
+aligned with SDGs 5 (gender equality) and 16 (peace, justice and strong institutions) as well 
+as 
+Global EVAC Framework. Furthermore, 
+with six out of the seven 
+Violence Against Children 
+Programme Guidance document
+c 
+Similarly, in the three countries, EVAC initiatives are 
+generally in line with six out of seven of INSPIRE strategies. However, the evaluation did not 
+come and economic 
+ Notwithstanding the overall relevance of U
+ in the 
+three countries, UNICEF did not fully consider the gender dimensions and the specifics for 
+of violence along the life cycle.  Furthermore, EVAC programmes in the three countries were 
+not fully framed to address violence occurring across all social classes and environments. 
+Finally, UNICEF displayed its adaptive capacity by quickly responding to the changing 
+context due to the COVID-19 pandemic in three countries as well as to the Beirut port 
+explosion in Lebanon. 
+Efficiency 
+The evaluation found little evidence that EVAC initiatives use resources in a way that allows 
+for cost monitoring. Based on an analysis of the funding gaps reported in the SitReps, 
+financial resources available for Child Protection (CP)1 activities are adequate in Jordan and 
+Lebanon but insufficient in Egypt. Though EVAC has been identified as one of the 
+humanitarian financing as a result of the Syria crisis. The evaluation identified several steps 
+that UNICEF in the three countries implemented to improve the efficiency of programme 
+delivery, including partnering with national non-governmental organizations (NGOs), reducing 
+operating costs and sharing information and tools across the three countries. 
+Notwithstanding these cost-efficient measures, the evaluation noted several issues  both 
+internal and external - that limit the efficiency of EVAC interventions by either increasing the 
+cost and/or decreasing the number of people reached. These inefficiencies were caused 
+mostly by COVID-19 related delays, internal UNICEF processes, limited leveraging of 
+public/private funding, insufficient local capacities and lack of trust among different 
+stakeholders. 
+Effectiveness 
+Overall, the three countries were able to achieve the expected results in 2019. In 2020, and 
+partly due to the COVID-19 pandemic (and in Lebanon also because of the multiple crises 
+the country faced in 2019-2020), not all the planned results were met. There is some evidence 
+outlined in the Global EVAC Theory of Change (ToC). Children/adolescents and caregivers 
+ 
+1 Financial information specific to EVAC was not available. 
+
+ 
+iii 
+ 
+have gained greater 
+behaviours have changed. At the institutional level, UNICEF supported the development of 
+Standard Operating Procedures (SOPs), Clinical Management of Rape (CMR), the rolling out 
+of the CPIMS/FVTS and capacity building of government staff. At the level of legal and 
+political frameworks, the changes included the development of an EVAC strategy in Egypt, a 
+Child Protection, Social and Behavioural Change Communications (SBCC), and sectoral 
+strategies in Lebanon, and amendments to laws in Jordan. Limited evidence exists that 
+changes occurred at the society/community and social norms levels. Several factors 
+contributed or hindered progress towards achieving the expected results. These include (i) 
+the existence of processes that increase commitment, ownership and buy-in, integration of 
+EVAC into other sectors, and mechanisms that provide incentives and ensure accountability; 
+(ii) the capacity levels of all stakeholders, including staff of UNICEF, Implementing Partners 
+(IPs) and government; and (iii) external factors, including the crises, funding and existence of 
+multiple Helplines which render coordination and collaboration more difficult. 
+ 
+From the information made available, the evaluation concluded that UNICEF COs would be 
+able to monitor results disaggregated by gender, nationality, age, disability, geographic area, 
+but it is not clear (i) to what extent this is being done, and (ii) to what extent this can be done 
+across all interventions, i.e., some intervention results may be disaggregated by gender but 
+not by nationality, some may be disaggregated by age, and others by disability or geographic 
+location. Furthermore, though there are several M&E reports that provide information 
+regarding EVAC interventions, not all were made available to the Evaluation Team (e.g., 
+CPMIS and GBVIMS). As a result, the evaluation was unable to determine the extent to which 
+they are being used to effectively measure progress in achieving planned results and to guide 
+programme implementation. 
+ 
+The evaluation identified five unplanned effects of the EVAC interventions in the countries 
+under study. Two had unintended positive consequences: (i) wide acceptance by caretakers 
+of receiving psychosocial support remotely during COVID-19 and (ii) greater ease in involving 
+men through online means. Three had unintended negative impacts and they include (i) 
+overwhelming the Child Helpline as a result of a successful social media campaign in Egypt; 
+(ii) several repercussions due to target setting by nationality in Lebanon; and (iii) resentment 
+due to targeting only teachers in the 
+ programme in Jordan. In addition, the evaluation 
+identified two initiatives that would merit deeper analysis and an assessment how they could 
+develop impact at the national, regional and possibly global level. They are: (i) delivering 
+prevention and response services remotely; and (ii) addressing EVAC through leveraging the 
+power and influence of religious leaders, which is a necessary approach to achieve change 
+in societal norms in the region. In addition, case management would merit an in-depth 
+assessment which would analyse in-take, referral, case resolution, coordination and the roll 
+out of the CPIMS. 
+ 
+UNICEF in the three countries has coordinated with different government institutions, UN 
+agencies, NGOs and the private sector which has contributed to achieving the expected 
+results. However, there is a missed opportunity for greater coordination and collaboration 
+with UN Women, especially to carry out high-level advocacy as well as to better integrate 
+VAC and Violence Against Women (VAW) interventions. The extent of internal coordination 
+and complementarity varies between one sector and another, with the greatest integration 
+taking place between the Child Protection and Education sectors within UNICEF. 
+Sustainability 
+Existence of national legal frameworks in Egypt, which has a National Child Law, and, in 
+Jordan, which 
+ Juvenile Laws, contributes to long-
+term sustainability. However, Lebanon still does not have a unified national framework to 
+
+ 
+iv 
+ 
+address EVAC since family and personal status laws are regulated by religious courts. Due 
+to their institutional setup which limits their leverage, the National Council for Childhood and 
+Motherhood (NCCM-Egypt), the National Council for Family Affairs (NCFA-Jordan) and the 
+High Council of Childhood (HCC-Lebanon) are limited in their abilities to ensure multisectoral 
+coordination. In terms of financial sustainability, the evaluation identified two national 
+strategies (Egypt and Jordan) that were costed and none which has been included in the 
+national budget. The lack of outcome level data did not allow the evaluation to assess the 
+extent of changes in attitudes and behaviour and even less their sustainability. Sustainability 
+of direct interventions varies among the three countries and is a function of several factors, 
+including institutional arrangements, continuity of funding, and sufficient human and technical 
+capacities. Finally, the evaluation identified four initiatives that could be replicable and/or 
+scalable: (i) partnering with the private sector in Egypt which can be leveraged in other 
+countries in the region; (ii) conducting monthly online surveys in Jordan; (iii) provision of 
+integrated services at the community level in Jordan; and, potentially, (iv) mainstreaming 
+EVAC within municipalities in Lebanon. 
+Gender 
+There is inconclusive evidence on the extent to which UNICEF COs are using gender 
+considerations in the design of EVAC response and prevention activities. At the 
+implementation level, the three COs are supporting several initiatives which have a strong 
+gender dimension at different levels, however there is room for enhanced gender 
+mainstreaming by (i) targeting male caregivers, (ii) supporting boy victims of violence; (iii) 
+enha
+; (iv) partnering with UN Women; (v) linking gender-
+related EVAC interventions with other sectors; and (vi) strengthening collaboration between 
+the response (case management) and prevention (psychosocial support, parenting 
+programmes,  social and behavioural change communication) at the community level. In terms 
+of monitoring, sex-disaggregated data is being collected through the different case 
+management information systems as well as through the Helplines though this is not captured 
+in the formal reports in a systematic manner. 
+Conclusions 
+Conclusion 1 
+with national child protection and EVAC strategies and are relevant to the context in the three 
+countries, given the high level of VAC. 
+Conclusion 2 (based on Finding 4). 
+allows its partners in each country to 
+with all stakeholders. While UNICEF COs have responded to the multiple crises in the last 
+emergency situations. UNICEF in Egypt has developed an EVAC ToC; however, Jordan does 
+not have an EVAC-specific ToC and Lebanon has an outdated one.  
+Conclusion 3 (based on Findings 9 and 10). UNICEF has successfully adapted its 
+interventions to the changing context and needs due to multiple crises in the three countries. 
+However, there is room for increasing the relevance of activities for specific target groups 
+(e.g., adolescents, children who attend private schools, male caretakers, etc.). 
+Conclusion 4 (based on Findings 11, 12 and 13). UNCEF has received substantial resources 
+to respond to the Syria crisis in the three countries which has provided an opportunity to 
+strengthen EVAC national systems. However, insufficient information was available to assess 
+
+ 
+v 
+ 
+the ability of UNICEF to carry out cost-monitoring of its activities or to analyze the efficiency 
+of UNICEF funding, particularly regarding awareness raising and prevention efforts. 
+Conclusion 5 (based on Findings 14 and 15). Although UNICEF is taking concrete steps to 
+improve efficiency across programme delivery, particularly in areas related to reducing 
+operational costs, enhancing cross sectoral collaboration and strengthening service delivery 
+of national NGOs, duplication of services/programming, use of multiple data tracking 
+systems decrease the efficiency of the systems. A significant opportunity exists which is not 
+being utilized fully for sharing experiences and resources among the three countries. 
+Conclusion 6 (based Findings 16 and 17). Overall, the three countries were able to achieve 
+their planned results in 2019 and were affected by the COVID-19 pandemic in 2020 which 
+slowed down implementation. UNICEF-Lebanon experienced additional crises that had an 
+impact on its results. Nevertheless, there is some evidence that UNICEF in the three countries 
+has contributed to changes at the different levels of society, most significantly at the level of 
+children and their caregivers.  
+Conclusion 7 (based on Findings 19, 20, 21 and 22). While several prevention activities are 
+designed using evidence-based approaches, response interventions are less grounded on 
+evidence-based methods.  There are multiple reports and approaches that could be used to 
+assess progress. However, there was little evidence that UNICEF COs have capitalized on 
+these reports to inform programme implementation and monitor their effectiveness in 
+reducing violence (or the risk factors associated with violence). 
+Conclusion 8 (based on Findings 25 and 26). UNICEF is coordinating with several external 
+stakeholders through the CP Sub-Working Group coordination meetings and/or through 
+technical task forces. In addition, the COs have a strong collaboration with several NGOs 
+(especially, Lebanon) and the private sector (in particular, Egypt). Nevertheless, there are 
+unexplored opportunities to strengthen external collaboration with UN Women, WHO and the 
+private sector. Internally, UNICEF CP Sector coordinates mostly with the Education and 
+Communications for Development (C4D) Sectors and there is unused potential to do joint 
+programming with the Youth, Health and Social Protection Sectors. 
+Conclusion 9 (based on Findings 27 and 28). There are elements of sustainability in place 
+(e.g., legal frameworks, varying degrees of multi-sectoral coordination and political 
+commitment), however there are still several issues that need to be addressed in order to 
+ensure long-term sustainability (e.g., inclusion of EVAC costs in national budgets and 
+strengthening multi-sectoral coordination). Furthermore, and more importantly than a costing 
+exercise, there is a need to develop a detailed financing strategy which would present the 
+business case for EVAC and would include an assessment of the cost of inaction. None of 
+the EVAC programmes, with the exception of the 
+ Programme in Jordan, have 
+developed an articulated exit or sustainability strategy. 
+Conclusion 10 (based on Findings 30 and 31). Insufficient information is available to assess 
+the sustainability of changes in attitudes and behaviours. Without creating such deep-seated 
+changes in society as a whole and shifting social norms, the long-term sustainability of EVAC 
+intervention will not be assured. Sustainability of direct interventions varies among the three 
+countries and depends on several factors, including institutional, financial, technical and 
+human capacities, and effective case management systems. 
+Conclusion 11 (based on Findings UNICEF Jordan and Lebanon have endeavored to link 
+emergency response with a longer-term development approach, by implementing both 
+response and prevention activities and supporting systems strengthening. However, heavy 
+reliance on humanitarian funding jeopardises the sustainability, scalability and replicability of 
+interventions. 
+Conclusion 12 (based on Findings 33, 34, 35 and 36). Several UNICEF EVAC interventions 
+have integrated gender considerations in their design and implementation. However, gender

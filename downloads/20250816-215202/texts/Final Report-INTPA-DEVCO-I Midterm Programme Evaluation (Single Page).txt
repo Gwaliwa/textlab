@@ -1,0 +1,493 @@
+MIDTERM 
+EVALUATION REPORT
+MIDTERM EVALUATION 
+OF UNICEF’S PROGRAMME 
+“BUILDING ROHINGYA 
+REFUGEE AND HOST 
+COMMUNITY RESILIENCE 
+IN COX’S BAZAR”
+UNICEF Bangladesh
+March 2022 
+
+b
+Authors:
+Rahul Agrawal, Team Leader
+Mrinalini Mazumdar, Co Team Leader and Gender Expert
+Siya R, Researcher
+Insha Fatima, Researcher, 
+on behalf of NR Management Consultants India Pvt. Ltd. (A subsidiary 
+of Intellecap Advisory Services), 55, Bhawani Kunj, Behind Sector D-2, 
+Vasant Kunj, New Delhi- 110070, India
+
+MIDTERM 
+EVALUATION REPORT
+UNICEF Bangladesh
+March 2022 
+MIDTERM EVALUATION 
+OF UNICEF’S PROGRAMME 
+“BUILDING ROHINGYA 
+REFUGEE AND HOST 
+COMMUNITY RESILIENCE 
+IN COX’S BAZAR”
+
+Midterm Evaluation of UNICEF’s Programme “Building Rohingya Refugee 
+and Host Community Resilience in Cox’s Bazar”
+© UNICEF Bangladesh Country Office
+UNICEF House, Plot E-30
+Syed Mahbub Morshed Avenue, Sher-e-Bangla Nagar
+Dhaka 1207, Bangladesh
+March 2022
+This evaluation report was prepared by Rahul Agrawal, Mrinalini Mazumdar, Siya R and Insha 
+Fatima representing NR Management Consultants (NRMC) India Private Limited India. Andrea 
+Parks of SPEAR Section, UNICEF Bangladesh, managed and led the overall evaluation process 
+in close collaboration with Nasra Islan and Alison Hawes of UNICEF Bangladesh, Cox’s Bazar 
+and Tom Pellens of UNICEF Regional Office for South Asia.
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Office is to fulfil 
+a corporate commitment to transparency through the publication of all completed evaluations. The 
+reports are designed to stimulate a free exchange of ideas among those interested in the topic 
+and to assure those supporting the work of UNICEF that it rigorously examines its strategies, 
+results, and overall effectiveness.
+The contents of the report do not necessarily reflect the priorities or views of UNICEF.
+The text has not been edited to official publication standards and UNICEF accepts no 
+responsibility for error. The designations in this publication do not imply an opinion on the legal 
+status of any country or territory, or of its authorities, or the delimitation of frontiers.
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required 
+to reprint/reproduce/photocopy or in any other way to cite or quote from this report in written 
+form. UNICEF has a formal permission policy that requires a written request to be submitted. For 
+non-commercial uses, the permission will normally be granted free of charge. Please write to the 
+SPEAR Section at the address below to initiate a permission request. 
+Attribution: Please cite the work as follows: UNICEF. 2022. “Midterm Evaluation of UNICEF’s 
+Programme ‘Building Rohingya Refugee and Host Community Resilience in Cox’s Bazar’.” 
+UNICEF SPEAR Section, Bangladesh.
+For further information or a permission request, please contact:
+Social Policy, Evaluation, Analytics & Research (SPEAR) Section, UNICEF Bangladesh
+UNICEF House, Plot E-30, Syed Mahbub Morshed Avenue 
+Sher-e-Bangla Nagar, Dhaka 1207, Bangladesh
+Telephone: +880 255668088; 
+Email: mwoldegorgis@unicef.org
+Website: www.unicef.org.bd
+
+Midterm Evaluation of UNICEF’s Programme 
+“Building Rohingya Refugee and Host Community Resilience in Cox’s Bazar”
+3
+ACKNOWLEDGEMENTS
+The NRMC evaluation team wishes to acknowledge the guidance, support, and cooperation received 
+from all the participants in the evaluation. 
+NRMC takes this opportunity to extend sincere thanks to the distinguished Government officials at the 
+Ministries, provincial level and district level for their time and precious inputs. A special thanks to the Mr. 
+Tapan Kumar Roy (UAO), Mr. Maidul Islam, Shah Md. Imtiaz, Abdur Rehman and Tawhidul Islam (UNS) 
+for their support in the field.
+The NRMC Evaluation Team expresses its gratitude to Andrea Parks and Nasra Islan from UNICEF for 
+their valuable suggestions and guidance for the evaluation. We would also like to thank the staff of all the 
+implementing partners (BRAC, NGO Forum, Save the Children, JFC, VERC, ACLAB) who kindly took the 
+time to meet us and give us their views on the programme in Bangladesh.
+NRMC wishes to sincerely acknowledge the support and guidance received from the staff of the UNICEF 
+Bangladesh Country Office, including the Cox’s Bazar Field Office, for assisting with the planning of and 
+facilitating the evaluation mission, and for supplying documentation.
+We are grateful to the team from DMA for their partnership with the NRMC evaluation team throughout 
+the period of evaluation, particularly for their untiring efforts for data collection.
+Last but not the least, the evaluation team wishes to acknowledge the cooperation received from all 
+informants, including community members from camp 7 and 15, Pekua and Teknaf, along with all the 
+social workers and volunteers during the primary survey.
+From the Evaluation Team 
+Rahul Agrawal, Team Leader
+Mrinalini Mazumdar, Co Team Leader and Gender Expert
+Siya R, Researcher
+Insha Fatima, Researcher
+
+Midterm 
+Evaluation Report
+4
+ACKNOWLEDGEMENTS.............................................................................................................................3
+TABLE OF CONTENTS................................................................................................................................4
+LIST OF TABLES.........................................................................................................................................6
+LIST OF FIGURES.......................................................................................................................................6
+ACRONYMS AND ABBREVIATIONS..........................................................................................................7
+EXECUTIVE SUMMARY............................................................................................................................11
+1.	
+INTRODUCTION...............................................................................................................................16
+1.1.	 Context and Background of the Evaluation.............................................................................16
+1.1.1.	
+Socio-economic, Political and Demographic Context.................................................16
+1.1.2.	
+Sectoral Issues, Challenges, and Needs....................................................................17
+1.1.3.	
+Vulnerabilities and Risks.............................................................................................21
+1.1.4.	
+COVID-19 Situations and Vulnerabilities....................................................................22
+2.	
+OBJECT OF THE EVALUATION......................................................................................................25
+2.1.	 The Scale and Complexity of the Object.................................................................................25
+2.1.1.	
+Geographic Location...................................................................................................25
+2.1.2.	
+Timeline......................................................................................................................25
+2.1.3.	
+Budget and Expenditure.............................................................................................26
+2.1.4.	
+Implementation Status................................................................................................28
+2.2.	 Logical Model and the Result Chain........................................................................................29
+2.2.1.	
+Purpose and Goal of the Object.................................................................................29
+2.2.2.	
+Results Framework.....................................................................................................30
+2.2.3.	
+Theory of Change.......................................................................................................30
+2.2.4.	
+Stakeholders intended to be benefitted/ Influenced....................................................30
+3.	
+EVALUATION PURPOSE, OBJECTIVES AND INTENDED USE....................................................32
+3.1.	 Evaluation Purpose and Objectives.........................................................................................32
+3.2.	 Evaluation Scope.....................................................................................................................33
+3.3.	 Intended Users and Use of the Evaluation..............................................................................33
+TABLE OF CONTENTS
+
+Midterm Evaluation of UNICEF’s Programme 
+“Building Rohingya Refugee and Host Community Resilience in Cox’s Bazar”
+5
+4.	
+EVALUATION METHODOLOGY......................................................................................................35
+4.1.	 Evaluation Criteria and Framework.........................................................................................35
+4.2.	 Evaluation Design and Methods..............................................................................................38
+4.2.1.	
+Data Collection Methods and Tools............................................................................41
+4.2.2.	
+Data Analysis Methods and Tools...............................................................................41
+4.3.	 Sampling Strategy...................................................................................................................43
+4.4.	 Target Groups, Gender and Equity Dimensions of the Evaluation..........................................47
+4.5.	 Ethical Issues and Considerations..........................................................................................50
+4.6.	 Limitations and Constraints.....................................................................................................51
+5.	
+MAIN EVALUATION FINDINGS.......................................................................................................52
+5.1.	 Relevance................................................................................................................................52
+5.2.	 Coherence...............................................................................................................................56
+5.3.	 Coverage.................................................................................................................................60
+5.4.	 Efficiency.................................................................................................................................62
+5.5.	 Effectiveness...........................................................................................................................65
+5.6.	 Gender and Human Rights......................................................................................................79
+5.7.	 Impact......................................................................................................................................83
+5.8.	 Connectedness and Sustainability..........................................................................................86
+6.	
+CONCLUSIONS................................................................................................................................93
+6.1.	 Relevance................................................................................................................................93
+6.2.	 Coherence...............................................................................................................................93
+6.3.	 Coverage.................................................................................................................................94
+6.4.	 Quality and fidelity...................................................................................................................94
+6.5.	 Efficiency.................................................................................................................................95
+6.6.	 Effectiveness...........................................................................................................................96
+6.7.	 Gender and Human Rights......................................................................................................96
+6.8.	 Impact......................................................................................................................................97
+6.9.	 Connectedness and Sustainability..........................................................................................97
+
+Midterm 
+Evaluation Report
+6
+7.	
+LESSONS LEARNED.......................................................................................................................98
+8.	
+RECOMMENDATIONS...................................................................................................................100
+9.	
+LIST OF ANNEXURES...................................................................................................................107
+Annexure 1: 	
+ToR..................................................................................................................................107
+Annexure 2: 	
+Evaluation matrix.............................................................................................................122
+Annexure 3: 	
+Log frames......................................................................................................................132
+Annexure 4: 	
+ToC (Theory of Change), retrospective...........................................................................138
+Annexure 5: 	
+List of Documentary Evidence........................................................................................139
+Annexure 6: 	
+List of Evaluation Participants.........................................................................................143
+Annexure 7: 	
+Data Collection Tools......................................................................................................144
+Annexure 8: 	
+Evaluation team structure and capacities.......................................................................245
+Annexure 9: 	
+Key Stakeholders and their role of the programme.........................................................263
+Annexure 10: 	 Summary of the implementation status of the programme.............................................267
+Annexure 11: 	 Ethical Issues, Considerations, and Approvals...............................................................268
+Annexure 12: 	 List of Sites Visited for the Data collection......................................................................273
+Annexure 13: 	 Comparison of programme achievements with the target...............................................274
+LIST OF TABLES
+Table 1: 	
+The main evaluation questions under the evaluation criteria..................................................37
+Table 2: 	
+Mapping areas of information with respondent categories......................................................39
+Table 3: 	
+Rationale for estimation of sample size...................................................................................44
+Table 4: 	
+Sample size distribution- Quantitative.....................................................................................44
+Table 5: 	
+Focus Group Discussions across respondent categories.......................................................46
+Table 6: 	
+KIIs across respondent categories..........................................................................................46
+Table 7: 	
+Recommendations:................................................................................................................101
+LIST OF FIGURES
+Figure 1: 	
+Summary of Evaluation design................................................................................................39
+
+Midterm Evaluation of UNICEF’s Programme 
+“Building Rohingya Refugee and Host Community Resilience in Cox’s Bazar”
+7
+ACRONYMS AND ABBREVIATIONS
+ 
+AB
+Aparajeo Bangladesh
+ACLAB
+Alliance for Cooperation and Legal Aid Bangladesh
+ARLC
+adolescent radio listeners’ club
+ASER
+Annual Education Status Report
+BDHS
+Bangladesh Demographic and Health Survey
+BDT
+Bangladesh taka
+BITA
+Bangladesh Institute of Theatre Arts 
+BRAC
+Bangladesh Rural Advancement Committee 
+C4D
+Communication for Development
+CAPI
+Computer Assisted Personal Interviews
+CATS
+Community Approaches to Total Sanitation
+CBCPC
+Community Based Child Protection Committees
+CBNP
+Community-Based Nutrition Programme
+CFS
+Child Friendly Spaces
+CCC-PLTH
+Clean Camp Campaign-People-Led Total Hygiene
+CLTS
+Community-led Total Sanitation
+CMAM
+Community-based Management of Acute Malnutrition
+CODEC
+Community Development Centre
+COVID - 19
+Coronavirus Disease 2019
+CPC
+Child Protection Committee
+CRC
+Rights of the Child 
+CRRF
+Comprehensive Refugee Response Framework
+CSO
+Central Statistics Office
+CWW
+Concern Worldwide
+DAE
+Department of Agricultural Extension
+DAM
+Dhaka Ahsania Mission
+DIO
+District Information Office
+DMA
+Data Management Aid
+DPEO
+District Primary Education Office
+DPHE
+Department of Public Health Engineering
+DRR
+Disaster Risk Reduction
+DSK
+Dushthya Shashthya Kendra
+
+Midterm 
+Evaluation Report
+8
+DSS
+Department of Social Services
+ECD
+Early Childhood Development
+EPRP
+Emergency Preparedness and Response Plan
+EQ
+Evaluation Question
+EU
+European Union
+FAO
+Food and Agriculture Organization
+FGD
+Focus Group Discussion
+FLW
+Front Line Worker
+FNS
+Food security and nutrition
+FSM
+Faecal Sludge Management
+GAM
+Global Acute Malnutrition
+GBV
+Gender Based Violence
+GEEW
+Gender Equality and the Empowerment of Women
+GEF-IEO
+Global Environment Facility- Independent Evaluation Office
+GEROS
+Global Evaluation Reports Oversight System 
+GIEP
+Guidelines for Informal Education Programming 
+GoB
+Government of Bangladesh
+HC
+Host Community
+HH
+Household
+ICS
+Improved Cooking Stoves 
+IDI
+In Depth Interview
+IFA
+Iron and Folic Acid
+IFC
+Information and Feedback Centre
+IHE
+Institute of Health Economics 
+INGOS
+International non-governmental organizations
+IOM
+International Organization for Migration
+IRB
+Institutional Review Board
+ISCG
+Inter-Sector Coordination Group
+IYCF
+Infant and Young Child Feeding
+JMSNA
+Joint Multisector Needs assessment 
+JRP
+Joint Response Plan
+KABP
+Knowledge, Attitudes, Practices, and Behaviours
+KII
+Key Informant Interview
+LC
+Learning Centre
+
+Midterm Evaluation of UNICEF’s Programme 
+“Building Rohingya Refugee and Host Community Resilience in Cox’s Bazar”
+9
+LCFA
+learning Competency Framework and Approach
+LMA
+Lactating Mothers Allowance
+LW
+Lactating Women
+MA
+Maternity Allowance 
+MHM
+Menstrual Hygiene Management
+MIP
+Multi-Annual Indicative Programme 
+MIS
+Management Information System
+MoA
+Ministry of Agriculture 
+MoHFW
+Ministry of Health and Family Welfare 
+MoWCA
+Ministry of Women and Children Affairs 
+MPC
+Multipurpose centre
+MSG
+Mother support group
+MSNA
+The Joint Multisector Needs Assessment
+MUAC
+Mid-upper arm circumference
+NGO
+Non-Governmental Organisation
+NNS
+National Nutrition Services
+NPAN2
+Second National Plan of Action for Nutrition
+NRMC
+NR Management Consultants
+NSSS
+National Social Security Strategy
+NVAC
+National Vitamin A Campaign
+NYD
+New York Declaration on Refugees and Migrants 
+ODF
+Open Defecation Free
+OECD - DAC
+The Organisation for Economic Co-operation and Development - Development 
+Assistance Committee Criteria
+PIC
+Programme Implementation Committee
+PLW
+pregnant or lactating Women
+PSEA
+Protection from sexual exploitation and abuse
+PSS
+Psychosocial support 
+PWD
+Pearson With Disability
+R2R
+Room to Read 
+RANAS
+Risks, Attitudes, Norms, Abilities and Self-Regulation
+REVA
+The Refugee Emergency Vulnerable Assessment
+RFP
+Request for Proposal
+RRRC
+The Refugee Relief and Repatriation Commissioner
+SAM
+Severe Acute Malnutrition
+
+Midterm 
+Evaluation Report
+10
+SARPV
+Social Assistance and Rehabilitation for the Physically Vulnerable
+SCOPE
+Support for Cash Operation
+SHED
+Society for Health Extension and Development
+SMART
+Standardized Monitoring and Assessment of Relief and Transitions
+SMC
+School Management Committee
+SPEAR
+Social Policy, Evaluation, Analytics and Research
+TLC
+Teacher Learning Circle
+ToC
+Theory of Change
+TV
+Television
+UN
+United Nations
+UNEG
+United Nations Evaluation Group 
+UNFPA
+United Nations Population Fund
+UNHCR
+United Nations High Commissioner for Refugees
+UNICEF
+United Nations Children’s Fund
+UNICEF BCO
+UNICEF Bangladesh Country Office 
+UN-SWAP
+UN system-wide Action Plan
+USAID
+United States Agency for International Development
+VERC
+Village Education Resource Centre
+VGD
+Vulnerable Group Development
+WASH
+Water, Sanitation and Hygiene
+WHO
+World Health Organisation
+WFP
+World Food Programme

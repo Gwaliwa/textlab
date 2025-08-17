@@ -1,0 +1,627 @@
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation of the Human Capital Pillar of 
+The Kosovo National Development Strategy 
+(2016-2021) 
+ 
+Commissioned by:  
+The Strategic Planning Office (SPO)  
+of the Office of the Prime Minister (OPM) and 
+UNICEF  
+ 
+ 
+ 
+ 
+Evaluation Report 
+ 
+ 
+ 
+ 
+Terrence Jantzi and Fiona Kelmendi  
+ 
+ 
+
+i 
+ 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY ........................................................................ V 
+1.0 
+INTRODUCTION ............................................................................ 1 
+CONTEXT DESCRIPTION ............................................................................................................................... 1 
+SUBJECT OF THE EVALUATION: NDS 2016-2021 - HUMAN CAPITAL PILLAR ............................................... 4 
+2.0 
+EVALUATION FEATURES ............................................................. 9 
+EVALUATION PURPOSE AND OBJECTIVES .................................................................................................... 9 
+EVALUATION TOR QUESTIONS .................................................................................................................. 11 
+EVALUATION METHODOLOGY .................................................................................................................... 12 
+3.0 
+EVALUATION FINDINGS ............................................................. 14 
+OVERVIEW ................................................................................................................................................. 14 
+RELEVANCE ............................................................................................................................................... 14 
+EFFECTIVENESS AND LONG-TERM CHANGE ............................................................................................... 19 
+MEASURE AND ACTIVITY PERFORMANCE .......................................................................................... 19 
+NATIONAL CONTRIBUTIONS ............................................................................................................. 25 
+EFFICIENCY............................................................................................................................................... 27 
+SUSTAINABILITY AND SYNERGIES .............................................................................................................. 28 
+SUSTAINABILITY OF THE RESULTS OF THE HC1 ................................................................................ 28 
+SUSTAINABILITY OF THE NDS HC1 AS A POLICY ............................................................................... 29 
+4.0 
+CONCLUSIONS ............................................................................ 33 
+SUMMARY ................................................................................................................................................. 33 
+LESSONS LEARNED ................................................................................................................................... 34 
+5.0 
+RECOMMENDATIONS ................................................................. 35 
+6.0 
+ANNEXES ................................................................................... 40 
+ANNEX 1: TERMS OF REFERENCE .............................................................................................................. 40 
+ANNEX 2: BIBLIOGRAPHY.......................................................................................................................... 53 
+ANNEX 3: KOSOVO NDS SUMMARY........................................................................................................... 58 
+ANNEX 4:  NDS ACTIVITY ACHIEVEMENTS ................................................................................................ 66 
+ANNEX 5: EVALUATION MATRIX ............................................................................................................... 83 
+ANNEX 6:  METHODOLOGY ....................................................................................................................... 90 
+ANNEX 7: DATA COLLECTION TOOLS ....................................................................................................... 103 
+ANNEX 8: STAKEHOLDER ANALYSIS ......................................................................................................... 118 
+ANNEX 9: PERSONS INTERVIEWED .......................................................................................................... 120 
+ANNEX 10: EVALUATION REFERENCE GROUP .......................................................................................... 122 
+ANNEX 11: YOUTH VOLUNTEERS TERMS OF REFERENCE .......................................................................... 123 
+ 
+ 
+ 
+
+ 
+ 
+ii 
+LIST OF TABLES  
+TABLE 1: KOSOVO OVERVIEW KEY STATISTICS ................................................................................................ 2 
+TABLE 2:  NDS COSTING PER PILLAR (EUROS) ................................................................................................ 5 
+TABLE 3:  NDS MACRO-INDICATORS PERFORMANCE ...................................................................................... 6 
+TABLE 4: HUMAN CAPITAL PILLAR MEASURES .................................................................................................7 
+TABLE 5:  IMPORTANT MILESTONES IN NDS 2016-2021 ................................................................................. 8 
+TABLE 6: TOR SUB-QUESTIONS BY DIMENSION ............................................................................................. 11 
+TABLE 7:  LEARNING WORKSHOPS SUMMARY ................................................................................................. 12 
+TABLE 8:  NDS HC1 GAPS WITHIN AND AMONG MEASURES ............................................................................ 15 
+TABLE 9:  NDS HC1 ACTIVITIES - KEY PERFORMANCE INDICATORS PROGRESS ............................................. 20 
+TABLE 10:  NDS HC1 MEASURES - OUTCOME INDICATOR PROGRESS ............................................................ 24 
+TABLE 11:  NDS IMPACT - MACRO INDICATORS PROGRESS ............................................................................ 26 
+TABLE 12:  ACHIEVEMENT RATING BY TYPE OF ACTIVITY ................................................................................ 66 
+TABLE 13:  RECOMMENDATIONS .................................................................................................................... 36 
+ 
+ 
+ 
+
+ 
+ 
+iii
+LIST OF ACRONYMS 
+ADAP 
+Adolescents Development and Participation Program 
+AI 
+Administrative Instruction  
+CP 
+Child Protection 
+CRC 
+Convention on Child Rights  
+CRM 
+Child Rights Monitoring 
+CRPD 
+Committee on the Rights of the Persons with Disabilities 
+CSO 
+Civil Society Organization 
+ECARO 
+Europe and Central Asia Regional Office 
+ECD 
+Early Childhood Development 
+EM 
+Evaluation Manager 
+EMIS 
+Education Management Information System 
+ERA 
+European Reform Agenda 
+ERG 
+Evaluation Reference Group  
+ET 
+Evaluation Team 
+EU 
+European Union 
+FDI 
+Foreign Direct Investment  
+FDMC 
+Forum for Development and Multi-ethnic Collaboration 
+GDP 
+Gross Domestic Product 
+GFCF 
+Gross Fixed Capital Formation 
+HC 
+Human Capital  
+HCI 
+Human Capital Index 
+HDI 
+Human Development Index 
+HEMIS 
+Higher Education Management Information System 
+HEP 
+Homeland Engagement Programme   
+IM 
+Inception Mission 
+IR 
+Inception Report 
+KAS 
+Kosovo Agency of Statistics 
+KEC 
+Kosovo Education Centre 
+KII 
+Key Informant Interview 
+KPI 
+Key Performance Indicator 
+LFS 
+Labour Force Survey 
+LI 
+Labour Inspectorate  
+M&E 
+Monitoring & Evaluation 
+MDIAS 
+Ministry of the Diaspora 
+MEST 
+Ministry of Education Science and Technology 
+MICS 
+Multiple Indicator Cluster Survey 
+MLSW 
+Ministry of Labour and Social Welfare 
+MOF 
+Ministry of Finance 
+MOFA 
+Ministry of Foreign Affairs  
+MOH 
+Ministry of Health 
+MOI 
+Ministry of Interior 
+MOJ 
+Ministry of Justice 
+MPSM 
+Ministry of Public Safety and Management 
+MTEF 
+Medium Term Expenditure Framework 
+MYCS 
+Ministry of Youth, Culture, and Sport 
+NGO 
+Nongovernment Organization 
+NDS 
+National Development Strategy 
+OGG 
+Office of Good Governance 
+OPM 
+Office of the Prime Minister 
+OSCE 
+Organisation for Security and Cooperation in Europe 
+PISA 
+Programme for International Student Assessment 
+PRIS 
+Judicial Information System 
+RBM 
+Results Based Management 
+SAA 
+Stabilization Association Agreement 
+
+ 
+ 
+iv
+SADD 
+Sex and Age Disaggregated Data 
+SDGs 
+Sustainable Development Goals  
+SEC 
+Socio Economic Council 
+SPO 
+Strategic Planning Office 
+TOC 
+Theory of Change 
+TPD 
+Teacher Professional Development 
+TPE 
+Teacher Performance Evaluation 
+UN 
+United Nations 
+UNDP 
+United Nations Development Programme 
+UNHCR 
+United Nations High Commissioner for Refugees  
+UNICEF 
+United Nations Children’s Fund 
+VET 
+Vocational Education and Training 
+VTC 
+Vocational Training Centres 
+ 
+ 
+
+v 
+ 
+EXECUTIVE SUMMARY 
+1. This Evaluation Report is for the end of cycle evaluation of the Human Capital1 Pillar of the 
+Kosovo National Development Strategy 2016-2021 (NDS HC1).   This evaluation is 
+commissioned by the Strategic Planning Office (SPO) within the Office of the Prime Minister 
+(OPM) of Kosovo and supported by UNICEF Kosovo and will cover the period from 2016-
+2021.  The timing of this evaluation aims to inform the Kosovo Institutions and the Office of 
+the Prime Minister, and other stakeholders on the progress of the NDS HC1, lessons learned 
+and to present recommendations for informing the design and development of the next cycle 
+of the NDS (2022-2030) HC1. 
+2. The expected users for this evaluation are the SPO/OPM, Kosovo government and other 
+partners, notably related to adjustments in NDS Human Capital Pillar implementation 
+and/or design, and to support discussions with stakeholders regarding the elaboration of the 
+next NDS for Kosovo. The evaluation will also serve to inform the Kosovo Government and 
+an array of Ministries, Departments and Offices, the United Nations Agencies, donors, and 
+CSOs on the lessons learned from the NDS HC1 and to present recommendations for future 
+NDS based on the essential findings.   
+National Development Strategy 
+3. The Kosovo Government developed its first NDS, which serves as a strategic document for all 
+planning in Kosovo, in 2016. The NDS aimed to develop a list of priorities under an umbrella 
+strategy which would allow building synergies between initiatives, prevent institutional 
+overlap, and yield higher performance efficiency, orientation of support of the development 
+partners, and establish a basis for public accountability.  The NDS is organized across four 
+thematic pillars:  human capital, good governance, industrial development, and 
+infrastructural development.  As a supplement to the NDS, the NDS roadmap, prepared in 
+2017, outlined a more detailed implementation plan which included costing, as well as 
+implementation and activity indicators. 
+4. The Human Capital Pillar, the focus of this evaluation, places a strong emphasis on measures 
+seeking to strengthen the education system and to strengthen its connection and 
+applicability to the labour market and the economy.  These are articulated through seven 
+distinct measures and 32 associated activities.  The pillar is oriented around the promotion, 
+creation, and sustaining of a productive, skilled, and innovative labour force.  The underlying 
+logic is that this is a determining factor for successful national development.  This is 
+predicated on assumptions that as the labour force acquires higher skills, there will be a 
+subsequent increase in incomes and a general improvement in the economy.  Skills are not 
+only defined as technical skills, but also include cognitive skills, such as logic and reasoning, 
+as well as ‘soft’ skills such as interpersonal skills or values.  Building these skills is seen as 
+heavily linked to the education system and the quality of education provided pre-workforce 
+entry, although labour market skill increases may also come from migration to other settings 
+and subsequent ‘brain gain’ from diaspora returnees. 
+5. The leading stakeholders involved in the implementation of the NDS Human Capital Pillar 
+involve three key Ministries as well as a range of supporting institutions.  The key Ministries 
+were the Ministry of Education, Science, and Technology and the Ministry of Labour and 
+Social Welfare, and the Ministry of Diaspora.2   
+ 
+1 For the purposes of this evaluation, Human Capital is defined to be the collection of skills, knowledge and experience in a 
+population and is viewed in terms of its contribution and value to Kosovo economic development. 
+2 These ministries have been restructured in 2020 as part of an overall ministerial reform.  The titles here refer to the titles as of 
+the time of design. 
+
+ 
+ 
+vi
+Methodology 
+6. The evaluation used a mixed-methods approach, drawing on pre-existing documentation, 
+pre-existing quantitative data, and combined with qualitative interviews with key 
+stakeholders.  In total, 56 persons (65 percent women) were interviewed during the 
+evaluation representing a mix of government, UN, donors, and civil society members.  In 
+addition, more than 100 documents were reviewed that were made available from the SPO 
+and respective ministries.     
+7. The evaluation team was composed of two evaluators. The evaluation team was also 
+shadowed by six student volunteers to amplify youth participation and as capacity building 
+for the youth. The student volunteers participated in the virtual interviews, supporting the 
+evaluation team (ET) with notetaking in the data analysis and writing up their impressions 
+and thoughts on UNICEF's programme and evaluation process.  The youth volunteers also 
+participated in the debriefing sessions and data analysis exercises and helped build the 
+conclusions and recommendations for the evaluation. 
+8. The evaluation approach had to be adjusted to account for the COVID-19 pandemic and the 
+subsequent travel restrictions. These restrictions meant that the evaluation shifted to a fully 
+remote approach in which all the interviews were carried out through virtual platforms. 
+Three in-person learning workshops were carried out during the inception phase and initial 
+data collection phase including an initial training on the principles of evaluation and 
+application for government with the SPO, a presentation of preliminary findings and 
+recommendations to a workshop with representatives from the OPM, and a presentation to 
+the Evaluation Reference Group (ERG).   
+Findings 
+9. Relevance:  The NDS HC1 design process was rigorous, and evidence based.  The priorities 
+identified in the NDS HC1 are relevant, although perhaps not sufficient to cover all 
+development needs.  The NDS HC1 has the potential to serve as an important medium-term 
+instrument between mandates and could provide an important mechanism for orienting 
+towards external frameworks such as the SDGs and the EU ascension agenda (termed the 
+Programme for the Implementation of the Stabilization and Association Agreement (SAA)).   
+10. In terms of challenges, the activities, and measures in the NDS HC1 focus almost exclusively 
+on economic growth aspirations through strengthening education and enhancing 
+employability.  Other wellbeing considerations such as health, culture, or social cohesion are 
+not present.  Finally, the strong economic growth orientation of the NDS HC1 limits the 
+degree to which transversal equity themes are able to be considered and as such, gender and 
+access considerations are not strongly visible in the NDS HC1 and this is a critical gap. 
+11. Effectiveness:  There has been some progress made against the measures and activities, 
+but there has been lower rollout than anticipated as per the targets set.  Out of the 101 KPIs, 
+23 have made good progress or were completed, 30 have made some progress while 48 were 
+rated as having limited or no progress yet.  The measures and activities that have the highest 
+rates of success are those which were resourced by donor support. 
+12. The implementation rate of the measures that attracted substantial donor funded projects 
+was higher than for those that relied more broadly on government funding for three reasons.  
+First, the donor funded projects tended to have standalone planning processes including the 
+development of targets, the definition of specific responsibilities for implementation, and the 
+development of a structured timeline for implementation.  Second, the donor funded 
+projects within the measures used a specific resourcing framework with the funds for the 
+project activities allocated and earmarked for specific use even if conveyed through the 
+
+ 
+ 
+vii 
+government.  Finally, reporting processes were regular, focused specifically on the outlined 
+project activities with factors provides for any delays in implementation.     
+13. The macro-level economic indicators have improved modestly since 2016, but the NDS HC1 
+contributions to these gains is likely to have been minimal due to the relatively low 
+completion rates of activities and the fact that there are declines in the outcome level 
+indicators related to the respective measures.  If almost half of all KPIs are reported as 
+having had no progress and if the indicators at Measure-level that do exist for the NDS HC1 
+tend to show declines from 2015 even as the macro-level indicators show gains, then it is 
+reasonable to assume that modest macro-level progress is being supported from other 
+sources than NDS HC1 activities per se.  
+14. Efficiency:  It is not currently possible to answer the TOR evaluation question on how the 
+financial resources were used for the NDS HC1 implementation because of the structure of 
+the budgeting and resource allocation process.  The NDS HC1 action plan in 2017 did 
+develop a costing estimate disaggregated to the level of activities including a description of 
+which percentage of costs would come from government of Kosovo and which percentage of 
+costs would come from donor contributions.  However, the way that financial resources are 
+recorded in the Ministerial reporting does not identify resourcing allocations by NDS HC1 
+activity.  Sectoral workplans disaggregate by other dimensions.   
+15. Based on the available evidence, the allocations to NDS HC1 activities were not 
+commensurate with the costing estimates in the NDS HC1 action plan and NDS activities 
+tended to not receive priority during budgeting.  The NDS HC1 measures were not 
+harmonized enough with budgetary allocations linked with budget law and ministries were 
+not under obligation to allocate funding per the NDS HC1 activities even though this was 
+requested from the SPO.  While some of the ministerial budgets were connected to the NDS 
+HC1 activities, there was no internal requirement in government for the NDS HC1 identified 
+activities to receive priority in funding.  As a consequence, NDS HC1 activity progress is 
+highly aligned with voluntary commitments – especially donor commitments.   
+16. Sustainability:  within the frame of a policy evaluation focuses on two dimensions:  1) To 
+what degree can the NDS HC1 itself be sustained within the processes and frameworks of 
+government? And 2) to what degree can the results that were achieved in the past NDS cycle 
+be sustained going forward.   
+17. For the first component, sustainability would involve the degree to which the NDS HC1 is 
+integrated with external and internal frameworks (synergies), including the degree to which 
+the NDS HC1 is aligned with, and integrated into, existing government processes and 
+mechanisms.   Compared to the 2018 mid-term review, the NDS HC1 performance through 
+the second half of the cycle has declined slightly in the subsequent years.  This is because the 
+NDS HC1 is not well integrated into other government processes which reduces the degree of 
+prominence that the NDS HC1 have in shaping policy, strategies, and implementation of 
+government workplans and orienting government priorities.  Government turnover has 
+increased during the NDS period as well with four different Governments taking power since 
+the inception of the NDS.    
+18. The second component considers the degree to which the results of the NDS can be 
+sustained.  Sustainability of results in the case of the NDS HC1 would involve three levels:  i) 
+whether there is a sufficient legal or regulatory framework in place; ii) whether there are 
+sufficient systems, processes, or assets developed; and iii) whether there is sufficient human 
+technical capacity development related to the systems, processes, or assets including both 
+contracting and training human resources.   
+19. For the NDS HC1 overall, achievement rates at any level have been relatively low.  Over the 
+entire NDS HC1 activities, 28 percent of the listed level 1 activities (laws and regulations) 
+
+ 
+ 
+viii
+were achieved.  Level 2 activities had a similar achievement rate (24% achieved or good 
+progress) related to establishing centres or building infrastructure or systems.  The lowest 
+achievement rates were related to those activities connected to trainings or contracting 
+people (15%).  This is triangulated from stakeholder observations in interviews.   
+20. The implications for sustainability of the results is that the results of the NDS HC1 are not 
+likely to be able to be sustained.  The most gains have been in the foundations established by 
+the creation of the necessary draft laws and regulations and the beginning of the 
+establishment of systems and assets accompanying the measures.  However, there remains 
+more to be done in terms of training and contracting the people – to build the requisite 
+technical capacity – to manage the assets or implement the laws.     
+Conclusions and Recommendations 
+21. Based on the patterns in the findings, a few key observations stand out as important 
+regarding the first NDS HC1 for Kosovo and implications for the next design process. 
+22. Build on the achievements of the existing NDS HC1.  Although slower than 
+anticipated, there has been progress towards a number of the current NDS HC1 measures 
+and activities.  A new NDS HC1 should include a review of progress milestones to date in the 
+respective measures including an overview of the state of progress towards each measure.    
+23. Reframe the NDS HC1 towards a more strategic, human development 
+orientation.  This includes restructuring the NDS HC1 architecture towards a ‘strategy of 
+strategies’ rather than a prioritization of priorities.  Reorienting the NDS HC1 towards 
+human development rather than exclusively on human capital.  Because a national 
+development strategy should involve all aspects that connect to quality of life for citizens, the 
+strategy should encompass more than economic growth.  The NDS HC1 should maintain a 
+multi-year scope for bridging mandates and should continue to be aligned with the 2030 
+agendas of the EU and the SDGs.  The strategy should integrate transversal priorities of 
+gender, equity, access, and environmental sustainability more visibly across all pillars 
+measures and activities. 
+24. Integrate the NDS HC1 more closely into existing government systems.  This 
+includes ensuring the integration of the NDS HC1 sectoral strategies and workplans through 
+a stronger cross-check mechanism.  Establishing Administrative Instructions for the Budget 
+Department of the Ministry of Finance, Labour, and Transfers (MFLT) on NDS HC1 costing 
+opinions and resource prioritization and revising the budget law for clarifying roles and 
+responsibilities in ministry budget departments.  Finally, consider establishing 
+Administrative Instructions from the Ministry of Local Government to Municipalities for 
+prioritizing budgeting for NDS HC1 activities at the municipality level.     
+25. Increase the mechanisms for accountability and reporting against the NDS HC1.  
+This includes developing systems for tracking progress against the NDS HC1 activities 
+including reporting on the completion of NDS HC1 activities in Ministry workplans.  Develop 
+monitoring and reporting templates that disaggregate achievements and expenditures by 
+NDS HC1 measures and activities which should be shared with the OPM and Assembly 
+annually.  Increase the alignment of existing management data through linking databases 
+and increased sharing of data between Ministries and departments.  Increase public 
+monitoring of the NDS HC1 through publishing of raw data for public dashboards.  
+26. Systematize high level political ownership of the NDS HC1.  The NDS HC1 currently 
+is highly dependent on individual motivations which can fluctuate through government 
+transitions.  Political will for supporting the NDS HC1 should seek to be strengthened 
+through systematizing the NDS HC1 ownership including broad based political 
+representation at supervisory and management levels beyond the OPM and SPO itself.  One 
+
+ 
+ 
+ix 
+way to do this would be through the formation of an expanded NDS HC1 Steering Committee 
+comprised of a combination of OPM and Assembly representation and including civil society 
+to build increased external accountability and ownership of the NDS.  This committee would 
+have to have a mandate for annual review of the NDS HC1 progress. In addition to the legal 
+alignment cross-check mechanisms referred to earlier, this could include empowering the 
+SPO for coordinating with other government bodies responsible for the elaboration of 
+government workplans and resourcing to enforce greater attention to the integration of NDS 
+HC1 activities and measures in government resourcing, workplans, and reporting. 
+27. Recommendations:3 
+28. The following recommendations are focused on the HC1 pillar only as this is the scope of the 
+evaluation.  However, the overarching recommendations would have relevance for informing 
+the overall NDS as well. 
+Recommendation 1: NDS HC1 Measure Progress Review. The SPO/OPM should support a review process in 
+the design of the new NDS HC1 that describes existing milestones achieved in each measure and identifies which next 
+steps are required in each measure.  This could be part of a SWOT analysis for the upcoming NDS design but could 
+also be based on the data provided in this evaluation report.    
+ 
+Recommendation 2: Strategy of Strategies Architecture. The SPO/OPM should re-orient the NDS HC1 focus 
+towards emphasizing the NDS HC1 as a strategic compass to orient other sectoral strategies.   
+ 
+Recommendation 3: Sustainable Development Orientation. The SPO/OPM should re-orient the NDS HC1 
+focus not solely towards economic growth but to also include a more holistic development agenda that visibilize 
+sustainability and wellbeing elements.    
+ 
+Recommendation 4: External Frameworks Alignment. The SPO/OPM should refine the alignment of the NDS 
+HC1 with the SDGs and Implementation of the SAA frameworks through better integration and monitoring of these 
+frameworks.  The NDS HC1 could become the overarching tool for the localization of the SDGs in line with the SDG 
+Resolution.    
+ 
+Recommendation 5: Strategic Results and Action Plan. The SPO/OPM should maintain the existence of an 
+NDS HC1 Action Plan and Performance Results Framework in the new NDS HC1, but these should be aligned with the 
+strategic re-orientation of the NDS HC1 to be more a strategic compass rather than a project action plan.   
+Recommendation 6: Sectoral Planning Integration. The SPO/OPM should strengthen how the NDS HC1 is 
+integrated into the ongoing national planning system and the NDS HC1 should serve as the basis for the development 
+of sectoral strategies and workplans.    
+ 
+Recommendation 7: Sectoral Cross-check mechanism. The SPO/OPM should update the guidelines and 
+Administrative Instructions for strategy development to establish a strengthened cross-check mechanism to ensure 
+that sectoral strategies and workplans are in alignment with the NDS HC1.   
+ 
+Recommendation 8: Resourcing Integration. The SPO/OPM should establish a strengthened mechanism to 
+ensure funding of NDS HC1 activities through Ministerial budget allocation.   
+ 
+Recommendation 9: Sub-national Integration. The SPO/OPM should establish a strengthened mechanism to 
+ensure the linkages of the NDS HC1 strategies with municipal planning and resourcing.   
+Recommendation 10: Strengthened internal monitoring. The SPO/OPM should establish a strengthened 
+mechanism to ensure the systematic internal monitoring of NDS HC1 progress through mandated data collection 
+exercises related to both financial allocations and expenditures and activity progress.   
+ 
+Recommendation 11: Establish a civil society monitoring of the NDS HC1. The SPO/OPM should establish 
+a mechanism to ensure there is a public monitoring of NDS HC1 progress.   
+Recommendation 12: Political Ownership Structures. The SPO/OPM should establish a strengthened 
+mechanism to ensure there is sufficient political ownership of the NDS HC1 by including both broad-based political 
+representation from different levels in steering committees commissioned to review progress against the NDS HC1 
+and instruct follow-up when implementation delays occur.   
+ 
+ 
+3 Recommendations in the executive summary only include key headlines.  The recommendations in table 13 provide the more 
+detailed sub-recommendations as part of the overall action plan. 
+
+1 
+ 
+1.0 INTRODUCTION 
+1. This Evaluation Report (ER) is for the end of cycle evaluation of the Human Capital4 Pillar 
+(HC1) of the Kosovo National Development Strategy (NDS) 2016-2021.   This evaluation is 
+commissioned by the Strategic Planning Office (SPO) within the Office of the Prime Minister 
+(OPM) of Kosovo and supported by UNICEF Kosovo and covers the period of the NDS from 
+2016-2021.  The timing of this evaluation aims to inform the Kosovo Institutions and the 
+Office of the Prime Minister, and other stakeholders on the progress of the NDS and lessons 
+learned and to present recommendations for informing the design and development of the 
+next cycle of the NDS (2022-2030).   
+2. Inception Phase. During the inception phase (April-July 2021), the evaluation team and 
+evaluation manager (EM) gathered relevant background information on the NDS and the 
+context in which it is being implemented; as well as identified different stakeholders for 
+interviewing regarding their priority areas of learning from the evaluation; and to begin 
+making detailed plans for the data collection and analysis phases of the process. Desk review 
+of shared documentation were reviewed prior to the finalization of the Inception Report (IR).   
+3. Representatives from different stakeholder groups were consulted during the inception 
+phase, including the Strategic Planning Office (SPO) in the Office of the Prime Minister 
+(OPM) and UNICEF.5 One significant issue identified during the inception mission has been 
+that the drafting of the next NDS was already ongoing.  As a consequence, the evaluation 
+process would need to take measures, such as the sharing of preliminary findings to feed into 
+the new NDS design process, even before the evaluation exercise could be completed.  The 
+inception phase also identified the importance of a learning-focused approach in the 
+evaluation including planning for the elaboration of two workshops for capacity 
+strengthening;  one just after the inception phase for technical staff regarding general 
+evaluation principles, and one during the reporting phase to facilitate the development of 
+management response and action steps based on the NDS HC1 evaluation recommendations.  
+These are described in more detail in subsequent sections of this ER.  As part of the learning-
+focused approach, the NDS HC1 evaluation process included the participation of youth 
+volunteers who accompanied the evaluation process as part of a practicum process and for 
+professional development.  This youth-accompanied component is described in more detail 
+in section 4.2 and the Terms of Reference is included in Annex 11.   
+Context Description 
+4. Kosovo is categorized as upper middle-income with a GDP per capita in 2021 estimated at 
+US$4,312.6  According to the World Bank, Kosovo is “one of the four places in Europe that 
+have experienced economic growth since the onset of the global financial crisis in 2008.”7 
+Despite the growth trend, inequality is high, and children and youth are particularly 
+vulnerable.  With 18 percent of the population living below the poverty line, Kosovo remains 
+to be the poorest in Europe.8 Kosovo has one of the highest percentages of economically 
+inactive populations in Europe 9According to the 2020 (Third quarter) Labour Force Survey 
+(LFS), the inactive workforce in Kosovo is considerably high at 69.9 percent, with a major 
+disparity between women (85.6 percent) and men (53.8%).10 The general employment rate is 
+ 
+4 For the purposes of this evaluation, Human Capital is defined to be the collection of skills, knowledge and experience in a 
+population and is viewed in terms of its contribution and value to Kosovo economic development. 
+5 Annex 7 
+6 World Bank:  Kosovo Overview 2021. 
+7 World Bank.  2019. Kosovo.  https://www.worldbank.org/en/country/kosovo 
+8 UNICEF.  2019. Kosovo Gender Programmatic Review. 
+9 You, D. (2016).  Kosovo in its Early Demographic Dividend Stage 
+10 KAS.  2020. Labor Force Survey in Kosovo, https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/labour-force-
+survey-q3-2020>  
+
+ 
+ 
+2 
+30.1 percent with youth and women among the most disadvantageous in the market force.11 
+The non-tradable sectors dominate the economy and the jobs market followed by industry 
+(17.5% of GDP), manufacture (11% of GDP), and agriculture (8% of GDP).12 Kosovo’s 
+economic growth is also heavily reliant on remittances. The rural areas have lower economic 
+and social indicators and thus are more vulnerable than the urban areas.13 Table 1 presents 
+an overview of Kosovo’s key indicators. 
+TABLE 1: KOSOVO OVERVIEW KEY STATISTICS14 
+Population, million 
+1.8 
+GDP, current US$ billion 
+7.9 
+GDP per capita, current US$ 
+4312 
+Human Capital Index % 
+56 
+Life Expectancy at Birth, years  
+76.7 
+Survival to Age 5, % 
+99 
+5. Administratively Kosovo is divided into 38 municipalities. A strong focus of the government 
+in the last decade has been over the decentralization process as a way to improve services at 
+the local level, increase local representation and defuse ethnic tension.15 The decentralization 
+has however highlighted discrepancies in full and equitable child rights such as variable 
+quality in resourcing for educational attainment and access to health services and lack of 
+capacity at the local level to implement various reforms.16 In terms of reforms, Kosovo has 
+signed a number of key EU agreements including the EU-Kosovo Stabilization and 
+Association Agreement (SAA) in late 2015 and is implementing the European Reform 
+Agenda (ERA) since 2016 as “a useful tool to guide the implementation of EU related 
+reforms in the SAA context .”17 The 2019 EU Report on Kosovo emphasis the progress made 
+by Kosovo in aligning to EU legislation and implementing certain EU-related reforms. 
+Kosovo has shown also good regional collaboration and participation in most regional fora.  
+6. Overall public expenditure on social services has increased over time but remains relatively 
+low and insufficient to ensure universal access and coverage.  Education and health, two of 
+the significant building blocks for the development of human capital, are underfunded, and 
+this is a key reason behind the Human Capital Index (HCI) score of 56 percent.  The HCI 
+indicates that children are only reaching 56 percent of the potential they would have had 
+with complete education and full health.  This is a loss of 44 percent of their potential 
+earnings because governments are not currently making effective investments in their people 
+to ensure a healthy, educated, and resilient population ready for the workplace of the 
+future.18 
+7. Currently, social services in Kosovo are decentralized at the municipality level, however, the 
+funding, as well as several services such as the services for children without parental care, 
+services for people with disabilities, and others, remain centralized at the national level. The 
+fund allocation for social services in health and education is below the EU average. The 
+spending on health is 3.8 percent of the GDP, which is significantly lower than the EU 
+average of 7.1 percent.19 Similarly, the spending on education is comparatively low at 4.1 
+ 
+11 KAS.  2020. Labor Force Survey in Kosovo < https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/labour-force-
+survey-q3-2020>  
+12World Bank.  2020. Kosovo Overview. 
+13 UNICEF2019.  Terms of Reference: Independent Evaluation of UNICEF Programme in Kosovo; Kosovo Agency of Statistics, 
+2019.  Consumption Poverty in Kosovo 2012-2017. 
+14 World Bank.  2019.  https://www.worldbank.org/en/country/kosovo 
+15 Royal Norwegian Embassy and Friedrich Ebert Stiftung.  2016. Necessity to Rethink Decentralization 
+16 UNICEF.  2019. Situation Analysis of Children and Women in Kosovo 
+17 EU.  2019 Kosovo Report, p. 1 
+18 World Bank (2020).  Kosovo Human Capital Index.  
+(https://databank.worldbank.org/data/download/hci/HCI_2pager_XKX.pdf?cid=GGH_e_hcpexternal_en_ext) 
+19 UNICEF (2019).  Situation Analysis of Children and Women in Kosovo

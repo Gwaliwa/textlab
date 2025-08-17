@@ -1,0 +1,706 @@
+QURES 
+ 
+1 
+ 
+ 
+ 
+Quality Research and Support 
+Quality for Performance
+ 
+ 
+ 
+ 
+ 
+ 
+Summative evaluation of the Quality Inclusive Education package of the “Social inclusion 
+through the provision of integrated social services at community level” modelling project in 
+Romania, 2014-2019 
+ 
+ 
+Evaluation report 
+Final version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 2021 
+
+2 
+CONTENTS 
+LIST OF ACRONYMS ............................................................................................................................................... 5 
+EXECUTIVE SUMMARY ......................................................................................................................................... 6 
+1. 
+EVALUATION BACKGROUND .................................................................................................................. 12 
+1.1. 
+Object of the evaluation ................................................................................................................................. 12 
+1.2. 
+Context of the intervention .......................................................................................................................... 14 
+1.3. 
+Theory of change (ToC) of Quality Inclusive Education Initiative (QIE) ................................... 15 
+1.4. 
+Key stakeholders and their contributions .............................................................................................. 18 
+2. 
+EVALUATION PURPOSE, OBJECTIVES AND SCOPE .......................................................................... 18 
+3. 
+EVALUATION METHODOLOGY ............................................................................................................... 20 
+3.1. 
+Overview of methods used for data collection ..................................................................................... 21 
+3.2. 
+Quantitative methods ..................................................................................................................................... 21 
+3.3. 
+Qualitative methods ........................................................................................................................................ 22 
+3.4. 
+Methodological limitations to the evaluation ....................................................................................... 23 
+3.5. 
+Ethical considerations .................................................................................................................................... 24 
+4. 
+MAIN FINDINGS – RELEVANCE ............................................................................................................... 25 
+4.1. EQ 1. Are the activities and outputs of the modelling project consistent with the overall goal 
+and its objectives? ............................................................................................................................................................ 25 
+4.2. EQ 2. To what extent has the modelling project been developed and implemented in line with 
+the key criteria for model projects? .......................................................................................................................... 29 
+4.3. EQ 3. To what extent is the modelling project relevant to national policies and programmes 
+and cross-sectoral strategies? ..................................................................................................................................... 33 
+4.4. EQ 4. Are all processes based on a child/human rights approach? Are any age and gender 
+issues considered in providing the services? ....................................................................................................... 40 
+5. 
+MAIN FINDINGS - EFFECTIVENESS ........................................................................................................ 42 
+5.1. EQ5. Did the interventions of the QIE project address the needs identified at the level of 
+children and families in the communities involved, including the most vulnerable (at high risk of 
+dropping out) children and families? ....................................................................................................................... 42 
+5.2. EQ 6. Does the model contribute to the capacity development of the schools?............................. 51 
+5.3. EQ 7. Which parts of the modelling project/QIE component are most and least effective? 
+What factors explain the success? ............................................................................................................................. 57 
+5.4. EQ8. Are there any unplanned outcomes worth considering for filling in capacity gaps and/or 
+addressing remaining bottlenecks? .......................................................................................................................... 65 
+6. 
+MAIN FINDINGS – EFFICIENCY ............................................................................................................... 66 
+6.1. EQ 9. Does the modelling project use resources in the most economical/efficient manner to 
+achieve expected results? ............................................................................................................................................. 66 
+6.2. EQ 10. What is the value added (in terms of financial value) of the modelling project?............ 69 
+6.3. EQ 11. Are the cost implications for scaling up considered? ................................................................. 70 
+7. 
+MAIN FINDINGS - SUSTAINABILITY ..................................................................................................... 72 
+7.1. EQ 12 Are the interventions modelled likely to continue when external support is 
+withdrawn? ......................................................................................................................................................................... 72 
+7.2. EQ 13. Is the modelling project replicable? Are any adjustments of the model needed for 
+replication? ......................................................................................................................................................................... 78 
+
+3 
+7.3. EQ 14. What are the lessons learned at each level of intervention that should be considered 
+for implementation and further replication of the modelling project? ..................................................... 82 
+7.4. EQ15. What recommendations could be made to UNICEF and to the GoR to replicate and 
+scale up such a model? ................................................................................................................................................... 84 
+8. 
+MAIN FINDINGS - IMPACT ....................................................................................................................... 84 
+8.1. EQ 16. What change did the modelling project determine or influence at the level of 
+beneficiaries (children and their families), communities, professionals, public administration – at 
+local, county and/or national level? ......................................................................................................................... 84 
+9. CONCLUSIONS AND RECOMMENDATIONS ........................................................................................... 103 
+10. ANNEXES ....................................................................................................................................................... 115 
+Annex 1. Terms of Reference .................................................................................................................................... 115 
+Annex 2. Evaluation Matrix ....................................................................................................................................... 131 
+ANNEX 3. Results of counterfactual analysis........................................................................................................ 148 
+Annex 4. Data collection tools .................................................................................................................................. 160 
+Annex 5. Participants in data collection activities undertaken .................................................................. 217 
+Annex 6. Survey results .............................................................................................................................................. 221 
+Annex 8. Further results of QIE ............................................................................................................................... 308 
+Annex 9. Concept of child-friendly school used ................................................................................................ 312 
+Annex 10. Documents consulted for the Evaluation Report ....................................................................... 314 
+Annex 11. Ethical review certificate ...................................................................................................................... 318 
+Annex 12. Ethical considerations ........................................................................................................................... 320 
+ 
+Table 1.Evaluation criteria and questions................................................................................................................... 20 
+Table 2. Participation of schoolchildren in extracurricular activities per school year............................. 43 
+Table 3. Teachers' perception on the existence of vulnerable female schoolchildren ............................. 46 
+Table 4. Teachers' perception on the existence of vulnerable male schoolchildren ................................. 47 
+Table 5. Participation in trainings .................................................................................................................................. 51 
+Table 6. Number of teachers enrolled in the training course .............................................................................. 53 
+Table 7. Teachers' perception on the effects / impact of participation in QIE............................................. 55 
+Table 8. The perception of teachers in preschool education regarding the training that they have 
+attended I .................................................................................................................................................................................. 56 
+Table 9. The perception of teachers in preschool education regarding the training that they have 
+attended II ................................................................................................................................................................................ 56 
+Table 10. Teachers' perception on the usefulness of the teaching materials received during the 
+training....................................................................................................................................................................................... 56 
+Table 11. Usefulness of QIE activities for teachers .................................................................................................. 64 
+Table 12. Number of mediators and school counsellors participating in the training course .............. 64 
+Table 13. QIE budget 2015-2018 per component and implementing partner ............................................ 66 
+Table 14. QIE budget 2015-2018 (without the transition elements in 2018) per component and 
+implementing partner ......................................................................................................................................................... 67 
+Table 15. QIE average budget/school/year for the four years of implementation (without the 
+transition elements in 2018) per component ............................................................................................................ 68 
+Table 16. Unit costs for rolling-out different components of QIE ..................................................................... 71 
+ 
+Figure 1. Quality Inclusive Education – illustration of the logic of interventions ............................................................ 13 
+Figure 2. Synthetic representation of the Theory of Change of the QIE ............................................................................... 17 
+Figure 3. Answers of schoolchildren participating in the survey on involvement in extracurricular activities 43 
+
+4 
+Figure 4. The answers of the schoolchildren participating in the survey regarding the attractiveness of 
+extracurricular activities ........................................................................................................................................................................... 44 
+Figure 5. Categories of vulnerable schoolchildren existing at preschool level and identified by educators ....... 47 
+Figure 6. EIC activities that parents consider to have had an important effect in supporting their children ..... 49 
+Figure 7. Activities learned by parents in the implementation of the QIE package ........................................................ 50 
+Figure 8 - Activities learned by headmasters in the implementation of the QIE package ............................................ 52 
+Figure 9 – Status of the Institutional Development Strategy (PDI) after the participation in trainings ................ 52 
+Figure 10. The opinion of the teachers participating in the survey about the results of the training course ..... 53 
+Figure 11. The opinion of the teachers participating in the survey about the training course .................................. 54 
+Figure 12. Teachers' perception regarding the received teaching materials ..................................................................... 54 
+Figure 13. Headmasters' perception on QIE activities (Q22) .................................................................................................... 63 
+Figure 14. Activities still required in the school to ensure access and participation ..................................................... 73 
+Figure 15. The perspective of school headmasters towards the commitment of those involved to continue QIE 
+interventions ................................................................................................................................................................................................... 74 
+Figure 16. Perspective regarding the teaching material received during the project .................................................... 75 
+Figure 17. Participation in peer learning activities after the project was finished ......................................................... 76 
+Figure 18. Difference between treated (all schools) and control group ............................................................................... 84 
+Figure 19. Difference in difference between treated (all schools) and control group - boys ...................................... 85 
+Figure 20. Difference in difference between treated (all schools) and control group - girls ...................................... 85 
+Figure 21. Difference in difference between treated (comparable schools) and control group................................ 86 
+Figure 22. Difference in difference between treated (comparable schools) and control group - boys .................. 87 
+Figure 23. Difference in difference between treated (comparable schools) and control group - girls................... 87 
+Figure 24. Perception on the benefits obtained by schoolchildren participating in intervention ............................ 88 
+Figure 25. Perception on principles on which QIE intervention is based ............................................................................ 88 
+Figure 26. Children’ reasons for skipping classes ........................................................................................................................... 89 
+Figure 27. Benefits obtained by schoolchildren participating in intervention .................................................................. 94 
+Figure 29. As representative of the school, to which extent are the following statements correct? ....................... 95 
+Figure 29. Headmasters’ perception on the QIE intervention .................................................................................................. 97 
+Figure 30. Changes made by teachers in the classroom .............................................................................................................. 99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF ACRONYMS 
+ 
+ARACIP 
+Romanian Agency for Quality Assurance in Pre-University Education 
+CC 
+County Council 
+CAPI 
+Computer Assisted Personal  Interview 
+CAWI 
+Computer Assisted Web-interview 
+CCESR/CJRAE 
+County Centre for Educational Support and Resources 
+CCS 
+Community Consultative Structure 
+CSI 
+County School Inspectorate 
+DBR 
+Desk based research 
+DiD 
+Difference-in-Differences 
+EU 
+European Union 
+GoR  
+Government of Romania 
+IES 
+Institute of Educational Sciences 
+KoM                     Kick-off Meeting 
+MoNE  
+Ministry of National Education 
+MPS  
+Minimum Package of Services 
+MTR 
+Mid-Term Review 
+NGO 
+Non-Governmental Organization 
+PSM 
+Propensity Score Matching 
+QIE  
+Quality Inclusive Education 
+QMS 
+Quality Management System  
+RAQAPE 
+Romanian Agency for Quality Assurance in Pre-universitry Education 
+SAI 
+School Attendance Initiative 
+SEN 
+Special Educational Needs 
+ToC 
+Theory of Change 
+ToR 
+Terms of References 
+TP                          Technical Proposal 
+UNEG 
+United Nations Evaluation Group 
+UNICEF 
+United Nations Children's Fund  
+  
+ 
+
+6 
+ 
+Executive summary  
+ 
+The Quality Inclusive Education Initiative (QIE) aimed to be the foundation of a “friendly and inclusive 
+school” for all pupils and teachers and to positively change the image of school as an institution. The 
+intervention was meant to respond to the needs for capacity and professional development of headmasters and 
+teachers and brought to the fore the importance of early childhood education. The results and lessons 
+generated by the model were meant to inform the elaboration of new laws, standards and regulations 
+applicable nationwide1. 
+QIE includes child-centred interventions at school, family and community levels. The education package is 
+universal, as all schoolchildren and schools may benefit from its interventions and of its results in terms of 
+quality education.  The package is also modular, which means that it may be customized to the specific needs 
+of a school/community, and thus it could be applied in all types of schools. QIE focuses in several of its 
+components on children who are the most at-risk of dropout2.  
+QIE was developed in partnership by the Romanian Ministry of National Education and UNICEF Romania, and 
+implemented during September 2015 and June 2019 (4 school years), in Bacău County, in 51 schools from 44 
+communities in 37 urban and rural localities.  
+QIE was implemented in wide partnership with the Institute for Educational Sciences (IES)3, The Romanian 
+Agency for Quality Assurance in Pre-academic Education (ARACIP), Step by Step, Holtis, Împreună Agency, as 
+well as with the support of the Ministry of Education, Bacău County School Inspectorate (CSI), Bacău County 
+Centre for Educational Support and Resources (CCREA) and Bacău County Council.  
+ 
+The summative evaluation of the Quality Inclusive Education package of the “Social inclusion through the 
+provision of integrated social services at community level” modelling project in Romania, aimed „to assess 
+whether the underlying assumptions and objectives formulated in the Theory of Change for QIE [Quality 
+Inclusive Education] were validated and achieved as well as to ascertain whether QIE contributes to promoting 
+the child rights to quality inclusive education”.  
+The evaluation aims to be a key element in the process of promoting the scale-up of the QIE at national level. 
+The evidence generated by the evaluation will be used for advocacy and policy advice with authorities and 
+stakeholders at local, county and national levels including to the Ministry of Education, as regards in developing 
+and amending educational policies related to prevention of dropout, absenteeism and early school leaving.  
+Therefore, the evaluation observed the following objectives: 
+• 
+Evaluate relevance, effectiveness, efficiency, sustainability and impact of the QIE component; 
+• 
+Identify and document the key elements that contributed to the QIE success and replicability, as well 
+as main bottlenecks and barriers in implementation; 
+• 
+Document key lessons learned in relation to the QIE implementation and propose recommendations 
+for improvement; 
+• 
+Make recommendations for further actions related to sustainability, scalability of the QIE as a whole 
+or components of QIE throughout the country. 
+• 
+Identify the way in which the QIE component is relevant and produced results in addressing issues 
+related to gender equality, equity and overall advancement of child rights 
+ 
+1 UNICEF Romania, Quality Inclusive Education Model’s Theory of Change, Internal document, Bucharest, 2016. 
+2 UNICEF, Quality Inclusive Education package leaflet, 2016. 
+3 Currently in the framework of the National Centre of Educational Policies and Evaluation.   
+
+7 
+The evaluation covered all QIE components and activities implemented in the framework of the model during 
+its lifetime (September 2015 – June 2019) and all 51 schools benefiting under QIE, located in 44 urban and 
+rural communities in Bacău County. 
+The summative evaluation used a mixed methods design, by combining qualitative and quantitative data 
+collection and data analysis techniques. Triangulation was used in order to validate findings, including the 
+triangulation of qualitative and quantitative data collected. Quantitative analyses of secondary data preceded 
+in most cases qualitative field data collection, to allow explanation of possible different results through data 
+collected during interviews, focus groups etc. 
+Quantitative data collection and data analysis techniques used by the evaluation are counterfactual impact 
+analysis, surveys and exploratory data analysis (descriptive statistics, visual representations).  
+The counterfactual assessment was carried based on administrative data made available by Ministry of 
+Education for the 51 QIE schools in Bacău and 6 schools in the control group in Galați County. Data recorded 
+by UNICEF and implementation partners concerning activity implementation and outputs (i.e., participants in 
+training, parental counselling and parental education), as well as a number of key variables among data 
+collected by the Institute for Educational Sciences (IES) on children at risk and vulnerable children enrolled in 
+the targeted schools were analysed using descriptive statistics (frequency distribution, correlations). Five 
+surveys were conducted among headmasters, teachers, kindergarten teachers, schoolchildren in the 51 schools 
+where QIE was implemented, as well as the parents of the latter.   
+Qualitative data collection and data analysis techniques used by the evaluation include desk research, 
+interviews, focus groups and case study.  
+Extensive desk research was carried out, involving the summary, collation, analysis and/or synthesis of existing 
+documents. At national level interviews were carried out with UNICEF, project partners, Ministry of Education 
+and Research, World Bank and representative NGOs. At country level 2 interviews with CSI and CJRAE were 
+conducted, as well as 1 focus group with county coordinators.  
+Case study was a key methodological instrument applied in the framework of this evaluation, as part of the 
+mixed-method approach. Based on the quantitative data at disposal, collected from school annual reports, and 
+on qualitative data (good and less good examples mentioned in the 2015 in-depth assessment and project 
+documents), the following schools were selected to be a part of the multiple case study: 
+1. Şcoala Gimnazială Zemes (high number of roma children, and very high number of absences, but no 
+children reported to dropout)  
+2. Şcoala Gimnazială Horgeşti (high number of absences, high number of children dropping out of school, 
+but considered a good practice by some QIE partner organisations) 
+3. Şcoala Gimnazială Frumoasa, Balcani (low number of absences, no children reported to dropout, 
+considered a good practice by some QIE partner organisations) 
+4. Şcoala Gimnazială Colonești (high number of absences, no children reported to dropout, considered a 
+less good practice by some QIE partner organisations)  
+5. Şcoala Gimnazială Nr. 2 Targu Ocna (high number of absences, but no children reported to dropout, 
+considered a good practice by some QIE partner organisations) 
+6. Şcoala Gimnazială "Dr. Alexandru Safran" (moderate number of absences, no children reported to 
+dropout, considered a less good practice by some QIE partner organisations) 
+The evaluation was undertaken during the crisis triggered by COVID pandemic, however, the methodology 
+planned could be applied to a very large extent. Most instruments were deployed on-line (and in this respect 
+on-line schooling helped evaluation as the stakeholders involved already had a degree of understanding and 
+were used to working with virtual communication platforms). Where baselines were not available, 
+administrative data was used or questions in the survey were formulated in such a manner that progress is 
+indicated (in 2020 compared to 2015). For example, changes of attitude, values and awareness, at the level of 
+teachers, children (including adolescents) and parents were very difficult to measure, as there is no baseline 
+on these dimensions. The risk of bias was, though, limited, as multiple triangulation was ensured during 
+secondary analysis and findings of the evaluations are based multiple data sources: documents, quantitative 
+data analysis and survey results.  
+
+8 
+ 
+Based on evidence collected and analyses carried out, the evaluation concludes that the Quality Inclusive 
+Education package was highly relevant. The project addressed all children and adolescents, including children 
+in vulnerable categories, in both urban and rural areas, and this was the adequate strategy to answer the 
+problems identified and ensure project effectiveness (i.e., to tackle more than barrier to participation to school 
+but take a step forward and offer quality education).  
+A strong feature of QIE from a relevance perspective, but also impact, is its “integrated” approach, i.e., QIE 
+created a broad context focused on learning interactions and collaboration between traditionally separate 
+groups - pupils, teachers, parents, institutions such as ARACIP - and it redefined the relationships among these 
+actors, particularly at local level, for the benefit of the child.  
+The implemented activities have a high degree of relevance as they addressed directly causes of school dropout 
+such as family educational difficulties, limited interest in learning, limited involvement in class/school, limited 
+material base, limited communication between parents and school or insufficient help from teachers, and their 
+associated needs. Based on evidence collected, QIE objectives, activities and results are also highly relevant in 
+relation to the European and national strategic and legislative framework. QIE is fully aligned to all national 
+strategies, as it proposed a model to implement existing legal provisions as regards integrated interventions. 
+The evaluation has identified a degree of flexibility maintained throughout the implementation process. In this 
+vein, although not without challenges, activities were adjusted in order for the project to adequately respond 
+to further needs identified on the spot. However, the evaluation identified a (rather limited) number of 
+additional activities that would have further enhanced the relevance and effectiveness of the model and could 
+be taken into consideration when QIE is scale-up.   
+The child rights approach was embedded already in the project Theory of Change, as QIE addresses bottlenecks 
+and barriers in access to and retention in education for children and adolescents at risk, in order to  ensure that 
+the right to education of every child is observed without discrimination. A differentiated approach for girls and 
+boys was applied only when deemed appropriate, otherwise equal and non-discriminatory participation in all 
+activities was ensured. The gender dimension was addressed in training sessions, monitoring visits and 
+exchanges of experience, however, specific activities addressing different needs of boys and girls were not 
+planned / developed.  
+In general, the evaluation found that QIE triggers changes in terms of increased participation but also improved 
+atmosphere, i.e., better communication and collaboration, in school. However, maintaining the effects 
+registered and, thus, continuing reform at school level, greatly depends on the intensity of the intervention (e.g., 
+if all or a majority of teachers are instructed), on its continuous implementation (as opposed to an on-off, 
+project-based activity) but also on external factors, particular to the educational system in Romania and to the 
+wider socio-economic context. Rural – urban dimension of school and path dependency, i.e., an open mentality 
+and management capacity already in place at school level, also influence effects and impact obtained.    
+In the schools participating in the project QIE had an important contribution, in terms of redefining and 
+strengthening:  
+• 
+the relation between school-local authorities (the local authorities better understood their role in 
+supporting the educational act by ensuring cooperation between school and the social 
+assistants/teams/policies but also to endow and renovate school buildings, in some cases);    
+• 
+ the teacher-parent relationship (parents understood that school can also have another approach to 
+schoolchildren’ problems, that it is oriented towards the support of schoolchildren, especially those at 
+risk); 
+• 
+parents’ relationship with the school and teachers (e.g., parents understood that school is not only 
+resource consuming, but also a service provider and that their role is not only material, but also 
+emotional and supportive in the education process); 
+• 
+the concept of pupils at risk and transforming this category into a more visible one and, moreover, 
+transforming the children who were considered ‘predestined to a fate of non-fulfilment’ into pupils 
+who can be supported by joint school-family efforts; 
+• 
+the “inclusive school” concept in the perspective of school headmasters and of the other stakeholders.  
+
+9 
+ 
+In terms of impact, the evaluation highlight positive effects of QIE in terms of school participation, namely as 
+regards number of schoolchildren enrolled, number of schoolchildren enrolled at the end of the year, number 
+of schoolchildren completing their graduation requirements by the end of the year and schoolchildren 
+repeating grades”. Overall, due to increased attention paid to vulnerable children by the school management 
+and teachers, in closer partnership with parents, some results were confirmed for this target group.  
+However, QIE’s impact in terms of absenteeism and drop out is rather indirect and restricted by several 
+external factors contributing in this regard. Family material and social circumstances (i.e., conflicts, alcoholism, 
+involvement of children in household chores etc.) remain the key reasons for absentees and dropping out and 
+this confirms the need for wider social and economic measures with effects locally as well as closer 
+collaboration and better social services at community level. School drop-out is more widespread in the last 
+years of lower secondary school, when children move towards high school/vocational schools and among girls 
+of Roma ethnicity. 
+Overall, positive changes at school management level have been identified as a result of school headmasters 
+and their teams’ participation in activities organised by QIE. School management is more involved and directly 
+encourages teamwork and communication among teachers, but also between teachers, children, parents and 
+other school specialists. Headmasters understand better their role and facilitate access to resources, including 
+for infrastructure works, and, in this sense, they are more oriented towards development and more focused on 
+accessing available grants. On the other side, there is room for improvement as regards school management 
+and drafting school planning documents, for the latter in terms of collecting evidence to support Plan’s 
+development and implementation and formulating realistic implementation plans including additional, 
+customised support for vulnerable groups.  
+Changes induced by the model at school management level, while positive in many schools, are stronger in 
+schools already having an open organization culture and/or a champion determined to develop the school. On 
+the other side, the evidence collected also indicated that QIE’s impact at management level may be very limited 
+where school headmasters are not interested and open to a new vision / modern approaches. The same is valid 
+in cases where headmasters are replaced and organisational culture may be weak from a strategic planning 
+perspective.  
+QIE had an important positive effect in terms of improved relationship with the community in general, 
+including parents and local authorities. As regards the latter, cooperation was strengthened with social 
+assistants identifying and working with vulnerable families. QIE also made many participating schools more 
+child-friendly, by offering a more welcoming environment and a more friendly looking learning space 
+decorated also during non-formal activities organised under mini-grants.” However, significant room for 
+improvement exists in this regard, too, if we take into account the fact that less than 20% of children consulted 
+in the framework of this evaluation declared that feel safer when they study/ go to school compared to some 
+years before, and this perception is only mildly influenced by recent developments caused by COVID 19.  
+At the same time, although stakeholders consulted in the framework of the evaluation positively assessed the 
+training activities implemented, continuous intervention is needed for schools to reach expected standards as 
+regards providing good quality teaching and learning processes with individualized instruction appropriate to 
+each child’s developmental level; using active, cooperative, innovative and democratic learning methods and 
+structured content and select good quality materials and resources. Still, the evaluation identified a series of 
+impacts at teachers’ level i.e., teachers collaborate more with schoolchildren and parents, promote a healthy 
+climate in school, and continue to use in class, although to a more moderate extent, materials promoting 
+diversity.  
+Changes in case of early education teachers are similar as those available for school teachers. At this level, the 
+difference was made, as in the case of schools, by the 360° approach taken (i.e., a combination of educational 
+resources/materials, training for all or a majority of teachers, exchanging experiences with other teachers and 
+activities focused on enhancing collaboration with parents, including parental education). Materials and 
+equipment purchased for kindergartens and schools as well as extracurricular activities (the latter two in the 
+framework of the microgrants) had an important contribution to effects identified by this evaluation. 
+ 
+
+10 
+At the same time, ample parental education activities implemented under QIE as well as other activities 
+involving parents (i.e., parents counselling, extracurricular activities) had positive impacts in terms of parents’ 
+involvement and connectedness with the school; an improved relationship with children as a result of 
+improved communication and quality time spent together. However, while already involved parents and 
+parents of schoolchildren performing well in school, as well as young parents embraced and benefited of 
+activities implemented, parents of vulnerable children were more difficult to involve.  
+The evaluation observed that tolerant and non-discriminatory attitudes develop more gradually. From a 
+conceptual perspective, evidence collected reflect a good, broader understanding of the concepts of inclusive 
+education. School headmasters, teachers, and parents are significantly more aware of every child’s uniqueness 
+and particular needs, however, at a more subtle level, interviews and focus groups with these stakeholders 
+capture attitudes of segregation or denial of vulnerabilities in communities, especially on ethnic or socio-
+economic criteria. Acceptance of children with disabilities seems to have increased slightly more compared to 
+other vulnerable categories.  
+Overall, UNICEF has been a long standing and reputed partner for the Ministry of Education (MoE) in Romania. 
+Support delivered by UNICEF in the form of technical assistance for drafting legislative acts, methodologies, 
+strategies and different studies to fundament policy alternatives has been in all case perceived as highly 
+relevant, of high quality and useful. Unfortunately, instability at political level hampered the adoption of some 
+inputs provided by UNICEF (i.e., related to early education, parental education, the methodology for standard 
+cost per ante-pre-schoolchild). In the absence of a National Parenting Strategy adopted by the government, this 
+highly relevant policy instrument cannot be applied country-wide and thus its positive effects, supported by 
+findings of this evaluation, manifest only where parental education is carried out trough singular projects.               
+As regards “efficiency”, the evaluation observed that QIE used its budget in an economical way, with smaller 
+unit cost compared to other intervention in the field of education and aiming at increasing access and 
+participation to school as well as developing teachers’ capacity to implement effective teaching and learning 
+methods. The County School Inspectorate Bacău and nine schools participating in QIE raised approximately 
+RON 865,000 (EUR 158,800) from Erasmus+ and other European and national programme, therefore 
+surpassing the investment in technical assistance in the first year after QIE ended its implementation. In 
+conclusion, technical assistance for schools is a needed and worth investment, given that the investment in 
+technical assistance for schools has been recovered by schools that have been successful in fundraising 
+activities.  
+In longer run, the evaluation found that stakeholders generally have an adequate understanding of the need to 
+continue all activities proposed by QIE. There is sufficient determination and experience to continue and 
+improve existing practices regarding (i) the diversification of the offer of school and extracurricular activities 
+that motivate and involve all schoolchildren, (ii) the use of teaching strategies adapted to the needs of 
+schoolchildren from vulnerable groups and (iii) in the area of strategic management, with an emphasis on 
+reducing dropout and increasing school participation.  
+However, the capacity of schools is insufficient for further development and facilitation of involvement of 
+parents/ community in school activities, parenting education and parenting counselling activities, counselling 
+and mediation support services for children from vulnerable groups, project writing activities / funding 
+applications. Further resources and interventions are needed for continuing the activities initiated by QIE, for 
+maintaining and further strengthening the results obtained and for achieving a long-term, solid impact on 
+schoolchildren.     
+QIE can be rolled out and scaled up entirely or partially, starting with the most disadvantaged schools and / or 
+counties. Initiatives including almost all QIE components show that replication is possible at local and national 
+level. Some QIE components (as separate initiatives) are already rolled out under the coordination of the 
+Ministry of Education, UNICEF, its implementing partners or other non-governmental organisations. European, 
+Norwegian and EEA funds, as well as limited national funds are available or will be available (in the 
+programming period 2021-2027 for EU funds) for this replication. In this context, it is important to note that 
+scaling up the model (as it stands) at national level requires less than 2% of the budget of the Ministry of 
+Education in the first year of implementation and less than 1% every year afterwards according to the costing 
+model developed by UNICEF, which makes QIE roll-out highly cost-effective.  
+
+11 
+The evaluation formulates the following hey recommendations: 
+Recommendation 
+Priority 
+Timeframe 
+Responsible 
+institution 
+In planning and performing QIE’s roll out, the integrated approach 
+should be maintained, as one of the key strong points of the 
+project.  
+However, responsible actors need to include in any case, in the 
+customised packages delivered at school level, comprehensive 
+training for a majority of teachers in school (differentiated by 
+levels of seniority/experience) as well as equipment and didactic 
+materials, in complementarity with recent measures taken to 
+ensure on-line schooling. In the same vein, activities targeting 
+non-discrimination and tolerance should be continued and 
+enhanced, for the aimed change to occur.    
+High 
+Medium 
+term 
+Ministry 
+of 
+Education, 
+UNICEF,  
+Local 
+Authorities 
+Interventions in educational area, overall and in the framework of 
+rolled-out QIE, should provide for actions aligned to different 
+needs of boys and girls. Such gender-customised actions should be 
+considered also for the activity of the school counsellor.   
+High 
+Medium 
+term 
+Ministry 
+of 
+Education 
+ 
+To ensure success in rolling out QIE, the role, responsibilities and 
+interventions of local authorities in the area of education should 
+be clearly detailed for each case (community), in line with the local 
+and country development strategies and legislation in place. 
+Additional mechanisms for cooperation with local institutions 
+(with the mayor's office) should be developed and more applied 
+cooperation with social assistance services should be ensured.  
+High 
+Medium 
+term 
+Ministry 
+of 
+Education, 
+Local 
+Authorities 
+involved 
+ 
+The Ministry of Education should put in place effective 
+mechanisms for assessing regularly and ensuring the quality of the 
+school development plan and its implementation, i.e., three times 
+by 
+plan 
+period. 
+These 
+mechanisms 
+may 
+be 
+embedded/strengthened in existing monitoring, control and 
+evaluation systems, as undertaken by ARACIP and County School 
+Inspectorate.   
+High 
+Medium 
+term 
+Ministry 
+of 
+Education 
+QIE roll out should take into consideration different needs of 
+schools involved, from the perspective of quality and motivation 
+of human resources including school headmasters, of vulnerable 
+categories presence/predominance in school, especially Roma 
+children and, in the same vein, from the perspective of rural and 
+urban dimension. 
+High 
+Medium 
+term 
+Ministry 
+of 
+Education, 
+UNICEF,  
+Local 
+Authorities 
+Independent of QIE rollout perspectives, interventions as 
+implemented by QIE need to be continued in the participating 
+schools, for reform at their level to be completed. In this regard 
+the evaluation recommends the development of a mechanism 
+through which the County School Inspectorates take up methods, 
+materials, instruments developed under QIE and integrate them in 
+the existing educational procedures and practices at SCI and 
+school level (e.g., in the activities of Teachers’ Houses and 
+Methodical Groups, whose capacity needs to be strengthened).      
+High 
+Short term 
+Ministry 
+of 
+Education, 
+Local 
+authorities 
+including 
+County School 
+Inspectorates  
+Ministry of Education should accelerate the process of entering 
+into effect of the current legal framework on school desegregation 
+and UNICEF should intensify advocacy in this sense. 
+High 
+Medium 
+term 
+Ministry 
+of 
+Education 
+The Parenting Education Strategy should be placed back on the 
+government agenda and measures taken for its adoption.  
+High 
+Short term 
+Ministry 
+of 
+Education 
+  
+
+12 
+1. Evaluation background 
+ 
+1.1. 
+Object of the evaluation 
+The Quality Inclusive Education Initiative (QIE) aimed to be the foundation of a “friendly and inclusive school” 
+for all pupils and teachers and to positively change the image of school as an institution. The intervention was 
+meant to respond to the needs for capacity and professional development of headmasters and teachers and 
+brought to the fore the importance of early childhood education. The results and lessons generated by the 
+model were meant to inform the elaboration of new laws, standards and regulations applicable nationwide4. 
+QIE was developed in partnership by the Romanian Ministry of National Education and UNICEF Romania, and 
+implemented during September 2015 and June 2019 (4 school years), in Bacău County, in 51 schools from 44 
+communities in 37 urban5 and rural6 localities. To the initially 45 schools selected (one school/community), six 
+new school units from the same communities were added to the project in the school year 2017-2018. 
+The total budget allocated for QIE was approximately US 3 million (for the period 2015-2019) and the project 
+was implemented in partnership with the Romanian Agency for Quality Assurance in Pre-academic Education 
+(ARACIP), the Romanian Institute of Educational Sciences (IES7), “Impreuna” Community Development Agency 
+(Impreuna Agency), HOLTIS Association and “Step-by-Step” Centre for Education and Professional 
+Development at national level. Also, broad partnerships have been established at the level of Bacau County with 
+the County Council (CC), County School Inspectorate (CSI) and the County Center for Resources and Educational 
+Assistance (CJRAE). 
+QIE includes child-centred interventions at school, family and community levels. The education package is 
+universal, as all schoolchildren and schools may benefit from its interventions and of its results in terms of 
+quality education.  The package is also modular, which means that it may be customized to the specific needs 
+of a school/community, and thus it could be applied in all types of schools. QIE focuses in several of its 
+components on children who are the most at-risk of dropout8.  
+The activities were grouped in 6 components, mentioned below.   
+ 
+1) School Management Component 
+2) Teaching and Learning Methods Component 
+3) Role Models (non-cognitive skills) Component 
+4) Parenting Support Component 
+5) Early Education Component 
+6) Micro-grant Component 
+Other activities implemented were: 
+a) Local communication and behaviour change campaign targeting public service providers from 
+administration, health, education and social sector for reducing stigma and discrimination against 
+Roma: capacity building of local professionals was enhanced in order to recognize and fight 
+discrimination related to the access of public services  
+b) Communication, Monitoring and Advocacy, activities carried out on a permanent basis.  
+QIE is a comprehensive integrated model consisting of a multitude of interventions, tackling various problems 
+and causes of absenteeism and dropout, with a clear focus on enhancing the quality and inclusiveness of 
+education (see figure 1 below). QIE includes several interventions and targets multiple groups of key right 
+holders (children, with a focus on children at risk, parents, preschool and school personnel) and duty bearers 
+ 
+4 UNICEF Romania, Quality Inclusive Education Model’s Theory of Change, Internal document, Bucharest, 2016. 
+5 11 urban communities (where one community is defined as the school circumscription / constituency) 
+6 33 rural communities (where one community equals one administrative territorial unit) 
+7 Since 2020 IES has been part of the newly set up National Centre of Educational Research and Evaluation (NCERE).  
+8 UNICEF, Quality Inclusive Education package leaflet, 2016.

@@ -1,0 +1,688 @@
+Strictly private and confidential 
+Evaluation of the Joint GoB-
+UNICEF Bangladesh WASH 
+Programme 2017-2021 
+ 
+Final Evaluation report 
+January 2022 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover letter 
+ 
+                                                                                                                                                                 Gurgaon 
+                                                                                                                                                      30 January 2022 
+To, 
+United Nations Children’s Fund 
+BSL Office Complex, 1 Minto Rd,  
+Dhaka 1000,  
+Bangladesh 
+ 
+Subject: Final evaluation report for “Evaluation of the joint GoB-UNICEF Bangladesh WASH Programme” 
+(Contract No:43288707). 
+Dear Sir/Madam, 
+We hereby submit the final evaluation report for “Evaluation of the joint GoB-UNICEF Bangladesh WASH 
+Programme”. 
+The report includes the chapter on executive summary, descriptive and summary statistics, key findings, 
+conclusion and recommendation. List of annexures comprising ToR, study tools and other relevant documents 
+has been provided in the end. 
+We look forward to receiving your feedback on the report. 
+Yours sincerely, 
+ 
+Name and Title of Signatory: Dr. Manoranjan Pattanayak, Executive Director 
+PricewaterhouseCoopers Private Limited 
+Floor - 17, Building - 10C, DLF Cyber City, Gurgaon, India 122002 
+(T): + 91 124 330 6026; (M): +91 9871176763 
+Email: manoranjan.pattanayak@pwc.com 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbreviations 
+Abbreviation 
+Definition 
+ADP 
+Annual Development Plan 
+BBS 
+Bangladesh Bureau of Statistics 
+BOT 
+Build, operate and transfer 
+BRAC 
+Bangladesh Rural Advancement Committee 
+BWPD 
+Bangladesh Wash Poverty Diagnostic 
+CAP 
+Community action plan 
+CHT 
+Chittagong Hill Tracts 
+CLTS 
+Community led total sanitation 
+COVID 
+Coronavirus disease 
+CPD 
+Country programme document 
+CRC 
+Committee on The Rights of The Child 
+DAC 
+Development Assistance Committee 
+DGHS 
+Directorate General of Health Services 
+DPE 
+Directorate of Primary Education 
+DPHE 
+Department of Public Health Engineering 
+DSHE 
+Directorate of Secondary and Higher Education 
+DSK 
+Dushtha Shasthya Kendra 
+E. coli 
+Escherichia Coli 
+FSM 
+Fecal sludge management 
+FYP 
+Five-Year Plan 
+GNP 
+Gross national product 
+GoB 
+Government of Bangladesh 
+HCF 
+Healthcare facilities 
+HIV/AIDS 
+Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome 
+HTR 
+Hard to reach 
+ICDP 
+Integrated Community Development Project 
+IDE 
+International development enterprises 
+JMP 
+Joint Monitoring Programme 
+KII 
+Key informant interviews 
+LDC 
+Lower developed communities 
+LGD 
+Local Government Division 
+LGI 
+Lower government institutions 
+LGRD&C 
+Local government, rural development, and cooperatives 
+LIC 
+Low-income communities 
+LP 
+Latrine producers 
+MAR 
+Managed aquifer recharge 
+MDG 
+Millennium development goals 
+MHM 
+Menstrual hygiene management 
+MICS 
+Multiple indicator cluster surveys 
+MIS 
+Management information systems 
+MoHFW 
+Ministry of Health and Family Welfare 
+NGO 
+Non-governmental organization 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbreviation 
+Definition 
+O&M  
+Operation and maintenance 
+ODF 
+Open defecation free 
+OECD 
+Organization for Economic Co-Operation and Development 
+PEDP3  
+Primary Education Development Programme 
+PIC 
+Project Implementation Committee 
+PMC 
+Project Monitoring Committee 
+PPE 
+Personal protective equipment 
+PPP 
+Public-private partnerships 
+PRA 
+Participatory Rural Appraisal 
+PSM 
+Propensity score matching 
+PSU 
+Policy Support Unit 
+SDG 
+Sustainable development goals 
+SITAN 
+Situation analysis 
+SWAP 
+Sector wide approach 
+ToR 
+Terms of reference 
+T4D 
+Technology for Development 
+UNDAF 
+United Nations Development Assistance Framework 
+UNICEF 
+United Nations Children's Fund 
+VFM 
+Value for money 
+WASA 
+Water Supply Sewerage Authority 
+WASH 
+Water, sanitation, and hygiene 
+WASHBAT 
+WASH Bottleneck Analysis Tool 
+WASHiS 
+WASH in schools 
+WatSan 
+Water and Sanitation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive summary 
+Objective of the assignment: The objective of this assignment was to conduct an end-term evaluation of the 
+GoB-UNICEF Bangladesh Water, Sanitation and Hygiene Programme of Cooperation (2017-2020)1, which 
+forms a core component of the UNICEF’s Country Programme 2017-2021. In terms of the geographical scope, 
+the evaluation covers 15 districts spread across six divisions of Bangladesh.2 
+Approach and methodology for evaluation: The evaluation methodology is guided by the Terms of 
+Reference (ToR) of the assignment and the evaluation questions given therein. Specifically, the overarching 
+evaluation framework follows the OECD DAC criteria, namely relevance, effectiveness, impact, efficiency, and 
+sustainability.  
+A mixed method approach that combines content analysis of programme documents and secondary literature 
+with quantitative and qualitative insights from primary data, has been adopted for the study. Further, keeping in 
+mind the multiplicity of interventions and actors in the WASH sector of Bangladesh and lack of availability of 
+unit level data on programme participants (and a possible counterfactual), the evaluation has been done from 
+contribution analysis perspective rather than focusing on strict causal attribution.3 Finally, the evaluation adopts 
+a gender-responsive approach.  
+Key findings and conclusions: The key findings and related conclusions have been arranged as per the 
+OECD-DAC criteria below. 
+Relevance: Under this evaluation criterion, we have assessed if the designs and strategies presented in the 
+current country programme document4 (CPD) are responsive to the needs and priorities of the country and the 
+government.5  
+Bangladesh’s WASH sector faces different problems in different regions, ranging from vulnerability to extreme 
+weather events and their knock-on effects, to arsenic poisoning, challenges of provision of safely managed 
+water and sanitation to low-income communities in urban centers like Dhaka, to name a few. UNICEF’s WASH 
+strategy in the country is well aligned to the varied needs of the country, as it is informed by a detailed and 
+participatory bottleneck analysis.6  
+Provision of safe and resilient WASH services in the face of the challenges posed by climate change is a cross-
+cutting issue in Bangladesh. UNICEF has sought to address this challenge by working with the Government to 
+pilot innovative solutions like double platform deep tubewells with managed aquifer recharge (MAR). 
+As Bangladesh is gradually transitioning to a lower middle-income country, public investment in the sector is 
+going to increasingly account for much of the direct demand for WASH services in the country. Therefore, in 
+order to remain relevant and responsive to newer opportunities, UNICEF is striving to move to upstream 
+activities like advocacy, multisectoral discussions with Government and other development partners, evidence 
+generation as well as fostering the development of the WASH market in the country. 
+UNICEF continues to be responsive to the emerging challenge of the COVID-19 pandemic by providing 
+technical support to the government in planning, capacity building, implementation of COVID-19 emergency 
+responses and dissemination of protocols on good hygiene practices.  
+Effectiveness: Under this evaluation criterion, we have checked whether the WASH programme has been able 
+to achieve the intended objectives and targets as presented in the current country programme document 
+(CPD). 
+ 
+1 For ease of reference, this Programme “GoB-UNICEF Bangladesh Water, Sanitation and Hygiene Programme of Cooperation (2017-2020)” has been referred 
+as the WASH Programme throughout this document.   
+2 Programme districts considered for the evaluation: Faridpur, Pirojpur, Bandarban, Khagrachari, Comilla, Jamalpur, Netrokona, Khulna, Narial, Satkhira, 
+Nilphamari, Rangpur, Habiganj, Sunamganj and Sylhet 
+3 MICS provides information between 2012 and 2019, while the period of evaluation is 2017-2020. Primary survey data at unit level on programme participants 
+in targeted/prioritized districts and is not available. 
+4 While the CPD was extended to 2021, this evaluation remained through 2020, so it does not cover the full work under the 2017-2021 CPD. 
+5 For ease of reference, this document “Country Programme Document and Strategy Notes; UNICEF Bangladesh Country Programme for 2017-2020; June 
+2016” has been referred as Country Programme document (CPD) throughout this document. 
+6 WASHBAT Report Bangladesh-2018 (This report is the outcome of a number of WASHBAT Divisional Workshops (total eight) steered by LGD of the Ministry 
+of Local Government Rural Development and Cooperatives (MLRDC) and organized by the respective Divisional Commissioners Office, with assistance from 
+UNICEF Bangladesh during 2018.) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall, the programme has been effective in creating an enabling environment for provision of safely managed 
+WASH facilities in communities and institutions.  
+Analysis from inter-temporal comparison of MICS unit level data shows that access to WASH services have 
+improved overall in the priority districts. Data also shows that access inequity (across different wealth quantiles) 
+has reduced. Note that this reduction is the net result of multiple programmes aimed to improve water and 
+sanitation access and service delivery in the targeted districts of which UNICEF’s interventions constitute a 
+part. This evaluation, however, shows that UNICEF’s programmes have made positive contribution and can be 
+thought to be effective in improving access to WASH services.  
+Gender equity and social inclusion considerations have been effectively incorporated in the programming 
+through gender responsive planning (design of programmes), monitoring, and reporting. Respondents from the 
+surveyed communities report that the GoB-UNICEF WASH programme has contributed to reduction of 
+instances of adolescent girls’ school dropout, implementation of inclusive toilets in the low income communities 
+and time spent by women to collect water. The programme also fostered innovations for need based WASH 
+services for the elderly and people with disabilities, residents of areas with hard-to-reach areas, etc. Some of 
+such solutions include the adoption of less water consuming technologies like SATO taps and SATO pans in 
+the water scarce areas, and provision of handholding support in developing sanitation infrastructure at the 
+community and institutional levels, for the elderly and people with disabilities. 
+UNICEF has played a critical role in policy advocacy and coordination. As the WASH cluster lead, in the 
+emergency response to the Rohingya crisis and COVID-19, UNICEF facilitated coordination among different 
+line departments. In the Rohingya camps, UNICEF played a key role in the provision of safely managed water, 
+sanitation, and hygiene facilities for all. UNICEF ensured protection of human rights of the refugees by 
+addressing fundamental issues relating to health, nutrition, education, etc. During the COVID-19 pandemic, 
+UNICEF developed guidelines and sector wide strategy documents for making people aware about the safety 
+protocols. Additionally, UNICEF assisted the government in developing a national strategy for the provision of 
+safe water in communities and institutions.  
+The WASHBAT analysis, which identified barriers in WASH sector for all eight divisions of Bangladesh by 
+involving around 800 professionals from WASH, education, health, nutrition sectors, is yet another example of 
+the crucial thought leadership role played by the UNICEF.  
+The evaluation has brought to light a few shortfalls from targets set in the CPD. While the recognition and 
+resolution of these shortfalls are a collective responsibility of various programmes, stakeholders, and donor 
+agencies working in the WASH sector, the evaluators note them to pave the path towards the way forward. A 
+few areas where some improvement could be made are as follows: (1) While there has been a rise in access to 
+safe water and sanitation services, the targets set in the CPD with respect to SDG 6.1 and SDG 6.2 at the 
+community level appear ambitious retrospectively. (2) The ‘WASH in schools’ programme could not achieve the 
+set targets with respect to equipping primary and secondary schools with basic WASH facilities. (3) The CPD 
+target of equipping healthcare facilities (HCFs) with basic WASH facilities, has not been achieved.  
+ 
+Efficiency: The evaluators have mapped the use of resources (time and budget) vis-à-vis the achievement of 
+target output and outcome indicators in the programme districts in this section.  
+The programme was able to achieve the utilization as well as physical progress milestones in access to safely 
+managed sanitation facilities. However, resource mobilization is a key challenge in equipping primary schools 
+and HCFs with basic WASH facilities according to the national standard. Also, UNICEF has got strategic shift 
+and not supporting any hardware in the institutions (Schools/HCFs) and focussed only on policy level issues. 
+This was reflected in the target to achievement ratios in case of HCFs and schools. 
+We find that there is scope for improvement in efficiency in terms of performance ratio.7,8 In terms of areas of 
+improvement, creating and maintaining a database for outcomes along with data on funds utilization would help 
+in tracking progress. 
+Another efficiency component in WASH could be accelerating engagement with local manufacturers in 
+production of low-cost (economic) sanitation equipment. For example, UNICEF has been promoting sanitation 
+markets at local level in collaboration with an implementing NGO. Local latrine producers are provided access 
+to funds through micro-entrepreneurs, micro-finance institutions and NGOs. Another example is the provision of 
+legal water points for urban slum dwellers in collaboration with Dhaka WASA and UNICEF. Further, UNICEF’s 
+ 
+7 Performance ratio = achieved/target; budget consumption = expenditure/allocated 
+8 As per the value for money analysis, the performance ratio was low in 2020 for providing basic sanitation facilities in: (i) primary schools (6%), (ii) HCFs (4%), 
+secondary schools (44%) 
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+collaboration with KTH (Swedish Royal Institute of Technology) for developing capacity of local drillers on 
+arsenic safe drilling is another important example of successful local capacity building. 
+Impact: Under this evaluation criterion, the evaluators have assessed contribution of the WASH Programme 
+towards achievement of programme objectives. Using the MICS data of two years (2012 and 2019), the 
+evaluators have conducted a difference-in-difference (DID) analysis comparing the priority and non-priority 
+districts across two time periods. The analysis shows improvement of access to WASH facilities and reduction 
+in WASH gaps in targeted programme areas. The programme contributed to successfully ensuring an 
+increased use of safely managed WASH facilities through service delivery, awareness programmes, hygiene 
+promotion programmes, trainings, adoption of the three-star approach in schools, community engagements 
+through social media, tax exemption of MHM products, etc. Along with other actors in the WASH sector, 
+UNICEF’s interventions have positively contributed to ‘improved and equitable access to safe drinking water 
+and sanitation’.  
+Evaluators also find corroboration on UNICEF’s positive contribution from the responses of respondents from 
+communities in targeted areas. Respondents report that the programme has contributed to increasing the 
+proportion of schools and HCFs providing gender segregated sanitation facilities. Additionally, the respondents 
+report that there has been an increase in awareness about MHM among communities, and reduction in dropout 
+of adolescent schoolgirls during the last four years. Additionally, UNICEF has played a crucial role as a 
+coordinator and policy advocate, through the WASH in Schools programme. Through the three-star approach, 
+schools were encouraged to ensure handwashing with soap, access to safe drinking water, and access to 
+clean, gender-segregated and child-friendly toilets at school. At the community level the respondents report that 
+there has been a substantial increase in the awareness of safe water practices and more equitable access to 
+safe drinking water. 
+UNICEF has also contributed to improvement of access to safe water in urban areas. Korail LIC model is one 
+such example, which addressed the issue of lack of access to legal water connections and safe sanitation in 
+the urban slums and LICs. The Korail model, may be upscaled to all urban slums and LICs, which cannot 
+access legal and safely managed WASH facilities. 
+Sustainability: Under this evaluation criterion, evaluators have assessed whether the interventions under the 
+WASH programme will continue and the positive contributions will last after the exit of the programme. In this 
+section, the following components of the programme have been assessed: M&E system, market-based 
+approaches, community participation, capacity building, and behavior change. 
+The programme has assisted the government in implementing monitoring systems to some extent for WASH 
+interventions. However, this can be further bolstered by integrating a robust M&E system at sub-national level.  
+There is a need to scale-up market-based approaches and promote participation of private sector through 
+policy advocacy for long-term sustainability. Local entrepreneurs and communities can be encouraged to 
+participate in sanitation markets and businesses to develop WASH market as a long-term strategy aimed at 
+sustainability of the sanitation interventions. 
+Sustainable WASH interventions require emphasis on behavior change. Evaluators find that UNICEF has 
+focused on several awareness campaigns in the priority districts. As reported by the respondents in 
+communities surveyed, this has contributed to improved social norms on the use of safe water and safe 
+sanitation and hygiene practices. UNICEF has also supported the government entities particularly DPHE and 
+LGD in capacity building and programme implementation at the local level. This has positively contributed to 
+sustainability of the positive practices at the institutional level. 
+Cross-cutting themes: Relevant cross-cutting issues such as gender9, climate change, urbanization and 
+population youth trends have been targeted by the WASH programme.  
+UNICEF has been making constant efforts to make their WASH programme gender-responsive and socially 
+inclusive. This is reflected in the programme commitment to reduce existing gender-based inequality and 
+provide effective, efficient, and sustainable WASH services to all.  
+Increased demand for the WASH facilities in the urban areas is one of the key challenges for Bangladesh’s 
+WASH sector. Issues in urban areas like lack of fecal sludge management (FSM) need to be addressed 
+through engaging with the government (specifically, the ULBs).  
+ 
+9 For Gender considerations, we have included only key findings in this report. A stand-alone Gender Analysis report has been provided as deliverable of this 
+evaluation assignment. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There is further scope to build climate-resilient service delivery models to make WASH facilities more 
+sustainable.  
+Lessons learned: The following lessons were learned from evaluation of the GoB-WASH Programme 2017-
+2020.  These are more widely applicable for capacity enhancement process in the WASH sector: 
+• 
+Clear understanding and coordination between all stakeholders of the programme regarding their roles and 
+responsibilities as the programming has ensured efficient implementation and timely completion of 
+outcomes. The programme involved active participation of the communities, youth, religious leaders, 
+schoolteachers, and women in policy framework and implementation.  
+• 
+Encouraging and upscaling market-based approach has improved access to raw materials for WASH 
+infrastructure through promoting local micro-entrepreneurs. 
+• 
+Engagement in PPP arrangements has helped in providing sustainable access to water supply and 
+sewerage services in the low-income urban areas.  
+Recommendations: The evaluators provide the following recommendations and sub-recommendations after 
+consultation, joint validation and refinement sessions with UNICEF WASH team and key stakeholders from the 
+GoB.  
+1. Development of a robust M&E system for tracking coverage of WASH infrastructure in terms of 
+availability, functionality, and quality. (Stakeholder: UNICEF, DPHE, Municipalities and BBS; Priority: 
+High)  
+a. Create a more robust M&E system so that evidence generation on WASH service coverage within the 
+prioritized/targeted districts for the period of programme implementation is available. Specifically, the 
+data collection may be strengthened at levels of (i) urban slums and union level, and (ii) WASH in 
+Institutions (Schools and HCFs) 
+b. Conduct evidence generation for monitoring the progress and evaluating UNICEF interventions in 
+WASH sector within each country programme cycle. 
+c. Capacity building to administer and oversee the M&E system at the national and sub-national level.  
+d. Create an M&E system that is GESI (gender equity and social inclusion) aware and envision the design 
+and creation of indictors that can be disaggregated by gender as also other vulnerable or marginalized 
+communities in the targeted areas. 
+2. Scale-up market-based approaches10 and promote participation of private sector through policy 
+advocacy for long-term sustainability. (Stakeholder: UNICEF, other implementing agencies, private 
+sector; Priority: High) 
+a. Advocate for a low interest sanitation financing policy for households and entrepreneurs through MFIs.  
+b. Encourage increased participation of local entrepreneurs and communities to develop the WASH 
+market as a long-term strategy aimed at sustainability of the WASH programme.  
+c. Promote affordable and climate resilient sanitation products in disaster prone areas by training 
+entrepreneurs and encouraging them to scale up the production as per the demand. 
+3. Develop and promote low cost, climate resilient and suitable11 WASH technologies to improve 
+accessibility of WASH services to the poor12, residents of urban slums and hard to reach (HtR) 
+areas. (Stakeholder: DPHE, PSB, Ministry of Local Government and Rural Development, UNICEF, and 
+other implementing agencies; Priority: High) 
+a. Promote designing, production, and availability of low-cost WASH technologies such as reusable MHM 
+pads, low-cost improved latrines, mid-range offset toilets with durable superstructure, affordable septic 
+tanks, etc. Technologies developed by the private sector such as SATO taps and pans could be 
+effective solutions for water scarce areas. 
+b. Provide legal water connections and fecal-sludge management in the urban slums. 
+4. Policy advocacy for factoring in the costs associated with climate change issues into the WASH 
+budget. (Stakeholder: UNICEF; Priority: Medium) 
+a. Include the cost for climate change issues such as contamination of ground water and breakage of 
+WASH infrastructure during natural disasters13, depletion of ground water during droughts, etc. into the 
+WASH budget 
+ 
+10 Sanitation Marketing Systems (SanMarkS) approach was adopted initially in six districts, namely, Rangpur, Bogra, Rajshahi, Barisal, Khulna and Sunamganj 
+districts as per the approved project under the Development Project Proforma (DPP) between UNICEF and the Local Government Division (LGD) of 
+Bangladesh Government in November 2015. 
+11 Examples of affordable sanitation technologies include plastic SATO pans (USD 1.5), gooseneck plastic pans (USD 0.12-USD 1.06); Source: Sanitation 
+market analysis report, UNICEF, 2020 
+12 By poor, we refer to the poorest in the wealth quantile index provided in the chapter 4 of the Bangladesh Bureau of Statistics (BBS) and UNICEF 
+Bangladesh. 2019. Progotir Pathey, Bangladesh Multiple Indicator Cluster Survey 2019, Survey Findings Report. Dhaka, Bangladesh: Bangladesh Bureau of 
+Statistics (BBS). 
+13 Natural disasters such as Floods, cyclones, storms etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Increasing women entrepreneurship in sanitation markets and their participation in decision 
+making positions. (Stakeholder: UNICEF and other implementing agencies; Priority: Medium) 
+a. Adopt a pro-active and gender-sensitive approach to employ more female staff at the decision-making 
+positions in the WASH programme at the community level.  
+b. Provide training to women entrepreneurs to (i) strengthen the WASH market supply chain and (ii) make 
+women key value chain actors in the sanitation market. 
+6. Maintain WASH budget heads at a disaggregated level to better monitor and evaluate the expenses 
+for all WASH outputs and outcomes. (Stakeholder: MoLGRDC, GoB, UNICEF; Priority: Medium) 
+a. Conduct annual budget tracking study and national and sub-national accounting for WASH sector 
+specifically.  
+b. Informed decisions on funding requirements and utilization for ensuring quality and sustainability of the 
+WASH sector may be taken by the Government as well as UNICEF, by tracking expenditures in the 
+WASH sector of all stakeholders14. This will help in better monitoring of efficient and effective public 
+spending in the WASH sector. 
+ 
+14 Stakeholders include the donors, implementing partners, NGOs and communities 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Structure of the report 
+Chapter number 
+Chapter name 
+Content 
+Chapter 1 
+Introduction 
+Chapter 1 gives an overview of the WASH sector in 
+Bangladesh and GoB-UNICEF WASH programme 
+Chapter 2 
+Evaluation description 
+This section delineates the purpose, objective, and scope of 
+the assessment 
+Chapter 3 
+Methodology for evaluation 
+In this chapter, the methodology adopted for the evaluation is 
+described. This chapter also includes the description on 
+ethical considerations and evaluation management. 
+Chapter 4 
+Evaluation findings 
+The key findings of the evaluation are discussed in detail 
+based on different criteria including relevance, effectiveness, 
+impact, efficiency, and sustainability. 
+Chapter 5 
+Conclusion 
+This chapter presents a summary of key findings 
+Chapter 6 
+Lessons learned 
+Key lessons learned are presented in this chapter 
+Chapter 7 
+Recommendation 
+This section provides the recommendations along with list of 
+stakeholders 
+ 
+ 
+List of Annexes 
+ 
+ 
+ 
+ 
+ 
+Terms of references 
+ToR of the evaluation is given in this section 
+Evaluation Matrix 
+This section provides the mapping of evaluation questions 
+with data source and methodology 
+Literature review 
+This section gives the list of documents reviewed in the 
+evaluation 
+Study tools 
+This section provides the translated study tools employed to 
+collect primary data through community survey, online survey, 
+U-report poll, and key informant interviews (KIIs) 
+Priority district list 
+The list of priority programme districts is given here 
+Quantitative analysis results 
+This section provides the regression output tables 
+Summary of activities 
+undertaken during evaluation 
+phase 
+This section provides the list of activities undertaken during 
+the evaluation 
+List of persons interviewed 
+This section lists the stakeholders interviewed for 
+consultations 
+Gender analysis report 
+This section assesses the gender-focused programming and 
+initiatives undertaken to integrate gender through responsive 
+WASH systems in GoB-UNICEF WASH programme. 
+Value for money (VFM) report 
+Here, the evaluators have presented the value for money 
+(VFM) analysis which assesses the efficiency and 
+effectiveness of the use of resources to achieve intended 
+outcomes of the programme. 
+
+  
+      
+ 
+January 2022 
+PwC 
+  
+10 
+Table of Contents 
+Abbreviations .................................................................................................................................................... 2 
+Executive summary .......................................................................................................................................... 4 
+Structure of the report ...................................................................................................................................... 9 
+1. Introduction .................................................................................................................................................14 
+1.1. Background of current GoB-UNICEF CPD programme (2017-2020) .................................................14 
+1.1.1. Overview ....................................................................................................................................14 
+1.1.2. Programme features ..................................................................................................................15 
+1.1.3. Salient features of the WASH intervention ................................................................................15 
+1.1.4. Demographic patterns and WASH access in prioritized districts ..............................................17 
+1.2. WASH issues in Bangladesh ..............................................................................................................18 
+1.2.1. Issues and challenges in WASH sector ....................................................................................19 
+1.2.2. WASH policies in Bangladesh ...................................................................................................20 
+1.3. Institutional framework of the WASH sector in Bangladesh ...............................................................20 
+2. Evaluation description ...............................................................................................................................21 
+2.1. Purpose of the evaluation ...................................................................................................................21 
+2.2. Objective of the assignment ................................................................................................................21 
+2.3. Scope of the assignment.....................................................................................................................21 
+3. Methodology for evaluation .......................................................................................................................22 
+3.1. Overall approach .................................................................................................................................22 
+3.2. Methodology for addressing key evaluation questions .......................................................................22 
+3.3. Data collection and sampling ..............................................................................................................25 
+3.3.1. Key informant interviews (KIIs) ..................................................................................................25 
+3.3.2. Community survey .....................................................................................................................26 
+3.3.3. Online survey .............................................................................................................................27 
+3.3.4. U-report poll ...............................................................................................................................27 
+3.4. Theory of change ................................................................................................................................27 
+3.5. Evaluation limitations and constraints .................................................................................................30 
+3.6. Ethical considerations .........................................................................................................................31 
+4. Evaluation findings .....................................................................................................................................33 
+4.1. Relevance ...........................................................................................................................................33 
+4.2. Effectiveness .......................................................................................................................................37 
+4.3. Impact ..................................................................................................................................................48 
+4.4. Efficiency .............................................................................................................................................55 
+4.5. Sustainability .......................................................................................................................................59 
+4.6. Cross-cutting themes ..........................................................................................................................61 
+5. Conclusions ................................................................................................................................................64 
+6. Lessons learned .........................................................................................................................................67 
+
+  
+      
+ 
+January 2022 
+PwC 
+  
+11 
+7. Recommendations ......................................................................................................................................68 
+8. List of annexures ........................................................................................................................................71 
+8.1. Terms of reference ..............................................................................................................................71 
+8.2. Evaluation matrix ...............................................................................................................................121 
+8.3. Mapping of key evaluation questions, findings, conclusion and recommendation ...........................134 
+8.4. List of documents reviewed...............................................................................................................147 
+8.5. List of WASH programme stakeholders ............................................................................................148 
+8.6. Technical glossary ............................................................................................................................150 
+8.7. IRB approval letter ............................................................................................................................152 
+8.8. Study tools.........................................................................................................................................153 
+8.8.1. Community survey ...................................................................................................................153 
+8.8.2. Key informant interview ...........................................................................................................163 
+8.8.3. Online survey ...........................................................................................................................168 
+8.8.4. U-report poll .............................................................................................................................175 
+8.9. Priority district list ..............................................................................................................................176 
+8.10. Outcome wise demographic distribution in priority districts ............................................................177 
+8.11. WASH indicators in the programme districts in 2012 and 2019 .....................................................178 
+8.12. Quantitative analysis results ...........................................................................................................179 
+8.13. Summary of activities undertaken during evaluation phase ...........................................................191 
+8.14. List of persons interviewed..............................................................................................................192 
+8.14.1. List of key informants .............................................................................................................192 
+8.14.2. Interviews at district/upazila level ..........................................................................................193 
+8.14.3. List of respondents from online survey ..................................................................................195 
+8.15. Gender analysis report ....................................................................................................................198 
+8.16. Value for money (VFM) report ........................................................................................................223 
+ 
+List of Tables 
+Table 1: CPD outcomes and CPD WASH outputs based on lifecycle approach .................................................14 
+Table 2: Key intervention strategies .....................................................................................................................16 
+Table 3: A brief overview of WASH policies in Bangladesh .................................................................................20 
+Table 4: Evaluation questions and methodology ..................................................................................................23 
+Table 5: Sample size of KIIs .................................................................................................................................26 
+Table 6: Sample Size ............................................................................................................................................26 
+Table 7: Ethical issues and mitigation strategies .................................................................................................31 
+Table 8: Access to WASH facilities in the priority and non-priority districts in 2012 and 2019 ............................39 
+Table 9: Achievement status of the CPD targets: WASH progress as a direct support of UNICEF ....................41 
+Table 10: Percentage of total households with access to all WASH facilities ......................................................42 
+Table 11: Proportion test between the respondents agreeing and disagreeing to Gender impacts of WASH ....44 
+Table 12: Proportion test to test the difference between the responses of the male and female respondents ...44 
+Table 13: Programme's response to positive and negative unintended outcomes ..............................................52 
+Table 14: Outcome indicator wise budget consumption .......................................................................................56 
+Table 15: Outcome indicator wise performance ratios .........................................................................................57 
+Table 16: Summary of key VFM findings ..............................................................................................................59 
+Table 17: Mapping of successful interventions with the lessons learned for the programme ..............................67 
+Table 18: Evaluability assessment matrix ..........................................................................................................121 
+Table 19:Mapping of KEQs, key findings, and conclusion .................................................................................134

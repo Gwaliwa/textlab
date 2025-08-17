@@ -1,0 +1,597 @@
+Final Evaluation of UNICEF 
+Education Cannot Wait Program in Whole 
+of Syria (January 2020 - June 2023) 
+Final Evaluation Report 
+12 September 2023 
+ 
+ 
+ 
+ 
+ 
+Commissioned by UNICEF Middle East and North Africa Regional Office (MENARO) 
+Submitted by: The KonTerra Group and RMTeam 
+Key Authors: Dr. Hana Asfour and Darah Masoud 
+
+ 
+Acknowledgements 
+The Evaluation Team and staff of the KonTerra Group and RMTeam wish to express their gratitude to all the United 
+Nations Children’s Fund (UNICEF) staff, particularly those at the Syria Country Office (SCO) who gave their time 
+and insights and helped the Team to better understand the efforts that UNICEF has taken to address the unmet 
+learning needs of children in Syria. The evaluation was facilitated by the support provided by the Evaluation Section 
+at UNICEF’s Middle East and North Africa Regional Office (MENARO). Special thanks to the UNICEF staff working 
+on the program in which this evaluation focuses on who assisted the Team in arranging interviews and focus 
+group discussions with rights holders and key stakeholders and for patiently responding to our queries and 
+providing valuable data and information for analysis. The Team is grateful to all UNICEF partners who shared their 
+insights and perspectives.  
+ 
+The Evaluation Team would also like to take the opportunity to convey our gratitude to all those who contributed 
+to the successful completion of the evaluation. In particular, we thank participants of the validation workshop as 
+well as those who provided written comments for their openness and feedback which enabled production of a 
+quality evaluation.  
+
+ 
+List of Abbreviations 
+AANES 
+Autonomous Administration of Northeast Syria 
+ALP 
+Accelerated Learning Program 
+BTL 
+Back to Learning 
+C4D 
+Communication for Development 
+CCC 
+Core Commitments on Children 
+CEDAW 
+Convention on the Elimination of all Forms of Discrimination against Women 
+CEP 
+Children Education Pathway 
+CLT 
+Central Limit Theorem 
+CO 
+Country Office 
+CRC 
+Convention on the Rights of the Child 
+CRPD 
+Convention on the Rights of Persons with Disabilities  
+CSO 
+Civil Society Organization 
+CwDs 
+Children with Disabilities 
+DPG 
+Donor Partnership Group 
+ECD 
+Early Childhood Development 
+ECHO 
+European Commission for Humanitarian Aid 
+ECW 
+Education Cannot Wait 
+EDF 
+Education Dialogue Forum 
+EF 
+Executive Functioning 
+EiE 
+Education in Emergencies 
+EM 
+Evaluation Manager 
+ESC 
+Evaluation Steering Committee 
+ET 
+Evaluation Team 
+EU 
+European Union 
+F&C 
+Feedback and Complaints 
+FCDO 
+Foreign Commonwealth and Development Office 
+FE 
+Final Evaluation 
+
+ 
+      
+FGD 
+Focus Group Discussion 
+GBV 
+Gender Based Violence 
+GCA 
+Government-controlled areas 
+GEROS 
+Global Evaluation Reports Oversight System 
+GO 
+Government Organization 
+GoS 
+Government of Syria 
+GoT 
+Government of Türkiye 
+GRADE 
+Global Rapid Post-Disaster Estimation 
+HALDO 
+Holistic Assessment for Learning and Development Outcomes 
+HQ 
+Headquarters 
+HNO 
+Humanitarian Needs Overview 
+HR 
+Human Resources 
+HRBA 
+Human Rights Based Approach 
+ICCPR 
+International Covenant on Civil and Political Rights 
+ICESCR 
+International Covenant on Economic, Social and Cultural Rights 
+IDP 
+Internally Displaced Persons 
+ILO 
+International Labour Organization 
+INGO 
+International Non-Governmental Organization 
+KI 
+Key Informant 
+KII 
+Key Informant Interview 
+KRG 
+Kurdistan Regional Government 
+KRI 
+Kurdistan Region of Iraq 
+KSA 
+Kurdish Self Administration 
+
+ 
+      
+MEAL 
+Monitoring, Evaluation, Accountability, Learning 
+MENA 
+Middle East and North Africa 
+MENARO 
+Middle East and North Africa Regional Office 
+MHPSS 
+Mental Health and Psychosocial Support 
+MoSAL 
+Ministry of Social Affairs and Labour 
+MYRP 
+ Multi-Year Resilience Program 
+NES 
+Northeast Syria 
+NFE 
+Non-Formal Education 
+NGCA 
+Non-Government Controlled Areas 
+NGO 
+Non-Governmental Organization 
+NRC 
+Norwegian Refugee Council 
+NWS 
+Northwest Syria 
+OECD/DAC 
+Organization for Economic Co-operation and Development 
+Development Assistance Committee 
+PMU 
+Project Management Unit 
+PSEA 
+Protection form Sexual Exploitation and Abuse 
+PSS 
+Psycho-Social Support 
+PTA 
+Parent Teacher Associations 
+QA 
+Quality Assurance 
+RDNA 
+Rapid Damage and Needs Assessment 
+RM 
+Resource Mobilization 
+RO 
+Regional Office 
+SCO 
+Syria Country Office 
+SDG 
+Sustainable Development Goal 
+
+ 
+      
+SEL 
+Social and Emotional Learning 
+SIG 
+Syrian Interim Government 
+SLP 
+Self-Learning Program 
+TLS 
+Temporary Learning Space 
+TOR 
+Terms of Reference 
+TPM 
+Third Party Monitoring 
+UN 
+United Nations 
+UNEG 
+United Nations Evaluation Group 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization 
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UNRWA 
+United Nations Relief and Works Agency for Palestine Refugees 
+WASH 
+ Water, Sanitation and Hygiene  
+WHO 
+World Health Organization 
+WoS 
+Whole of Syria 
+ 
+
+ 
+Contents 
+EXECUTIVE SUMMARY .................................................................................................................................................. i 
+1. 
+BACKGROUND ....................................................................................................................................................... 1 
+1.1 
+Description of intervention ............................................................................................................................... 1 
+1.2 
+Context of intervention .................................................................................................................................... 2 
+Relevant socio-political determinants ...................................................................................................................... 3 
+Education Needs of Relevant Communities............................................................................................................ 4 
+Earthquakes that struck Türkiye and Syria .............................................................................................................. 5 
+1.3 
+Evaluation purpose, objectives and scope ....................................................................................................... 5 
+2. 
+EVALUATION DESIGN AND METHODOLOGY ...................................................................................................... 6 
+2.1 
+Evaluation Questions and Criteria .................................................................................................................... 7 
+2.2 
+Data Collection, Analysis and Sampling ........................................................................................................... 8 
+2.3 
+Ethical Issues and Considerations ................................................................................................................. 10 
+2.4 
+Methodology for post-earthquake assessment ............................................................................................. 10 
+3. 
+KEY FINDINGS ...................................................................................................................................................... 11 
+3.1 
+Relevance ...................................................................................................................................................... 11 
+Program’s responsiveness to children’s education needs .................................................................................... 12 
+Participant satisfaction with program activities and services ................................................................................ 14 
+Participation of affected populations and stakeholders in design, planning and implementation .......................... 14 
+Flexibility of the program....................................................................................................................................... 15 
+CwD inclusion in program design ......................................................................................................................... 15 
+Addressing shifts in priorities caused by the earthquakes .................................................................................... 15 
+3.2 
+Coherence ..................................................................................................................................................... 17 
+Alignment with existing humanitarian-development responses ............................................................................ 18 
+Alignment with existing education opportunities .................................................................................................. 18 
+Coherence of project implementation with ECW target outcomes ...................................................................... 19 
+3.3 
+Effectiveness ................................................................................................................................................. 19 
+Outcome 1: Girls and boys access more equitable learning opportunities ........................................................... 20 
+Outcome 2: Girls and boys acquire foundational, socio-emotional and life skills .................................................. 24 
+Outcome 3: Girls and boys access more equitable learning opportunities ........................................................... 29 
+Outcome 4: Resource mobilization ....................................................................................................................... 29 
+Safeguarding and ethical issues ............................................................................................................................ 30 
+Internal/external factors affecting achievement of outcomes ............................................................................... 31 
+3.4 
+Efficiency ....................................................................................................................................................... 31 
+Program implementation according to planned timelines and budget .................................................................. 32 
+Distributing resources in an equitable manner ...................................................................................................... 33 
+Strategies to improve effective allocation and use of resources ........................................................................... 33 
+Timeliness of post-earthquakes support ............................................................................................................... 35 
+3.5 
+Cross-Cutting Issues, Gender, Human Rights and Disability ......................................................................... 35 
+Ensuring continued learning to vulnerable groups ................................................................................................ 36 
+WhatsApp groups for distance learning program .................................................................................................. 37 
+Access to learning for CwDs ................................................................................................................................. 37 
+Capacities of teachers to apply student centred learning for CwDs ..................................................................... 37 
+Uniformity in identification and response to CwDs ............................................................................................... 38 
+Gender and inclusionary considerations ................................................................................................................ 38 
+3.6 
+Coordination ................................................................................................................................................... 40 
+
+ 
+ 
+Coordination mechanisms within the program ..................................................................................................... 40 
+Partnerships with other actors .............................................................................................................................. 40 
+3.7 
+Coverage ........................................................................................................................................................ 41 
+Coverage of most urgent locations and population groups and gaps .................................................................... 41 
+Gaps in pre-primary and secondary education and needs related to older children .............................................. 42 
+Inclusion of CwDs ................................................................................................................................................. 43 
+Open versus closed selection of partners ............................................................................................................. 43 
+4. 
+CONCLUSIONS .................................................................................................................................................... 44 
+5. 
+LESSONS LEARNED ............................................................................................................................................ 45 
+6. 
+RECOMMENDATIONS ......................................................................................................................................... 46 
+7. 
+ANNEXES.............................................................................................................................................................. 48 
+Annex 1. 
+Evaluation terms of reference (TOR) ................................................................................................... 48 
+Annex 2. 
+Stakeholders identified ........................................................................................................................ 60 
+Annex 3. 
+Evaluation methodology ...................................................................................................................... 63 
+Annex 4. 
+Documents shared .............................................................................................................................. 77 
+Annex 5. 
+Ethical protocol and safeguarding ....................................................................................................... 80 
+Annex 6. 
+RMTeam COVID-19 procedures.......................................................................................................... 83 
+Annex 7. 
+Ethical approval certificate .................................................................................................................. 84 
+Annex 8. 
+Information sheet and informed consent forms .................................................................................. 85 
+Annex 9. 
+Interview guides .................................................................................................................................. 99 
+9.1. Interview Questions for UNICEF staff and Implementing Partners ............................................................... 99 
+9.2. 
+Interview Guide for Interviews with Donors ............................................................................................ 103 
+9.3. 
+Interview Guide for Interviews Key Informants External to the Program ................................................. 104 
+9.4. 
+Interview Guide for Interviews with Key Informants Involved in the Program ......................................... 105 
+9.5. 
+Interview Guide for FGDs with rights holders Aged 7-17 ......................................................................... 107 
+9.6. 
+Interview Guide for FGDs with Parents, Caregivers and/or Guardians ..................................................... 110 
+9.7. 
+Interview Guide for FGDs with Teachers and Education Personnel ......................................................... 113 
+9.8. 
+Interview Guide for FGDs with PSS Workers ........................................................................................... 116 
+9.9. 
+Children’s Survey ..................................................................................................................................... 119 
+9.10 
+Teachers’ Survey .................................................................................................................................. 136 
+9.11. 
+Classroom Observation Checklist ......................................................................................................... 157 
+9.12. 
+Observation Checklist ........................................................................................................................... 177 
+Annex 10. 
+Evaluation sample and data collection methods................................................................................ 179 
+Annex 11. 
+Evaluation matrix ............................................................................................................................... 186 
+Annex 12. 
+Results framework Up to December 2021 ....................................................................................... 197 
+Annex 13. 
+Classroom learning environment....................................................................................................... 203 
+Annex 14. 
+List of documents reviewed ............................................................................................................. 205 
+Annex 15. 
+Post-Earthquake Evaluation Observation Checklist ........................................................................... 206 
+ 
+Table of tables 
+Table 1 Description of ECW Program ............................................................................................................................. 1 
+Table 2 Implementation modality ................................................................................................................................... 2 
+Table 3 Overview of ECW program partners by hub and implementation area ............................................................. 2 
+Table 4 Types of Curricula Administered in Syria (Formal and Non-Formal) ................................................................... 3 
+
+ 
+ 
+Table 5 Limitations and mitigation measures ................................................................................................................. 6 
+Table 6 Main evaluation questions. ................................................................................................................................ 7 
+Table 7 Primary data collection sampling ....................................................................................................................... 8 
+Table 8 Overview of UNICEF ECW learning facilities in earthquake-affected locations ............................................... 11 
+Table 9 Overview of Earthquake-damaged learning facilities and implications for access to the ECW program ......... 16 
+Table 11 School infrastructure (teacher and student survey) ....................................................................................... 20 
+Table 12 Overview of observed adaptations ................................................................................................................ 21 
+Table 13 Program achievements in gender and inclusion considerations .................................................................... 38 
+Table 14 Classroom learning environment structure – GCA ....................................................................................... 203 
+Table 15 Classroom learning environment structure - NGCA ..................................................................................... 203 
+ 
+Table of figures 
+Figure 1 Types of Curricula Administered in Syria - MEI ................................................................................................ 3 
+Figure 2 How teachers assess student progress ......................................................................................................... 13 
+Figure 3 Effectiveness of assessment practices to inform of students’ progress. ...................................................... 13 
+Figure 5 LC4 Primary School - Idleb ............................................................................................................................. 16 
+Figure 4 LC4 Primary School - Idleb ............................................................................................................................. 16 
+Figure 6 LC5 Primary School - Idleb ............................................................................................................................. 17 
+Figure 7 Wheelchair access to schools (student survey) ............................................................................................. 21 
+Figure 8 Teachers’ access to teaching aids (% of teachers) ........................................................................................ 23 
+Figure 9 Use of images to illustrate literacy and numeracy concepts as reported by students ................................... 23 
+Figure 10 Type of training received by teachers........................................................................................................... 25 
+Figure 11 Change in teachers' practices as a result of trainings .................................................................................. 26 
+Figure 12 Activities in literacy and numeracy lessons reported by students ................................................................ 26 
+Figure 13 Teachers’ reported difficulty with implementing interactive teaching strategies in the classroom (of those 
+trained) ......................................................................................................................................................................... 28 
+Figure 14 Student reports of how teachers would react students fighting .................................................................. 30 
+Figure 15 Types of feedback and complaints mechanisms during facility checks (# of facilities) ................................ 34 
+Figure 16 Participation of students in the distance learning program........................................................................... 36 
+Figure 17 ECW Seed Fund results framework ............................................................................................................. 50 
+
+i 
+ 
+EXECUTIVE SUMMARY 
+Overview 
+i. 
+The Education Cannot Wait (ECW) Seed Fund program1 is an initial investment under the Multi Year 
+Resilience Program Plan (MYRP). The MYRP aims to (re)engage children aged 3 to 17 in learning by 
+providing equitable access to safe and inclusive learning spaces where children can acquire the 
+foundational, socio-emotional, life and, where relevant, vocational skills necessary to continue their 
+education and be prepared for adult life. The ECW was implemented over a three-year and six-month period 
+(January 2020 -September 2023). It addresses specific critical interventions that build on lessons learned 
+and achievements from previous ECW investments in Syria which ended in September 2019.2 UNICEF is 
+the lead grant holder of the ECW program. The programme is jointly managed by a Programme 
+Management Unit (PMU) composed of two grantees, UNICEF and the second grantee. Activities are 
+implemented directly as well as through contracted service providers and partners.  
+ii. 
+The ECW program supported education programming in formal non-accredited education or non-formal 
+education (NFE) settings. UNICEF is implementing the ECW in seven governorates, namely: Idleb, Aleppo, 
+Al-Hasakeh, Ar-Raqqa, Deir-ez-Zor, Hama, and Homs. The reach includes 80,558 directly supported children 
+(40,109 girls) and 5,126 intermediate supported children (2,266 girls). This represents slightly over 100 per 
+cent of the cumulative target.3 Of these, UNICEF has reached 69,453 (34,668 girls) (as of August 2022).  
+iii. 
+These activities seek to respond to the urgent educational needs of children in Syria, where approximately 2 
+million children in Syria (40 per cent girls) are out of school, and an additional 1.5 million are at risk of 
+dropping out.4 Child labor remains a key reason for children being out-of-school in all regions in Syria, with 
+nearly 48 per cent of children not attending school due to child labour/work to support the household. Early 
+and forced marriages have increased across Syria, compounding barriers to accessing education and 
+detracting from achievement of SDG5 (Gender Equality).5 The fragmented educational system poses 
+particular challenges for internally displaced persons (IDPs) to smoothly transfer or integrate into the 
+education systems which vary by area.  
+iv. 
+Program activities are organized around four outcomes with related activities. First, the program seeks to 
+equitably respond to the educational needs of girls and boys (Outcome 1) through light rehabilitation of 
+learning spaces to make them safer and more accessible, providing transportation and equipping learning 
+spaces with adequate learning and teaching supplies. At the same time, the program sought to improve 
+teacher capacity to deliver foundation, socio-emotional and life skills (Outcome 2) through training and 
+financial support combined with establishing referral pathways to specialised protection services. UNICEF 
+temporarily paused ECW activities following devastating earthquakes that hit Syria and Turkey in February 
+2023 with a subsequent reprioritization of responses.  
+v. 
+The program also sought to support more equitable learning opportunities for the education sector in Syria 
+more broadly (Outcome 3) with UNICEF responsible for the development of a summative or placement 
+assessment tool. Activities have been delayed as the PMU sought to meet the immediate needs of rights 
+holders over support to education sector members. Outcome 4-resource mobilization, aimed to encourage 
+the continuation of funding from traditional and non-traditional donors, including the private sector, to 
+support the bridging of the funding gap. Activities under this outcome have also been delayed. 
+vi. 
+The main purpose of this Final Evaluation (FE) is to support the PMU of UNICEF, partners and donors in 
+evaluating the results achieved; helping to identify gaps and key bottlenecks; and assessing the extent to 
+which the implementation of the ECW Program in the Whole of Syria has been equitable and inclusive.6 
+ 
+ 
+1 Also referred to as the ECW program. 
+2 Syria MYRP Final Proposal, December 2019.  
+3 This reach is the unique number of children without double counting between the two program years: Year one (January 2020 to 
+June 2021) and Year two (July 2021 to June 2022). 
+4 OCHA. Syrian Arab Republic. 2023 Humanitarian Needs Overview . 2022. 
+5 United Nations Human Rights Office of the High Commissioner. Gendered impact of the conflict in the Syrian Arab republic on 
+women and girls. UN OCHR. 2032. 
+6 As specified in the terms of reference (TOR). See Annex 1 
+
+ 
+ 
+Furthermore, the evaluation intends to assess whether it has been implemented in an efficient, effective, 
+and well-coordinated manner.  
+vii. 
+The objective of this FE is to provide accountability to donors and rights holders, 
+including IDPs and host communities, with respect to whether activities, through the 
+implementation of the ECW program, are fit for purpose in response to the education 
+needs of Syrian children, adolescent girls and boys. While there was no dedicated 
+objective of assessing the contribution to human rights and gender equality, this has 
+been mainstreamed within the aforementioned objectives with cross-cutting issues 
+explored as a standalone evaluation criterion. The evaluation is timely for UNICEF and 
+the donor, the primary intended users, to use findings to inform learning for designing 
+and implementing the next phase of the ECW program. 
+viii. 
+This evaluation applied a mixed-methods approach that was participatory, inclusive and 
+respondent-group sensitive. Primary data was collected in both government controlled 
+areas (GCA) and non-government controlled areas (NGCA) with data collection taking 
+place between February and June 2023. Data collection involved a thorough desk 
+review in combination of remote and face to face methods including key informant 
+interviews (KIIs), focus-group discussions (FGDs), quantitative surveys, and classroom 
+and facility observations. Following the earthquakes, UNICEF requested a contract 
+extension to conduct a post-earthquake assessment including a light desk review and 
+direct observations. 
+ix. 
+Evaluation findings were derived from analysis of a wide range of primary and 
+secondary data sources for triangulation to reduce potential bias and strengthen 
+credibility of findings. The evaluation was guided by the United Nations Evaluation 
+Group (UNEG) ethical standards for evaluation. The ET referred to relevant guidance to ensure appropriate 
+data collection protocols were in place to protect child participants.7 Findings were consistently 
+disaggregated by gender.  
+x. 
+Key findings and Conclusions 
+xi. 
+Key findings and conclusions (in bold) are presented below, organized by evaluation criteria.  
+xii. 
+Program activities were relevant to the educational and psycho-social support (PSS) needs of children in 
+program areas as well as emerging needs. UNICEF and partners took several steps to ensure program 
+relevance including seeking feedback from rightsholders, assessing learning outcomes and adapting 
+programming to shifts in the operating context. However, the fact that the program did not dedicate a 
+specific component for children with disabilities (CwDs) in its initial design meant that the responsiveness 
+of the program to the needs of CwDs has not been prioritized nor systematic. The limited involvement of 
+rightsholders -particularly those who are most vulnerable such as CwDs, IDPs and caregivers representing 
+them – during decisions on what activities to implement in the design phase (proposals) was a limiting 
+factor in ensuring relevance. 
+xiii. 
+Following the earthquakes, UNICEF took swift action in prioritising responses for the most urgent needs to 
+support the safe re-opening of schools. This included the identification of the need to provide for children 
+and teachers with psychosocial support and health and safety awareness. UNICEF’s rapid post-earthquakes 
+response was relevant given the damage to physical infrastructure as a result of the earthquakes, as 
+reported in the SitReps and confirmed through school observations. 
+xiv. 
+The program as it was designed is coherent with other humanitarian responses and clusters though 
+implementation is not always standardized beyond meeting minimum standards. Harmonisation requests 
+need to be assessed in light of the operational context. Standardisation of implementation depends heavily 
+on the different realities on the ground and the operational context in general, which vary greatly from one 
+ 
+ 
+7 UNICEF’s pre-existing ‘Strategic Guidance Note on Institutionalizing Ethical Practice for UNICEF Research,’ and the ‘Evaluation 
+Technical Note No. 1, Children Participating in Research, Monitoring and Evaluation’ to ensure ethical safeguards were respected 
+concerning data collection with children. Data collection took place in compliance with UNICEF and Child Watch International 
+Research Network (et al)’s ‘Ethical Research Involving Children’ – specifically in the areas of ‘Harms and Benefits’ 
+28 FGDs (182 
+participants, 51 
+per cent 
+girls/women)
+23 KIIs with duty 
+bearers
+35 observations
+50 teacher 
+surveys (42 per 
+cent women)382 
+student surveys 
+(55 per cent girls) 
+Post-earthquake 
+assessment
+
+ 
+ 
+area to the next. Therefore, aligned implementation is only possible to a degree and should focus on setting 
+minimum standards rather than full alignment across all contexts. 
+xv. 
+Donor funding interests are not wholly consistent with needs in the supported areas, especially regarding 
+early child development (ECD) and secondary education and vocational learning opportunities. The 
+Education Response Snapshot issues by the Whole of Syria Cluster called for support for community based 
+ECD and opportunities for adolescents, both of which are currently absent from the ECW. According to 
+interviewed staff, the primary reasons cited were the lack of donor appetite to fund these activities and the 
+absence of ECD and secondary NFE curriculum. It was also highlighted that donor requirements and 
+parameters can at times limit the interventions UNICEF can provide. 
+xvi. 
+The program has been effective in extending learning opportunities and improving learning outcomes for 
+affected populations meeting or surpassing most program output and outcome targets. Overachievement 
+in student participation and learning outcomes is a positive indication of the ECW program effectiveness. 
+However, differences in inclusion and learning outcomes shows that vulnerable populations, particularly 
+CwDs, have not been as effectively supported. Despite systematic investigation throughout primary and 
+secondary data collection, no unintended effects were identified. 
+xvii. 
+Teachers are largely positive about the effectiveness of training and learning circles in improving teaching 
+and PSS capacities. Positive changes in teaching strategies can be observed and are appreciated by 
+students despite teaching practices remaining largely teacher centred as opposed to more active learning 
+strategies that involve higher order thinking skills. Stipends provided to teachers, although greatly valued, 
+were reported to not be adequate to meet teachers needs and approximately a third of surveyed teachers 
+reporting delays in payment delivery. Many teachers interviewed mentioned that they would leave their 
+current jobs if they found other opportunities with higher salaries, even if they were not in their fields. 
+Space and materials to implement interactive teaching methods remain a primary challenge reported by 
+teachers.  
+xviii. 
+Protection form Sexual Exploitation and Abuse (PSEA) and child protection mechanisms were in place, as 
+were referral mechanisms used to refer children in need of specialized care. However, it is not clear from 
+monitoring data to what extent they were followed. Findings from the teacher survey show gaps in PSS 
+training, referrals for students as well as in teacher capacity to identify PSS systems. Teachers used non-
+violent methods to manage classroom behaviour, with a few exceptions of corporal punishment. In 
+contrast, children frequently reported parents’ use of corporal punishment.  
+xix. 
+While most activities were cancelled or delayed under Outcome 4: resource mobilization, a major 
+achievement was the October 2023 meeting as it brought the donors together to discuss key challenges to 
+implementation. This advocacy effort aimed at improving and/or clarifying the current red lines to enable 
+better alignment of program activities with financial restrictions on use of funds for the renewal program. 
+The meeting also facilitated coordination among donors.  
+xx. 
+Most outcomes and outputs targets were achieved indicating efficient use of resources despite internal and 
+external factors affecting implementation. UNICEF’s establishment of standards and mechanisms, their 
+flexibility in responding to changing context, and the establishment of feedback and complaints 
+mechanisms and third-party monitoring (TPM) helped ensure compliance, accountability and efficiency. 
+However, implementation varied across learning centres and very few accountability mechanisms were 
+observed or reported to be sufficiently inclusive.  
+xxi. 
+As cluster lead/co-lead for the Water, Sanitation and Hygiene (WASH), Nutrition and Education clusters, 
+UNICEF was at the forefront of ensuring that assessments were rapidly undertaken to assess damage to 
+learning facilities following the earthquake and ensuring that facilities would be safe for children to return. 
+UNICEF worked collaboratively with partners to rapidly identify the impacts of the earthquakes on the ECW 
+program and responded in a timely manner to address a range of needs which ensured minimal disruption 
+to continued learning. 
+xxii. 
+The program showed attention to cross-cutting issues, involving a broad range of persons with acute 
+humanitarian and education needs. Boys and girls were reached equitably. Inclusion of IDPs (63 per cent of 
+rightsholders) demonstrates the program’s success in including marginalised groups. Currently, referral 
+services are providing an essential link for CwDs to access more specialized services; it is anticipated that 
+the eventual roll out of the capacity building plan would address current inconsistencies in identification and 
+response.

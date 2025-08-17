@@ -1,0 +1,590 @@
+1 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OF THE 
+STRENGTHENING 
+CHILDREN’S ONLINE 
+SAFETY PROGRAMME IN 
+SOUTH AFRICA 
+ 
+ 
+FUNDED BY THE GLOBAL 
+PARTNERSHIP  
+ 
+ 
+ 
+ 
+ 
+Prepared by Madri Jansen van Rensburg 
+Evaluation Consultant  
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNICEF SOUTH AFRICA 
+May 2022 
+
+ 
+ 
+ 
+2 
+EVALUATION OF THE STRENGTHENING CHILDREN'S ONLINE SAFETY PROGRAMME IN 
+SOUTH AFRICA 
+Final Report 
+ 
+© United Nations Children’s Fund, South Africa, 2022 
+United Nations Children’s Fund South Africa 
+659 Pienaar Street, Brooklyn 
+Pretoria, 0181 
+ 
+May 2022 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF South Africa Country Office is to 
+fulfil a corporate commitment to transparency through the publication of all completed evaluations. The 
+reports are designed to stimulate a free exchange of ideas among those interested in the topic and to 
+assure those supporting the work of UNICEF that it rigorously examines its strategies, results, and overall 
+effectiveness.  
+ 
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for 
+any errors. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, 
+its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF 
+has a formal permission policy that requires a written request to be submitted. For non-commercial uses, 
+the permission will normally be granted free of charge. Please write to the UNICEF South Africa Country 
+Office at the address below to initiate a permission request.  
+ 
+Attribution: Please cite the work as follows: UNICEF. 2022. “Evaluation of The Strengthening Children’s 
+Online Safety Programme in South Africa”. UNICEF South Africa, Pretoria. 
+ 
+For further information, please contact: 
+ 
+Evaluation Office 
+United Nations Children’s Fund South Africa 
+659 Pienaar Street, Brooklyn 
+Pretoria, 0181 
+pretoria@unicef.org  
+ 
+ 
+
+ 
+ 
+ 
+3 
+Contents  
+TABLES AND FIGURES ............................................................................................................................... 6 
+ACRONYMS ................................................................................................................................................. 7 
+Background ................................................................................................................................................... 9 
+Evaluation methodology .............................................................................................................................. 10 
+Key conclusions on findings ........................................................................................................................ 10 
+Recommendations .................................................................................................................................. 12 
+2.1 Child welfare and safety globally ...................................................................................................... 16 
+2.2 Violence against children in South Africa, policies, and interventions .............................................. 16 
+2.3 Online violence .................................................................................................................................. 17 
+3.1 Programme assumptions .................................................................................................................. 24 
+4.1 Aim, purpose, and objectives ............................................................................................................ 26 
+4.1.1 Audience and use of evaluation findings ................................................................................... 26 
+4.2 Scope of the evaluation..................................................................................................................... 27 
+4.3 Assumptions of the evaluation .......................................................................................................... 28 
+5.1 Theoretical basis of evaluation ......................................................................................................... 29 
+5.1.1 Working conceptual framework for evaluation ........................................................................... 29 
+5.2 Programme Theory of Change ......................................................................................................... 30 
+6.1 Evaluation criteria and questions ...................................................................................................... 32 
+6.2 Data collection methods .................................................................................................................... 33 
+6.2.1 Desk review ................................................................................................................................ 33 
+6.2.2 Primary and secondary data from other sources ....................................................................... 33 
+6.2.3 Key informant interviews ............................................................................................................ 34 
+6.2.4 Online surveys ........................................................................................................................... 35 
+6.3 Tools.................................................................................................................................................. 35 
+6.4 Analytical approaches ....................................................................................................................... 36 
+6.4.1 Data analysis .............................................................................................................................. 36 
+6.4.2 Integration, triangulation, and data saturation ........................................................................... 38 
+6.4.3 Trustworthiness .......................................................................................................................... 38 
+6.5 Ethics and quality assurance processes ........................................................................................... 39 
+6.5.1 Ethics .......................................................................................................................................... 39 
+6.5.2 Quality assurance ...................................................................................................................... 40 
+6.6 Evaluation management and logistics .............................................................................................. 40 
+6.6.1 Phases of work and time schedule ............................................................................................ 40 
+
+ 
+ 
+ 
+4 
+6.6.2 Consultant and responsibilities .................................................................................................. 40 
+6.6.3 Management and logistical support ........................................................................................... 41 
+6.7 Challenges, gaps, and limitations ..................................................................................................... 41 
+6.7.1 Challenges ................................................................................................................................. 41 
+6.7.2 Gap ............................................................................................................................................. 42 
+6.7.3 Limitations .................................................................................................................................. 42 
+7.1 General findings .................................................................................................................................... 43 
+7.2 Progress towards results....................................................................................................................... 47 
+7.2.1 Outputs ....................................................................................................................................... 47 
+7.2.2 Outcomes ................................................................................................................................... 52 
+7.2.3 Impact......................................................................................................................................... 55 
+7.2.4 Activities incomplete ................................................................................................................... 55 
+7.2.5 Excluded stakeholders ............................................................................................................... 55 
+7.3 Relevance ............................................................................................................................................. 56 
+7.3.1 Equity and gender responsiveness ............................................................................................ 57 
+7.4 Coherence ......................................................................................................................................... 58 
+7.5 Effectiveness ..................................................................................................................................... 59 
+7.6 Efficiency ........................................................................................................................................... 62 
+7.7 Sustainability ..................................................................................................................................... 63 
+8.1 System description ............................................................................................................................ 65 
+8.1.1 
+System structure - coherence and boundaries ................................................................... 65 
+8.1.2 System dynamics - interrelatedness .......................................................................................... 66 
+8.2 System changes ................................................................................................................................ 69 
+8.3 Leverage points - capacitating and protecting children .................................................................... 71 
+9.1 Conclusions ....................................................................................................................................... 73 
+9.1.1 Progress towards output and outcome results........................................................................... 74 
+9.1.2 DAC criteria and equity .............................................................................................................. 74 
+9.1.3 System changes ......................................................................................................................... 76 
+9.2 Good practices .................................................................................................................................. 77 
+9.2.1 Recognizing system transformation is needed .......................................................................... 77 
+9.2.2 Building a solid knowledge foundation ....................................................................................... 77 
+9.2.3 Incorporating key subsystems ................................................................................................... 77 
+9.2.4 Reaching children through peer dialogue .................................................................................. 77 
+9.3 Lessons learned ................................................................................................................................ 77 
+10.1 
+System transformation ................................................................................................................ 79 
+
+ 
+ 
+ 
+5 
+10.1.1 Systems thinking to guide COS programme implementation .................................................. 79 
+10.1.2 Subsystem stakeholders and relationships.............................................................................. 80 
+10.1.3 Touch points and leverage points ............................................................................................ 80 
+10.1.4 Specific interventions ............................................................................................................... 81 
+10.1.5 Addressing equity and gender ................................................................................................. 81 
+10.2 Monitoring and evaluation system .................................................................................................. 82 
+10.3 Disseminating knowledge and development of the Model National Response (MNR) and action 
+plans ........................................................................................................................................................ 83 
+10.3.1 Disseminating knowledge generated ....................................................................................... 83 
+10.3.2 Development and adjustment of Model National Response .................................................... 83 
+10.4 Recommendations for future evaluations and research ................................................................. 84 
+KII: UNICEF Staff .................................................................................................................................. 121 
+UNICEF Strengthening Children’s Online Safety in South Africa ..................................................... 121 
+KII: Programme partners ....................................................................................................................... 123 
+UNICEF Strengthening Children’s Online Safety in South Africa ..................................................... 123 
+Key Informant Interview Schedule: Partners ..................................................................................... 123 
+Online survey – service providers (Educators, CYCW, FBO) ............................................................... 127 
+Evaluation of the Global Partnership to End Violence against Children- UNICEF Online Child 
+Protection programme in South Africa. ............................................................................................. 131 
+Adult Consent Form .............................................................................................................................. 131 
+Criteria for Ethical Review Checklist ................................................................................................. 133 
+An ethical Review may not be required when the evidence generation programme: ....................... 133 
+ 
+ 
+ 
+
+ 
+ 
+ 
+6 
+TABLES AND FIGURES  
+Table 1: Interventions and partners………………………………………………………………….…………7 
+Table 2: Outputs and outcomes…………………………………………………………………………………9 
+Table 3: Coding and analytical framework……………………………………………………………….…...24 
+Table 4: Achievement of criteria……….……………………………………................................................32 
+ 
+Figure 1: Four lenses create the sphere of harm……………………………………………….……………. 4  
+Figure 2: Subcomponents of programme………………………………………………………………………6 
+Figure 3: Stakeholder map……………………………………………………………………………………….7 
+Figure 4: Theoretical framework……………………………………………………………………………….14 
+Figure 5: Theory of Change – traditional linear………………………………………………………………15 
+Figure 6: Theory of Change – adapted to illustrate system…………………………………………………16 
+Figure 7: OECD DAC criteria…………………………………………………………………………………..30 
+Figure 8: Fit of COS system in larger systems……………………………………………………………….52 
+Figure 9: Recommended expansion of COS system………………………………………………………..53 
+Figure 10: System response to programme…………………………………………………………………..54 
+Figure 11: Interactions of parts, subsystems, systems, and context……………………………………....54 
+ 
+ 
+ 
+
+ 
+ 
+ 
+7 
+ACRONYMS  
+AGDEN 
+Africa Gender and Development Evaluators Network  
+BMR 
+Bureau for Market Research (at UNISA) 
+CBO 
+Community Based-Organizations 
+CO 
+Country Office 
+COS 
+Child online safety 
+CP 
+Child Protection 
+CPD 
+Continued Professional Development 
+CRC 
+Convention on the Rights of the Child 
+CRITA 
+Care, Respect, Integrity, Trust, and Accountability  
+CS 
+Civil Society 
+CSAM 
+Child sexual abuse material 
+CSO 
+Civil Society Organization 
+CYCW 
+Child and Youth Care Worker 
+DAC 
+Development Assistance Committee 
+DBE 
+Department of Basic Education 
+DCDT  
+Dept Communications and Digital Technology (Previously Telecommunications and Postal 
+Services) 
+DHA 
+Department of Home Affairs 
+DOH 
+Department of Health 
+ 
+DOJ 
+Department of Justice 
+DSD 
+Department of Social Development   
+EE 
+Emerging evaluator 
+EFGS 
+Equity Focus Gender Sensitive  
+ERG 
+Evaluation Reference Group 
+FBO 
+Faith Based Organisations 
+FPB 
+Films and Publications Board 
+GBV 
+Gender-based violence 
+GEROS 
+Global Evaluation Reports Oversight System 
+HR 
+Human Rights 
+ICT 
+Information and Communication Technology 
+ICWRT 
+Institute for Child Witness Research and Training 
+ITU 
+International Telecommunication Union  
+KII 
+Key Informant Interviews 
+KZN 
+KwaZulu Natal province 
+LRC 
+Law Reform Commission 
+M&E 
+Monitoring and evaluation 
+MEL 
+Monitoring, evaluation, and learning 
+MNR 
+Model National Response 
+N/A 
+Not applicable 
+NCAGBV 
+National Council Against Gender Based Violence 
+NGO 
+Non-governmental Organization 
+NPA 
+National Prosecuting Authority 
+NSP 
+National Strategic Plan 
+OECD 
+Organization for Economic Co-operation and Development 
+POA 
+Programme of Action 
+PPT 
+PowerPoint Presentation 
+RCL 
+Representative Council of Learners  
+SA 
+South Africa 
+SAPS 
+South African Police Service  
+SDG 
+Sustainable Development Goals 
+TCCs 
+Thuthuzela Care Centres 
+ToC 
+Theory of Change  
+ToR 
+Terms of Reference 
+
+ 
+ 
+ 
+8 
+ToT 
+Training of Trainers 
+UN 
+United Nations 
+UNEG 
+United Nations Evaluation Group 
+UNICEF 
+United Nations Children’s Fund 
+UNISA 
+University of South Africa 
+VAC 
+Violence against children 
+VAWC 
+Violence against women and children  
+VFR 
+Victim-friendly rooms 
+WHO 
+World Health Organization  
+ 
+ 
+
+ 
+ 
+ 
+9 
+EXECUTIVE SUMMARY  
+Background 
+Violence against children (VAC) has taken on a new dimension through the various types of online abuse. 
+Covid-19 restrictions and developments such as online teaching highlighted the balance between internet 
+access and protection of children. The Global Partnership to End Violence Against Children was launched 
+by the UN Secretary-General in 2016 with the purpose of accelerating the end to violence against children. 
+There are over 360 partners globally, including civil society organizations, governments, foundations, 
+corporations, academic institutions, faith communities, and UN agencies. The End Violence Fund has 
+invested $32 million in 37 projects for preventing and eliminating online child sexual exploitation and abuse. 
+African country partners include South Africa, Namibia, Tanzania, Kenya, Uganda, Rwanda, Madagascar, 
+and Ghana. 
+The UNICEF Global Partnership programme in South Africa aims to reduce high levels of VAC in the 
+country and strengthen child protection from online violence through the safe use of the internet. The 
+initiative began in May 2018 when UNICEF implemented the programme in partnership with key 
+government departments including the Department of Social Development (DSD) and Department of Basic 
+Education (DBE). The programme sought to: 
+• 
+understand the extent of the problem and the gaps in policy and implementation; 
+• 
+undertake a consultative, participatory and cross-sectoral process to build commitment and ownership 
+in addressing the issue; 
+• 
+identify appropriate prevention and response actions that could be integrated into relevant legislation, 
+policy, and capacity-building efforts for service providers; and, 
+• 
+engage with industry to implement online safety standards and complement this with practical, tested 
+interventions to build knowledge and skills of children, caregivers, teachers and communities on online 
+safety. 
+As this programme was essentially a system programme it did not exclusively work with children (rights-
+holders) as the ultimate beneficiaries but focused on capacitating the duty-bearers (those who interact with 
+children, provide services to them, develop legislation, and enforce the law). The four main pillars or 
+subsystems of the programme included: 
+1) Children, families, and communities protect children from online violence and help access services 
+when needed 
+2) Children benefit from key services that help children stay safe online and respond to the needs of 
+child survivors 
+3) Information and Communication Technology (ICT) industry implements standards and measures 
+to prevent and address online violence 
+4) National authorities and civil society have increased their knowledge of online safety and their 
+commitment to addressing it 
+EVALUATION OBJECTIVES  
+This is a summative evaluation of the Global End Violence Fund Programme of the United Nations 
+Children’s Fund (UNICEF) in South Africa. The purpose of this evaluation is to assess the aspects of 
+relevance, coherence, efficiency, effectiveness, and sustainability and understand progress toward outputs 
+and outcomes (see Annex I). Considering these criteria, and describing progress towards output and 
+outcome results, only provides a limited picture of the true value of the programme in system transformation. 
+Therefore, the evaluation also focused on providing a description and assessment of the system structure 
+
+ 
+ 
+ 
+10 
+and dynamics and guides on how to leverage points and processes in the system where children can be 
+engaged more effectively. The impact on the ultimate target beneficiaries (children) was not expected at 
+this time and so the programme focused on system transformation and programme structure rather than 
+longer-term results. As a result, children were not included as respondents. The South African and global 
+UNICEF Child Protection units, the Evaluation Reference Group (see Annex II), and the Global Partnership 
+to End Violence will use the findings primarily for reflective purposes (see Annex III).  
+Evaluation methodology  
+A conceptual model of the system structure and programme interventions using a theory of change was 
+constructed and used to guide the tracking of results. Integrating traditional evaluation standards 
+(relevance, coherence, effectiveness, efficiency, sustainability, and reporting on progress) with system 
+evaluation criteria (including system structure, boundaries, dynamic, interrelatedness, and leverage points) 
+ensured that the evaluation could capture and report on both dimensions.   
+The study is a summative, external evaluation. It is descriptive and based on mostly qualitative data. The 
+evaluation methods included desk reviews (of programme documents and wider literature), KII, online 
+surveys, and secondary data. All ethical principles were applied both during engagements with respondents 
+(held remotely due to Covid-19 precautions) and the data management.  
+The biggest challenge was the gap in programme monitoring data and recommendations regarding the 
+development and implementation of a formal monitoring and evaluation (M&E) system are made. An 
+additional challenge included the need for repeat invitations for some parties. Although it was not necessary 
+or feasible to include children as participants in this evaluation, this will be critical in the future to ensure 
+their engagement when the system is functional and reaching children. 
+Key conclusions on findings 
+The main systemic conclusion of the evaluation is that the foundation for the system to function was 
+established, including system-wide awareness of COS and the generation of essential knowledge and 
+training materials. The overall commitment of the stakeholders was raised (except for SAPS, justice, and 
+the ICT industry) and the shift from awareness to practical skills and behaviour change is not yet evident.  
+Progress towards output and outcome results 
+The output results generally exceeded the targets for the programme, although the reported reach of more 
+than 1.2 million children needs clarification and disaggregation to reflect on the groups reached and the 
+most effective methods used. Peer-to-peer dialogue, the most effective strategy, needs more definition and 
+rollout. Training of Trainers for interventions with parents and caregivers, as well as the incorporation of 
+modules in existing parenting programmes, all took place. Training of religious leaders raised awareness 
+but the influence on the broader communities requires the inclusion of other community groups. 
+The most significant contribution was the generation of knowledge for the system through the Disruptive 
+Harm research study. The training materials developed (social service workers, educators, SAPS) were of 
+high quality, though the training of educators was limited to two districts in the Eastern Cape. The method 
+to reach social service workers through accredited online modules for CPD was effective. SAPS and justice 
+officials still need to be trained and the guidance of other service providers, such as community-based 
+workers, mental and health care workers, and NPA, among others, to children is recommended. 
+Commitment on a national level was high for some government departments (including DSD, DBE, and 
+FPB) while others would need stronger relationship-building activities and awareness of the implications of 
+thinking and working systemically. Civil society, a stakeholder group with a huge potential contribution, was 
+not optimally included. Some national child rights NGOs participated in training events but their 
+contributions in advocacy, service provision and implementation of programme activities were not evident.  
+
+ 
+ 
+ 
+11 
+The outcomes have not been realised at this stage of the programme as the intended results hinge on 
+further strengthening of the system. Repeat measures, such as a follow-up Disrupting Harm study and the 
+evaluation of the next phase, will provide information on targets reached for outcomes in the future.  
+DAC criteria and equity  
+The results of the DAC criteria varied between programme components and within the different pillars of 
+the programme. Relevance and effectiveness were generally rated high and coherence and sustainability 
+low.  
+Relevance 
+The UNICEF programme was relevant to the time, needs, and situation in South Africa and contributed to 
+global efforts. Some components need more directed effort (ICT and service provision) while additional 
+government departments and civil society need to be included. The programme was relevant to the reform 
+needed in legislation and will expand once the knowledge it generates is disseminated more widely. The 
+Disrupting Harm study made a significant contribution locally and internationally. 
+Coherence 
+The programme’s knowledge generation contributed significantly to global efforts, such as the Global 
+Partnership to End Violence alliance’s We Protect programme and the SDG targets 5.2, 8.7, and 16.2. 
+However, coherence within the system was low and there was limited collaboration between 
+subcomponents and within the components of the programme.  
+Effectiveness 
+The effectiveness of the programme was linked to knowledge generation. System-wide awareness of COS 
+was achieved and although more effort will be needed to roll out the training to other stakeholders not yet 
+included in the programme activities, the high-quality materials developed thus far will enable this. Children 
+need to be engaged in innovative methods other than the wider media advocacy used so far, including 
+peer-to-peer dialogue using existing leverage points such as the learners’ representative council structures 
+at schools. The effectiveness of the system will be improved through a dedicated and inclusive steering 
+mechanism with representation from all stakeholder groups. Including children will highlight the uniqueness 
+of the COS system and its challenges and reveal innovative and relevant solutions. 
+Efficiency 
+The programme had two no-cost extensions to complete some activities affected by the Covid-19 
+pandemic. The extensions did not influence the quality of programme delivery or the allocation of budget 
+items. The optimal use of partner and consultant skills and structures (including existing processes) enabled 
+a cost-effective programme.  
+Sustainability 
+The sustainability of the programme results was generally low. Some activities did not take place and the 
+replacement interventions did not achieve the desired effect. In this regard, the ICT industry’s commitment 
+is critically needed. The practicability of the knowledge generated is high, but without dissemination of the 
+information to all stakeholder groups, it will lose its effect. Despite this, the sustainability of the system itself 
+was high. This was mostly due to the structural integrity of the system as it was based on existing networks 
+and procedures (mainly based on government structures).  
+Equity and gender responsiveness 
+The programme did not address gender or equity directly. Strengthening the system focused on the 
+assumption that all children with access to the internet were equally at risk and that structures should be in 
+place to provide blanket protection. Targeted interventions for groups identified as more vulnerable need 
+to be included in the next phase of the programme. Children’s voices must be included on a continuous 
+basis. Power discrepancies between stakeholder groups were evident with larger government departments 
+being more likely to drive the process. UNICEF was able to harness these strengths but, going forward, an 
+
+ 
+ 
+ 
+12 
+approach of inclusiveness and participation of all stakeholder groups (including a wider range of 
+government departments) will be needed.  
+System changes 
+The essential knowledge generated ensured a solid system foundation. The unique character of the COS 
+system, including the range of victims involved, perpetrators who are children, the technical skills of children 
+that frequently surpass those of adult caregivers, and the mixture of physical and online violence, makes 
+treatment and prevention distinct from general CP issues. Furthermore, solutions such as simply avoiding 
+the threat are not applicable. This was highlighted by the Covid-19 pandemic’s implications on education 
+and learning. The COS system needs to be recognized as unique. 
+There was limited interaction between stakeholders and even within sub-systems. It is important to consider 
+the dynamic nature of the system where a balance needs to be maintained in controlling and regulating the 
+access of predators whilst ensuring internet access to all children and providing protection and treatment 
+to those affected by online vulnerability and violations. There is a need for the inclusion of other components 
+as well as stakeholder groups within a component (for example, diversification of training to community 
+members). Understanding the dynamic nature of the interaction between the system's components and the 
+system-wide implications of change within subsystems is critical to its strength.  
+The most important consideration is the use of touchpoints in the system where stakeholder groups can be 
+engaged. Leverage points in the system where the interventions can be more effective need to be identified 
+and used. These include RCL systems in schools, the involvement of CBOs that work with children, and 
+online games and applications. 
+ 
+Good practices and lessons learned 
+There were four good practices in the system that should be highlighted: 
+1) The recognition that system transformation is needed and that this should be addressed 
+systemically 
+2) Building a solid foundation of knowledge about the system on which to base interventions 
+3) Incorporating the key subsystems 
+4) Identifying peer-to-peer dialogue as an effective method to engage children 
+The lessons learned include programme implementation using a system approach and delineating the 
+boundaries of the Child Online Safety system within the Child Rights strategy. There are elements not 
+included in the Child Protection system and a solution should be sought outside those traditionally used for 
+violence against children. 
+Recommendations   
+Recommendation 1:  
+UNICEF South Africa COS programme staff should strategically reflect on the systemic nature and 
+boundaries of the COS system, how it influences the second phase of the programme, and how the various 
+programme interventions and stakeholders fit into the broader COS system. UNICEF CP staff can then 
+influence the higher-level understanding and implementation of systems-thinking in key government 
+departments such as DSD and DBE. 
+(Priority: high; Timeframe: immediate; Responsibility: UNICEF CP)

@@ -1,0 +1,681 @@
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation of the 
+Generation Future Programme 2021 and 2022 
+May 2023 
+Final Report 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+ii
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© United Nations Children’s Fund, Cambodia, 2023 
+United Nations Children’s Fund 
+Exchange Square, 5th floor 
+Bldg. no. 19&24 Street 106, Sangkot Wat Phnom, Khan Daun Penh, Phnom Penh 
+ 
+May 2023 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Cambodia is to fulfil a corporate 
+commitment to transparency through the publication of all completed evaluations. The reports are designed to 
+stimulate a free exchange of ideas among those interested in the topic and to assure those supporting the 
+work of UNICEF that it rigorously examines its strategies, results, and overall effectiveness. 
+ 
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, or of 
+its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF has a 
+formal permission policy that requires a written request to be submitted. For non-commercial uses, the 
+permission will normally be granted free of charge. Please write to the Evaluation Office at the address below 
+to initiate a permission request. 
+ 
+Front cover photo: © UNICEF Cambodia/2022/NICK SELLS 
+Back cover photo:  © UNICEF Cambodia/2022/ NICK SELLS 
+ 
+For further information, please contact: 
+United Nations Children’s Fund 
+Exchange Square, 5th floor, 
+Bldg. no. 19&24 Street 106, Sangkot Wat Phnom, Khan Daun Penh, Phnom Penh 
+Email:  phnompenh@unicef.org 
+Website: http://www.unicef.org.kh 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+iii
+Acknowledgements 
+With thanks to our donors, partners, and the ongoing support from the Australian Government through the 
+Australian NGO Cooperation Program (ANCP). 
+The evaluator would like to thank all stakeholders who participated in this evaluation and gave their valuable 
+time and opinions. These stakeholders included: mentees, mentors and youth volunteers of the Generation 
+Future programme; UNICEF Cambodia staff; students and teachers in schools in Siem Reap Province that 
+use the Local Life Skills syllabus; the Ministry of Education, Youth and Sport in Siem Reap Province; private 
+sector contributors; and the implementing partner, Child Rights Coalition Cambodia (CRC-Cambodia). 
+The evaluator would also like to express his gratitude to the reference group set up for this evaluation for 
+providing excellent support and feedback. The reference group has the following members: Carla Enrica 
+Foglia (Child Protection section - Adolescent and Youth Empowerment Officer); Lindsay Sian Brown 
+(Communications section - Generation Future Consultant); Dion Miller (Evaluation section - International 
+Evaluation Intern); Daravatey Seng (Communications section - Communication Associate); Chamrong 
+Ridhisidh Moeun (Sidh)  (Communications section - National UNV); Solin Chan (Education section - 
+Education Officer); Kanha Chan (Child Protection - Adolescent Development Officer); Pechputhika Ros 
+(programme mentee); Paniet Toeng (programme mentee); and Dina Lyvann (programme mentee). 
+The evaluation could not have completed without the evaluator’s assistant, Ms Kimputhvitheavy Vonn, who 
+provided administrative and Khmer language support. Thank you.  
+ 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+iv
+Executive Summary 
+Generation Future Programme 
+The Generation Future programme (referred to as 'the programme’ hereafter) was implemented by UNICEF 
+Cambodia in 2021 as a pilot and continued in 2022 as a complete programme. It had the goal of engaging 
+more young people as change-makers by providing them with the skills, confidence and opportunities they 
+needed to create positive change in their communities. The budget of the programme in 2021 was about USD 
+80,000 and that in 2022 just under USD 160,000. 
+The programme had 15 mentees in 2022 (and 13 in the 2021 pilot). Each mentee was matched with a mentor; 
+about half of the mentors in 2022 worked in the private sector. Each mentee implemented a social impact 
+project on a social issue that they chose according to a plan that they designed. All mentees were given 
+technical support, guidance and advice by their mentors, UNICEF Cambodia and other partners. Volunteers 
+(95 in 2021 and 128 in 2022) were recruited by the mentees to help implement the projects. The programme 
+organised training sessions on 19 topics for the mentees (and some volunteers in selected sessions) to help 
+them develop 21st Century Skills; these sessions were provided by private sector contributors, UNICEF 
+Cambodia and other partners. Each project had access to a seed fund of up to USD 2,000 for its 
+implementation. 
+The youth-led projects engaged young people both online (on UNICEF Cambodia communication channels 
+and dedicated pages of the projects on social media platforms) and in-person (in events and in schools). A 
+total of 5,752 youth ‘participants’ were directly and actively engaged by the mentee-led projects. 27,820 young 
+people were involved as ‘supporters’ who promoted and/or encouraged others to engage in activities of the 
+mentees’ projects. In the school implementation component of the programme, 6 of the projects went into 18 
+schools in Siem Reap Province to conduct activities for a total of 898 students (counting towards the 5,752 
+supporters) on the social issues that these projects addressed. These schools used a skills-based syllabus 
+(i.e., Local Life Skills, or LLS), and the visits to them were arranged by UNICEF Cambodia.  
+A large-scale event, the World Children’s Day celebration event, marked the end of a programme cycle; high-
+profile figures from multiple sectors of the country were invited to attend the event that showcased the 
+mentees’ projects. 
+Evaluation of the Programme 
+The evaluation is commissioned by UNICEF Cambodia and conducted by Dr Alvin Leung, an independent 
+international consultant. It uses the six Organisation for Economic Cooperation and Development Assistance 
+Committee’s (OECD DAC) evaluation criteria to assess the relevance, effectiveness, efficiency, coherence, 
+(early) impact and sustainability of the Generation Future programme. The evaluation includes an additional 
+criterion on gender equality, equity and human rights. It adheres to the United Nations Evaluation Group 
+Norms and Standards for Evaluation amongst other international guidelines for research and ethics. 
+The evaluation examined the contribution that the private sector has made to the programme, the changes in 
+the lives of the children and youth who have been part of the programme, and the impact that these youth 
+have brought to their communities and other youth around them. Based on the findings, the evaluation 
+provides key recommendations on (a) the value of the programme for UNICEF Cambodia; (b) the architecture 
+of the programme; and (c) the best ways to scale, extend and sustain the programme in the future. The 
+primary users of the evaluation are UNICEF Cambodia, programme implementing partners, mentors and 
+mentees of the Generation Future programme (rights holders), the Ministry of Education, Youth and Sport 
+(MoEYS; particularly at the province level in Siem Reap) (duty bearer), and private sector contributors. 
+The evaluation is based on the programme’s theory of change reconstructed by the consultant in collaboration 
+with the core programme team at UNICEF Cambodia. The evaluation used contribution analysis approach, 
+which used the theory of change to assess the relationships between programme inputs, outputs and 
+outcomes. The evaluation adopted a non-experimental, mixed method research design. It also adopted a 
+participatory approach in all its stages to ensure that young people and other stakeholders were adequately 
+involved and informed. 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+v 
+The evaluation collected primary data using feedback forms, interviews and focus group discussions with 139 
+individuals, including mentees, mentors, youth volunteers, students and teachers at schools that used the LLS 
+syllabus, officials of the MoEYS, private sector contributors, UNICEF Cambodia staff, and staff of the 
+implementing partner. The data collection took place in January and February 2022; most of the data 
+collection activities were conducted in person in Phnom Penh and Siem Reap of Cambodia, with a small 
+number of them conducted online. The evaluation also reviewed programme documents, data and budget as 
+well as relevant policy documents and literature. Primary data collected from various stakeholders and 
+secondary data were triangulated in an iterative analysis process.  
+Key Evaluation Findings 
+Based on the data collected, the evaluation had the following findings, organised by the six OECD DAC 
+criteria and the additional criterion on gender equality, equity and human rights. 
+Relevance 
+The programme was relevant and responsive to the key national policies on education and youth 
+development, in particular the Education Strategic Plan and the National Policy on Youth Development. It was 
+also relevant to the needs of adolescents and youth in Cambodia. Young people participating in the 
+programme agreed that they developed 21st Century Skills and that these skills developed were what they 
+needed and would be helpful in their study, work and daily lives. The youth-led approach has proven strong in 
+ensuring relevance: most social issues chosen by the mentees were very relevant to the Cambodian youth, as 
+demonstrated in the large number of participants and supporters that the projects engaged. A small number of 
+social issues selected (e.g., introduction of IT sector jobs) were less relevant to young people in rural contexts, 
+though. 
+The programme was largely relevant to the programme’s mentors and its private sector contributors. The 
+matching between mentees and mentors ensured that most mentors could work on relevant projects with 
+young people with similar interests. Representatives of the private sector contributors interviewed opined that, 
+by providing training sessions to young people, they contributed towards fulfilling corporate social 
+responsibilities. 
+Coherence 
+The programme was coherent – and did not overlap – with similar programmes of other development partners. 
+The Generation Future programme focused more on online campaigning, skills development for youth, and 
+youth participation, while the programmes of other development partners emphasised more the provision of 
+support to start-ups and promotion of entrepreneurship education.  
+The programme had the necessary linkages with the private sector for contributing to achieving programme 
+outputs and outcomes. These linkages benefited the participating adolescents and youth directly as well as 
+helped UNICEF Cambodia build new relationships with private sector partners and provided them with an 
+entry point to collaborate with UNICEF. Yet, the Phnom Penh-centric positioning of the programme could have 
+been improved to provide valuable experiences to young people in the provinces where similar opportunities 
+were very limited. 
+The programme has been consistent with other interventions and activities of UNICEF Cambodia. The 
+linkages that the programme had with multiple sections/strategy of UNICEF Cambodia were somewhat 
+productive. The most productive linkage was the one with the Adolescent Development and Participation 
+(ADAP) strategy, as the programme contributed to the work of ADAP by increasing young people’s capacity to 
+participate meaningfully in their communities and by providing an enabling environment for participation and 
+increasing youth engagement. The linkage with the Education Section was productive, but the contribution 
+made by the programme to the Education Section was small in scale; the evaluation also found that the 
+programme’s outputs and outcomes were not well aligned with those of the Education Section. 
+Effectiveness 
+The programme was overall effective in achieving its three outcomes. 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+vi
+First, young people were sufficiently engaged in actively addressing social issues that impacted them 
+(outcome 1). Mentees were provided a high level of support from the core programme team as well as high 
+quality training from UNICEF Cambodia, other development partners and private sector contributors on a wide 
+range of topics. The available seed fund (up to USD 2,000 for each mentee-led project) was crucial to 
+implement the projects. The mentors chosen for the mentees and their projects were suitable and highly 
+relevant, and most mentor-mentee relationships were very productive. The technical expertise, seniority and 
+influence of the mentors were conducive to project implementation, ensuring that the social issues were 
+addressed and that the projects gained attention from young people in the country. Youth volunteers provided 
+instrumental technical support to project implementation; they themselves also gained valuable skills and 
+experience that would be useful for them not only for study and work but also to potentially lead actions that 
+address social issues. The school implementation component and the online engagement very effectively 
+expanded the reach of the programme. The programme to some extent inspired the school students to 
+participate in addressing social issues more actively through their other learning activities in the LLS syllabus.  
+Second, the programme was somewhat effective in improving access to stable employment opportunities for 
+young people (outcome 2). The programme helped mentees gain confidence in creating positive change, 
+broadening professional networks and improving knowledge in project areas or themes; mentees believed 
+that these benefits would be useful in furthering their study and subsequently finding jobs. Volunteers, 
+although less involved compared to mentees, also agreed that the skills and confidence gained would help 
+them in studying. Since the skills gained were in demand in the labour market, it could be inferred that the 
+programme was contributing to improving the access to employment through skills training. It is nonetheless 
+worth noting that this outcome was limited to mainly mentees and volunteers because: (a) the training was 
+provided only to them; and (b) the involvement from other target groups (i.e., participants and supporters) was 
+not significant enough for the evaluation to conclude that their access to employment was improved.  
+Third, the programme was effective in increasing opportunities for young people to contribute to civic decision 
+making (outcome 3). This was primarily achieved by: (a) enabling and supporting (including on skills 
+development) mentees and volunteers in running their projects (linked to outcome 1); (b) creating online 
+spaces for youth participation; (c) raising awareness of social issues among young people; and (d) 
+showcasing to stakeholders, including senior government officials and other influential members of society, 
+young people’s success in addressing social issues through online platforms and in events and subsequently 
+seeking to open more opportunities for youth participation.  
+Efficiency 
+The economic efficiency of the programme was high considering the large number of young people reached 
+(33,000+) by the programme and its relatively small budget (< USD 160,000). The evaluation found that the 
+seed fund and mentoring together brought the most impact on young people and children in the most cost-
+efficient manner. The training bootcamp, wherein intensive skills development sessions were provided, also 
+offered great value for money.  
+The operational efficiency in implementing the programme across sections needs improvement. In particular, 
+the cross-section linkages appeared to have been hampered by the unclear responsibilities of the sections of 
+UNICEF Cambodia involved; this caused minor delays in implementation and frustration among the staff 
+involved. Moreover, the implementing partner was not managed properly, resulting in failures in recruiting 
+volunteers from a multi-provincial youth organisation and in seed fund management.  
+ 
+(Early) impact 
+The programme successfully formed a network of talented young people who are agents of change; they are 
+equipped with the right skillsets and hands-on experience to make changes in communities. This network can 
+be useful for UNICEF Cambodia in furthering its work on youth empowerment and participation. The 
+programme also built work relationships with mentors, many of which are influential individuals in the 
+government, private sector and NGOs. The programme experience of working with mentors and private sector 
+contributors, on the one hand, demonstrated that the private sector in Cambodia can be engaged to provide 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+vii
+very specific technical support and, on the other, provided an entry point for the private sector to collaborate 
+with UNICEF Cambodia on youth development. Also, the unique strategies of the programme on enabling 
+youth-led online campaigns and on creating online spaces for youth participation were very conducive to 
+promoting youth participation and to reaching many young people in the country. Also, it can be inferred from 
+the above that the programme improved UNICEF Cambodia’s brand visibility among young people and the 
+private sector. 
+That said, the contribution of the programme to the country programme of UNICEF Cambodia was evident but 
+indirect, limiting the programme’s impact. The evaluation finds that the contribution was mainly  made to higher 
+level goals but not to the specific outcomes (and their indicators) set for the work areas and sections of the 
+country office. Another factor limiting the early – and potential – impact of the programme was the unrealised 
+institutionalisation and scaling attempts, including that on building partnership with a multi-province youth 
+network and that on connecting the programme with a government initiative on youth participation and 
+volunteerism. 
+Sustainability 
+It is very likely that the programme’s contribution to mentees and volunteers on the individual level will sustain; 
+such contribution includes the skills improved, knowledge acquired, confidence gained and networks 
+extended. As for the impact made on students and other participants, the evaluation cannot conclude 
+confidently that it will sustain because the programme’s interaction with them was relatively brief. 
+Some youth-led projects may not continue and their impact may therefore not sustain; this was because some 
+mentees needed to focus on their study and would like to discontinue their projects, despite some 
+continuation support offered by the programme team.  
+On the programme level, the planned – yet not materialised – institutionalisation efforts negatively impacted 
+the programme’s prospect and sustainability. The sustainability of the benefits brought by the school 
+implementation component of the programme was questionable mainly because the programme had no 
+institutional partners in this regard. These weaknesses can be attributed to the programme’s short history and 
+limited resources to create conditions for sustainability. 
+Gender equality, equity and human rights 
+Gender equality has been carefully considered by the programme in its design and implementation; it was 
+evident that the programme contributed to ensuring gender equality: a few youth-led projects chosen had an 
+explicit focus on ensuring gender equality and challenged gender norms and stereotypes that could limit girls’ 
+and young women’s equal access to and participation in certain sectors of the economy of Cambodia.  
+The programme’s design sought to use mechanisms to ensure equity (e.g., working with a multi-provincial 
+youth network that engaged young people from disadvantaged backgrounds). Such attempts nonetheless 
+were of limited success, and that negatively impacted the programme’s ability to directly engage young people 
+from marginalised and disadvantaged backgrounds. Some human rights issues, such as climate change, 
+children’s oral health and nutrition, were adequately addressed by the youth-led projects, but the evaluation 
+found that some most urgent human rights issues identified in the country programme remained untouched by 
+the programme.  
+ 
+Key Conclusion and Recommendations 
+Considering the programme’s achievements and results, the evaluation concludes that the Generation Future 
+programme should be continued.  
+The evaluation found that the most impactful programme components were the seed funds given to the youth-
+led social impact projects and the mentorship provided by influential individuals in Cambodia. However, it is 
+evident that the programme cannot be significantly scaled only by increasing the number of projects, mentees 
+and mentors unless there is a major increase of human and financial resource input.  
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+viii
+Therefore, in expanding and scaling the programme, UNICEF Cambodia should aim to: (a) reach more young 
+people, particularly those in marginalised and disadvantaged communities and outside Phnom Penh, without 
+overwhelming the mentees and the core programme team; (b) deepen the engagement with participants, in 
+particular students in schools that used the LLS syllabus, given the success of the school implementation 
+component; (c) utilise existing infrastructure of the government by stepping up the programme’s early 
+institutionalisation efforts; and (d) devise plans to capitalise on the connections built particularly those with the 
+private sector. 
+Considering the above and based on the findings, the evaluation made the following 8 recommendations. 
+Recommendations 1 and 2 are on volunteer recruitment. Recommendations 3 and 4 are on school 
+implementation and the programme’s presence outside Phnom Penh. Recommendation 5 is on private sector 
+engagement. Recommendations 6, 7 and 8 are on programme management. 
+1. 
+Map the youth networks in Phnom Penh and select provinces to support an improved outreach 
+process. This will help the core programme team identify channels to better advertise volunteering 
+opportunities under the social impact projects. Working with local youth networks can help establish 
+longer lasting relationships and leverage their local knowledge to reach young people from 
+marginalised and disadvantaged communities in volunteer recruitment. These networks can also be 
+used in inviting applications for being mentees. 
+ 
+2. 
+Establish the connection between the programme and the Volunteer for My Community (VMC), 
+a government initiative to promote youth development and participation. This will, on the one hand, 
+help expand the reach of the programme and increase the diversity of the volunteers and, on the 
+other, make an important step in institutionalising part of the programme. 
+ 
+3. 
+Introduce ‘quotas’ for mentees based in select provinces and strengthen core programme team 
+support for them. This means that a fixed number of mentees chosen must be ‘from’ and residing in 
+the select provinces during the implementation of their social impact projects. This is to ensure that the 
+selected mentees – and hopefully their volunteers – are not all based in Phnom Penh (as this has 
+limited the reach of the programme). More importantly, having mentees in the select provinces allow 
+them to work with target schools much earlier and in multiple occasions. These mentees should still 
+receive the same opportunities to attend the training bootcamp and benefit from mentorship and 
+training sessions. 
+ 
+4. 
+Establish connections with Youth Councils in Phnom Penh and select provinces. The 
+connections will further strengthen mentees’ projects, as the Youth Councils can be engaged and/or 
+consulted with in multiple components (e.g., mentee recruitment, volunteer recruitment, campaigning, 
+school implementation) to further expand the reach of the programme and diversify the backgrounds 
+from which mentees and volunteers come. 
+ 
+5. 
+Study how to best capitalise on the connections built with the private sector by consulting with 
+participated individuals and studying companies’ corporate social responsibility (CSR) policies. The 
+findings will contribute to devising a more relatable approach to engaging the private sector. It is also 
+important to consider the long-term objectives of engaging the private sector in the Cambodian 
+context. 
+ 
+6. 
+Position the programme either under the Deputy Representative Office (with one section acting 
+as the Secretariat) or under ADAP (with a significant increase in stable funding to ADAP). One 
+concern that the new positioning should address is the availability of funding and human resources 
+that can be dedicated to the programme, as the programme cannot scale on the current allocated 
+human resources (1.5 staff members) and budget (<USD 160,000). Another concern that this new 
+positioning should address is the cross-section linkages (see the following recommendation) for better 
+operational efficiency and accountability. 
+ 
+7. 
+Reinforce cross-section linkages. The aims of the reinforcement are to: (a) align the objectives of 
+the programme with those of the projects/activities under the sections involved; (b) define the 
+contribution to be made by the programme to the sections involved; (c) establish agreement on what 
+and how the sections involved should contribute in return; (d) dedicate resources to keep to the 
+agreement; and (e) ensure accountability.  
+ 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+ix
+8. 
+Strengthen the partnership with the Child Rights Coalition Cambodia (the implementing 
+partner). In response to the failures on volunteer recruitment and seed fund management, it is 
+advisable to strengthen the partnership with the CRC-Cambodia (which managed a multi-provincial 
+youth network) and improve the capacity of the partner. The CRC-Cambodia must also be given 
+adequate resources; monitoring indicators must be clearly defined to ensure its accountability. 
+ 
+ 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+x 
+Table of Contents 
+Acknowledgements ............................................................................................................................... iii 
+Executive Summary ............................................................................................................................... iv 
+1. 
+Introduction .................................................................................................................................. 1 
+2. 
+Background to and Object of Evaluation ...................................................................................... 2 
+2.1 
+Background to Evaluation .................................................................................................................................................2 
+2.2 
+Object of Evaluation ............................................................................................................................................................4 
+3. 
+Purpose, Objective and Scope.................................................................................................... 12 
+3.1 
+Purpose and Objective .................................................................................................................................................... 12 
+3.2 
+Approach .............................................................................................................................................................................. 12 
+3.3 
+Framework and Questions ............................................................................................................................................. 13 
+3.4 
+Scope .................................................................................................................................................................................... 15 
+4. 
+Methodology ............................................................................................................................... 16 
+4.1 
+Overview .............................................................................................................................................................................. 16 
+4.2 
+Secondary Data ................................................................................................................................................................. 16 
+4.3 
+Primary Data ....................................................................................................................................................................... 17 
+4.4 
+Sampling .............................................................................................................................................................................. 19 
+4.5 
+Evaluation Matrix ............................................................................................................................................................... 20 
+4.6 
+Data Analysis Methods.................................................................................................................................................... 21 
+4.7 
+Limitations............................................................................................................................................................................ 21 
+4.8 
+Challenges and Mitigation.............................................................................................................................................. 22 
+4.9 
+Ethical Considerations ..................................................................................................................................................... 23 
+5. 
+Findings...................................................................................................................................... 26 
+5.1 
+Relevance ............................................................................................................................................................................ 26 
+5.2 
+Coherence ........................................................................................................................................................................... 28 
+5.3 
+Effectiveness....................................................................................................................................................................... 29 
+5.4 
+Efficiency .............................................................................................................................................................................. 36 
+5.5 
+Impact.................................................................................................................................................................................... 38 
+5.6 
+Sustainability....................................................................................................................................................................... 39 
+5.7 
+Gender Equality, Equity and Human Rights ............................................................................................................ 41 
+6. 
+Conclusions and Lessons Learned ............................................................................................ 43 
+6.1 
+Conclusions......................................................................................................................................................................... 43 
+6.2 
+Lessons Learned ............................................................................................................................................................... 46 
+7. 
+Recommendations ...................................................................................................................... 48 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+xi
+List of Acronyms 
+ADAP  
+ 
+Adolescent Development and Participation 
+ADB 
+ 
+ 
+Asian Development Bank 
+AYRG  
+ 
+Adolescent and Youth Reference Group 
+COVID-19 
+ 
+Coronavirus Disease 19 
+CP 
+ 
+ 
+Child Protection 
+CRC-Cambodia  
+Child Rights Coalition Cambodia 
+DAC 
+ 
+ 
+Development Assistance Committee 
+EAPRO  
+ 
+East Asia and Pacific Regional Office 
+EQ 
+ 
+ 
+Evaluation questions 
+ESP 
+ 
+ 
+Education Strategic Plan 
+FGD 
+ 
+ 
+Focus group discussion 
+FTE 
+ 
+ 
+Full-time equivalent 
+GF 
+ 
+ 
+Generation Future 
+HEI 
+ 
+ 
+Higher education institute 
+ILO 
+ 
+ 
+International Labor Organization 
+KII 
+ 
+ 
+Key informant interview 
+LLS 
+ 
+ 
+Local Life Skills 
+OECD  
+ 
+Organisation for Economic Co-operation and Development 
+MISTI 
+ 
+ 
+Ministry of Industry, Science, Technology and Innovation 
+MoEYS  
+ 
+Ministry of Education, Youth and Sport 
+NEET 
+ 
+ 
+Not in education, employment or training 
+RGC 
+ 
+ 
+Royal Government of Cambodia 
+SDG 
+ 
+ 
+Sustainable Development Goal 
+STEM  
+ 
+Science, technology, engineering and mathematics 
+ToC 
+ 
+ 
+Theory of change 
+ToR 
+ 
+ 
+Terms of reference 
+UN 
+ 
+ 
+United Nations 
+UN-ESCAP 
+ 
+United Nations Economic and Social Commission for Asia and the Pacific 
+UN-SWAP 
+ 
+United Nations System-Wide Action Plan 
+UNDP  
+ 
+United Nations Development Programme 
+UNEG  
+ 
+United Nations Evaluation Group 
+UNICEF 
+ 
+United Nations Children’s Fund 
+UNV 
+ 
+ 
+United Nations Volunteer 
+USAID  
+ 
+United States Agency for International Development 
+USD 
+ 
+ 
+United States Dollars 
+WCD 
+ 
+ 
+World Children’s Day 
+ 
+ 
+ 
+
+Evaluation of the Generation Future Programme – Final Report 
+ 
+ 
+xii
+List of Tables 
+Table 1 Generation Future programme (2022) objectives and output indicators ............................................ 6 
+Table 2 Generation Future programme (2022) components ......................................................................... 7 
+Table 3 Stakeholders of the Generation Future programme ....................................................................... 10 
+Table 4 Target groups of the Generation Future programme...................................................................... 10 
+Table 5 Evaluation questions and evaluation criteria ................................................................................. 14 
+Table 6 Secondary data reviewed ............................................................................................................ 17 
+Table 7 Primary data collected in the evaluation ....................................................................................... 18 
+Table 8 Sampling for focus group discussions with youth volunteers and LLS school students ..................... 20 
+Table 9 Challenges and mitigation strategies used.................................................................................... 22 
+ 
+List of Figures 
+Figure 1 Theory of Change of the Generation Future programme................................................................. 9 
+Figure 2 Locations of schools wherein the school implementation component of the programme was 
+implemented........................................................................................................................................... 15 
+Figure 3 Mentees’ responses on whether they improved skills in participating in the programme (n=14)  ....... 31 
+Figure 4 Extent to which mentees agreed that training sessions were useful to project implementation (n=14)
+.............................................................................................................................................................. 31 
+Figure 5 Number of volunteers who participated in FGDs agreed that they improved the skills in participating 
+in the programme (n=24) ......................................................................................................................... 32 
+Figure 6 Extent to which mentees agreed that they benefited from the programme on confidence, networks 
+and knowledge (n=14)............................................................................................................................. 36 
+ 
+List of Annexes 
+A. Evaluation matrix 
+B. Feedback form for mentees (data collection tool) 
+C. Guide for key informant interviews with mentees (data collection tool) 
+D. Guide for focus group discussions with youth volunteers (data collection tool) 
+E. Guide for focus group discussions with students in schools in Siem Reap that used the Local Life Skills 
+syllabus (data collection tool) 
+F. Guide for key informant interviews with teachers in schools in Siem Reap that used the Local Life Skills 
+syllabus (data collection tool) 
+G. Guide for key informant interviews with officials of the Ministry of Education, Youth and Sport in Siem 
+Reap (data collection tool) 
+H. Feedback form for mentors and guide for follow-up interviews with mentors (data collection tool) 
+I. 
+Guide for key informant interviews with private sector contributors (data collection tool) 
+J. 
+Guide for key informant interviews with core programme team staff at UNICEF Cambodia (data collection 
+tool) 
+K. Guide for key informant interviews with UNICEF Cambodia staff (data collection tool) 
+L. Guide for key informant interviews with staff of the Child Rights Coalition Cambodia (implementing partner) 
+(data collection tool) 
+M. Consent forms 
+N. Terms of Reference for the evaluation of the Generation Future programme 
+O. Ethical review approval 
+P. Inception report approved 
+Q. Revised theory of change

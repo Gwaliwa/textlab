@@ -1,0 +1,547 @@
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+1 
+ 
+ 
+ 
+ 
+UNICEF Kazakhstan 
+Commissioner for Human Rights  
+in the Republic of Kazakhstan 
+ 
+ 
+Formative evaluation of the system for 
+prevention and response to  
+violence against children in Kazakhstan 
+from 2011 to 2020 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3rd  Draft 
+[22nd of September 2021] 
+ 
+ 
+ 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+2 
+ 
+ 
+ 
+Commissioned by UNICEF Kazakhstan and the Kazakh Human Rights Commissioner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authors  
+Roberta Cecchetti (team leader) 
+Anel Kulakhmetova 
+Stefan Meyer 
+ 
+ 
+ 
+With the support of 
+Dinara Yessimova 
+Aygul Shakibayeva 
+Gaukhar Mukhamediyeva 
+Aigerim Kussaiynkyzy 
+Aigerim Massabayeva 
+Zhanar Abdykalykova 
+Skye Bain 
+Jóse-Manuel Fresno García 
+ 
+ 
+ 
+© UNICEF Kazakhstan 2021 
+With the technical assistance of  
+ 
+
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+3 
+ 
+ 
+Indices of boxes, figures, and tables ........................................................................................................................ 4 
+Abbreviations ............................................................................................................................................................ 7 
+EXECUTIVE SUMMARY ........................................................................................................... 8 
+Objective, object, and process of the evaluation .................................................................................................... 8 
+Key findings ............................................................................................................................................................... 9 
+Recommendations ................................................................................................................................................... 13 
+INTRODUCTION: .................................................................................................................. 16 
+BACKGROUND OF THE EVALUATION ........................................................................................ 17 
+METHODOLOGY .................................................................................................................. 22 
+FINDINGS ........................................................................................................................... 29 
+1.LEGISLATION AND POLICIES ............................................................................................... 30 
+1.1. 
+Legislation ...................................................................................................................................................... 30 
+1.2. Policies ............................................................................................................................................................ 37 
+1.3. Equity (strategic) ............................................................................................................................................ 41 
+1.4. Comprehensive implementation .................................................................................................................. 42 
+1.5. Interlinkages ................................................................................................................................................... 43 
+2. 
+GOVERNANCE ........................................................................................................... 45 
+2.1. Coordination at the central level .................................................................................................................. 45 
+2.2. Coordination at local level ............................................................................................................................. 47 
+2.3. Complementarity ............................................................................................................................................ 51 
+2.4. Commitment................................................................................................................................................... 53 
+3. 
+SERVICES .................................................................................................................. 55 
+3.1. Availability ...................................................................................................................................................... 56 
+3.2. Appropriateness............................................................................................................................................. 73 
+3.3. Equity (operational) ....................................................................................................................................... 75 
+3.4. Covid response ............................................................................................................................................... 76 
+3.5. Scalability and innovation ............................................................................................................................. 78 
+4. 
+OVERSIGHT AND MONITORING .................................................................................... 80 
+4.1. Measurement ................................................................................................................................................. 80 
+4.2. Quality ............................................................................................................................................................. 87 
+5. 
+HUMAN AND FINANCIAL RESOURCES ............................................................................ 90 
+5.1. Human Resources........................................................................................................................................... 90 
+5.2. Financial resources......................................................................................................................................... 95 
+6. 
+SOCIAL PARTICIPATION .............................................................................................. 101 
+6.1. Children’s participation ................................................................................................................................ 101 
+6.2. Research and campaigns on social norms ................................................................................................... 103 
+7. 
+LESSONS LEARNT ..................................................................................................... 107 
+8. 
+THEORY OF CHANGE: A VISION UP TO 2030 ................................................................. 108 
+8.1. Graphic representation of the Theory of Change ....................................................................................... 108 
+8.2. Narrative summary of the Theory of Change ............................................................................................. 110 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+4 
+ 
+9. 
+FINDINGS AND RECOMMENDATIONS ........................................................................... 126 
+9.1. Conclusions .................................................................................................................................................... 126 
+9.2. Recommendations ........................................................................................................................................ 130 
+10. 
+BIBLIOGRAPHY......................................................................................................... 147 
+ANNEX 1: CASE STUDIES ON CHILDREN’S JOURNEYS THROUGH THE CHILD PROTECTION SYSTEM ... 161 
+Case study on sexual violence – abuse by the stepfather ................................................................................... 161 
+Case study on violence and bullying in a rural area ............................................................................................. 164 
+Case study on violence in care institutions ........................................................................................................... 167 
+Case study on sexual violence – abused by her employer ................................................................................... 169 
+ANNEX 2: CASE STUDIES ON LOCAL SERVICE PROVISION .......................................................... 173 
+Case study on home visitations by patronage nurses .......................................................................................... 173 
+Case study on psycho-social support .................................................................................................................... 176 
+Case study on preventing bullying in schools ...................................................................................................... 179 
+ANNEX 3: PROCEDURAL DOCUMENTATION AND METHODOLOGY .............................................. 181 
+A: METHODOLOGY 
+B.1: LISTING OF LEGISLATIVE INITIATIVES 
+B.2: LISTING OF LITERATURE CONSULTED ON CHILD RIGHTS IN KAZAKHSTAN 
+C. THE EVALUATION REFERENCE GROUP (ERG) 
+D: LIST OF KEY INFORMANTS AND FOCUS GROUP PARTICIPANTS 
+E: LIST OF QUESTIONS TO KII 
+G: PARTICIPANT PROFILES 
+H. FGD QUESTIONS AND INTERVIEW GUIDELINE 
+I: LOCAL SERVICE PROVISION - CASE STUDY DESIGN 
+K: BIOGRAPHICAL RECONSTRUCTION - CASE STUDY DESIGN 
+L: ETHICS IN UNDERTAKING THE EVALUATION 
+M: EVALUATION QUESTIONS 
+ANNEX: TERMS OF REFERENCE 
+ 
+Indices of boxes, figures, and tables 
+Boxes 
+Box 1: Case study on sexual violence – abuse by the stepfather ............................................. 37 
+Box 2: Case study on violence and bullying in a rural area ....................................................... 54 
+Box 3: Case study on sexual violence – abused by her employer ............................................ 74 
+Box 4: Case study on violence in care institutions ................................................................. 100 
+ 
+Figures 
+Figure 1: Stakeholder Map of duty bearer for Child Protection in Kazakhstan ....................... 21 
+Figure 2: Timeline of Selected Kazakh Legislation and Policies relevant for Child Protection
+ ..................................................................................................................................................... 32 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+5 
+ 
+Figure 3: Competencies and roles in Child Protection per sector ........................................... 50 
+Figure 4: New proposed governance structure of the CPS in Kazakhstan ............................ 115 
+ 
+Tables 
+Table 1: Components of a Child Protection System ................................................................... 18 
+Table 2: Refined evaluation questions ...................................................................................... 26 
+Table 3: List of research tools and codes .................................................................................. 23 
+Table 4: Study methodologies applied ..................................................................................... 24 
+Table 5: Evaluation question 1.1: Legislation ............................................................................. 30 
+Table 6: Evaluation question 1.2: Policy..................................................................................... 37 
+Table 7: Evaluation question 1.3 Equity (strategic) .................................................................... 41 
+Table 8: Evaluation question 1.4 Comprehensive implementation ......................................... 42 
+Table 9: Evaluation question 1.5 Interlinkages ......................................................................... 43 
+Table 10: Evaluation question 2.1 Coordination and accountability (central & across levels) 45 
+Table 11: Evaluation question 2.2 Coordination (Local) ............................................................ 47 
+Table 12: Evaluation question 2.3 Complementarity.................................................................. 51 
+Table 13: Evaluation question 2.4 Commitment ....................................................................... 53 
+Table 14: Evaluation question 3.1: Availability ........................................................................... 56 
+Table 15: Patronage models for children younger than 5 (home visitation model) ............... 57 
+Table 16: Number of youth health centres ................................................................................ 61 
+Table 17: Number of youth resource centres ............................................................................ 62 
+Table 18: Crisis centres supporting persons who experienced violence in 2019 .................... 70 
+Table 19: Evaluation question 3.2 Appropriateness ................................................................. 73 
+Table 20: Evaluation question 3.3 Equity (operational) ........................................................... 75 
+Table 21: Evaluation question 3.4 Covid response .................................................................... 76 
+Table 22: Evaluation question 3.5 Scalability and innovation .................................................. 78 
+Table 23: Evaluation question 4.1 Measurement ...................................................................... 80 
+Table 24: Evaluation Question 4.2 Quality ................................................................................ 87 
+Table 25: Evaluation question 5.2 Human resources ................................................................ 90 
+Table 26: Social service and other professionals with social work functions by sector and level 
+of response .................................................................................................................................. 91 
+Table 27: Evaluation question 5.1: Financial resources ............................................................. 95 
+Table 28: Evaluation question 6.1: Social participation ........................................................... 101 
+Table 29: Evaluation question 6.2: Social norms ..................................................................... 103 
+Table 30: Priority Recommendations: Prevention and Response services - overview.......... 133 
+Table 31: Priority Recommendations: Governance - overview ............................................... 135 
+Table 32: Recommendations: laws and policy – overview ...................................................... 138 
+Table 33: Recommendations: human and financial resources – overview ............................140 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+6 
+ 
+Table 34: Recommendations: participation and norms – overview ....................................... 141 
+Table 35: Lead and subsidiary responsibilities for implementing the recommendations ..... 143 
+ 
+ 
+ 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+7 
+ 
+Abbreviations 
+COVID-19  
+Coronavirus disease of 2019 
+CPCR 
+Committee of Protection of Children's Rights 
+CPS 
+Child Protection System 
+CRC  
+Convention on the Rights of the Child 
+CRPD 
+Convention on the Rights of Persons with Disabilities 
+CSO 
+Civil Society Organizations 
+EQ 
+Evaluation Question 
+ERB 
+Ethics Review Board 
+ERG 
+Evaluation Reference Group 
+FGD 
+Focus group discussion 
+GoK 
+Government of Kazakhstan 
+HBSC 
+Health Behaviour in school children 
+IAEG-VAC  Inter-agency Expert Group on VAC: Measurement in the SDGs 
+IC 
+Informed Consent 
+IR  
+Inception Report 
+KAP 
+Knowledge, attitudes, and practices 
+KII 
+Key informant interview 
+MICS 
+Multiple Indicator Cluster Survey 
+MoES 
+Ministry of Education and Science 
+MoIA 
+Ministry of Internal Affairs 
+MoJ 
+Ministry of Justice 
+MoLSP 
+Ministry of Labour and Social Policy 
+MoPH 
+Ministry of Public Health 
+NAPSW 
+National Alliance of Professional Social Workers 
+NCPH 
+National Centre for Public Health of the MoH 
+NEET  
+Youth not in employment, education, or training 
+NGO 
+Non-governmental organization 
+NPM 
+National Preventive Mechanism  
+NSO 
+National Statistics Office 
+SDG 
+Sustainable Development Goals 
+SitAn 
+Situation Analysis 
+SP 
+Social Protection 
+ToC 
+Theory of Change 
+TORs 
+Terms of reference 
+UNDP 
+United Nations Development Programme 
+UNICEF 
+United Nations Children’s Fund 
+VAC 
+Violence against Children 
+WB 
+World Bank 
+WHO 
+World Health Organisation 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+8 
+ 
+Executive summary 
+ 
+Objective, object, and process of the evaluation 
+The overall purpose of the evaluation is to assess to what extent the undertaken reforms in 
+Kazakhstan from 2011 to 2020 have contributed to strengthening the system for the 
+prevention and response to violence, abuse, and neglect of children, as well as to examine 
+enabling conditions and bottlenecks that will require further improvement. 
+The object of the evaluation is the Kazakh system for the prevention and response to 
+violence, abuse, and neglect of children. The evaluation used the definition of violence 
+against children (VAC) as in Article 19 of the Convention on the Rights of the Child of which 
+Kazakhstan is a State Party: violence against children (VAC) includes physical, emotional, 
+sexual violence as well as negligent treatment. According to UNICEF, the goal of a system for 
+the prevention and response to violence, abuse, and neglect of children is that all children, 
+both girls and boys, grow up with greater freedom from all forms of violence and those who 
+do experience violence benefit from greater access to care, support and other services 
+needed to ensure physical, mental, and social well-being. Preventing and responding to VAC 
+is one of the goals of a national child protection system (CPS). A CPS comprises formal and 
+informal structures, functions, and capacities, that cut across ministerial competencies and 
+include both public and societal actors. Thus, a key feature of a CPS is its multisectoral nature 
+that gathers its impact by integrating the competencies and actions of different duty-
+bearers. The strength of a CPS derives from fostering the interaction of its components, 
+namely (1.) laws and policies, (2.) governance structure, (3.) a continuum of services from 
+primary and secondary prevention to response, (4.) data collection, monitoring and 
+oversight, (5.) human and financial and infrastructure resources, (6.) social participation and 
+norms.  
+The evaluation is conceived as a formative evaluation. It is meant to inform the future 
+government strategy concerning preventing and responding to VAC, as derived from the 
+obligation of the CRC and to SDG target 16.2 of the Agenda 2030. Specifically, is it meant to 
+identify priorities for short-term and mid-term action by the whole of government as led by 
+the President of the Republic and coordinated by the Prime Minister and by the respective 
+ministries, namely, MoES, MoIA, MoJ, MoLSP, MoPH as well as the Judiciary. It is also meant 
+to inform implementation at subnational level, by oblast administration and municipal 
+governments. Furthermore, the evaluation shall guide the future action of UNICEF in 
+Kazakhstan. Finally, nongovernmental organizations shall benefit from the evidence. 
+The evaluation’s timeframe covers the period from 2011 to 2020. In 2011, the Child Protection 
+System did not exist as such and was based on a pre-1991 Soviet model, relying heavily on 
+institutionalisation and with an under-developed children’s services sector. Child Protection 
+was used as a generic term to cover any support and welfare services provided to children as 
+well as the administrative process associated with the arranging, monitoring, funding, and 
+delivering of those services. The main legal basis in 2011 was constituted by the Law on 
+Special Social Services adopted in 2008, which, however, lacked secondary regulation for its 
+implementation. In 2011, the governance structure of child protection was fragmented and 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+9 
+ 
+there was limited availability of child protection services, while those available were not 
+meeting international standards. 
+Methodology. The study is based both on an extensive review of secondary sources, a 
+legislative and policy review, as well as primary research tools. A methodological choice was 
+taken to base the primary investigation in this evaluation principally on qualitative tools, such 
+as interviews, focus discussion groups and case studies. A refined set of research questions 
+were defined in an evaluation matrix that is composed of 20 research questions, including 
+indicators and sources for verification. As a key structuring principle, the CPS components 
+have been chosen rather than the standard evaluation criteria (relevance, effectiveness, 
+efficiency, coherence, sustainability, and impact). The report is structured against these 20 
+research questions. 
+The research was commissioned by the Kazakh Human Rights Commissioner and UNICEF. 
+These organizations managed the relation to the Evaluation Reference Group (ERG). The ERG 
+is composed of a cross-section of line ministries, representatives from public institutions as 
+well as child rights activists and non-governmental service providers. The ERG had been 
+involved in three strategic moments of the research, namely in the Inception phase when 
+defining the focus and methodology (January 2021), in the definition of the theory of change 
+after presenting the interim findings (June 2021), and the validation of the final report 
+(September 2021).  
+Children were not interviewed for the research. A comprehensive ethics review was 
+conducted, and approval was obtained by UNICEF´s ethical review board. The evaluation 
+team ensured full protection of the participants in the evaluation and has applied the ethical 
+standards in Research, Evaluation and Data Collection and Analysis. No disclosure of ongoing 
+violence or abuse happened during the evaluation. The evaluators declare to have no conflict 
+of interest. 
+Key findings 
+The CPS in Kazakhstan has made remarkable progress in the last 10 years. These are 
+noticeable in the high number of national laws, policies, protocols, and standard operating 
+procedures that have been adopted and/or are under discussion at the time of writing.  
+It is equally evident that these reforms haven’t been driven by a common vision and plan to 
+adequately address violence against children. They have the initiative of individual sectors 
+(health, education, and law enforcement in particular) but without enough cross-sectoral 
+consultation, coordination and learning.  
+The CPS as a concept was not there in 2011 and 2021 is still little or differently understood by 
+policymakers, officials, and professionals. Secondly, it is still too fragmented to be able to 
+provide to children at risk or victims of violence the multi-sectoral and multi-disciplinary 
+support that they need to avoid or repair the experience of violence.  
+The evaluation found evidence of delays, bottlenecks, and opportunities for further 
+strengthening each of the six components of the CPS (see individual sections below). But it 
+also confirmed the findings from the inception phase according to which two components 
+require priority investment and attention by the President and the Government: these are (1) 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+10 
+ 
+the component of prevention and response services and (2) the component on governance 
+at central and sub-national level.  
+Strengthening and establishing new services is urgently needed as the ones that exist do 
+provide some bits and pieces of prevention, support and rehabilitation. But they result in a 
+piecemeal approach that does not guarantee full coverage of needs, across age groups, 
+gender, situation of vulnerabilities and access across all territory. Specialised and integrated 
+services for child victims of violence, including sexual violence, do not exist. 
+Strengthening the governance of the CPS is equally urgent, both at central and sub-national 
+levels. The responsibility for developing, implementing, evaluating policies, programmes, 
+and services on violence against children still sit within each line-ministries and this has not 
+provided for strong enough accountability and execution of policies.  
+The CPS in Kazakhstan is still too fragmented and built on sectors in a siloed way. Several 
+components of it have been strengthened during the last decade that demonstrates that 
+Kazakhstan is on the right track to bring those pieces under a clearer and unified framework 
+and vision. 
+Laws and policies 
+Since 2011, Kazakhstan has made significant progress in introducing legislation prohibiting 
+violence in schools, childcare and penal institutions. 
+In terms of prohibition, the Kazakh legislation is quite comprehensive in protecting children 
+from physical and sexual violence. Nevertheless, it presents two main gaps: (1) it still lacks 
+definitions of child abuse, mental violence, abuse, insult, bullying and self-harm; and (2) 
+Corporal punishment is still lawful at home, in pre-school day care centres for older children.  
+In terms of the legal basis for prevention and response services, besides the development of 
+several sectoral laws that have established services for children, there are still some gaps: (1) 
+the experience of violence, abuse and neglect does not trigger direct eligibility for special 
+social services but only if violence leads to social deprivation and social maladjustment; (2) 
+specialised services for child victims of violence de facto do not exist under the law. 
+Fighting violence against children has become a national policy priority in the last five years. 
+The second half of the decade has seen the adoption of several sectoral policies (on social 
+development, on public health, on education) that set the agenda to further develop and 
+modernise the country until 2025. Nevertheless, policies have followed sectoral siloes and 
+have left the system fragmented. Fighting domestic violence has received the most attention 
+and a cross-sectoral one; nevertheless, it de-facto focuses on women and not really on 
+women and children. As of 2021, Kazakhstan does not have a centralised and unifying policy 
+on child protection/violence against children. 
+Governance 
+In Kazakhstan, the governance of the CPS has not evolved much from 2011. Although multiple 
+laws and policies were adopted in the last decade, these have been the initiatives by 
+individual sectors in a siloed way. As in 2021, there is no single central government body 
+responsible for setting state policies on child protection /violence against children. This has 
+continued to result in a segmented approach with fragmented sectoral initiatives: multiple 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+11 
+ 
+agencies develop and implement programmes without sufficient collaboration and 
+coordination resulting in gaps. 
+Unlike Child Protection, gender issues and violence against women have been better 
+coordinated at the central level. The Commission on Gender, Family and Demographic 
+Policies has contributed to the adoption of the Concept of Family and Gender Policy till 2030. 
+Many stakeholders used the Commission on Gender as a good example of effective multi-
+sectoral coordination, while also recognising its limitation in resources and capacities. 
+The lack of coordination at the national level is transposed at the sub-national level. Although 
+the evaluation found some anecdotal evidence of increased cooperation between health, 
+education, social protection, law enforcement agencies and NGOs, this cooperation is 
+voluntary, depending on the goodwill of professionals and not based on cross-sectoral 
+protocols or memorandum of understanding. 
+At the local level, the delivery of child protection services is carried out in a fragmented way 
+and follows sectoral lines. There are several bodies responsible for delivering the services to 
+children and their families but none of them has a coordinating function. The only official 
+body with a mandated function for coordination is the multi-sectoral Commissions on Minor’s 
+Affairs. Nevertheless, its role is limited to assessing the need for the alternative care of 
+children and out-of-home placement.  
+Two informants stressed that coordination works a little better at the local level as all 
+sectoral departments work under the executive bodies of Akimats and Oblast administration 
+and therefore the accountability is stronger. This is something that would need further 
+research. 
+Prevention and Response Services 
+The Law on Special Social Services (2008) created the legal basis for the development of 
+social services for children and families. Several specialised social services were created in 
+the last decade and across services, but very few of them with the prevention or response to 
+VAC as the central objective. 
+In the prevention of violence against children, the notable exceptions are the universal 
+patronage nurses introduced in 2017 and the piloting of the whole-school violence prevention 
+programmes in 2014 (which was discontinued because of lack of funding). This has resulted 
+in a piecemeal approach that presents overlaps (for example between youth health centres 
+and youth resource centres, of between school psychologists and school pedagogues) and 
+overlooked areas such as parenting programmes. At the same time school programmes 
+directed at prevention offer resources to school administration and psychologists to 
+incorporate violence prevention lessons into the existing school curriculum, but their 
+capacity seems to be limited by an approach that is perceived to be stigmatising and punitive 
+and sheading bad reputation on schools. Targeted social assistance has been introduced and 
+strengthened, nevertheless, it is not accompanied by any violence prevention in family or 
+parent support. 
+When it comes to response services, specialised services for child victims of violence are very 
+rare in Kazakhstan, both in terms of availability and coverage. Support services for child 
+victims of violence (treatment, psycho-social and mental health, recovery, and reintegration) 
+
+ 
+Kazakhstan: Formative evaluation of the  
+system for prevention and response to violence against children  
+12 
+ 
+are mainly residential, are provided both by NGOs and the State. They only provide support 
+to children who are eligible for them but not to their parents or siblings if they would need 
+it. There is a small number of crisis centres – both state and private – available for women 
+victims of violence, that potentially offer service for girls, but they de-facto are primarily 
+targeted at women. 
+Oversight and monitoring, quality of services 
+Since 2011, Kazakhstan has taken considerable steps to develop its national surveillance 
+system on violence against children. With the support from UN agencies, it carried out 
+several nationally representative surveys (amongst them MICS, VAW, and HBSC). 
+Surveillance using criminal and administrative data has nevertheless lagged, and little 
+progress has been made since 2011. As of 2020, Kazakhstan, besides the collection of criminal 
+data, still lacks national standards and indicators for collecting data on VAC and no inter-
+agency protocols to facilitate the sharing of administrative data across sectors and ministries, 
+agencies, and services providers. 
+Human Rights Institutions established in Kazakhstan has played a significant role in 
+monitoring and exposing the status of violence against children in Kazakhstan. Although not 
+fully compliant with the Paris Principle, the Office of the Commissioner for Human Rights has 
+been championing the issue of violence against children in state-run institutions, in schools 
+and lately in the family. Under the same office, the National Prevention Mechanism to 
+prevent torture is mandated to visit children’s institutions. Finally, a Children’s 
+ombudsperson was appointed in 2016, but without the necessary resources to fully exercise 
+its functions. 
+As of 2015, different line ministries have adopted quality standards and sectoral practices to 
+deal with the identification, referral, and support of child victims of violence. All the 
+standards were developed based on the Law on Special Social Services of 2008 (last 
+amended in 2019). Only a few of them (the most noticeable exception is the SOP on VAC for 
+medical staff) require the services to carry out multi-disciplinary needs assessment, develop 
+an individualised plan and assign a case manager to monitor it and follow it up. None of them 
+requests the services to consult children in the assessment of their needs and in the 
+identification of services that are made available to him/her. 
+Human and financial resources 
+Since the adoption of the Law on Specialised Social Services in 2008, Kazakhstan has invested 
+enormously in the planning, development and support of the social service workforce. It has 
+established the necessary legal and regulatory framework, the classifications of cadres and 
+other professionals, certification requirements and practice. Nevertheless, every sector has 
+taken its path without coordinating with other sectors or learning from similar processes. 
+This is particularly problematic for an area of work, such as preventing and responding to 
+violence against children, where the collaboration across sectors and disciplines brings 
+better outcomes for children than what each sector can achieve alone. Kazakhstan has the 
+ambition to strengthen the social sector, by building on what exists and unifying and 
+consolidating standards and regulatory frameworks across ministerial silos.

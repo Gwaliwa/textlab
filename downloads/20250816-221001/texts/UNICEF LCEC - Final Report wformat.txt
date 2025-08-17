@@ -1,0 +1,670 @@
+1 
+ 
+ 
+ 
+ 
+ 
+Formative evaluation of the 
+UNICEF Love and Care for 
+Every Child project – Laos 
+PDR 
+ 
+ 
+ 
+EVALUATION 
+REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OFFICE 
+January 2022 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Formative evaluation of the 
+UNICEF Love and Care for 
+Every Child project – Laos 
+PDR 
+ 
+ 
+ 
+External Evaluation Team and 
+Authors of the Report 
+Dr. Mariette Correa  
+Dr. Marta Welander 
+Raji Sharma  
+Shreya Agarwal 
+Sulathin Thiladej 
+David Lefor 
+Evaluation Manager: 
+Oscar Huertas 
+Evaluation Specialist 
+UNICEF Lao PDR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION 
+REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OFFICE 
+January 2022 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formative evaluation of the UNICEF Love and Care for Every Child project 
+Final Report 
+ 
+© United Nations Children’s Fund, UNICEF Lao PDR, 2022 
+ 
+Final version produced in January 2022  
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Function is to fulfil a 
+corporate commitment to transparency through the publication of all completed evaluations. The reports are 
+designed to stimulate a free exchange of ideas among those interested in the topic and to assure those 
+supporting the work of UNICEF that it rigorously examines its strategies, results, and overall effectiveness.  
+ 
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for error. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, or of 
+its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund.  Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF has a 
+formal permission policy that requires a written request to be submitted. For non-commercial uses, the 
+permission will normally be granted free of charge. Please write to the Evaluation Office at the address below 
+to initiate a permission request.  
+ 
+ Please cite the work as follows: UNICEF. 2022. “Formative evaluation of the UNICEF Love and Care for Every 
+Child project”. UNICEF Evaluation Office, New York. 
+ 
+For further information, please contact: 
+ 
+UNICEF Lao PDR 
+Thadeua Rd, Vientiane, Laos 
+E-mail: eapro@unicef.org or asia.pacific.evaluate@unicef.org 
+www.unicef.org/eapro 
+ 
+
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINAL REPORT 
+Formative evaluation of the 
+UNICEF Love and Care for Every 
+Child project 
+January 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+www.includovate.com 
+info@includovate.com 
+Includovate Pty Ltd  
+
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+Acknowledgements 
+ 
+Includovate gratefully acknowledges the invaluable support of the entire UNICEF Laos team, 
+notably Maria Fernandez, Risa Kojima, Khavi Homsombath, and Maryam Abdu. Special thanks to 
+UNICEF Evaluation Specialist Oscar Huertas for his unwavering support throughout the evaluation. 
+The contributions of the members of the Lao Women’s Union are highly appreciated. In particular, 
+sincere thanks to Dr. Ninpaseuth Xayphonesy and Ms. Vanmany Dittaphong for all in-country 
+coordination efforts related to data collection.  
+Finally, this evaluation would not have been successful without the time and input from the 
+participants of the key informant interviews, focus group discussions, case studies, and the online 
+survey. Our sincere thanks to all those involved.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+3 
+ 
+ 
+Executive Summary 
+Background  
+A landlocked, mountainous country in Southeast Asia, Lao PDR has experienced sustained 
+economic growth in the past decade, bringing down the rate of poverty from 34% to 23% and lifting 
+half a million people out of poverty.1 Despite achievements, significant economic disparities 
+continue to persist across diverse ethnic groups and different geographies of Laos. According to 
+the report (SDGs and Children – Measuring Progress on Child Wellbeing in Lao PDR), only 12% of 
+children experience no deprivation at all, while about 70% of children under 18 years of age suffer 
+at least two deprivations in the areas of nutrition, health, education, Early Childhood Development 
+(ECD), child protection, water, sanitation, housing and information.  
+As one of the most vulnerable countries to climate change impacts such as cyclones, floods and 
+droughts, Lao PDR has been experiencing recurring floods in 2018, 2019, 2020 and 2021. Low levels 
+of preparedness and limited response capacity affect thousands of children in Lao PDR each year 
+through unreliable and unsafe water and sanitation, inadequate medical services, disrupted 
+schools, and unsafe living conditions. Moreover, the outbreak of the COVID-19 pandemic in early 
+2020 put a halt on Lao PDR’s economy. The increase in unemployment and reduced family 
+incomes put many young children in low-income households at the risk of food insecurity and 
+malnutrition. Around 383,000 people were estimated to fall back into poverty due to the pandemic; 
+1.7 million children had their education disrupted.2  
+Considering that childhood malnutrition is very high, particularly in remote communities, that the 
+majority of children under 18 in Lao PDR are multidimensionally deprived, the Love and Care for 
+Every Child (LCEC) project, in conjunction with existing country programmes, will play an 
+essential role in ensuring that early childhood development in Lao PDR will be enhanced through 
+the utilisation of proven behavioural and communication strategies among priority population 
+groups.  
+Objectives, scope and purpose of the evaluation 
+The Love and Care for Every Child programme, begun in 2018 with the Lao PDR Government, 
+UNICEF, Lao Women’s Union (LWU), and with line ministries, including the Ministry of Health 
+(MOH), the Ministry of Education (MOES), Ministry of Home Affairs (MOHA), Ministry of Information, 
+Culture and Tourism (MICT), and the Lao Front for National Development (LFND). The objective of 
+the programme is to develop a culturally responsive and gender-sensitive strategy aiming to 
+transform parenting practices within families and give opportunities for children under seven years 
+(CU7) across the country. The programme builds on assessment findings and existing initiatives in 
+early childhood development in Lao PDR while applying proven behavioural and communication 
+strategies among priority population groups in four districts within two provinces: Sepon and 
+Atsaphone in Savannakhet, and Meung and Pha Oudom in Bokeo. Phase One pilot implementation 
+(training of trainers) took place between December 2019 and early 2020, then, with the COVID-19 
+outbreak there was a break and it continued in late 2020 and 2021. The project is planned to 
+continue through to a broader rollout in 2022 where experience from the pilot will inform and 
+strengthen expansion to five further provinces (Phase Two). This evaluation is situated at the end 
+of Phase One and will help to inform Phase Two.  
+ 
+The key objectives of the formative evaluation were to: 
+ 
+1 Brinkman, S., Sincovich, A., & Danchev, P. N. 2016. The status of early childhood health and development in northern Lao 
+PDR. Accessed October 11, 2021, at: https://documents1.worldbank.org/curated/en/228221488446175113/pdf/113100-WP-
+P145544-PULIC-WB-LAO-ECE-BASELINE-FULL-23mb.pdf 
+2 UNICEF. 2021. Country Office Annual Report 2020 Lao People's Democratic Republic. Accessed October 6, 2021 at: 
+https://www.unicef.org/media/102576/file/Lao-Peoples-Democratic-Republic-2020-COAR.pdf 
+
+ 
+ 
+ 
+4 
+ 
+ 
+a. Assess the clarity of objectives in each of the programme components, alignment, logic, and 
+coherence of the programme, including its Theory of Change; 
+b. Assess the adequacy and validity of the indicators, tools, and systems for monitoring, 
+measuring, and verifying results; 
+c. Document good practices and generate evidence-based recommendations to strengthen 
+ongoing efforts towards the expansion of parenting and care practices; and 
+d. Identify gaps, critical lessons learned, and main challenges, and provide recommendations 
+on how to address these challenges and pursue opportunities and recommend key 
+practices that should be incorporated in future phases. 
+Methodology and design  
+The evaluation followed a participatory, utilization-focused, and theory-based approach, with mixed 
+methods (qualitative and quantitative) of data collection and analysis. Participatory approaches 
+were adopted to the extent possible within the practical limitations of access, with engagement of 
+and consultation with key stakeholders in government, private sector, civil society and partner 
+agencies throughout the process.  
+ 
+Data collection methods included: 
+1. 
+Comprehensive documentation and desk review  
+2. Theory of Change workshop with UNICEF staff involved in the conceptualisation and design 
+of the LCEC initiative (n=9) 
+3. Key Informant Interviews (KIIs) with UNICEF Laos staff members (n=7), a regional UNICEF 
+staff member with expertise in early childhood development (n=1), government officials 
+(n=7), representatives of CSOs and NGOs (n=3), and a representative sample of trainers at 
+the provincial level (n=4) and the district level (n=8) 
+4. Focus Groups Discussions (FGDs) with trainers from each of the 4 districts (n=38) 
+5. Online survey among trainees across the 4 districts (n=270) 
+6. Case studies to illustrate the evaluation findings with trainees in each district (n=8) 
+ 
+The evaluation has prioritized the OECD/DAC evaluation criteria of relevance, efficiency, 
+effectiveness, impact, and sustainability. The evaluation criteria and questions have analysed the 
+extent to which human rights, child rights, and gender equality and equity have been addressed 
+within the programme.  
+Key findings  
+Relevance: The programme has largely been contextualized to meet the local context, needs and 
+priorities from communities. The LCEC pilot began with a comprehensive needs assessment which 
+analysed the needs of the parents - a desire for a better life for their children. The assessment 
+identified opportunities and channels for reaching and engaging parents and the project was 
+designed keeping these in mind. Apart from the assessment, the project also built on the existing 
+initiatives in Lao PDR. The priority population groups and communication channels were identified 
+in collaboration with the LWU, the Lao PDR Ministry of Health (Centre for Communication and 
+Education for Health) – and the Maternal and Child Health, and UNICEF with input from the Ministry 
+of Education and Sports (MoES) and other line ministries, including Ministry of Home Affairs (MOHA), 
+Ministry of Information, Culture and Tourism (MICT), and the LFND. The LCEC programme is an 
+attempt to give more tools to those parents and caregivers so they can develop their skills and 
+contribute and promote the development of their children. The programme fits into the overall 
+agenda of early childhood development because it addresses almost all the parenting related 
+behaviours that are critical in any early childhood development programme.  
+Efficiency: Several factors have contributed to the efficiency of the programme. To begin with, the 
+collaboration between various government counterparts and mass organisations like the LWU 
+allowed for cross-sectoral effort in the designing of the parenting package. However, this 
+
+ 
+ 
+ 
+5 
+ 
+ 
+collaboration has somewhat slowed down the progress of the programme, as there were delays in 
+the early stages while designing the package, which consequently led to delays in further 
+implementation. Trainers and facilitators were unable to apply their knowledge owing to delays in 
+training sessions. Additionally, the cascade model of the training resulted in transmission loss of 
+knowledge to some extent, which led to concerns about the quality of training received at the village 
+level being expressed by many stakeholders. Other challenges such as lack of transportation, 
+unfavourable weather conditions, poor infrastructure, and shortage of time decreased the efficiency 
+of the programme. Among the recipients of the training, lower levels of literacy, unwillingness to 
+participate, and unfamiliarity with the official language of the programme (Lao) created hindrances 
+in the effective delivery of the programme.  
+Effectiveness: Given that the rollout of the programme has not begun at the identified intervention 
+sites, the effectiveness of the programme and the extent to which results have been achieved 
+cannot be assessed. It is also too early to say whether the monitoring data collection system will 
+adequately reflect and inform programme objectives. It should also be noted that there are no 
+indicators to measure the effectiveness of the quality of the training. The only measure of success 
+or failure is the number of persons trained. The reach of the pilot, however, has been quite extensive. 
+The training programme has reached 254 villages (in 2 provinces, 4 districts, 54 village clusters). 1,127 
+people have been trained as facilitators at the village level. At the central, 20 master trainers; at the 
+provincial level, 8 trainers and at the district level, 73 trainers have been trained thus far. Primary 
+data has also revealed that the trainers are satisfied with the IEC material, specifically the posters, 
+booklets, bags, and projectors, as they respond to their training and facilitation needs. The posters 
+with pictures and videos with messages enabled the participants to understand the lessons easily 
+and grasp the messages conveyed. 
+Impact: The parenting package has the potential to provide a sort of support framework for parents 
+in terms of access to information and how to draw on local resources, and have a more holistic 
+community network of support. This programme also has the potential to bring parenting practices 
+to the fore, make positive parenting a very real and relatable concept in communities, create 
+stronger community norms around positive parenting, and help families and communities 
+understand the significant impact of their actions on the life of a child. In addition, the project 
+provides an opportunity to show the government and providers how to view children holistically 
+rather than as a sum of individual programmes pertaining to health, nutrition, WASH, education, by 
+bringing together various sectors and departments within the government and providing evidence 
+that such an integrated approach can be efficiently managed and implemented and can save a lot 
+of resources. This could possibly be a long-term impact if each of the sectoral teams can feed their 
+inputs into the package rather than each delivering different programmes with different 
+monitoring requirements.  
+Sustainability: The results and activities of the programme are likely to continue after funding has 
+been withdrawn due to the nature of the implementing authorities such as the Lao Women’s Union 
+and the public health sector. The intervention coincides with the organisations' mandates, plans, 
+and objectives and the tools from the programme will be incorporated in the organisations’ 
+outreach efforts and activities. The multi-sectoral and multi-stakeholder involvement in the 
+programme, and the capacities that have been built at all levels, from the senior government levels 
+to the village facilitators, and the IEC material that has been developed will contribute to the 
+sustainability of the programme. The results from the intervention are also likely to continue due to 
+the benefits that the communities and parents received, the lessons and skills the participants 
+obtained, and because the project shared similarities with other public programmes/policies. The 
+project has also built a cadre of trainers/trainees at different levels, who can help in continuing the 
+project interventions. It is necessary that for some time at least LWU and the other relevant 
+authorities continue to disseminate information and convey key messages of the project to local 
+
+ 
+ 
+ 
+6 
+ 
+ 
+communities. Absence of monitoring and evaluation by the authorities and the lack of a budget, 
+however, might hinder the sustainability of the programme.  
+The human rights approach and gender equity: The project took into account the principles of 
+the UN Convention on the Rights of the Child and the CEDAW report as well as followed 
+government policies of non-discrimination and to ‘leave no one behind’. At the inception phase, 
+CBM was contracted by UNICEF Australia to provide technical advice on disability inclusion. 
+During the preparation of the materials, there was recognition of the need for and some discussion 
+about including marginalised language groups. Disability and gender have been addressed in 
+each component of the five handbooks. There is also recognition of the fact that several 
+beneficiaries (women and mothers) are from ethnic communities who do not speak Lao. There is 
+consensus among interviewees of this evaluation that they will be given the opportunity to learn 
+from the parenting package in their own language, considering that the facilitators are from their 
+communities. There are also mechanisms and tools in place to gather gender- and disability-
+disaggregated data under the monitoring framework. However, its realisation is dependent on the 
+delivery partners and their level of training for the same.  
+Key recommendations  
+Recommendations cluster A: Programme design and management  
+● 
+Ensure to implement lessons learned prior to scaling up: Programmatic gaps to be 
+plugged through a survey and/or learning exchanges between districts.  
+● 
+Ensure a strong contingency plan: The COVID-19 pandemic has warranted the need for a 
+contingency plan to deal with future emergencies, factor in provisions for humanitarian aid. 
+This should include, but not be limited to, supplying protective equipment, identifying new 
+ways to engage parents and the stakeholders in rural areas. 
+● 
+Develop new indicators: Additional indicators to measure effectiveness and the 
+comprehension of the materials across different groups. 
+ 
+Recommendations cluster B: Training and capacity building 
+● 
+Choose to scale in strategic locations: The LCEC project could be scaled in districts where 
+supportive initiatives such as the Early Childhood Education (ECE) (supported by the World 
+Bank) already exist. Hence, locations for scaling and roll-out should be selected strategically. 
+● 
+Strengthen training programmes: Gaps in training programmes can be incorporated into 
+the refresher training and for the scale-up. Trainers to fully understand the materials rather 
+than focusing primarily on coordination. Capacity building of the relevant officials is also 
+necessary, along with increasing the number of trainers in the project. 
+ 
+Recommendations cluster C: Monitoring and reporting systems 
+● 
+Assess existing indicators: Review the 20 indicators and assess whether they are 
+achievable, realistic and measurable in the given context and capacities of the facilitators.  
+● 
+Consider reporting needs: Consider the reporting needs of the project and set budget aside 
+for equipment (e.g., computers, smartphones) to strengthen reporting systems. 
+ 
+Recommendations cluster D: Gender and inclusion 
+● 
+Women’s empowerment and awareness: Given women’s responsibilities in providing the 
+daily meals and meeting the nutritional needs of the family, systems and measurable 
+indicators to assess effectiveness of training programmes and collect gender and disability 
+disaggregated data is necessary.  
+● 
+Disability and gender: Sessions should be included in the training programme agenda to 
+raise awareness of the necessity of disability and gender issues for behaviour change and 
+early childhood interventions. Demystify and address attitudinal barriers about disability. 
+● 
+Involve parents with disabilities, and parents of children with disabilities: To further 
+address stigma, attitudes and social barriers, parents with disabilities and parents of 
+
+ 
+ 
+ 
+7 
+ 
+ 
+children with disabilities can be involved in the delivery of the package, ensuring that 
+reasonable accommodations are made.  
+ 
+Recommendations cluster E: Sustainability 
+● 
+Ensure efficient resource allocation: Especially in the context of scaling up, efficient 
+resource allocation is necessary. This can be achieved through strong resource mobilisation 
+strategies. Allocate budget to provincial level work.  
+● 
+Demonstrate evidence of success: It is essential to show success of the pilot project in 
+order to secure additional funding from the government.  
+● 
+Enhancement of training of trainers: Consider whether the number of days for the training 
+should be increased, or reduce training material and the number of survey forms. More 
+emphasis should be given on practical activities, going beyond theory.  
+● 
+Increase the number of trainers at the village and district levels: This can help take the 
+pressure off the existing trainers to cover a large geographical area. Per diem budget for 
+trainers should moreover take into account the true on-field conditions.  
+● 
+Collaborate with key persons/groups in each location: This can help increase 
+participation, as key persons/groups can help to mobilize the local participants to attend.  
+● 
+Provide a transport facility: Most trainers at the district used their own motorbikes, which 
+is particularly difficult for female trainers due to their attire. If this is not feasible, trainers 
+should be reimbursed for their travel costs.  
+● 
+Conduct the training in local languages: In order to reach as many people as possible, 
+specifically women and mothers from ethnic communities, it would be fruitful to conduct 
+the training in local languages and increase use of audio-visual material.  
+● 
+Time budgeting well in advance to ensure sufficiently long timelines are given.   
+● 
+UNICEF staff to work closely with implementing partners to monitor the implementation 
+of the project. Trainers from central levels to go to rural communities and provide feedback 
+on implementation to enhance trainees’ capacities. 
+● 
+Involve community engagement elements to maximise impact and reach wider 
+audiences, e.g., mass media campaigns on parenting. 
+ 
+Recommendations cluster F: Addressing capacity needs of project partners implementing and 
+monitoring  
+● 
+Stepping up the supportive supervision and having more support for troubleshooting 
+will help create a system of regular feedback on the challenges the women are facing in 
+their work. Approaches like peer to peer coaching/ mentoring can be explored where 
+women who are performing well could become coaches or mentors for other women.  
+● 
+Easier qualitative methods to track changes in behaviour at the community level, which 
+could include simple pictorial tools which are given to the women to gauge what kind of 
+changes are happening at the community level.  
+● 
+There are some community-based monitoring systems and tools which can also be 
+introduced, which are a lot simpler than complex research methods.  
+● 
+Monitoring tools to be adjusted keeping the capacity of the facilitators in mind because 
+one of the really valuable things about this package and the design is that it is intended to 
+collect quite consistent data over a number of elements of the nurturing care framework.  
+● 
+Since facilitators are expected to lead by example and be front-runners in their communities 
+on the adoption of the key LCEC behaviours, there could be monitoring systems of 
+behaviours against predetermined indicators. 
+ 
+Recommendations cluster G: Strengthening capacity of trainers 
+● 
+There is also a need to focus on the communication skills of the trainers so that it becomes 
+easier for the participants to grasp the contents of the training better. 
+● 
+Keeping a check on the efficiency of trainers by having a mechanism to judge their skills 
+because usually once the master trainers are trained, they then train the trainers, who 
+further train the participants and there is no check on how well the trainers are performing. 
+
+ 
+ 
+ 
+8 
+ 
+ 
+A capacity reinforcement plan for trainers, depending on their skills, would be critical to 
+prevent transmission loss.  
+● 
+Trainees at all levels should be given simple take-home materials to which they can refer 
+as a resource.  
+● 
+More sets of IEC material are needed so that a set can be kept in the pre-primary school, 
+at the health centre and in other prominent locations in the villages.  
+● 
+Materials need to be translated into the local ethnic languages since many people in the 
+target areas, especially women, do not understand Lao. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Acknowledgements 
+2 
+Executive Summary 
+3 
+Abbreviations and acronyms 
+11 
+1. Background 
+13 
+2. Evaluation purpose, objectives and scope 
+16 
+2.1 Evaluation purpose 
+16 
+2.2 Evaluation objectives 
+16 
+2.3 Evaluation scope 
+16 
+2.4 Budget 
+17 
+3. Evaluation design and methodology 
+18 
+3.1 Overall approach 
+18 
+3.2 Evaluation questions 
+18 
+
+ 
+ 
+ 
+9 
+ 
+ 
+3.2.1 Relevance 
+18 
+3.2.2 Efficiency 
+19 
+3.2.3 Effectiveness 
+19 
+3.2.4 Impact 
+19 
+3.2.5 Sustainability 
+20 
+3.2.6 Human Rights approach, Gender equity 
+20 
+3.3 Sources of data and data collection methods 
+20 
+3.4 Data analysis and approach 
+23 
+3.5 Limitations 
+24 
+4. Evaluation Findings 
+27 
+4.1 Relevance 
+27 
+4.1.1 To what extent has the programme been designed to meet the local context, needs 
+and priorities from communities? 
+27 
+4.1.2 Is the ToC for programme components adequately described and is there clarity of 
+logic across the results levels? 
+34 
+4.1.3 To what extent are results, indicators and activities measurable? 
+35 
+4.1.4 To what extent are cross-cutting priorities (namely: gender, disability and disaster risk 
+reduction) and equity measurable against clear targets? 
+36 
+4.2 Efficiency 
+36 
+4.2.1 What factors have contributed to increase/decrease the efficiency of the programme?
+ 
+36 
+4.2.2 To what extent is the programme timely, and delivered in time? 
+40 
+4.2.3 To what extent did the programme activities reinforce synergies with other initiatives 
+to achieve optimal utilization of available resources? 
+40 
+4.3 Effectiveness 
+41 
+4.3.1 To what extent have the expected results been realized through the programme? 41 
+4.3.2 What factors have contributed to the programme results achieved? 
+42 
+4.4 Impact 
+44 
+4.4.1 What is the likely impact (positive or negative, intended and unintended) on local 
+communities and other beneficiaries? 
+44 
+4.4.2 What is the likely impact (positive or negative, intended and unintended) on partners 
+and stakeholders? 
+45 
+4.4.3 What lessons can be learned from the best practices, achievements, challenges, and 
+constraints of the programme? 
+46 
+4.5 Sustainability 
+50 
+4.5.1 To what extent are the intervention results likely to continue after the funding has 
+been withdrawn? 
+50 
+4.5.2 To what extent have institutions and stakeholders taken and shown ownership of the 
+action objectives? To what extent are they actively engaged in the activities of the action?
+ 
+51 
+4.6 Human rights approach, gender equity 
+53 
+4.6.1 To what extent have human rights, child rights, climate change, disaster risk reduction, 
+and gender equality and equity been addressed within the programme? 
+53

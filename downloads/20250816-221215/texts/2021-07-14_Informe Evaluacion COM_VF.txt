@@ -1,0 +1,685 @@
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+1 
+ 
+ 
+ 
+    
+ 
+ 
+Evaluación de las 
+intervenciones en materia de 
+migración en México, 
+Guatemala, Honduras y 
+El Salvador 
+ 
+INFORME DE PAÍS: HONDURAS 
+Soraya Long, Evaluadora  
+Julio, 2021 
+NEXUS INTERAMERICAN CONSULTING SERVICES 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+2 
+ 
+Índice  
+ 
+ACRÓNIMOS ............................................................................................................................................... 4 
+RESUMEN EJECUTIVO ..................................................................................................................... 5 
+I. 
+INTRODUCCIÓN ..................................................................................................................... 10 
+II. 
+CONTEXTO Y ANTECEDENTES .................................................................................................. 10 
+II.1 Situación de vulnerabilidad de los NNA en Honduras como factores de la migración............... 11 
+II.2 Honduras como país de origen. .................................................................................................. 13 
+II.3 Las caravanas como modalidad de migración ............................................................................ 14 
+II.4 Honduras como país de retorno ................................................................................................. 15 
+II.5 Honduras y el desplazamiento forzado a lo interno del país. ..................................................... 17 
+II.6 La respuesta gubernamental: normativa, institucional y de políticas públicas. ......................... 17 
+II.7 La respuesta de UNICEF .............................................................................................................. 19 
+III. 
+OBJETO DE LA EVALUACIÓN ............................................................................................... 22 
+III.1 Puentes Educativos .................................................................................................................... 23 
+III.2 Recuperación emocional de niños y niñas con énfasis en migrantes retornados ..................... 27 
+III.3 Reintegración de NNA a la familia y comunidad ....................................................................... 28 
+IV. 
+PROPÓSITO, OBJETIVOS Y USO DE LA EVALUACIÓN. ............................................................ 30 
+IV.1 Propósito ................................................................................................................................... 30 
+IV.2 Objetivos .................................................................................................................................... 30 
+IV.3 Usuarios de la Evaluación .......................................................................................................... 31 
+V. 
+ALCANCES DE LA EVALUACIÓN ........................................................................................... 32 
+V.1 Alcance temático ........................................................................................................................ 32 
+V.2 Alcance geográfico ...................................................................................................................... 32 
+V.3 Alcance temporal ........................................................................................................................ 33 
+VI. 
+CRITERIOS Y PREGUNTAS DE EVALUACIÓN .......................................................................... 33 
+VII. 
+METODOLOGÍA .................................................................................................................. 34 
+VII.1 Aspectos generales y enfoques éticos y metodológicos .......................................................... 34 
+VII.2 Teoría de Cambio ...................................................................................................................... 35 
+VII.3 Muestra .................................................................................................................................... 38 
+VII.4 Técnicas de recolección de datos e información ...................................................................... 38 
+VII.5 Análisis de la información ......................................................................................................... 39 
+VII.6 Proceso de la evaluación país ................................................................................................... 40 
+VIII. 
+LIMITANTES Y MEDIDAS DE MITIGACIÓN ............................................................................ 40 
+IX. 
+CONSIDERACIONES ÉTICAS ................................................................................................. 41 
+X. 
+HALLAZGOS ....................................................................................................................... 42 
+X.1 Pertinencia .................................................................................................................................. 42 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+3 
+ 
+X.2 Eficacia ........................................................................................................................................ 52 
+X.3 Sostenibilidad.............................................................................................................................. 62 
+XI. 
+CONCLUSIONES .................................................................................................................. 67 
+XI.1 Pertinencia ................................................................................................................................. 67 
+XI.2 Eficacia ....................................................................................................................................... 67 
+XI.3 Sostenibilidad............................................................................................................................. 68 
+XII. 
+BUENAS PRÁCTICAS Y LECCIONES POR APRENDER ............................................................... 68 
+XII.1 Buenas Prácticas ....................................................................................................................... 68 
+XII.2 Lecciones por aprender ............................................................................................................ 69 
+XIII. 
+RECOMENDACIONES .......................................................................................................... 69 
+XIV. 
+ANEXOS ............................................................................................................................. 75 
+ 
+ 
+TABLAS Y GRÁFICOS 
+ 
+TABLAS 
+ 
+Tabla 1. Niñez Hondureña Retornada, Comparación Anual ............................................................................. 16 
+Tabla 2. Ficha técnica de intervenciones objeto de evaluación para el proyecto UNICEF-CNR ....................... 24 
+Tabla 3. Ficha técnica de intervenciones objeto de evaluación para el proyecto UNICEF-ACOES ................... 25 
+Tabla 4. Ficha técnica de intervenciones objeto de evaluación para el proyecto UNICEF-CINDE .................... 26 
+Tabla 5. Ficha técnica de intervenciones objeto de evaluación para el proyecto UNICEF-CRH ....................... 27 
+Tabla 6. Ficha técnica de intervenciones objeto de evaluación para el proyecto UNICEF-DINAF .................... 28 
+Tabla 7. Usuarios y usos de la evaluación ........................................................................................................ 31 
+Tabla 8. Criterios y preguntas de evaluación.................................................................................................... 34 
+Tabla 9. Enfoques de la evaluación. ................................................................................................................. 35 
+Tabla 10. Informantes clave consultados/as según sector, técnica, sexo y grupo etario. ............................... 38 
+Tabla 11. Etapas y tareas del proceso de evaluación país ................................................................................ 40 
+Tabla 12. Limitantes y medidas de mitigación ................................................................................................. 40 
+Tabla 13. Resultados de las intervenciones COM en Honduras. ...................................................................... 52 
+Tabla 14. Escalabilidad de la Intervenciones COM en Honduras. .................................................................... 66 
+Tabla 15: Recomendaciones de la evaluación de las Intervenciones COM en Honduras. ............................... 70 
+ 
+ 
+GRÁFICOS. 
+ 
+Gráfico 1. Ruta Niñez en situación de migración. ............................................................................................. 22 
+Gráfico 2. Representación gráfica de la Teoría de Cambio de las Intervenciones COM en Honduras. ............ 37 
+Gráfico 3. Estructura del SIGADENAH............................................................................................................... 48 
+Gráfico 4. Escalabilidad..................................................................................................................................... 66 
+ 
+ 
+ 
+ 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+4 
+ 
+ACRÓNIMOS 
+ 
+ACNUR 
+Agencia de Naciones Unidas para los Refugiados 
+ACOES 
+Asociación Colaboración y Esfuerzo 
+C4D 
+Comunicación para el Desarrollo 
+CAMR 
+Centro de Atención al Migrante Retornado 
+CINDE 
+Centro Internacional de Educación y Desarrollo Humano  
+CNR 
+Consejo Noruego para los Refugiados 
+COM 
+Children on the Move 
+CIPPDV 
+Protección de las Personas Desplazadas por la Violencia  
+CPD 
+Country Programme Document  
+CRH 
+Cruz Roja Hondureña 
+DINAF 
+Dirección de Niñez, Adolescencia y Familia 
+EBDH 
+Enfoque Basado en Derechos Humanos 
+FLACSO 
+Facultad Latinoamericana de Ciencias Sociales 
+FONAMIH 
+Foro Nacional para la Migración en Honduras 
+GGE 
+Grupo de Gestión de la Evaluación 
+LGBTI 
+Lesbianas, Gays, Bisexuales, Transgénero e Intersex 
+MANUD 
+Marco de Asistencia de Naciones Unidas para el Desarrollo 
+MUA 
+Mujeres en las Artes 
+NNA 
+Niñas, niños y adolescentes 
+OACNUDH 
+Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos 
+OCDE 
+Organización para la Cooperación y el Desarrollo Económico  
+ODS 
+Objetivos de Desarrollo Sostenible 
+OIM 
+Organización Internacional para las Migraciones 
+OMS 
+Organización Mundial de la Salud 
+ONG 
+Organización no Gubernamental 
+OP 
+Oficina País 
+PE 
+Puentes Educativos 
+S4D 
+Deportes para el Desarrollo 
+SEDUC 
+Secretaría de Educación 
+SIGADENAH 
+Sistema Integral de Garantía de Derechos la Niñez y la Adolescencia de Honduras  
+TdC 
+Teoría de Cambio 
+TdR 
+Términos de Referencia 
+TNCA 
+Triángulo Norte de Centroamérica 
+UMAR 
+Unidades Municipales de Atención al Migrante Retornado 
+UNEG 
+Grupo de Evaluación de las Naciones Unidas 
+UNICEF 
+Fondo de Naciones Unidas para la Infancia 
+UNICEF LACRO 
+Oficina Regional de UNICEF para América Latina y el Caribe 
+ 
+ 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+5 
+ 
+EVALUACIÓN DE LAS INTERVENCIONES EN MATERIA DE MIGRACIÓN EN MÉXICO, GUATEMALA, 
+HONDURAS Y EL SALVADOR INFORME DE PAÍS: HONDURAS 
+ 
+RESUMEN EJECUTIVO 
+ 
+CONTEXTO: Honduras es un país centroamericano, principalmente de origen y retorno de población migrante. 
+El éxodo responde a la pobreza y falta de oportunidades laborales, así como a los altos niveles de inseguridad 
+ciudadana, violencia y la necesidad de reunificación familiar; aunado a una profunda inestabilidad política y a 
+altos niveles de corrupción. Estos problemas estructurales son motivaciones para un crecimiento acelerado 
+de la migración infantil; sea que migren solos o acompañados. En los últimos años migran hacia el norte 
+(Estados Unidos y México) en las denominadas “caravanas”. Conforme aumenta la migración, aumenta el 
+retorno; según fuentes oficiales, entre el 2016 a mayo de 2021 han sido retornados 58,453 NNA, de estos 
+34,785 acompañados/as y 23,668 no acompañados/as; 38,392 niños y 20,061 niñas. El número más alto de 
+NNA retornados proviene de México: 48,926, y luego Estados Unidos: 7,831. Los NNA retornados a menudo 
+se enfrentan a la estigmatización por parte de la comunidad, a la exclusión social, violencia, desplazamiento 
+interno y pobreza extrema. Un problema, cada vez más presente en Honduras, es el desplazamiento interno 
+forzado de NNA, cuya causa principal es la violencia la , proveniente de maras y pandillas. 
+ 
+La propuesta de UNICEF, Children on the Move (COM). Desde el año 2016, UNICEF, desde su estrategia global 
+Children on the Move (COM) se propuso ofrecer una respuesta a las necesidades de protección de los NNA en 
+situación de migración; y lo hace a través de seis políticas (6 policy asks): 1. Proteger a las NNA contra la 
+explotación y las violencias; 2. Poner fin a la detención de las NNA estableciendo medidas alternativas para su 
+cuidado; 3. Mantener a las familias juntas; 4. Asegurar el acceso a la educación y a la salud de las NNA; 5. 
+Abordar las causas estructurales que provocan que las NNA abandonen sus hogares, y 6. Erradicar la xenofobia 
+y la discriminación. En el marco de COM, las prioridades de la UNICEF en Honduras estuvieron dirigidas, 
+principalmente, a generar un entorno de atención y protección a niñez retornada y desplazada por la violencia, 
+al efecto, colaborando con el Estado para que este brinde respuestas efectivas y oportunas a la niñez en 
+situación de migración, particularmente la niñez retornada. 
+ 
+OBJETO DE LA EVALUACIÓN: A falta de un documento de estrategia subregional explícito para COM, se definió 
+el objeto de evaluación como aquellas intervenciones en materia de migración de NNA que: i) que hayan sido 
+beneficiadas, total o parcialmente, por el capital semilla COM; ii) responden a las necesidades locales; iii) 
+responden a las 6 políticas de COM global, y iv) son experiencias piloto o casos en torno a los cuales aprender 
+o escalar. Bajo estos criterios, las intervenciones seleccionadas por ser más representativas, fueron: 
+ 
+Intervención 
+Propósito 
+Socios 
+Implementadores 
+Puentes 
+Educativos 
+Estrategia para garantizar el acceso a educación de NNA en 
+situación de migración, retornados y desplazados por la 
+violencia, coordinada con la SEDUC. 
+CNR, 
+ACOES 
+y 
+CINDE. 
+Recuperación 
+Emocional de NNA  
+Atención psicoemocional de niños y niñas afectados directa o 
+indirectamente por la migración, mediante la atención directa, 
+utilizando indicadores emocionales. 
+CRH 
+Reintegración 
+de 
+NNA a sus familias 
+y comunidades 
+Respuesta integral a necesidades de protección y seguridad. 
+DINAF 
+ 
+PROPÓSITO, OBJETIVOS, ALCANCES Y USUARIOS DE LA EVALUACIÓN: La evaluación, de carácter intermedio 
+y como proceso formativo valoró la pertinencia, eficacia y sostenibilidad de las intervenciones. Su propósito 
+fue responder al compromiso adquirido por UNICEF de evaluar las intervenciones después de la recepción de 
+un capital semilla, así como identificar oportunidades y condiciones necesarias para la ampliación o réplica 
+exitosa de las intervenciones desarrolladas; y brindar oportunidades para lograr una mayor coordinación 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+6 
+ 
+entre los países y fortalecer el trabajo transfronterizo, para mejorar su respuesta a las necesidades de las NNA 
+en situación de migración. El alcance temporal de la evaluación fue desde 2017 hasta noviembre de 2020 y 
+su alcance geográfico incluyó 26 municipios en 8 departamentos, todos ellos vulnerables a la migración. 
+ 
+La evaluación de COM en Honduras se inserta en un proceso de evaluación multipaís que incluye a México, El 
+Salvador y Guatemala, por lo que esta evaluación es un caso de estudio para ese proceso. El objetivo general 
+de la evaluación fue “Aprender sobre la implementación de los distintos modelos propuestos y desarrollados 
+por UNICEF para responder a las diferentes fases (origen, tránsito, recepción y retorno) de los flujos 
+migratorios en los cuatro países que implementan la iniciativa: México, El Salvador, Honduras y Guatemala”. 
+Los usuarios de los resultados de la evaluación son los gerentes y oficiales de LACRO y de la Oficina País; los 
+aliados estratégicos (autoridades y entidades gubernamentales, Organizaciones de Sociedad Civil) y NNA y sus 
+familias. 
+ 
+METODOLOGÍA. La evaluación país tiene un diseño cualitativo – descriptivo, atendiendo un diseño no 
+experimental, con enfoque teórico, participativo y orientado al uso, es decir, buscó comprender la evolución 
+de categorías de análisis como factores vinculados a las intervenciones y su relación en conjunto desde la 
+perspectiva de actores clave. No se realizó ningún tipo de análisis cuantitativo o estadístico de la información. 
+En términos metodológicos, el levantamiento de la información se realizó en modalidad virtual debido a la 
+pandemia por COVID-19 y medidas sanitarias correspondientes. Las técnicas de levantamiento de información 
+incluyeron la revisión documental (aproximadamente 70 documentos); 3 sesiones de trabajo con el equipo 
+de UNICEF-Honduras; 14 entrevistas (12 individuales y 2 colectivas) y 2 grupos focales, consultando en total a 
+29 personas (9 hombres y 20 mujeres), incluyendo a personal de UNICEF, instituciones públicas y privadas 
+aliadas y actores relevantes en el país con información pertinente. Algunas limitaciones fueron: i) la 
+imposibilidad de un trabajo de campo presencial por la pandemia, por lo que todo se hizo virtualmente; ii) la 
+imposibilidad de escuchar las voces de NNA, también por la pandemia; iii) cambios en el equipo de evaluación, 
+específicamente la evaluadora de Honduras, lo que implicó que la última no tuviera acceso directo a algunos 
+actores clave; iv) Los informes de UNICEF son generales, no especificando sobre las intervenciones evaluadas; 
+y v) falta de información sobre cómo las intervenciones aportan a los resultados esperados de UNICEF.  
+ 
+PRINCIPALES HALLAZGOS. Los principales hallazgos de la evaluación están basados en la evidencia encontrada 
+en los documentos revisados y las respuestas obtenidas por los actores a las preguntas realizadas en las 
+entrevistas. 
+ 
+PERTINENCIA. Las intervenciones COM de UNICEF Honduras muestran una adecuada alineación en tres 
+niveles: 1) a nivel institucional, con el marco programático COM, 2) a nivel operativo, con las necesidades de 
+NNA migrantes y 3) a nivel nacional, con las prioridades relativas a protección de niñez y adolescencia 
+migrante. Respecto al primero, el trabajo de la OP en materia migratoria está en línea con el marco 
+programático COM y sus policy asks. Las intervenciones apoyadas son coherentes y complementarias entre 
+sí, brindando una respuesta integral a distintas necesidades de atención. A nivel operativo, las intervenciones 
+son pertinentes porque parten de una identificación correcta de las afectaciones del fenómeno migratorio en 
+NNA migrantes, que ha servido para orientar los servicios y oferta programática para responder a estas 
+afectaciones diferenciadas e impactos derivados de las distintas dinámicas de movilidad humana, 
+incorporando enfoques de género y de interés superior de la niñez. A nivel país, el apoyo de UNICEF a estas 
+intervenciones es pertinente pues corresponde con los marcos normativos de migración y las prioridades 
+nacionales en cuanto a protección y atención a niñez y adolescencia migrante. 
+ 
+UNICEF orientó la acción de sus componentes programáticos Educación y Protección para desarrollar 
+iniciativas complementarias entre sí, a través de proyectos que desde su formulación contemplaron las 
+particulares necesidades de la niñez retornada; y priorizó municipios altamente vulnerables a la migración. A 
+través de la Estrategia de Recuperación Emocional para Niñas y Niños con énfasis en Migrantes Retornados, 
+se contribuyó a la recuperación emocional de NNA con problemas emocionales específicos, utilizando una 
+metodología lúdica. Se respondió a la necesidad de atención integral para el derecho a la integridad psíquica 
+de Niñez en situación de migración retornada. Con Puentes Educativos UNICEF quiso garantizar el acceso a 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+7 
+ 
+educación de calidad de NNA en situación de migración o retorno, a través de su nivelación académica y la 
+reinserción escolar, además, de la mejoría de las habilidades pedagógicas y académicas de educadores, y la 
+sensibilización de padres, madres y cuidadores sobre la importancia y el derecho a la educación de los niños 
+y niñas. Con el Modelo “Reintegración de niñez retornada”, UNICEF promovió la reintegración integral del 
+niño o niña a su familia y a la comunidad (cuando el interés superior de niño/niña así lo requiere), lo cual 
+implicó dar seguimiento a cada caso para garantizar la reintegración desde un enfoque educativo, 
+motivacional, familiar y comunitario. 
+ 
+Los tres modelos de atención y protección fueron adaptados para abordar las necesidades del contexto 
+hondureño, puestos a prueba y mejorados; no obstante, la presencia del enfoque de género en su diseño e 
+implementación no fue sistemática, tampoco el enfoque de interculturalidad, a pesar de que el CPD 2017-
+2021 se centró en la niñez en condiciones de mayor desventaja, principalmente la niñez rural, indígena y afro-
+hondureña. La no incorporación de los citados enfoques, como mínimos, no permitió que UNICEF, ni 
+tomadores de decisión, tuvieran claridad sobre estrategias específicas que deberían enrumbarse, en el marco 
+de los diferentes modelos, a efecto de abordar necesidades particulares y diferenciadas. 
+ 
+EFICACIA: Las intervenciones en Honduras han contribuido al logro de los objetivos planteados en el marco 
+programático de COM para el país, en términos de fortalecer la atención a NNA en situación de retorno y de 
+reintegración comunitaria y familiar. En todos los casos han logrado incidir en avances institucionales y 
+fortalecer procedimientos y acciones para el desarrollo de un Sistema Integral de protección a NNA en 
+situación de migración, retorno y reintegración. Un logro fundamental de la intervención vinculada al modelo 
+de Atención psicosocial fue el diseño y adaptación de una metodología para Honduras, para mejorar el estado 
+emocional de NNA afectados por la migración. Incluso se logró evaluar la recuperación emocional de niños y 
+niñas. A partir de una muestra aleatoria de 352 NNA, se obtuvo evidencia de mejoría en el 30% de ellos, en 
+habilidades sociales, autoestima y capacidad de afrontamiento. Además, 7,291 NNA fueron beneficiados con 
+la metodología y 189 con problemas emocionales severos fueron remitidos a profesionales en psicología. 
+ 
+Con Puentes Educativos el derecho de acceso a la educación se hizo efectivo. Con el CNR 660 NNA retornados 
+fueron escolarizados; con ACOES el programa se implementó en 11 centros educativos beneficiando a 1,094 
+NNA; y con CINDE se alcanzó a 223 centros educativos para el modelaje de PE, y se constató a través de una 
+encuesta que PE aportó a que en el 72% de los centros educativos se redujeran hechos de violencia y se 
+beneficiaran 46.,583 NNA. Puentes Educativos se constituyó en una respuesta a los desafíos de la educación 
+hondureña de garantizar derechos a NNA y proveer una oferta educativa inclusiva, de calidad, para la 
+reincorporación a los centros educativos y la permanencia en ellos. También para atender la sobreedad 
+referida a niños y niñas que no están en edad oportuna para estar en cierto grado escolar.  
+ 
+El modelo de “Reintegración de niñez retornada” logró identificar casos de niños y niñas con necesidades 
+específicas de protección. Se fortalecieron los procedimientos de seguimiento a NNA y según las necesidades 
+detectadas, se acercó a las familias a los servicios que se desarrollan con las municipalidades o con 
+instituciones de Estado u otras. UNICEF facilitó fondos semilla como otro componente de la reintegración. El 
+acompañamiento de UNICEF no ha sido sólo financiero, sino también estratégico. Favoreció un encuentro 
+sobre reintegración con expertos internacionales para compartir experiencias y enriquecer el modelo. 
+Asimismo, aportó para el desarrollo de un protocolo para niñez en situación de migración referido a la 
+reintegración y reinserción de niños y niñas, y apoyó para dar a conocer el modelo y sumar a otros donantes. 
+ 
+Como resultado esperado, hoy los socios de UNICEF: CNR, ACOES, CINDE., CRH, DINAF, cuentan con nuevas 
+habilidades. UNICEF fortaleció sus capacidades para el óptimo desenvolvimiento y alcance de resultados. 
+Además, la estrategia que logró hilvanar UNICEF impactó en municipios, generando mejores condiciones para 
+la niñez en situación de migración retornada. La narrativa frente a las personas y la niñez deportada, cambió 
+de exclusión y discriminación a “bienvenido”. El abordaje de UNICEF en municipios llevó a fortalecer las 
+capacidades de los gobiernos municipales, incidir en sus planes municipales para introducir resultados 
+específicos para la niñez en situación de migración, e implementar y adaptar los diferentes modelos para su 
+atención y protección, a partir de la realidad de cada municipio. 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+8 
+ 
+ 
+SOSTENIBILIDAD: Las intervenciones COM en Honduras han alcanzado condiciones para ser sostenibles. Las 
+instituciones públicas rectoras en educación y niñez acogieron los modelos trabajados con UNICEF y 
+mejoraron su capacidad de respuesta a las necesidades de niñez en situación de migración. Por otro lado, las 
+intervenciones impulsadas por UNICEF se insertaron en la estructura jurídica y política del SIGADENAH, lo que 
+favorece la sostenibilidad de sus resultados y abre oportunidades para su continuidad desde la 
+institucionalidad pública. Pero existen riesgos respecto a la sostenibilidad, entre ellos, la falta de asignación 
+de recursos desde el Estado y la movilidad de personal. 
+ 
+Por otro lado, a partir del acompañamiento técnico y financiero de UNICEF, los socios de sociedad civil han 
+mejorado sus capacidades y cuentan con conocimientos especializados, que les permite gestionar los modelos 
+desarrollados. Aportan a la sostenibilidad: el trabajo voluntario que caracteriza a la CRH y a ACOES, los 
+productos de las intervenciones y la sensibilización en comunidades entorno a la protección de la niñez.  
+ 
+Los tres modelos promovidos por UNICEF tienen condiciones para ser escalables a nivel nacional e 
+internacional. La evaluación considera que igualmente relevante para la escalabilidad es la estrategia de 
+UNICEF que conjunta todas sus intervenciones en materia de niñez en situación de migración. Sistematizarla 
+y difundirla, además de constituir un ejercicio de rendición de cuentas, podría implicar un camino para mejorar 
+su sostenibilidad y replicabilidad. Sería una herramienta útil para la generación de redes de colaboración y 
+movilización que aporten a esa sostenibilidad y replicabilidad.  
+ 
+CONCLUSIONES  
+ 
+PERTINENCIA. Las intervenciones de UNICEF en Honduras, se alinearon adecuadamente con las necesidades 
+de NNA. Su alineamiento con la agenda estatal permitió el desarrollo de propuestas innovadoras como 
+Puentes Educativos, un modelo de atención psicosocial a NNA y un modelo de reintegración comunitaria, 
+que fueron adaptadas al contexto del país y a las necesidades de los NNA en situación de migración. Las 
+intervenciones son pertinentes con políticas gubernamentales y locales, y con la normativa nacional. A su vez, 
+dichas intervenciones se corresponden con los intereses internacionales y nacionales de UNICEF y aportan a 
+la consecución de los ODS. Un propósito de UNICEF, junto con sus aliados estratégicos, fue provocar 
+condiciones de seguridad y arraigo para los NNA vulnerables a la migración. El programa global Children on 
+the Move no implicó introducir en la agenda de la OP el abordaje de la niñez en situación de migración, porque 
+la oficina de Honduras ya venía haciéndolo, pero sí, que este fuera más evidente y articulado. Ahora bien, 
+sigue siendo una necesidad asegurar la implementación de enfoques relevantes como el de igualdad de 
+género e intercultural, lo que permitirá visualizar las necesidades, las respuestas diferenciadas y particulares, 
+según las condiciones y circunstancias de cada NNA. 
+ 
+EFICACIA. Las intervenciones evaluadas lograron cumplir sus finalidades, siendo factores clave para ello, su 
+enfoque en municipios vulnerables a la migración; la capacidad de adaptación de las estrategias de UNICEF 
+Honduras y la pertinencia de los modelos propuestos. La atención psicosocial y psicoemocional impartida 
+por la Cruz Roja Hondureña, alcanzó a más de 7,000 niñas y niños, y logró efectivamente una mejoría (medida 
+con un conjunto de indicadores) en el estado emocional de NNA en situación de migración o afectados por la 
+migración. Puentes Educativos por su lado, generó vínculos entre escuela, familia y comunidad; y se constituyó 
+en una respuesta a los desafíos de la educación hondureña de garantizar derechos a NNA y proveer una oferta 
+educativa inclusiva y de calidad. El modelo de Reintegración familiar y comunitaria, acercó a las familias 
+oportunidades para la satisfacción de necesidades, a fin de aportar al arraigo en sus comunidades y prevenir 
+la migración forzada. No obstante, en cada modelo deben resolverse situaciones específicas: Respecto de PE, 
+UNICEF debe determinar la continuidad de su apoyo a la SEDUC para su implementación en otros municipios. 
+Tratándose de la atención psicosocial y psicoemocional a NNA, se constituye en un desafío alcanzar proyectos 
+de más largo plazo para incluir el seguimiento y monitoreo a los niños y niñas abordados. Para el caso del 
+modelo de Reintegración, el reto principal es su sostenibilidad por la institucionalidad pública. 
+SOSTENIBILIDAD. Las tres intervenciones evaluadas: Puentes Educativos, Modelo de atención psicosocial y 
+psicoemocional, y Modelo para la reintegración, tienen condiciones de escalabilidad, no sólo a nivel 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+9 
+ 
+nacional, sino también internacional. Son metodologías que han resultado efectivas y adaptables a los 
+contextos y necesidades y resultan sostenibles en tanto hay capacidades instaladas y productos de 
+conocimiento que aportan a su continuidad. Sin embargo, se requiere el respaldo presupuestario desde el 
+Estado, lo que pone en alto riesgo la sostenibilidad de los procesos y sus beneficios. 
+ 
+Algunas lecciones aprendidas que dieron lugar a buenas prácticas son: i) El aprovechamiento de la estructura 
+del SIGADENAH para articular estrategias en los consejos municipales, fortalece la institucionalidad pública 
+para el cumplimiento de sus obligaciones de protección de los derechos de la niñez en situación de migración; 
+ii) Fortalecer el trabajo comunitario con organizaciones de base y redes prestadoras de servicios, además de 
+desarrollar sus capacidades a través de acompañamiento técnico y financiero, permitió a UNICEF llegar 
+realmente a titulares de derechos; iii) Abona a la eficacia, la integración de diferentes componentes de UNICEF 
+aportando a una misma estrategia; iv) Acompañamiento técnico cercano a sus socios, potenciando 
+capacidades, espacios de articulación y mejoras en sus habilidades institucionales; v) Los procesos de 
+adaptación de los modelos a las necesidades que se presentan y al contexto; y vi) Coordinaciones espontáneas 
+sin formalismos, para organizarse rápidamente frente a las emergencias y brindar respuestas oportunas a las 
+necesidades del contexto. 
+ 
+Lecciones por aprender: i) La introducción de modelos sin que se establezca una estrategia de salida pone en 
+riesgo la sostenibilidad de éstos; ii) La no incorporación de enfoques como igualdad de género e intercultural, 
+impidió incorporar y hacer referencia a problemas y necesidades particulares y diferenciadas de NNA en 
+situación de migración; iii) Algunos proyectos requieren de una fase de seguimiento para conocer el efecto en 
+la vida de los niños y niñas; y iv) La limitada sistematización de las estrategias implementadas dificulta su 
+conocimiento y escalabilidad. 
+ 
+RECOMENDACIONES: Las siguientes recomendaciones se han priorizado a partir de la sesión preliminar de 
+devolución de hallazgos desarrollada con la OP y LACRO. Responden a los hallazgos de la evaluación y se 
+enfocan en acciones que podría desarrollar o impulsar la OP de Honduras. Las recomendaciones fueron 
+revisadas y priorizadas por la OP, tomando en cuenta su pertinencia y capacidad para implementarlas. 
+ 
+1. 
+Reforzar enfoques transversales especialmente igualdad de género e intercultural en las futuras 
+intervenciones a favor de la niñez en situación de migración retornada y desplazada por la violencia, 
+en concordancia con el CPD 2017-2021 y mandatos institucionales de UNICEF y de Naciones Unidas.  
+2. 
+UNICEF para el desarrollo de su estrategia implementa varios proyectos con varios aliados, todos 
+complementándose entre sí, pero formulados e implementados por separado. Se recomienda 
+formular una sistematización de la integralidad de la estrategia para aportar a la gestión del 
+conocimiento y su escalabilidad.  
+3. 
+Se recomienda mejorar los mecanismos de comunicación y de articulación para provocar sinergias 
+que aporten a las intervenciones de UNICEF. Esto podría contribuir a aumentar el trabajo 
+interagencial. 
+4. 
+Valorar la continuidad de trabajo y apoyo con la SEDUC en materia de Puentes Educativos, para el 
+modelaje e implementación del modelo.  
+5. 
+La metodología de atención psicosocial y psicoemocional ha resultado exitosa. Se recomienda 
+fortalecerla y prepararla para su replicabilidad. 
+6. 
+Actualmente todo el personal destinado a la metodología de Reintegración es financiado por la 
+cooperación, incluyendo a UNICEF, OIM y ACNUR. Se requiere sostenibilidad institucional, por lo 
+tanto, se recomienda una estrategia de salida gradual, que asegure la continuidad de la acción y la 
+apropiación por parte del DINAF.   
+ 
+ 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+10 
+ 
+EVALUACIÓN DE LAS INTERVENCIONES EN MATERIA DE MIGRACIÓN EN MÉXICO, 
+GUATEMALA, HONDURAS Y EL SALVADOR 
+INFORME DE PAÍS: HONDURAS 
+ 
+I. INTRODUCCIÓN 
+ 
+En el año 2017 la sede de UNICEF en Nueva York otorgó a las oficinas de país (OP) de UNICEF en México, 
+Guatemala, Honduras y El Salvador, un capital semilla destinado a fortalecer su trabajo programático en el 
+área de niñez en situación de migración, en el marco de su iniciativa global Children on the Move (en adelante 
+COM). De acuerdo con LACRO, el fondo semilla no estuvo condicionado a intervenciones u objetivos 
+específicos, de manera que cada Oficina elaboró su propia propuesta, y desde entonces, los fondos se 
+destinaron a fortalecer aquellas intervenciones ya existentes, priorizadas por cada OP de acuerdo con su 
+contexto local, considerando generar impactos positivos para los NNA en situación de migración. 
+ 
+Dos años después, LACRO inició una evaluación externa y de carácter formativo de la implementación de COM 
+en cada uno de los países mencionados. Se trata de una evaluación multipaís de las intervenciones de UNICEF 
+en materia de niños, niñas y adolescentes (NNA) en situación de migración irregular bajo el marco 
+programático de COM. Al tratarse de una evaluación multipaís, y para aportar al aprendizaje, la evaluación 
+incluyó cuatro evaluaciones país para destacar las principales intervenciones COM, así como las diferentes 
+estrategias de las OP entorno a ellas. Las evaluaciones país se desarrollaron por medio de estudios de caso, 
+considerando los cuatro países implementadores, esto es, México, Guatemala, Honduras y El Salvador, y se 
+enfocó en el carácter transformador y en las oportunidades de escalabilidad de las intervenciones nacionales.  
+ 
+Los estudios de caso fueron un primer nivel de análisis de la evaluación, para lo cual se emitió un informe de 
+evaluación por país respecto de las intervenciones COM. Los hallazgos de este primer nivel de análisis de la 
+evaluación fueron insumos clave para un segundo y tercer nivel de análisis, en donde se hizo la valoración 
+multipaís y regional prospectiva, respectivamente. Los hallazgos, conclusiones y recomendaciones del análisis 
+de este segundo y tercer nivel, se plasmaron en el Informe Final de Evaluación multipaís. Los informes de 
+estudio de caso fueron parte también de los anexos del informe global de la evaluación.  
+ 
+El presente es el informe de estudio de caso correspondiente a Honduras y está estructurado de la siguiente 
+manera: La sección I es esta Introducción, la sección II narra el contexto de país donde se concretan las 
+intervenciones COM y se describen los principales esfuerzos impulsados por UNICEF para implementarlas, la 
+sección III presenta el objeto de la evaluación, la sección IV el propósito y objetivos del proceso evaluativo, la 
+sección V proporciona más detalles en relación a los alcances de la evaluación, la sección VI menciona los 
+criterios y preguntas de evaluación, la sección VII incluye información con relación a la metodología, la sección 
+VIII describe las limitantes encontradas durante la evaluación y las medidas de mitigación que se consideraron, 
+la sección IX se refiere a consideraciones éticas de la evaluación, la sección X aborda los hallazgos de acuerdo 
+a cada criterio de evaluación, la sección XI presenta las conclusiones, la sección XII incluye un resumen de las 
+buenas prácticas y lecciones por aprender y finalmente, la sección XIII proporciona las recomendaciones más 
+relevantes de esta evaluación. 
+ 
+II. CONTEXTO Y ANTECEDENTES 
+ 
+La migración es un fenómeno mundial del que ninguna región del mundo está al margen. El fenómeno 
+migratorio tiene causas multidimensionales vinculadas a factores económicos, sociales, políticos, culturales y 
+ambientales. Al ser lo económico una de las principales causas de la emigración, son los países desarrollados1, 
+ 
+1 Aunque los Estados retienen la prerrogativa soberana de decidir los criterios de admisión y expulsión de las personas no 
+nacionales, incluidas aquellas en situación irregular, esta prerrogativa está sujeta a sus obligaciones en materia de derechos 
+humanos, según la «Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus 
+familiares» (Naciones Unidas, 1990), y debería considerar la situación particularmente de riesgo que experimentan los niños, niñas y 
+adolescentes migrando solos o acompañados (Naciones Unidas 1990). 
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+11 
+ 
+los que atraen a gran cantidad de migrantes, por suponer grandes oportunidades de trabajo y por 
+consecuencia, mejores pronósticos económicos.  
+ 
+Centroamérica, y en su conjunto Mesoamérica, es una región caracterizada por flujos migratorios dirigidos 
+fundamentalmente a Estados Unidos. Estas migraciones van en aumento. Según el Reporte de Flujos 
+Migratorios en Centro América, Norte América y el Caribe de la Organización Internacional de las Migraciones 
+(OIM), el total acumulado de migrantes centroamericanos presentados ante autoridades mexicanas muestra 
+un incremento de 52% en el periodo de enero a marzo de 2018, en comparación con el mismo periodo del 
+2017.2 
+ 
+De acuerdo con información de la OIM, el principal destino de las y los migrantes hondureños es Estados 
+Unidos, seguido de México y España, y la emigración se concentra principalmente en los jóvenes,3 cuyas 
+edades oscilan entre 18 y 32 años.4 
+ 
+Sobre el perfil de las personas migrantes, estudios del 2019 arrojan que el 61% lo conforman personas que 
+cursaron únicamente la primaria, un 27.1% con educación secundaria, un 5.6% cursó educación universitaria, 
+un 1.4% con educación técnica y las personas sin educación alcanzaban el 4.9%. Además, ha habido un ascenso 
+de personas con educación media que deciden abandonar el país, fenómeno que quedó demostrado con las 
+“caravanas”, cuando maestros de educación primaria abandonaron sus puestos de trabajo para sumarse a las 
+mismas, argumentando que sus salarios no eran suficientes para la manutención de su núcleo familiar. La 
+actividad económica principal a la que se dedican las y los migrantes se centra en la agricultura, luego obreros 
+de la maquila y empleados de oficina o negocios, cuyos ingresos no superan el salario mínimo. Con las 
+caravanas se incluyen entre migrantes personas de la tercera edad, personas con discapacidades y miembros 
+de la población LGBTI.5 
+ 
+Dadas las condiciones del país, el perfil migratorio de Honduras es principalmente de emigración, lo cual es 
+confirmado por la OIM, sin embargo, las mismas condiciones que obligan a migrar, especialmente la violencia 
+e inseguridad, han traído consigo nuevas modalidades de movilidad interna, como el desplazamiento forzado.6  
+ 
+II.1 Situación de vulnerabilidad de los NNA en Honduras como factores de la migración 
+ 
+Los flujos migratorios provenientes de Honduras presentan una tendencia creciente en los últimos años. El 
+éxodo responde a la pobreza y falta de oportunidades laborales, así como a los altos niveles de inseguridad 
+ciudadana, violencia y la necesidad de reunificación familiar; aunado a una profunda inestabilidad política y a 
+altos niveles de corrupción.7  
+ 
+a. Pobreza. Para junio de 2019, el 59.3% de los hogares hondureños se encontraba en condiciones de pobreza 
+y del total de hogares hondureños (2,099,089), un 26.8% se encontraba en pobreza extrema.8 La pobreza es 
+más grave en el área rural, pero en el área urbana alcanza a más de la mitad de los hogares (52.5% urbano y 
+68.2% rural). 9 Según la CEPAL, en el marco del COVID 19, la pobreza pasaría de 54.8% de la población total, 
+a 57.8% en el peor escenario, elevando la cifra de personas pobres a casi 5,5 millones. Esto representa un 
+ 
+2 Organización Internacional de las Migraciones, 2018 
+3 OIM, Perfil Migratorio de Honduras 2019, Suiza, 2020. Ver Resumen Ejecutivo, págs. 23 ss 
+4 FONAMIH citado por Coello Gómez, Lizeth, Vida y recorrido de niñez en situación de migración hondureña: estudio de cinco casos, 
+Facultad Latinoamericana de Ciencias Sociales, Universidad Autónoma de Honduras, 1 ed., 2020, pág. 13 
+5 Informe Estado de la Región (2021), pág. 25 
+6 OIM, Perfil Migratorio de Honduras 2019, Suiza, 2020. Ver Resumen Ejecutivo. 
+7 ConexiHon, Comunicación para vencer el miedo, Una Honduras partida en dos, las causas de la migración, visitado 5 mayo 2021 
+http://www.conexihon.hn/index.php/dh/migrantes/847-una-honduras-partida-en-dos-las-causas-de-la-migracion 
+8 LXI Encuesta permanente de hogares de propósitos múltiples –EPHPM – junio, 2019 
+9 Ibid.  
+
+“Evaluación de las intervenciones en materia de migración en México, Guatemala, El Salvador y Honduras”,  
+período entre 2017-2020. UNICEF 
+12 
+ 
+aumento del 3%, superior al promedio latinoamericano de 2.6%. De este modo, Honduras se coloca como uno 
+de los países con mayor pobreza en Latinoamérica.10  
+ 
+b. Violencia. Tratándose de violencia como causa de migración, esta es atribuida principalmente al crimen 
+organizado, incluyendo narcotráfico, grupos familiares involucrados en actividades delictivas y maras o 
+pandillas.11 Si bien la tasa de homicidios por cada 100,000 habitantes ha disminuido en los últimos años, 
+continúa siendo alta: en 2016 fue de 59.05 por 100,000 habitantes, en el 2017 de 43.5 y en el 2018 de 40.72.12 
+En 2020 la tasa fue de 37.6, equivalente a 3,496 homicidios registrados. Pese a la disminución gradual anual, 
+Honduras sigue siendo el país más violento de Centroamérica.13  
+ 
+Para el Foro Nacional para la Migración en Honduras (FONAMIH), muchas personas se ven obligados a “huir” 
+del clima de peligro y riesgo. “Los altísimos niveles de violencia han provocado que cada vez más personas 
+huyan hacia el norte para salvar su vida”.14 Según el ACNUR, hay evidencia robusta para sostener dos 
+afirmaciones: que la violencia es una de las principales causas por las que miles de hondureños y hondureñas 
+(así como salvadoreños y guatemaltecos) abandonan su país, y que muchas de estas personas pueden tener 
+necesidades de protección internacional. Para mayor evidencia, investigaciones demuestran que Honduras es 
+la nacionalidad con más solicitantes de asilo en México.15 De esta manera, la migración se convierte en una 
+opción de sobrevivencia para muchos sectores poblacionales hondureños. 
+ 
+c. Reunificación familiar y remesas. En los últimos años se ha registrado como causa de la migración la 
+reunificación familiar, principalmente por el alto porcentaje de personas que tienen familiares residiendo en 
+Estados Unidos. Estudios de la OIM citan una encuesta realizada por el Banco Interamericano de Desarrollo 
+del 2019, que identificó que dos de cada cinco migrantes migraron por reunificación familiar, en mayor medida 
+hijos e hijas para reunirse con sus padres.16 En el caso de las mujeres se observa que es un factor que tiene 
+mucho más peso en sus decisiones que en los hombres.17 Estadísticas oficiales del Sistema Integral de Atención 
+al Migrante Retornado (SIAMIR) ubican la reunificación familiar como segundo motivo de migración (15.40%), 
+después de las razones económicas (92.78%). 
+ 
+Las remesas son, igualmente, un importante incentivo para la migración. Para las familias receptoras significan 
+un mejoramiento económico del hogar y son utilizadas para pagar deudas contraídas para financiar la ruta 
+migratoria. En general, las remesas, incrementan la disponibilidad de divisas a nivel macroeconómico y a nivel 
+micro favorecen un incremento en el consumo de bienes y servicios necesarios para satisfacer las necesidades 
+básicas, lo que a su vez influye en la reducción de la pobreza y la pobreza extrema o, en el peor de los casos, 
+evita que se incremente la proporción de la población que vive en situación de pobreza.18 Honduras recibió 
+1,570 millones de dólares en remesas en el primer trimestre de 2021, lo que representó un alza de 29% 
+respecto al mismo período de 2020, pese a la pandemia de la Covid-19. Más del 90 % procede de inmigrantes 
+ 
+10 Ver CEPAL, Pobreza en Honduras aumentará a 57.8% por el COVID, el peor nivel en Latinoamérica, Mesa Editorial, Dinerohn, tu 
+periódico económico, 13 de mayo 2020, visitado 20 de abril 2021 https://dinero.hn/pobreza-en-honduras-aumentara-a-578-por-el-covid-
+el-peor-nivel-en-latinoamerica-cepal/ Ver también Canales Alejandro, Dinámicas binacionales, pág. 30 
+11 En este sentido ver CIDH, Situación de los Derechos Humanos en Honduras 2019, OEA/Ser.L/V/II. Doc. 146, agosto, párr. 6, 7, y 8, 
+también OACNUDH, Situación de los Derechos Humanos en Honduras, A/HRC/40/3/Add.2, enero, 2019, párr. 21 
+12 OACNUDH, Situación de los Derechos Humanos en Honduras, A/HRC/40/3/Add.2, enero, 2019, párr. 20 
+13 SightCrime, Balance de InSight Crime de los homicidios en 2020, enero, 2021, visitado 5 de mayo 2021 
+https://es.insightcrime.org/noticias/analisis/balance-insight-crime-homicidios-2020/ 
+14 Centro de Estudios de Guatemala, Estudio de Migración del Triángulo Norte de Centroamérica: Una región que huye, Proyecto de 
+Apoyo Técnico Sustantivo para la Promoción e Implementación, de los Estándares Internacionales de Seguridad, Justicia y Derechos 
+Humanos en la Agenda Legislativa de Guatemala, octubre, 2018, Pág. 16 
+15 ACNUR, Desplazamiento forzado hacia México desde Centroamérica, 2014-2019, Análisis de estudios, perfiles, tendencias y 
+perspectivas futuras, México, 2019, pág. 5 
+16 OIM, Perfil Migratorio de Honduras, 2019, Suiza, 2020, pág. 7. 
+17 Ibid.., pág. 66 
+18 Ibid.., pág. 99

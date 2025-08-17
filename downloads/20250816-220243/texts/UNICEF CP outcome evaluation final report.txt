@@ -1,0 +1,370 @@
+Outcome Evaluation
+2019-2023
+UNICEF Cambodia Child Protection Programme
+February 2023
+Author: Kirsten Anderson
+© UNICEF Cambodia/2020/Antoine Raab
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+2
+United Nations Children’s Fund
+© United Nations Children’s Fund, Cambodia, 2023
+Exchange Square, 5th floor
+Bldg. no. 19&24 Street 106, Sangkot Wat Phnom, Khan Daun Penh, Phnom Penh
+February 2023
+The purpose of publishing evaluation reports produced by the UNICEF Cambodia is to 
+fulfil a corporate commitment to transparency through the publication of all completed 
+evaluations. The reports are designed to stimulate a free exchange of ideas among those 
+interested in the topic and to assure those supporting the work of UNICEF that it rigorous-
+ly examines its strategies, results, and overall effectivenes
+The contents of the report do not necessarily reflect the policies or views of UNICEF
+The designations in this publication do not imply an opinion on the legal status of any coun-
+try or territory, or of its authorities, or the delimitation of frontiers.
+The copyright for this report is held by the United Nations Children’s Fund. Permission 
+is required to reprint/reproduce/photocopy or in any other way to cite or quote from this 
+report in written form. UNICEF has a formal permission policy that requires a written re-
+quest to be submitted. For non-commercial uses, the permission will normally be granted 
+free of charge. Please write to the Evaluation Office at the address below to initiate a 
+permission request.
+Please cite the work as follows: UNICEF. 2023. “UNICEF Cambodia Child Protection 
+Programme 2019-2023 Outcome Evaluation Final Report”. UNICEF Cambodia
+For further information, please contact:
+Evaluation Office
+United Nations Children’s Fund
+Three United Nations Plaza
+New York, New York 10017
+evalhelp@unicef.org
+UNICEF Cambodia  
+Child Protection Programmes  
+2019-2023 
+Outcome Evaluation
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+3
+Outcome evaluation of UNICEF Cambodia  
+Child Protection Programme, 2019 – 2023
+Title
+Phnom Penh, Battambang, Kandal, Oddar Meancheay, 
+Pursat, Ratanakiri and Siem Reap
+Geographic regions
+1 June 2022 – 31 January 2023
+Timeline of the evaluation
+22 December 2022 (First Draft)
+Date of report
+Cambodia
+Country
+Kirsten Anderson, Awaz Raoof, Em Poul, Sophea Suong 
+Supervision: Professor Dame Carolyn Hamilton
+Evaluation Team
+UNICEF Cambodia
+Commissioning organisation
+© UNICEF Cambodia/2022/Antoine Raab
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+4
+ACKNOWLEDGEMENTS
+This evaluation is being conducted by Coram International on behalf of UNICEF Cambodia 
+Country Office. The Coram International team was led by Kirsten Anderson, and evaluation 
+team members included Awaz Raoof, Em Poul and Soksophea Suong. Professor Dame 
+Carolyn Hamilton provided overall supervision and guidance to the evaluation team. 
+Coram International is part of Coram Children’s Legal Centre, a UK NGO dedicated to the 
+promotion and protection of children’s rights. Further information can be found at www.
+coraminternational.org.
+The report has benefitted from helpful advice, guidance, and support from the Evaluation 
+Reference Group (ERG) throughout the process. This group comprised of Phi No (Director of Child 
+Protection, MoSVY), Ly Yasak (Director of General Administration, MoI), Thoeun Danet (Member of 
+AYRG), Marc Bonnenfan (Deputy Director, Office of Public Health and Education, USAID), Severine 
+Chevrel (USAID), Vathana Hoy (USAID), Einosuke Kamegai (Secondary Secretary, Embassy of Japan), 
+Lo Leang (Acting Chief of Party, Family Care First, Save the Children), Adrian De Giovanni (Head 
+of International Programs, Partner Relations & Value Add, UNICEF Australia National Committee), 
+Alexandra Eaves (UNICEF Australia National Committee), Kouch Chong Korn (Member of AYRG), 
+Kirsty Milev (ChildSafe Alliance International Technical Coordinator, Friends International, 3PC), 
+Sebastien Marot (Friends-International, 3PC) and Sokroeun Aing (Program Analyst-Gender/Right 
+and Health, UNFPA), who provided invaluable support throughout. The ERG also comprised of 
+UNICEF staff including Marianna Garofalo (Chief of Child Protection, UNICEF Cambodia), Suman 
+Khadka (Child Protection Specialist, UNICEF Cambodia), Juanita Vasquez Escallon (Multi Country 
+Evaluation Specialist, UNICEF Cambodia) and Maha Homsi (Child Protection Advisor, UNICEF 
+EAPRO).
+The authors are very grateful to all of the experts, stakeholders, service providers, 
+children and caregivers who participated in the research and shared valuable information, 
+experiences and insights.
+
+© UNICEF Cambodia/2018/Todd Brown
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+6
+Acknowledgements
+List of Acronyms
+Executive summary
+Introduction
+Context of the evaluation
+Object of the evaluation
+Purpose, objectives and scope of the evaluation
+Evaluation criteria and questions
+Methodology
+Findings
+Conclusions
+Recommendations
+Lessons learned
+4
+7
+9
+21
+23
+23
+28
+29
+29
+31
+32
+37
+43
+43
+44
+45
+47
+47
+52
+53
+68
+69
+70
+71
+73
+73
+90
+93
+126
+130
+138
+143
+147
+149
+Child protection situation
+Child protection system structure
+Conceptual framework and structure
+Theory of change
+Strategies and interventions
+Strategic changes to the Child Protection Programme
+Purpose and objectives
+Key users and intended use of the evaluation
+Scope of the evaluation
+Evaluation questions
+Evaluation matrix
+Data analysis
+Validation and oversight
+Ethical considerations
+Consideration of potential constraints and mitigating strategies
+Relevance
+Coherence / connectedness
+Effectiveness
+Impact
+Efficiency
+Sustainability
+CONTENTS
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+7
+3PC	
+Partnership Programme for Protection of Children
+C4D	
+Communication for Development	
+CCLC	
+Coram International at Coram Children’s Legal Centre
+CCT	
+Cambodia Children Trust
+CBO	
+Community Based Organisation
+COVID-19	
+Coronavirus 2019
+CPIMS	
+Child Protection Information Management System
+CPD	
+Country Programme Document
+CRC                      	
+Convention on the Rights of the Child
+EAPRO	
+East Asia and Pacific Regional Office
+ILO	
+International Labour Organization
+LGBT	
+Lesbian, Gay, Bisexual, Transgender
+MOI	
+Ministry of Interior
+MoSVY	
+Ministry of Social Affairs, Veterans and Youth Rehabilitation
+MHPSS	
+Mental Health and Psychosocial Support
+RGC	
+Royal Government of Cambodia
+SDG	
+Sustainable Development Goals
+SITAN	
+Situation Analysis
+TOC	
+Theory of Change
+TOR	
+Terms of Reference
+UN	
+United Nations
+UN-Women	
+United Nations Entity for Gender Equality and the Empowerment of Women
+UNDP	
+United Nations Development Programme
+UNICEF	
+United Nations International Children’s Fund
+USAID	
+United States Agency for International Development
+VAC	
+Violence against children
+WASH	
+Water, sanitation and hygiene
+WHO	
+World Health Organization
+LIST OF ACRONYMS
+
+© UNICEF Cambodia/2022/Youra Soeum
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+9
+EXECUTIVE  
+SUMMARY
+Cambodia has made notable progress in establishing a child protection system, and the key elements of 
+a system are in place, yet despite this progress, Cambodia’s child protection system is still underfunded 
+and understaffed. While there have been significant improvements in establishing systematic coordination 
+mechanisms in preventing and responding to the need of the vulnerable children who are at risk, these 
+systems are still at basic and initial level. UNICEF’s Child Protection Programme aims to address key gaps in 
+the child protection system according to three output areas:
+These three outputs are situated within a system building framework: all are key components or elements that 
+need to be in place to ensure that children are increasingly free from violence and exploitation in all contexts, 
+through a comprehensive child protection system. The overall goal of the Child Protection Programme is that 
+girls and boys, including adolescents, living with family and outside of family care are increasing free from 
+violence and the threat of violence in their homes, schools, communities, and institutions. 
+UNICEF’s Child Protection Programme 
+2019 – 2023 
+By 2023, national and subnational authorities have the knowledge, tools, resources and 
+authority they need to formulate and implement the institutional and legal frameworks 
+to strengthen child protection prevention and response interventions in a more enabling 
+legislative, policy and financing environment.
+1
+By 2023, parents, teachers, religious leaders, communities and adolescents have enhanced 
+knowledge, skills and attitudes to protect girls and boys from violence and exploitation 
+through the scaling up of positive discipline, positive parenting and Cambodia PROTECT 
+child protection programmes.
+3
+By 2023, the broader child protection workforce in the spheres of social work, welfare, 
+justice, health and social protection, has the knowledge, tools, resources and authority it 
+needs to identify vulnerable children and provide child prevention and protection services 
+to reduce violence and exploitation and enhance children’s access to justice with priority 
+accorded to urban poor communities and rural poor centres.
+2
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+10
+The logic underpinning the Programme is that interventions aimed at strengthening the functioning of the 
+child protection system will result in reduced levels of violence, abuse and exploitation of children. This logic 
+is embedded within UNICEF’s global approach to child protection programming, which shifted towards a 
+systems strengthening approach in 2008, in recognition that this approach avoids the fragmentation and 
+inefficiency of an ‘issue-based’ approach and instead aims at achieving sustainable coverage of child protection 
+at scale, leading to a more effective and comprehensive approach for children exposed to violence, abuse, 
+neglect and exploitation.1  
+In June 2022, UNICEF Cambodia engaged Coram International to conduct an Outcome Evaluation of the Child 
+Protection Programme, covering the period 2019 to mid-2022, while taking into consideration the evolution 
+of the Programme since the previous country programmes as well as the formative evaluation conducted in 
+2018. The Programme is jointly implemented with the Royal Government of Cambodia (RGC) and a diverse 
+range of partners at the national and sub-national levels.
+The RGC and UNICEF will use the findings and recommendations of the evaluation, including lessons learned, 
+to inform decision-making processes, including informing the planning processes for the development of the 
+next Country Programme Document (CPD), 2024-2028. In particular, and as stated in the Terms of Reference, 
+the five objectives of the evaluation are to: 
+Evaluation purpose and intended use
+1 	Wulczyn, et. al., ‘Adapting a systems approach to child protection: Key concepts and considerations, 2010, UNICEF New York. 
+Review the theory of change of UNICEF’s Child Protection Programme including the 
+interlinkages among the Programme outputs and provide an assessment of how far they 
+are based on evidence from programme experiences and approaches that have proven 
+effective in protecting girls and boys in the current country context.
+1
+Assess UNICEF’s leadership, comparative advantage, ability to leverage resources and 
+partnerships for strengthening the RGC child protection system at national and sub- national 
+levels through advocacy and policy influencing, including utilising knowledge management 
+and evidence-generation to inform policy decisions;
+3
+Examine the results achieved by UNICEF’s Child Protection Programme, enabling and 
+disabling factors, considering aspects of both prevention and response, including capacity 
+development of government institutions at national and sub-national levels, international 
+and national NGOs, development partners as well as the voices of children, adolescents, 
+families and communities.
+2
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+11
+The evaluation, which used a theory-based approach, drew on a variety of evidence sources to answer 
+evaluation questions pertaining to the relevance, effectiveness, efficiency, and sustainability of UNICEF’s 
+child protection work, as well as to cross-cutting questions of gender, equity and human rights. Evidence 
+gathered includes extensive qualitative data collection in key UNICEF programming provinces (Phnom Penh, 
+Battambang, Kandal, Ratanakiri and Siem Reap), along with two ‘comparator’ locations, in which UNICEF 
+has not been engaged intensively (Oddar Meancheay, Pursat). Data collection included an extensive desk 
+review of programming documents, data and research; key informant interviews with 111 key stakeholders 
+and programme implementers (national and sub-national Government, NGO, UN and donor), 12 in-depth 
+interviews relating to individual cases (eight rights holders / beneficiaries and four service providers) and 
+focus group discussions with 81 rights-holders (70 women and 12 men), along with a quantitative stakeholder 
+survey, which received 33 responses (20 from within UNICEF and 13 from NGO and Government partners).
+•	
+The Child Protection Programme (CP Programme) was found to be highly relevant to Cambodia’s 
+global development commitments and, in utilising a strong systems building framework, was also 
+found to be relevant to UNICEF’s global frameworks and priorities. The three output areas of the 
+Programme were found to respond well to existing gaps and needs within the child protection 
+system.
+•	
+The CP Programme’s multi-tiered approach, involving interventions aimed at strengthening the 
+system at both the national and sub-national levels, responds well to the programming context 
+and the engagement with new stakeholders, in particular, the Ministry of Interior (MOI), was 
+found to be highly relevant to the new decentralised system for social welfare / child protection 
+service delivery.
+On relevance
+Methodology
+Findings
+Examine the existing linkages between the outputs of the Child Protection Programme, 
+as well as inter-linkages with Policy and Public Finance for Children, Education, Health and 
+Nutrition, and WASH through the joint work such as positive discipline in schools, child 
+protection service delivery in the health system and communication for development.
+5
+Assess the opportunities for further accelerating action on child protection in Cambodia 
+with the RGC and partners; and
+4
+
+UNICEF Cambodia Child Protection Programme 2019 -2023: Outcome Evaluation
+12
+On coherence / connectedness
+•	
+While the Programme was found to be highly relevant to Government policies, plans and 
+commitments, some interventions were not fully operationalised, owing to existing capacity gaps 
+at the sub-national level, indicating that more attention should have been given to the phasing 
+and complementarity of the Programme’s interventions at the sub-national level.
+•	
+While some measures were taken to integrate gender and equity into the Programme 
+design, these measures were found to be insufficient, and there is a need to engage more 
+comprehensively with the gender dimensions of child protection issues and more effectively 
+address the protection needs of children with disabilities, in particular.
+•	
+With its focus on addressing violence, abuse, neglect and exploitation of children, the Programme 
+was found to be highly relevant to the evidence base on the protection risks and needs of children 
+in Cambodia. However, there was limited systematic engagement of children and adolescents in 
+the programme design and review.
+•	
+The CP Programme was found to have retained its relevance in the changed context brought 
+about by the COVID-19 pandemic.
+•	
+The CP Programme worked effectively in coordinating the different interventions of development 
+partners, including government and NGO partners through supporting the Child Protection Forum 
+at the national level. The Child Protection Forum brings together UN agencies, Government 
+stakeholders and NGOs to coordinate their work in child protection systems strengthening.
+•	
+The development and maintenance of respectful, open and enduring strategic partnerships were 
+key factors in UNICEF’s ability to achieve coherence between the Programme goals and outputs 
+and the work of other agencies. 
+•	
+At the sub-national level, UNICEF ensured the effective coordination of child protection service 
+delivery primarily through the Partnership Programme for the Protection of Children (3PC), which 
+is a collaboration between the government UNICEF and NGOs for the provision of prevention and 
+response child protection services, coordinated by Friends-International.

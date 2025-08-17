@@ -1,0 +1,616 @@
+This study was commissioned by the UNICEF Afghanistan Country Office (ACO), and this report was submitted 
+by the Center for Evaluation and Development (C4ED).   
+The points of view expressed in this document may not represent the views of UNICEF ROSA, the UNICEF Afghan-
+istan Country Office, nor the authorities of Afghanistan.   
+  
+Prepared for UNICEF ROSA and UNICEF Afghanistan Country Office by:   
+Irene Dejuan, Dr. Ravi Baghel, Dr. Martin C. Lukas and Verena Himmelreich 
+ 
+ 
+ 
+
+ 
+ 
+ACKNOWLEDGMENTS   
+ 
+The research team acknowledges the very useful guidance and excellent support provided by the staff of the 
+UNICEF Afghanistan country office and field offices in Bamyan and Badghis throughout the study process.   
+The research team is very grateful to our local partner organisation, Al Mansoora Solutions Ltd., for their local 
+expertise and excellent support provided in planning, coordinating, and facilitating the data collection. We also 
+thank the staff of WV and AKF for supporting us during field research in very challenging circumstances.  
+Furthermore, very good research assistance was provided by Sohaib Warsi and Souhayp Zaryah. 
+ 
+ 
+ 
+
+ 
+ 
+i 
+ 
+CONTENTS 
+Contents ................................................................................................................... i 
+List of Figures ........................................................................................................... iv 
+List of Tables ............................................................................................................ iv 
+List of Acronyms ....................................................................................................... v 
+EXECUTIVE SUMMARY ............................................................................................. vi 
+Overview of the intervention ...........................................................................................................................................................................vi 
+Objectives and intended audience .................................................................................................................................................................vi 
+Evaluation methodology ....................................................................................................................................................................................vi 
+Key findings ........................................................................................................................................................................................................... vii 
+Key conclusions ................................................................................................................................................................................................... viii 
+Key recommendations ..................................................................................................................................................................................... viii 
+1 
+BACKGROUND .................................................................................................. 1 
+1.1 
+COUNTRY CONTEXT ............................................................................................................................................................................ 1 
+1.2 
+PROGRAMME SUMMARY .................................................................................................................................................................. 2 
+1.3 
+EVALUATION BACKGROUND .......................................................................................................................................................... 4 
+2 
+EVALUATION PURPOSE, OBJECTIVES, AND SCOPE .............................................. 6 
+2.1 
+EVALUATION PURPOSE ..................................................................................................................................................................... 6 
+2.2 
+EVALUATION OBJECTIVES AND SCOPE ..................................................................................................................................... 6 
+3 
+EVALUATION DESIGN AND METHODOLOGY....................................................... 8 
+3.1 
+EVALUATION APPROACH ................................................................................................................................................................. 8 
+3.2 
+THEORY OF CHANGE ........................................................................................................................................................................... 9 
+3.3 
+EVALUATION QUESTIONS ............................................................................................................................................................. 11 
+3.4 
+DATA COLLECTION ........................................................................................................................................................................... 11 
+3.4.1 
+Methodology..................................................................................................................................... 11 
+3.4.2 
+Study area ......................................................................................................................................... 12 
+3.4.3 
+Sampling strategy ............................................................................................................................. 12 
+3.4.4 
+Research instruments / Guides and data collection .......................................................................... 13 
+3.4.5 
+Data collection process ..................................................................................................................... 14 
+3.4.6 
+Coding and data analysis .................................................................................................................. 14 
+3.4.7 
+Limitations and constraints ............................................................................................................... 14 
+3.5 
+GENDER AND ADOLESCENTS’ RIGHTS.................................................................................................................................... 15 
+3.6 
+ETHICAL CONSIDERATIONS ......................................................................................................................................................... 16 
+3.6.1 
+Engagement of participants, consent and safeguarding procedures ................................................ 16 
+3.6.2 
+Ethical procedures during data collection ......................................................................................... 17 
+4 
+EVALUATION FINDINGS .................................................................................... 18 
+4.1 
+RELEVANCE .......................................................................................................................................................................................... 18 
+4.1.1 
+Adaptability of IALA activities to adolescents’ needs and contexts ................................................... 18 
+4.1.2 
+Gender equality in MAG composition and structure ......................................................................... 20 
+4.1.3 
+Role of literacy and inclusion of illiterate children ............................................................................. 21 
+4.1.4 
+MAG mentors/trainers’ profiles and skills ......................................................................................... 22 
+
+ 
+ 
+ii 
+ 
+4.1.5 
+Suitability of village premises to host MAG activities ........................................................................ 23 
+4.1.6 
+Relevance of content of ‘New Homes, New Lives’ drama for supporting IALA’s outcomes ............... 23 
+4.2 
+FIDELITY/COHERENCE .................................................................................................................................................................. 24 
+4.2.1 
+Alignment of activities with cultural norms and their local reception ............................................... 24 
+4.2.2 
+Reception of trainings for religious leaders ....................................................................................... 25 
+4.2.3 
+Comprehensiveness of trainings for influential community members ............................................... 26 
+4.2.4 
+Community and religious leaders’ use of training contents ............................................................... 26 
+4.2.5 
+Implementation modality and partnerships between UNICEF, implementing NGOs and service providers
+ 
+27 
+4.2.6 
+Activity completion, divergence in implementation and operational challenges ............................... 28 
+4.2.7 
+Reliability, accuracy, and consistency of programme monitoring systems ........................................ 29 
+4.4 
+COVERAGE ............................................................................................................................................................................................. 30 
+4.4.1 
+Reachability and participation of the intended target groups ........................................................... 30 
+4.4.2 
+Role of gender in participation .......................................................................................................... 31 
+4.4.3 
+Inclusiveness of vulnerable groups .................................................................................................... 31 
+4.4.4 
+Parents’ support and reception of MAGs and community discussions .............................................. 32 
+4.4.5 
+Support of community and religious leaders to adolescents for MAG and community discussions ... 33 
+4.4.6 
+Participation of community members in Community Discussions ..................................................... 34 
+4.5 
+EFFECTIVENESS ................................................................................................................................................................................. 35 
+4.5.1 
+Transfer of knowledge to adolescents and building of life skills ........................................................ 35 
+4.5.2 
+Adolescents’ communication within peers and the cascade learning approach ................................ 37 
+4.5.3 
+Adolescents’ communication within their families ............................................................................ 39 
+4.5.4 
+Adolescent communication with leaders, policymakers, and authorities .......................................... 40 
+4.5.5 
+Community mobilisation for increased awareness on child protection issues and consensus building 
+regarding social norms ................................................................................................................................... 41 
+4.5.6 
+Contribution of IALA to adolescent empowerment, disaggregated by gender .................................. 43 
+4.5.7 
+Variations in MAG effectiveness across contexts and time ............................................................... 46 
+4.5.8 
+Contribution of ALCs to education of adolescents ............................................................................. 47 
+4.5.9 
+Overall achievement of IALA’s goals ................................................................................................. 48 
+4.6 
+SUSTAINABILITY ................................................................................................................................................................................ 54 
+4.6.1 
+Impediments to the continuation of activities and participation ....................................................... 54 
+4.6.2 
+Enablers to continuation of activities and participation .................................................................... 55 
+5 
+ANALYSIS OF FINDINGS USING PROCESS TRACING ............................................ 57 
+5.1 
+THEORY OF CHANGE VALIDATION ........................................................................................................................................... 57 
+5.1.1 
+Assumptions...................................................................................................................................... 57 
+5.1.2 
+Inputs ................................................................................................................................................ 58 
+5.1.3 
+Activities ........................................................................................................................................... 59 
+5.1.4 
+Outputs ............................................................................................................................................. 59 
+5.1.5 
+Outcomes .......................................................................................................................................... 59 
+5.2 
+EXPLAINING OUTCOME 1 .............................................................................................................................................................. 59 
+5.2.1 
+Intermediate outcome 1.1a: ............................................................................................................. 60 
+5.2.2 
+Intermediate outcome 1.1b: ............................................................................................................. 60 
+5.2.3 
+Alternative hypothesis (null) 1.1c: ..................................................................................................... 60 
+5.2.4 
+Intermediate outcome 1.2a .............................................................................................................. 61 
+5.2.5 
+Alternative hypothesis (null) 1.2b ...................................................................................................... 61 
+
+ 
+ 
+iii 
+ 
+5.2.6 
+Intermediate outcome 1.3a .............................................................................................................. 62 
+5.2.7 
+Alternative hypothesis (null) 1.3b ...................................................................................................... 62 
+5.2.8 
+Intermediate outcome 1.4a .............................................................................................................. 62 
+5.2.9 
+Alternative hypothesis (null) 1.4b ...................................................................................................... 63 
+5.2.10 Final outcome ................................................................................................................................... 63 
+5.3 
+EXPLAINING OUTCOME 2 .............................................................................................................................................................. 63 
+5.3.1 
+Intermediate outcome 2.1a .............................................................................................................. 64 
+5.3.2 
+Alternative hypothesis (null) 2.1b ...................................................................................................... 64 
+5.3.3 
+Intermediate outcome 2.2a .............................................................................................................. 64 
+5.3.4 
+Alternative hypothesis (null) 2.2b ...................................................................................................... 65 
+5.3.5 
+Intermediate outcome 2.3b .............................................................................................................. 65 
+5.3.6 
+Intermediate outcome 2.3c ............................................................................................................... 65 
+5.3.7 
+Alternative hypothesis (null) 2.3d ...................................................................................................... 66 
+5.3.8 
+Final outcome 2.4a ........................................................................................................................... 66 
+5.3.9 
+Final outcome 2.4b ........................................................................................................................... 66 
+5.3.10 Conclusion ......................................................................................................................................... 66 
+6 
+EVALUATION CONCLUSIONS............................................................................. 67 
+7 
+LESSONS LEARNED ........................................................................................... 68 
+8 
+RECOMMENDATIONS ....................................................................................... 69 
+Bibliography ........................................................................................................... 72 
+ANNEXES ................................................................................................................ 74 
+Annex 1. Terms of Reference .................................................................................. 75 
+Annex 2. Evaluation matrix ..................................................................................... 80 
+Annex 3. List of interviewees .................................................................................. 85 
+Annex 4. List of site visits ........................................................................................ 87 
+Annex 5. Data collection instruments ...................................................................... 88 
+1. IDI Interview Guide – MAG Mentors / Life Skills Trainers .......................................................................................................... 88 
+2. IDI Interview Guide – MAG Members ................................................................................................................................................... 93 
+3. IDI Interview Guide – MAG Member Parents .................................................................................................................................... 99 
+4. IDI Interview Guide – Community & Religious Leaders ............................................................................................................ 103 
+5. IDI Interview Guide – ALC teachers .................................................................................................................................................... 108 
+6. KII Interview Guide –  Local Implementers ..................................................................................................................................... 112 
+7. KII Interview Guide – National Stakeholders ................................................................................................................................. 113 
+Annex 6. List of documentary evidence ................................................................. 114 
+Annex 7. Research ethics approval ........................................................................ 115 
+ 
+ 
+ 
+
+ 
+ 
+iv 
+ 
+LIST OF FIGURES 
+Figure 1: UNICEF (2020). Country Level Programme: Afghanistan ............................................................................................... 3 
+Figure 2: Stakeholder Map ................................................................................................................................................................................. 4 
+Figure 3: Theory of Change ............................................................................................................................................................................. 10 
+Figure 4: The structure of MAGs (Source: C4ED elaboration in midline report) .................................................................. 20 
+Figure 5: Theory of Change (source: Midline Evaluation, 2020) .................................................................................................. 57 
+Figure 6: Causal chain – Outcome 1 ............................................................................................................................................................ 60 
+Figure 7: Causal chain – Outcome 2 ............................................................................................................................................................ 63 
+ 
+ 
+LIST OF TABLES 
+Table 1 List of villages selected for data collection in each province ......................................................................................... 12 
+Table 2 Total interviews conducted by category of respondents ................................................................................................. 12 
+Table 3 List of recommendations ................................................................................................................................................................ 71 
+ 
+ 
+ 
+ 
+
+ 
+ 
+v 
+ 
+LIST OF ACRONYMS 
+ACO 
+Afghanistan Country Office 
+AEPO 
+Afghanistan Education Production Organization 
+ALC/P  
+AKF 
+C4ED 
+Accelerated Learning Centre/Programmes 
+Aga Khan Foundation 
+Center for Evaluation and Development 
+CD 
+CEDAW 
+Community Discussions 
+Convention on the Elimination of All Forms of Discrimination Against Women 
+CL 
+Community Leaders 
+CPO 
+CSO 
+GEEW 
+Causal-Process Observation 
+Central Statistical Organisation of Afghanistan 
+Gender equality and the empowerment of women  
+HTP 
+Harmful traditional practice 
+IALA 
+IDI 
+Improving Adolescent Lives in Afghanistan 
+In-Depth Interview 
+IF 
+IKEA Foundation 
+IRB 
+KII 
+Institutional Review Board 
+Key-Informant Interview 
+LST 
+Life-Skill Training 
+MAGs 
+Multipurpose Adolescent Groups 
+M&E 
+MoE 
+Monitoring and Evaluation 
+Ministry of Education  
+MoHRA 
+MoIC 
+MoLSA 
+MoWA 
+NHNL 
+NGO 
+NESP 
+OOS 
+PBUH 
+PT 
+Ministry of Hajj and Religious Affairs 
+Ministry of Information and Culture  
+Ministry of Labour and Social Affairs  
+Ministry of Women's Affair 
+New Homes New Lives 
+Non-Governmental Organisation 
+National Education Strategic Plan 
+Out-of-School 
+Peace Be Upon Him 
+Process Tracing 
+RL 
+SDGs 
+ToC 
+ToR 
+TVET 
+Religious Leader 
+Sustainable Development Goals 
+Theory of Change 
+Terms of Reference 
+Technical and vocational education and training 
+UNEG 
+UNFPA 
+United Nations Evaluation Group 
+United Nations Population Fund 
+UNICEF 
+WVA 
+United Nations Children’s Fund 
+World Vision Afghanistan 
+ 
+ 
+
+ 
+ 
+vi 
+ 
+EXECUTIVE SUMMARY 
+Overview of the intervention 
+The IALA programme was set up in 2017 and run until 2020 with funding from the IKEA Foundation (IF) as a 
+multi-year, multi-country intervention covering three countries – Afghanistan, India, and Pakistan – to improve 
+the lives of adolescents by increasing their influence over decisions affecting their lives. The programme sought 
+to empower adolescents and young adults aged between 10 and 19 years, by enhancing their knowledge, improv-
+ing their access to information, and supporting their rights to healthier and safer lifestyles. Besides adolescents, 
+IALA also had interventions directed towards parents of adolescents as well as community and religious leaders, 
+who were all identified as crucial change agents in creating a suitable environment for engendering the new prac-
+tices imparted to adolescents. In Afghanistan, the programme was implemented in all eight districts of the 
+Bamyan province and in three out of the seven districts of the Badghis province.   
+The overall objective of the IALA programme was to reduce the harmful traditional practices that adolescents in 
+Afghanistan are exposed to and empower them as agents of change with the knowledge and confidence to reduce 
+their exposure to these. IALA had three main goals: 1) reducing child marriage, 2) lowering the incidence of teen-
+age pregnancy, and 3) enhancing female educational outcomes in the form of increased secondary school (re)en-
+rolment. The programme also encouraged a healthy and creative lifestyle by imparting important life skills to 
+adolescents and creating a space for them to discuss the topics they consider important for their wellbeing and 
+overall empowerment. These discussions were facilitated by the creation of the Multipurpose Adolescent Groups 
+(MAGs), that provided a safe space for adolescents to communicate the barriers and issues afflicting their ability 
+to participate in making choices that affect their lives. The programme set two outcomes1: 1) that by the end of 
+the programme, adolescents from two target provinces are able to communicate with each other and policy mak-
+ers to share information among peers through various avenues (such as social media forums, mobile technolo-
+gies) and traditional methods of communication at the local levels, and at least 52,334 (50% female and 50% 
+male) adolescents are mobilized as agents of change for themselves and their communities through engaging in 
+adolescent groups/Shuras; 2) that by the end of the programme, 60,651 religious leaders, elders, parents, and 
+influential individuals from communities in the 11 districts of the 2 target provinces support adolescents, espe-
+cially girls, to access services, participate in decision making, and prevent their exposure to harmful traditional 
+practices leading to abuse and exploitation.  
+Objectives and intended audience 
+This report focuses on examining the theoretical causal chain of the IALA programme and on assessing the pro-
+gramme’s performance based on the key criteria of relevance, fidelity, coverage, effectiveness, and sustainability. 
+The report identifies which aspects of the programme worked well, and outlines good practices, lessons learned, 
+and recommendations - with the objective of providing evidence of what works and shedding light on what is 
+required to remove barriers and promote enablers for the successful delivery of similar programmes for the tar-
+get groups. Based on the key mechanisms and findings outlined in the report, it is possible to adjust assumptions 
+and expectations and to reassign levels of effort to activities and outputs.  
+Since IALA involves many actors, there is a varied audience that can benefit from this report. At the programme-
+matic end, Aga Khan Foundation Afghanistan (AKFA) and World Vision Afghanistan (WVA) will benefit from the 
+insights provided regarding programme implementation, while UNICEF can benefit from insights regarding pro-
+gramme design. The report can further inform other institutional and international actors working on child pro-
+tection and child rights in Afghanistan and the broader South Asia region, by providing insights and offering op-
+erational recommendations for future programming. The report can inform them about the assumptions and 
+steppingstones that might be similar or require context-specific adaptations, and thereby ensure the design or 
+implementation of programmes can be successful for the intended objectives. 
+Evaluation methodology 
+This summative evaluation of IALA was conducted using a purely qualitative approach. Prior to this, a baseline 
+study was carried out in 2017, and a follow up midline quantitative impact study was conducted in 2019. The 
+data collection for IALA Afghanistan’s endline was originally envisaged to be undertaken on a much larger scale, 
+to answer all research questions relevant for the evaluation. The plan was to increase the sample size by inter-
+viewing respondents from additional villages in Bamyan and Badghis (using recall data to perform matching) and 
+by extending the analysis to Herat and Daikundi, both provinces that were not included in the midline evaluation 
+(but for which we had baseline data). However, with the COVID-19 pandemic and the active conflict in the country 
+between the Taliban and the government forces at the time of the evaluation design, the possibility of an extended 
+data collection became untenable, and it was hence decided that the summative evaluation would rely only on a 
+qualitative component to address the gaps that midline data were unable to address. 
+ 
+1 IALA Final Report, UNICEF (2020), p.2 
+
+ 
+ 
+vii 
+ 
+For the current study, semi-structured in-depth interviews (IDIs) with a purposive sample of beneficiaries, com-
+munity members, teachers, and trainers were supplemented by key informant interviews (KIIs) with relevant 
+staff and officials. To explore the programme in-depth, insights from both implementing partners (Agha Khan 
+Foundation, World Vision) and participants were gathered. For programme implementing partners, KIIs and for 
+beneficiaries IDIs were conducted in both treatment provinces (Bamyan & Badghis). KIIs helped to gather infor-
+mation and critical perceptions on programme design and implementation, while the IDIs identified success sto-
+ries, changes, challenges, and perceptions about the programme. 
+The findings from the qualitative data were analysed using Process Tracing (PT) to understand whether the re-
+sults of the IALA programme are consistent with its Theory of Change and to see if alternative explanations can 
+be ruled out. PT is a case-based approach to Causal-Process Observations (CPOs) which enables the examination 
+of specific cases in greater detail. For this evaluation, a combination of theory-testing PT and explaining-outcome 
+PT approaches were employed. Theory-testing PT was used to test the validity and assumptions of the Theory of 
+Change developed in the midline evaluation. Explaining-outcome PT helped to obtain a good understanding of 
+how the causal mechanisms worked, by breaking down the outcomes into a series of intermediate outcomes and 
+testing the intervening steps against competing hypotheses, based on the evidence gathered. The PT method 
+helped the C4ED team determine whether the apparently interlocking components of the IALA programme were 
+effectively united in a process to produce the final desired outcomes, namely the increased educational, health 
+and social empowerment of adolescents in the selected Afghani provinces of Badghis and Bamyan.  
+Key findings 
+The IALA programme adopted a holistic approach, which was found to have overall engaged the right participants 
+for adolescent empowerment. The programme adopted a unique content and design by placing adolescents at 
+the centre of the intervention, while also engaging relevant groups of adults in their target areas (parents, com-
+munity and religious leaders). The programme’s contents were found to be relevant to the target groups, both for 
+adolescents’ contexts and learning needs as well as for parents and leaders. The practical learning style was con-
+sidered engaging and useful to both adolescents and communities.  
+IALA’s implementation faced some challenges in delivering its activities and outputs, with the biggest one being 
+the COVID-19 pandemic, which halted most programme activities in the last quarter. Various other challenges 
+emanated both from both the contexts in which the activities were carried out and from design and operational 
+aspects of the programme. These challenges had tangible effects on implementation and acted as barriers to the 
+target groups’ full utilization of the programme. One set of challenges was connected to communities’ traditional 
+social and gender norms and the characteristics of their contexts and practices, which presented difficulties for 
+engaging adolescents and community members and for sharing the messages from the programme. Such chal-
+lenges included: some communities’ resistance to changing views and behaviours towards adolescents’ rights, 
+particularly at the beginning of the intervention and in more remote and/or rural areas; the need to adapt to a 
+gender segregated MAG structure in some areas due to socio-cultural traditions; a high proportion of illiteracy, 
+which called for changes in training design and introduced difficulties to MAG operations; and communities’ live-
+lihood conditions, which included child labour, affecting the attendance and participation particularly of vulner-
+able adolescents. The challenges connected to the programme’s design and operations included: a limited and 
+insufficiently systematic engagement of parents and leaders in MAG activities; a potentially insufficient adapta-
+tion to some local conditions, including seasonal activities, and the needs of the vulnerable adolescents in the 
+MAG structure and mentoring; a limited budget for community activities and lacking budget for MAG premises; 
+and some delays incurred in the implementation of community-level activities (development of action plans in 
+Badghis).  
+Regarding Outcome 1 of IALA2, the findings show that adolescents acquired relevant knowledge regarding their 
+rights and life skills applicable to their lives, and that they were able to communicate with their peers, at most 
+times with their families and sometimes with community and religious leaders, although communication with 
+policy makers could not be established. Adolescents acted as agents of change for peers and families in their 
+communities, campaigning outside the MAGs to promote access to education and the prevention of child mar-
+riages. They did this via different means, including peer to peer mentoring, reaching out to the families in their 
+communities, and sometimes talking to community or religious leaders to help them solve problems. They also 
+carried out various awareness raising campaigns and other social actions. There is also evidence that the most 
+effective communication occurred not through the use of technological aids or radio but rather through activities 
+such as peer-to-peer outreach, door to door and artistic activities.  
+ 
+2 By end of the programme, adolescents from two target provinces are able to communicate with each other and policy makers 
+through various avenues (such as social media forums, mobile technologies) to share information among peers and traditional 
+methods of communication at the local levels, and at least 52,334 (50% female and 50% male) adolescents are mobilized as 
+agents of change for themselves and their communities through engaging in adolescent groups/Shuras. 
+
+ 
+ 
+viii 
+ 
+Regarding Outcome 23, though sensitisation of religious leaders (RL), community leaders (CL), parents, and com-
+munities at large took place, there is considerable unevenness in the extent to which the adults in the communi-
+ties were reached, and how this translated into their engagement in actions of child protection in line with Out-
+come 2. As IALA used Islamic teachings to centre its messaging on child rights to a large extent, it could circumvent 
+societal resistance. Communities were to a large extent appreciative of the teachings received on children’s rights, 
+a knowledge that they reported to not have had before. However, it is evident that messages were interpreted 
+differently by each category of respondents, and that there were different levels of commitment to each set of 
+messages. There is almost universal appreciation of the importance of education for the future of children, though 
+most stakeholders acknowledged that economic realities affect a person’s access to education. This is especially 
+important, as adults’ support for adolescent education is for both boys and girls, but girls are much more affected 
+by societal norms on education. Child marriage is a topic which shows more variation in the levels of acceptance 
+by distinct stakeholder groups. There is evidence that some RLs have the view that marriages should only happen 
+after puberty. However, most RLs considered marriages to be advisable above the age of 18, even though they 
+could be permissible earlier. Parents tend to have the view that adolescents should only get married after the legal 
+age, though child marriages occurred or where in some cases prevented by individuals taking part in the pro-
+gramme. There is some evidence that spaces have opened up for adolescents, and that they are included in deci-
+sion-making; however, parents continue to be the ones taking the final decisions. Early pregnancy was not found 
+to be very salient among respondents. Those who mentioned it, typically referred to it as one among the many 
+problems caused by child marriage, which reflects the inextricable links between the social norms of pregnancy 
+and marriage. 
+Key conclusions 
+The findings suggest that the IALA programme has raised awareness of the importance of the rights and protec-
+tion of adolescents in the target areas of Afghanistan, both within target communities and among government 
+counterparts. IALA put adolescents at the centre of the intervention and promoted their empowerment not only 
+through raising awareness of their rights but also through providing relevant and applicable skills that adoles-
+cents could relate to and incorporate to improve their circumstances and contexts. Moreover, IALA brought about 
+a practical approach to teaching and learning which was instructional in terms of teaching contents and teaching 
+practices; adolescents’ learning experience was boosted first-hand by giving them a key role in the MAG structure 
+and organisation and by becoming peer educators from the get-go. MAG’s practical approach, which was different 
+from school, was considered complementary, useful, highly valued, and something that adolescents had not seen 
+before. Thus, IALA’s teaching contents and styles were both new and relevant to their target population. 
+Even though IALA’s activities seem to have raised the awareness of communities about children’s rights, espe-
+cially considering that these were mostly new topics for the community members, not all have embraced these 
+ideas. With the sudden and still ongoing political transition since the take-over of political power by the Taliban 
+in August 2021, many of these gains are threatened. For example, there are indications that despite the greater 
+awareness of the importance of education within the population, access to education has become impossible or 
+much more challenging with the closure of schools and the increased exclusion of girls from schools. Moreover, 
+an increase in child marriages of girls was identified as a potential danger under the new Taliban administration. 
+Key recommendations 
+➢ Consider the target groups’ economic realities in programme design. 
+➢ Explore potential linkages with government actors and the private sector for supporting options of set-
+ting up more higher learning courses, TVET classes, or alternative approaches, such as livelihood train-
+ing accessible for girls, to address barriers to female empowerment 
+➢ Strengthen trainers’ preparation for teaching illiterate children and mixed groups, including disabled 
+children.  
+➢ Ensure systematic engagement of key adults, particularly parents, through targeted activities/educa-
+tional programmes. 
+➢ Plan for enhancements to training and cascade learning through longer-term, spaced out, and varied 
+incorporation of contents and inclusion of adolescents in design, to boost their engagement. 
+➢ Establish closer programme monitoring by UNICEF with centralised oversight of monitoring data.  
+➢ Reconsider the channels used for messaging. 
+➢ Provide a specific budget for MAG premises and plan for an increase of budgeting for community activi-
+ties. 
+➢ Plan for programme continuation and expansion to neighbouring villages.  
+ 
+3 By end of the programme, 60,651 religious leaders, elders, parents, and influential individuals from the community in the 11 
+districts of the 2 target provinces support adolescents, especially girls, to access services, participate in decision making, and 
+prevent their exposure to harmful traditional practices leading to abuse and exploitation.  
+ 
+
+ 
+ 
+1 
+ 
+1 BACKGROUND 
+1.1 COUNTRY CONTEXT 
+Afghanistan is a mountainous and landlocked country of about 39 million inhabitants (2020), most of whom live 
+in tribal and kinship communities in rural areas (World Population Review, 2022). The country’s decades-long 
+armed conflicts coupled with deeply ingrained harmful traditional practices, such as child marriage, has had se-
+vere emotional and health consequences for women and children (Li et al., 2018). 
+As of 2021, Afghanistan entered the early dividend stage of the demographic transition with a steady decrease in 
+birth rates and an increase in the working age population, resulting in an economic window of opportunity. To 
+seize this opportunity, it is crucial that Afghanistan makes the necessary investments to anticipate the ‘adolescent 
+bulge’ entering the labour market in the coming years. Adolescents currently constitute 26% of the population 
+(UNICEF ROSA, 2019). However, the country’s growing adolescent population is prone to many risks, as they have 
+suffered from years of violence, abuse, and harmful traditional practices that affect their lives. To take the example 
+of exclusion from education, factors such as being female, social norms, and child marriage, as well as traditional 
+and religious beliefs are responsible for keeping adolescents – especially girls – out of school. Evidently, exclusion 
+from education has profound impacts on adolescents and, when coupled with pre-existing socioeconomic chal-
+lenges, gives rise to child labour and early marriage (UNICEF, 2021). The situation for this vulnerable segment of 
+the population is further exacerbated by both the Covid-19 pandemic and the recent regime change in Afghani-
+stan (UNICEF, 2022).  
+Although marrying off children under the age of 15 is illegal in Afghanistan, it is a common practice, particularly 
+in rural areas.  For the period 2005-2019, the rate of child marriage by the age of 18 was at 28%4. Poverty, strong 
+patriarchal values, and poor access to education all drive child marriage in Afghanistan. According to UNICEF data 
+for 2017, the adolescent birth rate was 62 per 1000 girls aged 15-19, which can be seen as a consequence of early 
+child marriage and of lacking or limited access to reproductive health services5. Child marriages usually serve to 
+strengthen ties with rival families and ethnic groups, as part of deals, or to settle debts and disputes. Poor families 
+often end up selling daughters for large dowries from wealthy people, and the husbands are usually much older. 
+The decisions to sell off girls for marriage are made by men, while wives, mothers, sisters and the girls themselves 
+have little or no say. Furthermore, a quarter of women suffering from obstetric fistula, which can condemn women 
+to ill-health and ostracism, were below the age of 16 when they married (UNFPA Afghanistan, 2021).  
+As of August 2021, Taliban assumed national political power in Afghanistan, and the new political developments 
+have pushed the country into economic crisis with immediate repercussions across an economy already facing 
+daunting development challenges (World Bank, 2021). Leadership transitions and implications for basic services 
+and financial systems have brought further turmoil to a country that has experienced four decades of prolonged 
+conflict, recurrent natural disasters, chronic poverty, and disease outbreaks, including COVID-19 (UNICEF, 2022). 
+It is estimated that about 24 million people – of which about 12 million are children – are in need for humanitarian 
+assistance (ibid.). Moreover, the recent political transition has consequences for vulnerable populations in the 
+country, especially women and children, with UNICEF (2021) reporting a rise in child marriage due to the political 
+and economic situation.  
+The IALA programme was developed to be implemented in two provinces of Afghanistan: Bamyan and Badghis. 
+Bamyan is in the centre of Afghanistan, with a population of 368.395 people, 190.310 of which are males and 
+178,085 of which are females (2011). During the same period, half the population was 16 years old or younger. 
+Bamyan scored higher than the national average on literacy rates (38.1%) in the population aged 10 years and 
+above, with the male and female literacy rates being 50% and 25%, respectively. Around 5% of the population of 
+Bamyan aged 5 years or older suffered from at least one functional difficulty (Bamyan Socio-Demographic and 
+Economic Survey, 2011). In 2018, the rate of child marriage in Bamyan rested at 31% (UNICEF, 2018).  
+Badghis is located in the western part of Afghanistan, bordering Faryab, Ghor, and Herat provinces, and Turk-
+menistan, with a population of 499.393 people, 254.854 of which are males and 244.539 are females. Only around 
+3% of the provincial population is urban, while 97% live in rural areas. Badghis has a literacy rate of only 11%, 
+with the male and female literacy rates being 14% and 7%, respectively (Provincial Development Plan: Badghis 
+Provincial Profile, 2010). Notably, Badghis is among the provinces with the highest rate (55%) of child marriage 
+(UNICEF, 2018). 
+Afghanistan ratified the Convention of the Rights of the Child in 1994 and is committed to protecting the right to 
+life and education of every child. Respecting the Universal Declaration of Human Rights is enshrined in its Consti-
+tution. Furthermore, Article 43 sets forth the right of all citizens to a free education up to the B.A. level (Islamic 
+Republic of Afghanistan 1/26/2004). Since 2001, education has been a priority area of action for the government 
+and is managed by the Ministry of Education (MoE), the Ministry of Higher Education (MoHE), and religious 
+ 
+4 https://www.unfpa.org/data/world-population-dashboard 
+5 https://data.unicef.org/resources/adolescent-health-dashboards-country-profiles/

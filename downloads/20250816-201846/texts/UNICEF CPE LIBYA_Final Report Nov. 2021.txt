@@ -1,0 +1,564 @@
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Country Programme Evaluation Libya 
+Final Evaluation Report  
+ 
+ 
+ 
+ 
+ 
+ 
+Rome, December 2021 
+
+ii 
+ 
+Contents 
+Acronyms and abbreviations ........................................................................................................ v 
+Executive summary ...................................................................................................................... vii 
+Introduction .................................................................................................................................... 1 
+1 Context ....................................................................................................................................... 1 
+1.1 
+Background: Political, Economic and Conflict Developments .................................. 1 
+1.2 
+The Libya Country Programme of Cooperation (2019-2020) ................................... 4 
+1.2.1 
+Objectives of the Country Programme ............................................................ 4 
+1.2.2 
+Partnerships, operational modalities and human resources ........................... 6 
+2 The evaluation rationale, purpose, objectives, scope and users ........................................ 7 
+3 Evaluation approach and methodology .................................................................................. 8 
+3.1 
+Evaluation approach ................................................................................................. 8 
+3.2 
+Evaluation methodology ............................................................................................ 8 
+3.3 
+Ethical considerations ............................................................................................... 9 
+3.4 
+Limitations ................................................................................................................. 9 
+4 Evaluation Findings ................................................................................................................ 12 
+4.1 
+Relevance ............................................................................................................... 12 
+4.1.1 
+Relevance of the Country Programme to priority needs ............................... 12 
+4.1.2 
+Addressing the Needs ................................................................................... 13 
+4.1.3 
+Alignment with Stakeholders ........................................................................ 15 
+4.1.4 
+Responsiveness to Changes ........................................................................ 16 
+4.1.5 
+Integration of Cross-Cutting issues ............................................................... 18 
+4.1.6 
+Relevance: conclusions and recommendations ........................................... 20 
+4.2 
+Efficiency ................................................................................................................. 21 
+4.2.1 
+Programmatic approaches ............................................................................ 21 
+4.2.2 
+Advocacy and Communications ................................................................... 22 
+4.2.3 
+Partnerships .................................................................................................. 23 
+4.2.4 
+Human Resources ........................................................................................ 25 
+4.2.5 
+Management and operational capacities ...................................................... 25 
+4.2.6 
+Monitoring systems ....................................................................................... 26 
+4.2.7 
+Efficiency: conclusions and recommendations ............................................. 28 
+4.3 
+Effectiveness ........................................................................................................... 29 
+4.3.1 
+Sectoral results ............................................................................................. 29 
+
+iii 
+ 
+4.3.2 
+COVID-19...................................................................................................... 41 
+4.3.3 
+Challenges and Enabling Factors ................................................................. 41 
+4.3.4 
+Unintended Effects ........................................................................................ 43 
+4.3.5 
+Gender, Inclusion, Equity .............................................................................. 43 
+Effectiveness: conclusions and recommendations ...................................................... 44 
+4.4 
+Connectedness ....................................................................................................... 45 
+4.4.1 
+Connectedness: conclusions and recommendations ................................... 47 
+4.5 
+Comparative Advantage and Strategic Positioning................................................. 48 
+4.5.1 
+Comparative advantage and Strategic positioning: conclusions and 
+recommendations ......................................................................................................... 49 
+5. Lessons Learned ...................................................................................................................... 50 
+Annexes......................................................................................................................................... 51 
+Annex 1: List of stakeholders interviewed ................................................................................ 51 
+Annex 2: List of background documentation and references ................................................. 55 
+Annex 3: Terms of Reference ..................................................................................................... 58 
+Annex 4: Additional information on the evaluation approach and methodology ................. 59 
+Annex 5: Evaluation criteria and questions .............................................................................. 64 
+Annex 6: Evaluation matrix ......................................................................................................... 68 
+ 
+ 
+List of figures 
+Figure 1 Libya – Migrant & Refugee Collocation .......................................................................................... 3 
+Figure 2 Education needs ........................................................................................................................... 14 
+Figure 3 Child Protection needs .................................................................................................................. 14 
+Figure 4 Education Sector, COVID Response timeline .............................................................................. 17 
+ 
+List of tables 
+Table 1 WASH sector response .................................................................................................................. 30 
+Table 2 Health sector response .................................................................................................................. 32 
+Table 3 Nutrition Health .............................................................................................................................. 34 
+Table 4 Education response ....................................................................................................................... 36 
+Table 5 Child protection response .............................................................................................................. 39 
+ 
+ 
+ 
+
+iv 
+ 
+List of boxes 
+Box 1 Libya: Political, Economic and Conflict Developments (August 2020-September 2021 Update) ...... 1 
+Box 2 Strategic areas of programming ......................................................................................................... 5 
+Box 3 UNICEF WASH response to the South Libya Ghat floods in 2019 .................................................. 31 
+Box 4 Water and sanitation system in Libya ............................................................................................... 42 
+Box 5 National Action Plan to Prevent and Respond to Violence Against Children in Libya 2020-2025 ... 48 
+ 
+ 
+ 
+
+v 
+ 
+Acronyms and abbreviations 
+ 
+CAFAAG  Children Associated with Armed Forces and Armed Groups 
+CEDAW  Convention on the Elimination of All Discrimination against Women 
+CMT 
+Crisis Management Team 
+CP 
+Country Programme 
+CPD 
+Country Programme Document 
+CPE 
+Country Programme Evaluation 
+CRC  
+Convention on the rights of the child  
+CSOs 
+Civil society organisations 
+DHIS 
+District Health Information System 
+DTM 
+Displacement Tracking Matrix 
+EMIS 
+Education Management Information System 
+EU TF 
+European Union Trust Fund 
+EORE 
+Explosive ordnance risk education 
+GBV 
+Gender-based violence 
+GEROS 
+Global Evaluation Reports Oversight System  
+GNU 
+Government of National Unity 
+HAC 
+Humanitarian Action for Children 
+HACT  
+Harmonized Approach to Cash Transfer 
+HCT 
+Humanitarian Country Team 
+HNO 
+Humanitarian Needs Overview 
+HRP  
+Humanitarian Response Plan 
+IED 
+Improvised explosive device 
+IOM  
+International Organisation for Migration 
+IRC 
+International Rescue Committee 
+ISG 
+Inter-Sector Coordination Group 
+J4CIMS 
+Justice for Children Information Management System 
+LibMAC 
+Libyan Mine Action Centre 
+MENARO Middle East and North Africa Regional Office 
+MoE 
+Ministry of Education 
+MoH 
+Ministry of Health 
+MoSA 
+Ministry of Social Affairs 
+
+vi 
+ 
+MRM 
+Monitoring and Reporting Mechanism 
+NCDC 
+National Centre for Disease Control 
+NGOs 
+Non-governmental organisations 
+NFE 
+Non-formal education 
+NRC 
+Norwegian Refugee Council 
+OECD/DAC Organisation for Economic Co-operation and Development / Development Assistance 
+Committee 
+PHC 
+Public Health Centre 
+PSEA 
+Protection from Sexual Exploitation and Abuse 
+RRM 
+Rapid Response Mechanism 
+SDGs 
+Sustainable Development Goals 
+SMART 
+Standardized Monitoring and Assessment of Relief and Transitions 
+TOR 
+Terms of Reference 
+TPM 
+Third-party monitoring 
+UASC 
+Unaccompanied and Separated Children 
+UNDG 
+United Nations Development Group 
+UNDP 
+United Nations Development Programme 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UNMAS 
+United Nations Mine Action Service 
+UNSF 
+United Nations Strategic Framework for Libya  
+UNSMIL 
+United Nations Support Mission in Libya 
+UXO 
+Unexploded ordnance 
+VAC NAP Violence Against Children National Action Plan  
+WASH 
+Water, Sanitation and Hygiene 
+WHO 
+World Health Organization 
+ 
+
+vii 
+ 
+Executive summary  
+The UNICEF Libya Country Programme (2019-2020) evaluation (CPE) follows the UNICEF 2018 evaluation 
+policy and uses the evaluation criteria of the Development Assistance Committee (DAC) of the Organisation 
+for Economic Co-operation and Development (OECD). It addresses the criteria of relevance, efficiency, 
+effectiveness for developmental activities and connectedness from the humanitarian area. An additional 
+criterion, comparative advantage and strategic positioning, has been added. The CPE focuses on the key 
+Country Programme outcomes and outputs, and progress is measured at the highest possible level of the 
+results chain. The evaluation was conducted in a participatory manner, ensuring the involvement of a wide 
+sample of key stakeholders, during all phases of the evaluation. The evaluation was human rights-based, 
+gender sensitive and equity focused. 
+The evaluation used a mixed methods approach. As a result of travel restrictions linked to COVID-19, the 
+collection of data by the evaluators was desk-based. These restrictions also affected the evaluation design 
+and rationale. The evaluation questions were addressed through evidence collected by the desk review of 
+key internal and external documents. The evaluation team collected primary qualitative data from 
+stakeholders using key informant interviews and an online survey. The data collected were, to the extent 
+possible, triangulated and validated – three or more sources of information were typically used to 
+substantiate a finding. 
+Limitations that affected the implementation of the evaluation include the following: i) travel restrictions due 
+to the COVID-19 pandemic, which prevented the team from visiting Tunis, ii) the security and conflict 
+situation in Libya which precluded the use of third-party data collectors and limited access to stakeholders; 
+iii) non-availability of data and key indicators; iv) internal and external developments affecting the timeframe 
+of the evaluation and delaying finalization of the report.  
+Main Findings of the Evaluation 
+Relevance: The 2019-2020 Country Programme is grounded on assessments and analyses that remain 
+pertinent. It was built on a strong cross-sectoral strategy, combining service delivery and emergency 
+assistance with system support and environment building. The Country Programme has provided a 
+consistent framework for integrating the UNICEF Humanitarian Action for Children (HAC) objectives and 
+results. It is strongly aligned with the United Nations Strategic Framework (UNSF) 2019-2020, the 
+Sustainable Development Goals (SDGs) and the humanitarian, development and peace nexus. The 
+sectoral strategies are aligned to those of the Libyan government. Humanitarian assistance is delivered in 
+partnership with line ministries, municipalities, and non-governmental organisations.  
+Although the already-challenging Libyan context became even more complex because of the COVID-19 
+pandemic, the programme adapted well to changing circumstances and capitalized on available 
+opportunities. A timely response to increasing risks of Gender-Based Violence (GBV) demonstrated the 
+ability to respond to challenges that were not initially a part of the Country Programme. There were also 
+missed opportunities, however. Programming for adolescents and youth is seen by the evaluation as an 
+area of weakness. The evaluation found no evidence of gender analysis underpinning the Country 
+Programme. Indicators were disaggregated by gender, and boys and girls took part equally in activities, but 
+it is not clear how gender considerations were incorporated in the programming.  
+Efficiency: A key strategy to achieve integrated results was to establish and operate community centres 
+(Bayti centres) that provide multi-sectoral services, with a focus on the most vulnerable children. In practice, 
+however, the potential for the Bayti approach was not fully used. Bayti centres have almost exclusively 
+hosted child protection and non-formal education activities and more could be done to fully integrate other 
+sectors into the model, through strengthening referrals to existing structures providing, for example, health 
+and nutrition services or hosting ad-hoc health and nutrition initiatives, e.g., screening, vaccination. 
+
+viii 
+ 
+Communications were used to strengthen the UNICEF brand and to build alliances and partnerships for 
+change through public engagement. This was done by positioning UNICEF social media accounts as a 
+credible and reliable source and partnering with the private sector and local implementing partners on 
+communication campaigns to promote behaviour changes as, for example, in response to the COVID-19 
+pandemic.  
+Advocacy efforts by UNICEF work through many channels including the United Nations Country Team, the 
+sectoral and working groups and global and regional advocacy initiatives. However, no consistent child 
+protection advocacy plan or joint child protection advocacy strategy was developed with United Nations 
+sister agencies or the Humanitarian Country Team (HCT). In addition, advocacy strategy was not 
+coordinated with international NGOs or within the Child Protection Working Group and Protection Sector. 
+There are, however, many examples of successful coordination of advocacy efforts, including the work of 
+UNICEF with the Protection from Sexual Exploitation and Abuse (PSEA) Network: advocacy that led to the 
+creation of a staffed nutrition unit in the National Centre for Disease Control (NCDC) to monitor and address 
+issues of malnutrition; joint advocacy with WHO and IOM, among others, with government and 
+municipalities for strengthening the extended immunization programme and the Public Health Centre (PHC) 
+system; and Child Protection advocacy to end violence against children, develop alternatives to detention 
+for children in contact with the law, establish transitional centres for detained migrant children, activate a 
+formal monitoring and reporting mechanism, and release and reintegrate children associated with armed 
+forces and armed groups. 
+There is an apparent disconnect between the approach to NGO partners in the emergency response and 
+in the development component of the UNICEF programme. Communication flows with partners and donors 
+have been challenging, mainly due to staff turnover and heavy administrative procedures. In the emergency 
+response, partnerships focus on service delivery. UNICEF provided technical training either directly carried 
+out by UNICEF or through international NGOs. National partners, however, expressed the need of a 
+structured approach to their capacity development that also includes building their capacities on strategic 
+planning, management and fundraising.  
+The 2018 budget and human resource structure was expanded considerably due to the deepening 
+humanitarian crisis in Libya and the need to address capacity gaps of the Country Office. The initial focus 
+of this programme was on bringing in international staff. However, due to funding shortfalls and challenges 
+in hiring, about a third of the positions were still vacant at the end of 2020. This created significant 
+challenges since national staff may not have sufficient international and UNICEF institutional experience. 
+Nonetheless, the national staff is expected to provide continuity until international staffing is completed. 
+While this poses an opportunity for capacity building, several circumstances have limited effective 
+dissemination of face-to-face support and experience from the more experienced international professional 
+staff to the younger staff. 
+Bureaucratic processes and granting procedures created delays throughout 2019, with limited 
+improvements in 2020. Contracting processes with partners took over six months from negotiation to the 
+signature of Programme Cooperation Agreements (PCAs), which posed a challenge for the emergency 
+response. Delays in releasing the funds constrained the implementation capacity of national NGOs that rely 
+on UNICEF funding. Multiple office locations, costly staff accommodation arrangements and constant staff 
+movement back and forth between Tunisia and Libya resulted in operating costs that were much higher 
+than planned. Heightened conflict and insecurity in Libya have long impeded UNICEF staff from undertaking 
+regular field monitoring visits to programmes implemented by the partners. Consequently, the Libya Country 
+Office has, since 2016, engaged the services of third-party monitoring organizations.  
+Effectiveness: UNICEF provided humanitarian assistance during the period evaluated as well as more 
+limited development assistance. Overall, the sectoral targets of the humanitarian assistance were broadly 
+achieved. UNICEF support for sector coordination and working groups helped to deliver better results for 
+children, while partnering with local authorities in municipalities helped to deliver services at local level. 
+
+ix 
+ 
+However, efforts fell significantly short of the overall needs identified and evidence generation was 
+challenging. The main sectoral results include the following: 
+• 
+UNICEF strengthened national WASH systems and provided humanitarian support in response to 
+needs, contributing to the realization of SDG 6 and the Humanitarian Response Plan for 2019. 
+Targets were surpassed largely as a result of the humanitarian response to displaced and conflict-
+affected populations. UNICEF also contributed to an enabling environment for WASH through 
+support for the first National Assessment of Water Systems in Libya. This will serve as an important 
+knowledge base for the government and partners’ investment in the development of water 
+infrastructure.  
+• 
+As a result of the emerging humanitarian situation, UNICEF scaled up to provide lifesaving 
+assistance to the most vulnerable. UNICEF coordinated with WHO to strengthen the capacity of 
+immunization centres, although additional capacity-building is needed to improve monitoring at the 
+municipal level. Effectiveness of the training model relies on post-training mentoring for the 
+trainees, as well as access to health facilities which in some areas is challenging.  
+• 
+Relatively few children have received basic or emergency nutrition services compared to needs. 
+The key challenge remains the lack of reliable data on the nutritional status of children and women. 
+A Standardized Monitoring and Assessment of Relief and Transitions (SMART) Nutrition Survey 
+was planned in Q1 2020 to bridge the data gaps. While SMART surveys are usually undertaken 
+in fragile and conflict countries, it was assessed that security risks were too high and a 
+postponement was foreseen.  
+• 
+UNICEF worked closely with the Ministry of Education (MoE) and its partners to ensure minimum 
+disruption to education. A key success of the education programme was the timely response to 
+the COVID-19 pandemic. Progress toward the Country Programme outcomes was on track 
+through the end of 2020. Some key 2019 targets were exceeded. In particular, the number of 
+teachers trained was significantly higher than planned, creating the potential to provide services 
+to more children than originally planned.  
+• 
+UNICEF made substantial progress in ensuring that girls and boys in Libya were better protected 
+from violence, abuse and exploitation. The progress of child protection programme toward the 
+Country Programme outcomes is on track. As of June 2020, the Country Programme output 
+indicators were largely or fully achieved. The system support component of the child protection 
+programme – although substantially on track – has suffered from the escalating conflict. However, 
+UNICEF has made progress in strengthening national systems for monitoring, reporting and 
+responding to violations of children's rights. 
+Gender has not been fully mainstreamed in the delivery of the Country Programme and there is limited 
+evidence that interventions were designed considering the different needs of boys and girls. The office did 
+generate some gender disaggregated indicators but not in a consistent manner across sectors, although 
+there are positive examples in the implementation of the programme. Insufficient disaggregation of 
+vulnerable groups in programme reporting makes it difficult to analyse how different groups have benefitted. 
+The main challenges to the effectiveness of the Country Programme include the following: i) COVID-19 has 
+limited access to beneficiaries and support systems; ii) during 2019, the five national information systems 
+roll outs were delayed, as challenges proved greater than anticipated; iii) insufficient coordination and 
+limited internal technical capacity constrained the leadership provided by UNICEF for child protection.  
+Connectedness: To address disconnects between the humanitarian and the developmental programmes, 
+the United Nations Programme Management Team led the process to agree on a strategic nexus approach 
+for Sabha and to identify collective outcomes to be achieved by 2023. Recent political developments in the 
+country offer the opportunity for the United Nations Country Team and UNICEF to reconsider 
+connectedness between humanitarian and development priorities and develop appropriate strategies. 
+However, the UNICEF Libya Country Programme Document 2019-2020 provides only scant reference to 
+the nexus framework and the UNICEF Humanitarian Action for Children 2019 does not mention it at all. 
+
+x 
+ 
+The 2020 appeal notes the importance of reinforcing the linkages between humanitarian and development 
+programming through giving priority to coordination and capacity building for partners, including local 
+authorities. The most relevant contribution to connectedness is through the “Stabilization” programme with 
+a focus on working directly with local authorities while still involving central authorities. The newly developed 
+arrangement with the United Nations High Commissioner for Refugees (UNHCR) for a two-year (2020-
+2021) global blueprint for joint action, titled “A Fair Deal for Refugee Children”, also focuses on improving 
+the response in the priority areas of education, WASH and child protection, and represents a contribution 
+to the SDGs in these areas.  
+Comparative advantage and strategic positioning: UNICEF Libya worked with many stakeholders at all 
+levels. With the central government, it has agreed workplans, provided an evidence basis for 
+implementation, and developed national level strategies. With municipalities, it has implemented practical 
+programmes across the nexus providing services for host communities and refugees. It has established a 
+relationship with donors, along with solid partnerships with international and national non-governmental 
+organisations (NGOs). UNICEF Libya is well embedded in the United Nations country team. However, the 
+Libya Country Office has moved only recently towards implementing the nexus. The “Stabilization” 
+programme has created an integrated approach to service delivery that could be expanded to other areas 
+and to municipal service provision, but the comparative advantage of UNICEF has not been fully used to 
+build and leverage synergies among stakeholders (ministries and civil society, for example) and with donors 
+and the United Nations Support Mission in Libya (UNSMIL), for example, on Children Associated with 
+Armed Forces and Armed Groups (CAFAAG) and the Monitoring and Reporting Mechanism (MRM), 
+especially on critical child protection issues. The role that UNICEF can play towards strengthening civil 
+society capacities should also be considered.  
+Conclusions 
+Conclusion 01: The Country Programme has been found highly relevant to the priority needs of children 
+in Libya. The Country Programme has taken available evidence into account, incorporating findings from 
+assessments, both multi-agency and by UNICEF, of humanitarian and development needs in the five 
+strategic areas. The reliability of the available evidence is not strong but the Country Programme responds 
+to this with a strong focus on evidence generation.  
+Conclusion 02: The Libya Country Office has demonstrated appropriate flexibility and initiative in 
+responding to changes. Programme priorities, resources and interventions were reviewed when in-country 
+needs increased, particularly in the humanitarian domain and from the perspective of the nexus logic. New 
+challenges stemming from shifting conflict lines, the advent of COVID-19 and worsening economic 
+indicators were addressed to the extent possible, given available resources and access constraints, through 
+increases in service delivery and humanitarian/risk awareness interventions. 
+Conclusion 03: Alignment with government priorities, and UNICEF global and regional priorities was 
+generally strong especially through the agreed work planning process. However, some sectors and 
+activities were not always able to keep government counterparts informed. Implementing partners were 
+chosen for their ability to deliver rather than on aligned strategic priorities. 
+Conclusion 04: Cross-sectoral approaches were planned but not always implemented in practice. Gender 
+and adolescents and youth programming are areas where improvements are needed. 
+Conclusion 05: The Libya Country Office is taking steps to improve cost efficiency such as reduction of 
+multiple office locations and making a greater investment in UNICEF national staff and implementing 
+partner capacities. The recent developments of the political situation in Libya might allow for relocating at 
+least part of the operation within Libya, thus contributing to cost efficiency. 
+
+xi 
+ 
+Conclusion 06: Operational efficiency was mixed, due to the demanding context of the operations and the 
+internal administrative requirements of UNICEF. The integrated approach proved to be challenging and 
+required additional capacities and a redistribution of responsibilities.  
+Conclusion 07: The Bayti approach was efficient in reaching the most vulnerable children and could be 
+further expanded to fully realise integrated services, through strengthening referrals to existing structures 
+providing, for example, health and nutrition services or hosting ad hoc health and nutrition initiatives, e.g., 
+screening, vaccination. 
+Conclusion 08: Programme monitoring remained a challenge despite efforts by UNICEF to address third-
+party monitoring issues and to follow up by revising implementation arrangements. 
+Conclusion 09: Advocacy and external communications were efficient approaches to draw attention to 
+child protection issues and support health and nutrition services. 
+Conclusion 10: The Country Programme made progress toward planned outcomes in all strategic areas 
+and improved the quality and supply of services. Conflict and insecurity were the main factors affecting 
+delivery of planned outputs were conflict and insecurity. These also affected the capacity of national 
+systems. UNICEF targeted marginalized groups but experienced challenges in reaching them; those 
+requiring more attention include children of detained or imprisoned women, children associated with armed 
+forces and armed groups (CAFAAG), marginalized adolescents and youth, children with disabilities and 
+preschool children.  
+Conclusion 11: As WASH is intrinsic to all other basic services, the importance of rehabilitating the 
+dilapidated system takes high priority; UNICEF should use its convening power and technical capacity to 
+support a coordination platform with the government and other stakeholders. Health system inputs have 
+been strong and well-coordinated with partners. The immunization training requires follow up at the 
+municipal level to ensure compliance. 
+Conclusion 12: Significant achievements were made in training teachers and other education staff. 
+However, some planned education results were not fully achieved due to deterioration of the education 
+system and impeded access in conflict-affected areas. The COVID-19 response related to education was 
+timely and produced positive impacts for children. The inputs for work with adolescents and youth do not 
+sufficiently reflect the importance of their role in the development and future of Libyan society and should 
+be strengthened in order to engage them productively and mitigate risks of the youth being drawn into the 
+conflict. 
+Conclusion 13: UNICEF made substantial progress in ensuring that girls and boys in Libya were better 
+protected from violence, abuse and exploitation through strengthening national systems for response and 
+including training on explosive ordnance risk, and protection from sexual exploitation and abuse. However, 
+UNICEF globally, regionally and nationally has not exerted sufficient influence to coordinate stakeholders 
+to urge adequate funding and greater joint advocacy on difficult protection issues.  
+Conclusion 14: Gender is not well integrated in the programme. Knowledge about potentially marginalized 
+groups is weak and programming for them is challenging. 
+Conclusion 15: The development of information management systems (e.g., the DHIS and the EMIS) 
+experienced significant challenges, in terms of capacity of staff and support systems. 
+Conclusion 16: While UNICEF at the global level has a strong commitment to connect humanitarian and 
+developmental actions, at the country level this connection is still in a nascent state, both for the United 
+Nations team and UNICEF, except for coordinating the “Stabilization” programme interventions with 
+municipalities and the global blueprint with the UNHCR ‘A fair deal with children’.  
+
+xii 
+ 
+Conclusion 17: Recent political developments in the country present an opportunity to strengthen the 
+nexus approach within the UNICEF programme; for example, the Violence Against Children National Action 
+Plan (VAC NAP) offers a framework to link emergency child protection response to longer-term objectives. 
+Conclusion 18: The UNICEF Libya Country Office has collaborated effectively with diverse stakeholders. 
+The evaluation identified missed opportunities to lead on child rights agendas, with donors and as cluster 
+lead agency. 
+Recommendations  
+Recommendation 01: Strengthen programming to incorporate cross-cutting youth and gender themes 
+more effectively. Undertake a gender assessment of all strategic areas and develop a cross-sectoral gender 
+plan with partners; ensure that each sector addresses the situation of adolescents and youth relative to 
+their developmental needs. 
+Recommendation 02: Promote greater strategic planning opportunities with implementing partners 
+(national and international NGOs) to facilitate joint strategy and policy development. Elevate discussions, 
+collaboration and coordination with implementing partners to a more strategic level, beyond the negotiation 
+of implementation or the emergency strategies developed within the sector working groups. This will be the 
+best way to utilize their access to beneficiaries and their experience in addressing technical and cultural 
+challenges. 
+Recommendation 03: Assess whether (a) the Bayti approach can be expanded to integrate health and 
+nutrition services for migrant women, girls and boys; (b) a similar approach could be used to provide 
+services to children by the Ministry of Social Affairs (MoSA) and other relevant ministries; and (c) similar 
+approaches could be taken in building child hubs in schools. 
+Recommendation 04: Given recent political developments in Libya, reassess the possibility of relocating 
+components of the operation within the country. This will mean revisiting the staffing structure, the share of 
+national and international staff, the type of contracting, and the geographic location of the offices / hubs.  
+Recommendation 05: Keep track of the lessons learned and emerging good practices from the 
+implementation of the various third-party monitoring arrangements used by UNICEF in humanitarian 
+contexts, including in the other countries of the MENA region. Tracking successes and bottlenecks and 
+following good practices developed elsewhere will increase the efficiency of the Libya Country Office.  
+Recommendation 06: Continue to advocate on critical child protection issues such as activation of the 
+monitoring and reporting mechanism on grave violations, alternatives to detention for children in contact 
+with law (including migrants), alternative care systems for unaccompanied and separated children (UASC), 
+release and reintegration for CAFAAG, including regional mechanisms for CAFAAG from abroad. 
+Recommendation 07: Strengthen technical support and advocacy for coordination and investment of the 
+government’s own funds in Water, Sanitation and Hygiene (WASH) system rehabilitation. 
+Recommendation 08: Ensure that reliable data are available for programming in health, education, 
+nutrition and protection. The challenges experienced to implement studies and to roll out information 
+systems will need to be analysed to identify and avoid bottlenecks. 
+Recommendation 09: Clearly identify the gaps in the current immunization programme and develop a plan 
+to strategically address them in the follow up programme. Aim to expand immunization to migrant 
+populations.  
+Recommendation 10: Develop a coherent UNICEF Libya strategy for adolescents and youth and advocate 
+for a national youth strategy.

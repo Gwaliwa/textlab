@@ -1,0 +1,633 @@
+Thuso Ltd. 
+25th Floor 
+Workington Tower 
+Sheung Wan 
+Hong Kong 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Report 
+Summative External Evaluation of the State of 
+Palestine Education Cannot Wait / Multi-Year 
+Resilience Programme  
+(SoP ECW/MYRP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submitted to UNICEF State of Palestine by Thuso Limited 
+August 2023 
+
+ 
+Evaluation Details 
+Title  
+Summative External Evaluation of the State of Palestine Education Cannot 
+Wait / Multi-Year Resilience Programme  
+(SoP ECW/MYRP) 
+Timeframe of the evaluation 
+Inception phase: 15.06.2022 – 15.09.2022 
+Data collection phase: 16.09.2022 – 20.12.2022 
+Data analysis and reporting phase: 21.12.2022 – 15.05.2023 
+Date of the report 
+14 April 2023 
+Country  
+State of Palestine 
+Evaluators  
+Thuso Limited 
+Organisation commissioning the 
+evaluation  
+UNICEF SOP State of Palestine 
+Evaluation Managers/UNICEF 
+SoP staff contact point for the 
+evaluation 
+Shereen Obaid, Monitoring and Evaluation Specialist in UNICEF SoP 
+Iain Murray, Chief of Planning, Monitoring and Evaluation in UNICEF SoP 
+ 
+Acknowledgements 
+ 
+On behalf of Thuso lImited, the evaluation team would like to extend its sincere gratitude to the UNICEF 
+office based in State of Palestine, Shereen Obaid and the ECW team for their support and effort with the 
+authorities in the State of Palestine to conduct the evaluation.  
+We also extend our gratitude to the members of the Evaluation Steering Committee, colleagues within the 
+Ministry of Education, and implementing partners’ organisations, for their support throughout the course of 
+this evaluation. 
+ 
+ 
+Note: This report has been commissioned by UNICEF to Thuso Ltd. The views expressed in this 
+publication are those of the authors and do not necessarily reflect the views or policies of UNICEF, 
+the United Nations or any of its affiliated organizations.  
+UNICEF is not responsible for any inaccurate or libellous information or the erroneous use of 
+information. 
+
+ 
+ 
+i
+Table of Contents 
+EVALUATION DETAILS ............................................................................................................................................... 2 
+ACKNOWLEDGEMENTS .............................................................................................................................................. 2 
+LIST OF TABLES AND FIGURES ................................................................................... I 
+ACRONYMS AND INITIALISMS .................................................................................. II 
+EXECUTIVE SUMMARY ............................................................................................ III 
+PURPOSE, INCLUDING INTENDED AUDIENCE(S) ............................................................................................................. III 
+OBJECTIVES AND BRIEF DESCRIPTION OF INTERVENTION ................................................................................................. III 
+METHODOLOGY ....................................................................................................................................................... III 
+MAIN CONCLUSIONS ................................................................................................................................................ III 
+RECOMMENDATIONS ................................................................................................................................................ VI 
+CHAPTER 1: CONTEXT AND DESCRIPTION OF THE OBJECT OF THE EVALUATION ...... 1 
+1.1 INTERVENTION CONTEXT ..................................................................................................................................... 1 
+1.1.1 COUNTRY CONTEXT ......................................................................................................................................... 1 
+1.1.2 SECTORAL CONTEXT / POLICY FRAMEWORK ......................................................................................................... 2 
+1.2 PROGRAMME OVERVIEW (OBJECT OF EVALUATION) ................................................................................................ 4 
+1.2.1 PROGRAMME OVERVIEW.................................................................................................................................. 4 
+1.2.2 PROGRAMME GOALS / OBJECTIVES .................................................................................................................... 4 
+1.2.3 PROGRAMME STRATEGIES ................................................................................................................................ 4 
+1.2.4 PROGRAMME TIMELINE AND GEOGRAPHIC SPREAD .............................................................................................. 5 
+1.2.5 PROGRAMME STAKEHOLDERS AND THEIR ROLE .................................................................................................... 5 
+1.2.6 PROGRAMME INTENDED PARTICIPANTS (BENEFICIARIES) ....................................................................................... 6 
+1.2.7 PROGRAMME RESOURCES ................................................................................................................................ 6 
+1.3 PRELIMINARY UNDERSTANDING AROUND INTEGRATION OF HUMAN RIGHTS, GENDER EQUALITY AND EQUITY PRINCIPLES ... 8 
+1.4 PROGRAMME THEORY OF CHANGE (TOC) .............................................................................................................. 8 
+CHAPTER 2: EVALUATION, PURPOSE, OBJECTIVES, SCOPE, AND QUESTIONS ......... 11 
+2.1 FINAL ECW EVALUATION PURPOSE ..................................................................................................................... 11 
+2.2 FINAL ECW EVALUATION OBJECTIVES.................................................................................................................. 11 
+2.3 FINAL ECW EVALUATION SCOPE ......................................................................................................................... 11 
+2.4 FINAL ECW EVALUATION CRITERIA AND QUESTIONS .............................................................................................. 12 
+2.5 STAKEHOLDERS, INTERESTS AND USES OF THE FINAL ECW EVALUATION .................................................................... 12 
+2.6 SIGNIFICANCE OF EVALUATION ........................................................................................................................... 12 
+
+ 
+ 
+ii
+CHAPTER 3: FINAL EVALUATION METHODOLOGY, QUALITY ASSURANCE AND ETHICS
+ .............................................................................................................................. 14 
+3.1 RESEARCH CONCEPTUAL FRAMEWORK AND DESIGN ............................................................................................... 14 
+3.2 RESEARCH METHODS ........................................................................................................................................ 14 
+3.3 QUANTITATIVE METHODS .................................................................................................................................. 14 
+3.3.1 TARGET POPULATION ..................................................................................................................................... 14 
+3.3.2 CALCULATING SAMPLE SIZE ............................................................................................................................. 14 
+3.3.3 DETAILED SAMPLE DISTRIBUTION ..................................................................................................................... 14 
+3.3.4 SAMPLING .................................................................................................................................................... 14 
+3.3.5 LEVEL OF RETROSPECTIVITY ............................................................................................................................. 15 
+3.3.6 PILOT .......................................................................................................................................................... 15 
+3.3.7 QUALITY CONTROL PROCEDURES ..................................................................................................................... 15 
+3.3.8 QUANTITATIVE DATA ANALYSIS ....................................................................................................................... 15 
+3.4 QUALITATIVE METHODS .................................................................................................................................... 15 
+3.4.1 DATA COLLECTION AND FIELD RESEARCH .......................................................................................................... 15 
+3.4.2 QUALITATIVE DATA ANALYSIS .......................................................................................................................... 15 
+3.4.3 PARTICIPATORY APPROACH PLAN ..................................................................................................................... 15 
+3.4.4 PARTICIPATORY DATA ANALYSIS ...................................................................................................................... 15 
+3.5 ETHICAL CONSIDERATIONS ................................................................................................................................. 16 
+3.6 FIELD STAFF TRAINING, PRE-TESTING AND TRANSLATION OF FINALIZED TOOLS ........................................................... 16 
+3.7 DATA FLOW AND MANAGEMENT ........................................................................................................................ 16 
+3.8 DATA ANALYSIS AND QUALITY ASSURANCE ........................................................................................................... 16 
+3.9 FINAL REPORTING ............................................................................................................................................ 16 
+3.10 COMPLIANCE TO UNEG NORMS AND STANDARDS FOR STUDIES ............................................................................ 16 
+3.11 LIMITATIONS AND MITIGATION MEASURES ......................................................................................................... 16 
+CHAPTER 4: EVALUATION FINDINGS ...................................................................... 17 
+4.1 RELEVANCE / APPROPRIATENESS ......................................................................................................................... 17 
+EQ1: HOW RELEVANT, APPROPRIATE, AND SIGNIFICANT IS THE SOP ECW/MYRP AT THE COUNTRY LEVEL? HOW CAN THESE 
+ASPECTS BE STRENGTHENED IN ANY FUTURE MYRPS IN SOP? ........................................................................................ 17 
+4.2 COHERENCE .................................................................................................................................................... 23 
+EQ2: TO WHAT EXTENT IS THE SOP ECW/MYRP ALIGNING WITH, COMPLEMENTING, AND LEVERAGING INTERNATIONAL AND 
+NATIONAL HUMANITARIAN-DEVELOPMENT SYSTEM(S) AND RELATED PLANS, POLICIES, AND FRAMEWORKS? HOW CAN THESE 
+ASPECTS BE STRENGTHENED IN FUTURE SOP MYRPS? .................................................................................................. 23 
+EQ3: HOW DOES THE SOP ECW/MYRP ALIGN WITH, COMPLEMENT, AND LEVERAGE ECW GLOBAL STRATEGIC PLAN, CORE 
+FUNCTIONS AND OTHER INVESTMENT MODALITIES (FER)? HOW CAN THIS BE STRENGTHENED? ........................................... 23 
+4.3 EFFICIENCY ...................................................................................................................................................... 28 
+EQ4: TO WHAT EXTENT IS THE SOP ECW/MYRP MANAGED IN AN EFFICIENT, TIMELY AND TRANSPARENT MANNER? HOW CAN 
+THESE ASPECTS BE STRENGTHENED IN ANY FUTURE MYRPS? ......................................................................................... 29 
+EQ5: TO WHAT EXTENT AND HOW HAS THE SOP ECW/MYRP CREATED POLITICAL COMMITMENT TO ADDRESS THE NEEDS OF 
+CHILDREN AND YOUTH (BOYS/GIRLS) AFFECTED BY CONFLICT AND CRISIS ON A GLOBAL AND IN-COUNTRY LEVEL? .................... 31 
+4.4 EFFECTIVENESS ................................................................................................................................................ 33 
+
+ 
+ 
+iii
+EQ6: TO WHAT EXTENT AND HOW HAS THE SOP ECW/MYRP CONTRIBUTED DIRECTLY &/OR INDIRECTLY TO MOBILIZING AND 
+LEVERAGING FUNDS AT COUNTRY LEVEL? HOW CAN THE MYRPS BE STRENGTHENED IN THIS REGARD? ................................. 33 
+EQ7: TO WHAT EXTENT AND HOW DID THE SOP ECW/MYRP PROMOTE AND STRENGTHEN A JOINT, (HUMANITARIAN-
+DEVELOPMENT) COORDINATED, EVIDENCE-BASED, AND INCLUSIVE APPROACH TO EIEPC PROGRAMMING IN THE STATE OF 
+PALESTINE? HOW CAN THESE ASPECTS BE STRENGTHENED IN MYRP? ............................................................................ 34 
+EQ8: TO WHAT EXTENT AND HOW DID THE SOP ECW/MYRP STRENGTHEN COUNTRY AND LOCAL CAPACITIES AT INDIVIDUAL, 
+ORGANIZATIONAL AND INSTITUTIONAL LEVELS FOR IMPROVED EIEPC PROGRAMMING? HOW CAN THE MYRPS BE 
+STRENGTHENED IN THIS REGARD? ............................................................................................................................. 36 
+EQ9: TO WHAT EXTENT AND HOW DID THE SOP ECW/MYRP PROMOTE AND STRENGTHEN: (I) THE AVAILABILITY OF QUALITY 
+DATA ON EDUCATION NEEDS/GAPS IN SOP, AND (II) THE MEASUREMENT OF OUTPUT AND OUTCOME RESULTS? HOW CAN THE 
+MYRPS BE STRENGTHENED IN THIS REGARD?.............................................................................................................. 38 
+EQ10: WHAT IS THE PROGRESS MADE TOWARDS THE DIFFERENT COLLECTIVE BENEFICIARY RESULTS AS IDENTIFIED IN THE 
+COUNTRY RESULT FRAMEWORKS (ACCESS, CONTINUITY, EQUITY AND GENDER EQUALITY, QUALITY AND LEARNING, SAFETY)? HOW 
+CAN THE MYRP BE STRENGTHENED IN THIS REGARD? ................................................................................................... 40 
+4.5 SUSTAINABILITY ............................................................................................................................................... 43 
+EQ11: HOW IS THE SOP ECW/MYRP PROMOTING AND STRENGTHENING SUSTAINABLE AND RESILIENT EDUCATION SYSTEMS 
+AND SOLUTIONS SO FAR? HOW CAN IT BE STRENGTHENED IN THIS REGARD?..................................................................... 44 
+4.6 CROSS-CUTTING THEMES .................................................................................................................................. 47 
+EQ12: TO WHAT EXTENT HAVE CROSS-CUTTING THEMES SUCH AS GENDER, AGE, DISABILITY, VULNERABILITY, CHILD AND HUMAN 
+RIGHTS, AND ACCOUNTABILITY BEEN INTEGRATED IN THE PROGRAMME? ......................................................................... 47 
+CHAPTER 5: CONCLUSIONS .................................................................................... 51 
+5.1 CONCLUSIONS ................................................................................................................................................. 51 
+5.2 ADDITIONAL, GENERAL LESSONS LEARNED ........................................................................................................... 53 
+CHAPTER 6: RECOMMENDATIONS ......................................................................... 56 
+LIST OF ANNEXURES .............................................................................................. 59 
+ANNEXURE 1: TERMS OF REFERENCES (TORS) ............................................................................................................ 60 
+ANNEXURE 2: EVALUATION MATRIX.......................................................................................................................... 61 
+ANNEXURE 3: METHODOLOGY ................................................................................................................................. 76 
+ANNEXURE 4: LIST OF DOCUMENTS REVIEWED ........................................................................................................... 78 
+ANNEXURE 5: GUIDELINES FOR KEY INFORMANT INTERVIEWS ....................................................................................... 82 
+ANNEXURE 6: GUIDELINES FOR FOCUS GROUP DISCUSSIONS ......................................................................................... 83 
+ANNEXURE 7: ETHICAL CLEARANCE LETTER ................................................................................................................ 84 
+ANNEXURE 8: DATA COLLECTION TOOLS .................................................................................................................... 84 
+ANNEXURE 9: SAMPLE BREAKDOWN ....................................................................................................................... 100 
+ANNEXURE 10: OVERVIEW OF UNRWA ACTIVITIES IN SOP ........................................................................................ 107 
+ANNEXURE 11: UNESCO INCLUSIVE EDUCATION REPORT .......................................................................................... 112 
+ANNEXURE 12: ADDITIONAL FINDINGS .................................................................................................................... 112 
+ANNEXURE 13: GENDER CONSIDERATIONS OF PROGRAMMING ................................................................................... 113 
+ANNEXURE 14: PROGRAMME LOG-FRAME/LOGIC MODEL ......................................................................................... 114 
+ 
+
+ 
+ 
+| i | 
+List of Tables and Figures 
+Figure 1: UN OCHA State of Palestine Map ....................................................................................................................................... 1 
+Figure 2: SoP ECW/MYRP Organogram ............................................................................................................................................ 6 
+Figure 3: Proportion of MYRP Beneficiary Survey respondents agreeing that the intervention met the needs of those most in need 
+[Gaza Strip] .................................................................................................................................................................................... 21 
+Figure 4: Proportion of MYRP Beneficiary Survey respondents agreeing that the intervention met the needs of those most in need 
+[West Bank] .................................................................................................................................................................................... 21 
+Figure 5: Proportion of respondents who believe that was harm caused to them or to anyone else as a result of the intervention they 
+received [West Bank] ...................................................................................................................................................................... 23 
+Figure 6: Strengthened capacity of the education system to respond to chronic humanitarian needs and to deliver a coordinated and 
+mainstreamed response .................................................................................................................................................................. 26 
+Figure 7: Proportion of respondents agreeing that the intervention worked well alongside other schooling or support received [West 
+Bank] .............................................................................................................................................................................................. 27 
+Figure 8: Proportion of respondents by modality identifying other activities taking place in their school or community [Gaza Strip] ... 28 
+Figure 9: Proportion of respondents by modality identifying other activities taking place in their school or community [West Bank] .. 28 
+Figure 10: Proportion of respondents who consider the way support was targeted to have been transparent and fair [Gaza Strip] .. 29 
+Figure 11: Proportion of respondents who consider the way support was targeted to have been transparent and fair [West Bank] .. 29 
+Figure 12: Proportion of respondents agreeing that resources were used well, by modality [Gaza Strip] .......................................... 30 
+Figure 13: Proportion of respondents agreeing that resources were used well, by modality [West Bank].......................................... 31 
+Figure 14: Proportion of respondents by modality believing that there had been a waste of funds, or that money that was not used 
+appropriately [Gaza Strip] ............................................................................................................................................................... 31 
+Figure 15: Seed funding as a share of total MYRP cost, by MYRP country ....................................................................................... 33 
+Figure 16: Sentiment Analysis of Beneficiary Responses on the Effectiveness of each Modality of Support ...................................... 34 
+Figure 17: Proportion of teachers agreeing that their modality of support facilitated new, or strengthened existing, (local) partnerships 
+[Gaza Strip] .................................................................................................................................................................................... 37 
+Figure 18: Proportion of beneficiaries agreeing that their modality of support facilitated new, or strengthened existing, (local) 
+partnerships [West Bank] ................................................................................................................................................................ 37 
+Figure 19: Proportion of respondents who were able to give feedback on their intervention(s)' effectiveness [Gaza Strip] ................ 40 
+Figure 20: Proportion of respondents who were able to give feedback on their intervention(s)' effectiveness [West Bank] ............... 40 
+Figure 21: Word cloud denoting the most frequently occurring words used by beneficiaries to describe the overall effect of the MYRP 
+programming they were served by .................................................................................................................................................. 41 
+Figure 22: Proportion of beneficiaries who agreed that the intervention met the needs of those who needed it most [Gaza Strip] .... 41 
+Figure 23: Proportion of respondents who agreed that the intervention met the needs of those who needed it most [West Bank] .... 42 
+Figure 24: Proportion of respondents who considered their intervention to have met the needs of their community (i.e. boys, girls, 
+youth, teachers, learning spaces, communities) .............................................................................................................................. 42 
+Figure 25: Proportion of respondents who considered their intervention to have met the needs of their community (i.e. boys, girls, 
+youth, teachers, learning spaces, communities) [Gaza Strip] .......................................................................................................... 42 
+Figure 26: Proportion of respondents who considered their intervention to have met the needs of their community (i.e. boys, girls, 
+youth, teachers, learning spaces, communities) [West Bank] .......................................................................................................... 43 
+Figure 27: Proportion of respondents who believe that the intervention they received will continue to impact on them and their 
+community in the future [Gaza Strip] ............................................................................................................................................... 44 
+Figure 28: Proportion of respondents who believe that the intervention they received will continue to impact on them and their 
+community in the future [West Bank] ............................................................................................................................................... 45 
+Figure 29: Word cloud of associations made by beneficiaries with the continuity of programme benefits .......................................... 45 
+Figure 30: Sentiment analysis of views of different modalities’ impacts on women (female respondents only) ................................... 48 
+Figure 31: Proportion of respondents agreeing that their intervention had different effects on boys than on girls [West Bank] .......... 49 
+Figure 32: Proportion of respondents who believed that the intervention affected risks or other challenges faced by girls or women in 
+their community [Gaza Strip] ........................................................................................................................................................... 50 
+Figure 33: Proportion of respondents who believed that the intervention affected risks or other challenges faced by girls, or by women 
+in their community [West Bank] ....................................................................................................................................................... 50 
+ 
+
+ 
+ 
+| ii |
+Acronyms and Initialisms 
+CSO 
+Civil Society Organisation 
+DAC 
+Development Assistance Committee 
+DEAL 
+Digital Entrepreneurial Adolescents Leadership 
+DRR 
+Disaster Risk-Reduction 
+ECW 
+Education Cannot Wait 
+EiE 
+Education in Emergencies 
+EiEPC 
+Education in Emergencies and Protracted Crises 
+ESSP 
+Education Sector Strategic Plan 
+FGD 
+Focus Group Discussions 
+GPE-IIEP 
+Global Partnership for Education - International Institute for Educational Planning 
+HDN 
+Humanitarian – Development Nexus 
+HML 
+Health Media Lab 
+HRP 
+Humanitarian Response Plan 
+IP 
+Implementing Partner 
+JPAS 
+Joint Advocacy and Protection Strategy 
+KII 
+Key Informant Interviews 
+M&E 
+Monitoring and Evaluation 
+MoE 
+Ministry of Education 
+MYRP 
+Multi-Year Resilience Programme 
+NGO 
+Non-Governmental Organisation 
+OECD 
+Organisation for Economic Co-operation and Development 
+PMU 
+Programme Management Unit 
+PSS 
+Psychosocial Support 
+RF 
+Results Framework 
+SDG 
+Sustainable Development Goal 
+SLM 
+Self-Learning Materials 
+SoP 
+State of Palestine 
+SP 
+Social Protection 
+ToC 
+Theory of Change 
+TOR 
+Terms of Reference 
+UNDP 
+United Nations Development Programme 
+UNEG 
+United Nations Evaluation Group 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization 
+UNICEF 
+United Nations Children's Fund 
+UNRWA 
+United Nations Relief and Works Agency for Palestine Refugees in the Near East 
+WASH 
+Water, Sanitation, and Hygiene 
+ 
+ 
+
+ 
+ 
+| iii | 
+Executive Summary 
+Purpose, Including Intended Audience(s)  
+The purpose of this external evaluation was to learn and assess the results of Education Cannot Wait (ECW) facilitated Multi 
+Year Resilience Programme (MYRP)-2019-2021 in the State of Palestine (SoP) and provide recommendations for any future 
+MYRP in SoP in terms of its design and implementation modality.  
+The main users of the evaluation are the Ministry of Education (MoE), ECW, Education Cluster partners, the Education Sector 
+Working Group (ESWG) members, the donor community, and key education stakeholders. 
+Objectives and Brief Description of Intervention 
+The ECW/MYRP was implemented in the West Bank and the Gaza Strip between 2019 and 2023. The programme aimed at 
+ensuring that crisis-affected vulnerable and marginalized girls and boys (6-17 years) have sustained and safe access to 
+improved quality and relevance of education in inclusive and protective environments. The programme sought to achieve this 
+through three outcomes: 
+Outcome 1 
+Improved, sustained and safe equitable, inclusive and gender-responsive access to education and 
+learning opportunities for crisis-affected vulnerable and marginalized girls and boys (6-17 years old)  
+Outcome 2 
+Improved quality and relevance of education for crisis-affected vulnerable and marginalized girls and boys 
+(6-17 years old) in inclusive and protective environments  
+Outcome 3 
+Strengthened capacity of the education system to respond to chronic humanitarian needs and to deliver 
+a coordinated and mainstreamed response 
+ 
+Methodology 
+The evaluation employed a mixed methods approach, which collects both qualitative and quantitative data. The following data 
+collection tools were developed and deployed by the consultancy team: MYRP Beneficiary Survey, MYRP Beneficiary FGD, 
+Teacher Training and Recruitment Survey, Implementing Staff (Teacher) KIIs, and Client and Stakeholder KIIs. The sample 
+achieved includes 807 MYRP Beneficiary Surveys, 74 MYRP Beneficiary FGD (with a total of 359 participants), 123 Teacher 
+Training and Recruitment Surveys, 75 Implementing Staff (Teacher) KIIs, and 33 Client and Stakeholder KIIs.  
+Main Conclusions 
+The report identified the following conclusions, linking to each of the key evaluation questions: 
+ 
+EQ1: How relevant, appropriate, and significant is the SoP ECW/MYRP at the country level? How can these aspects 
+be strengthened in any future MYRPs in SoP? 
+ 
+A review of the approach taken to respond to, and reduce differentiated inequalities and needs (including those 
+resulting from age, gender, geographic, disability and/or socio-economic factors), suggests that MYRP design and 
+implementation intended to impact vulnerable groups by focusing on schools located in areas most impacted by 
+protracted crises, where children face barriers to access and continuity of education and communities are 
+experiencing the highest levels of poverty, limited access to services and resources, and are isolated in a manner that 
+increases their vulnerabilities and marginalisation, while reinforcing certain tradition norms, behaviour and practices 
+detrimental to specific groups or individuals. Further efforts to pivot programming to emergent COVID-19 needs also 
+further promoted a view of intended responsiveness to the needs of children in target zones. The reprogramming of 
+MYRP highlights the programme’s flexibility and adaptiveness. Allocation of ‘flexible funds’ also highlights the 
+responsiveness of MYRP in SoP. However, the lack of strong MEAL and outcome monitoring/documentation, and 
+dependence on self-reporting of implementing partners, makes it challenging to establish the degree to which 
+programming directly responded to the priority needs of children in SoP. This stems from disjointed design affecting 
+the establishment of a harmonised MEAL framework, potentially compounded by ECW reporting requirements, i.e.  
+‘reach’ figures. A related issue is the disjointedness and fragmentation of interventions due to siloed projectisation 
+within the wider MYRP design. 
+
+ 
+ 
+| iv |
+ 
+EQ2: To what extent is the SoP ECW/MYRP aligning with, complementing, and leveraging international and national 
+humanitarian-development system(s) and related plans, policies, and frameworks? How can these aspects be 
+strengthened in future SoP MYRPs? 
+ 
+The SoP MYRP was aligned and integrated with other systems and related plans, including in the national education 
+system and related governmental plans (Education Sector Strategic Plan, Joint Advocacy and Protection Strategy, 
+the UNRWA Mid-Term Strategy, the Humanitarian Response Plan, and the National Inter-sectoral Violence against 
+Children Strategy in the Context of Covid-19 2021-2023); however, this may have been (in the case of this specific 
+MYRP) to the detriment of differentiable impact arising from ECW’s seed funding, and certainly to the detriment of 
+EiE- and nexus-focussed outcomes and impacts. The core constituency of vulnerable and marginalised children, who 
+are the main targets as per ECW’s strategic priorities and articulated in the MYRP as Bedouins, Herders etc., were 
+not demonstrably served by its programming. Likewise, there is an apparent lack of alignment with the wider 
+Humanitarian Response Plan (HRP). To be concrete, given that the MYRP did not appear to have its own coherent 
+theory of change, that it was used to fund subcomponents of other siloed education programmes and activities, rather 
+than a cohesive, holistic set of its own interventions, and that there was limited coordination between the implementing 
+partners, clear impacts and effects arising from highly atomised ECW-funded activities were difficult to identify. 
+ 
+EQ3: How does the SoP ECW/MYRP align with, complement, and leverage ECW Global strategic plan, core functions 
+and other investment modalities (FER)? How can this be strengthened? 
+ 
+There was a nominal alignment to ECW’s global strategic plan and objectives described in the planning phase and 
+initial application, namely to support in the education of 8 million children across the whole of ECW’s portfolio, and to 
+increase political support to education in crises; increase financing for education in crises; Improve joint planning and 
+responses; strengthen capacity to respond; and improve accountability. However, given the high degree of 
+integration/fragmentation across modality types, partners, and regions, it is challenging to establish the degree to 
+which ECW actually contributed to the achievement of these objectives. Strengthening this alignment, and desired 
+impacts, have been addressed in the relevant section below.  
+ 
+EQ4: To what extent is the SoP ECW/MYRP managed in an efficient, timely and transparent manner? How can these 
+aspects be strengthened in any future MYRPs? 
+ 
+The efficiency of the MYRP, given the high degree of integration in other programmes implemented by the partners, 
+can be seen as a strength of the programme, in spite of the typical bureaucratic and other hurdles faced in the course 
+of implementation. Primary delays in implementation arise in early phases of the project, and as a result of the COVID 
+crisis; however, partners managed to achieve required outputs before the end of the programme.  
+ 
+EQ5: To what extent and how has the SoP ECW/MYRP created political commitment to address the needs of children 
+and youth (boys/girls) affected by conflict and crisis on a global and in-country level? 
+ 
+The MYRP has garnered significant political commitment from domestic leadership in SoP. This is most clearly 
+expressed in the MoE’s leading role in the MYRP’s governance structure, where the Minister of Education is co-chair 
+of the Steering Committee (SC) and a senior MoE official from the MoE’s ECW Core team is the co-chair of the 
+Technical Committee (TC) (ECW narrative report for period 01/2020 – 12/2020, 2021). Since December 2019, the 
+MoE has taken a series of steps to affirm and consolidate its role in ECW/MYRP governance. These include creating 
+a team of six officials to liaise with the MYRP’s PMU on management issues, and fostering communication between 
+MoE officials and the SC and TC by bringing six and 11 officials to them respectively (Ibid.). During 2021, the technical 
+meetings including the Y3 reprogramming exercise had MoE officials at the core of discussions. The MoE’s Deputy 
+Minister led the exercise with the PMU and all five MYRP partners involved (Ibid.). UNICEF SOP’s most recent 
+narrative report to ECW states that this political commitment has helped ensure ‘solid technical discussions and better 
+information flow within the Ministry and with the ECW partners’ (Ibid., p. 14). Furthermore, MoE has played a proactive 
+leadership role, appointing a dedicated focal person, reorganising the governance structure, and providing an office 
+space to PMU for effective coordination and decision making, such as identification of priority needs for allocation of 
+‘Flexible Funds’. 
+ 
+EQ6: To what extent and how has the SoP ECW/MYRP contributed directly &/or indirectly to mobilizing and leveraging 
+funds at country level? How can the MYRPs be strengthened in this regard? 
+ 
+It does not appear that additional international or national resources were mobilised in support of the broader MYRP, 
+nor does it appear that seed funds contributed toward generation of additional funds earmqarked for MYRP 
+implementation. In fact, the opposite appears to be the case in SoP: seed funds largely contributed toward other 
+programmes, priorities, and activities defined by the implementing partners operating in their siloes. This challenge 
+has been described at length in other sections of the report; it does appear that this inversion of mobilisation (i.e., that 
+
+ 
+ 
+| v | 
+seed funds were mobilised to other strategies and priorities, rather than vice versa) resulted in the dilution of 
+perceivable or discernible impact arising from ECW's support.  Including strategic stakeholders (such as donors, multi-
+lateral agencies, and other resource arrangements such as JFA and the GPE) in the Steering Committee to monitor 
+‘resource mobilisation’ as one of the KPIs of MYRP requires significant restructuring of governance arrangements. 
+The current governance arrangement face potential conflicts of interest, and are overly narrow in scope and remit. 
+ 
+EQ7: To what extent and how did the SoP ECW/MYRP promote and strengthen a joint, (humanitarian-development) 
+coordinated, evidence-based, and inclusive approach to EiEPC programming in the State of Palestine? How can 
+these aspects be strengthened in MYRP? 
+ 
+The MYRP appears to have contributed to the strengthening of existing relationships between various partners and 
+stakeholders across SoP through the implementation of joint programming, though there were challenges in the 
+collection and analysis of evidence and data, and related response. Establishment of key units (like the PMU), and 
+strengthening of existing coordination entities were also highlighted as key, positive outcomes arising from this seed 
+fund.  Since new strategies are due to be developed in the following months, the PMU could serve a coordinating role 
+to ensure alignment of plans/programmes, including the new ESSP and MYRP, and resources from donors such as 
+ECW, GPE, JFA, the WB, USAID etc. 
+ 
+EQ8: To what extent and how did the SoP ECW/MYRP strengthen country and local capacities at individual, 
+organizational and institutional levels for improved EiEPC programming? How can the MYRPs be strengthened in this 
+regard? 
+ 
+There were a variety of trainings provided to local authorities, which many cited as contributing directly to improved 
+capacities at the national and local level; furthermore, many of the downstream partners for MYRP implementation 
+were national and local in nature. However, once again, due to the high level of fragmentation of support, limited 
+documentary evidence on outcomes and impact, and turnover of local authorities, it is a substantial challenge to point 
+directly to the MYRP’s impact on capacity, both across national and international partners.  Furthermore, it is not 
+possible to establish whether training leads to capacity building and learning outcomes without a structured, evidence- 
+and measurement-based approach, such as pre- and post-training assessment and/or training impact assessment. 
+Additionally, capacity improvement and systems strengthening did not form part of Results Framework (RF) as 
+intermediate outcomes/results contributing to the overall outcomes/results. As such, there is a lack of evidence to 
+measure and attribute the impact of training/capacity building/system strengthening inputs. 
+ 
+EQ9: To what extent and how did the SoP ECW/MYRP promote and strengthen: (i) the availability of quality data on 
+education needs/gaps in SoP, and (ii) the measurement of output and outcome results? How can the MYRPs be 
+strengthened in this regard? 
+ 
+This was one of the primary deficiencies of the programme highlighted both by investigation and by key informants. 
+Limited evidence and data was generated, and no evidence on outcomes provided; all evidence generated was on 
+an output basis, and this appeared to be inconsistent and unstructured, with most of it provided in laconic narrative 
+reports and none of it independently verifiable. Lack of a unified MEAL Framework and Plan is an important gap, which 
+originates from the fragmentation and projectisation of MYRP. 
+ 
+EQ10: What is the progress made towards the different collective beneficiary results as identified in the country result 
+frameworks (access, continuity, equity and gender equality, quality and learning, safety)? How can the MYRP be 
+strengthened in this regard? 
+ 
+Once again, results beyond outputs were a substantial challenge to establish, given (once again) the high degree of 
+fragmentation of support, as well as the limited documentary evidence on outcomes collected in the course of the 
+programme.  
+ 
+EQ11: How is the SoP ECW/MYRP promoting and strengthening sustainable and resilient education systems and 
+solutions so far? How can it be strengthened in this regard? 
+ 
+It has been very difficult to determine the specific impact of the programme, not least in terms of its impact on resilience 
+to crisis or conflict (which is already a very subtle, and difficult to define area). Integration in other larger responses 
+and actions by the high quantity of implementing partners, and resulting difficulty in discerning unique or differentiable 
+impact, have much to do with this. Similarly, the way in which the programme and its linked activities were intended 
+to improve conflict resilience do not appear to have been well defined from the outset, making it even harder to 
+comment concretely on this research question. Nuanced conflict analysis, vulnerability analysis, and factoring in 
+resilience within the MYRP design and establishing indicator/s for measuring resilience could be considered for next 
+generation of MYRP. 
+
+ 
+ 
+| vi |
+ 
+EQ12: To what extent have cross-cutting themes such as gender, age, disability, vulnerability, child and 
+human rights, and accountability been integrated in the programme? 
+ 
+Crosscutting themes (including all of those mentioned) do appear to have broadly informed implementation of the 
+MYRP, with nearly all stakeholders praising this aspect of programming; however, the degree to which this was 
+intentional (rather than an incidental) effect of integration in other, established programmes led by experienced UN 
+and international partners remained unclear, especially in light of the high degree of fragmentation mentioned in the 
+findings section of this document. Feedback from stakeholders suggests that programme design was undermined by 
+a lack of the use of specific tools or programming frameworks (e.g. GEDSI, etc.). 
+ 
+Recommendations 
+The MYRP faced similar challenges across the ECW portfolio; their recent shift has resulted from their learnings in the past 
+(many of which reflect those from the SoP MYRP): smaller but targeted beneficiary scale, offering holistic support to smaller 
+numbers of children impacted by emergency and/or crisis; work on ensuring ECW's 'value-add’ (i.e. in legitimate emergency 
+response and/or crisis programming vs complement to development-focussed programming like GPE ESPIGs); minimising the 
+number of partners involved; strengthening MEAL and developing a standardised MYRP level MEAL plan to ensure that 
+reporting is consistent, up-to-date, and includes metrics of outcome in learning, access, and equity. 
+In line with the findings and conclusions of the evaluation, the following are presented as the key recommendations for future 
+development and implementation of MYRPs within the Palestinian context:   
+ 
+Recommendation 1:  Design Strengthening  
+Adopt a targeted, strategic and crisis-focused approach, built on concrete evidence and a data-driven basis, ensuring 
+that resilience is clearly defined, and informed by a robust multi-dimensional barrier analysis addressing the needs of 
+vulnerable groups. 
+ 
+Recommendation 2:  Effective MYRP Delivery  
+Ensure that interventions are communicated effectively to beneficiary communities, and streamline partnership 
+arrangement based on VfM, localisation of aid, and AAP principles and commitment, selecting implementing partners 
+through open and competitive bidding process. 
+ 
+Recommendation 3: Sector-wide Alignment  
+Develop a digital and centralised platform for tracking resource mobilisation and alignment, in which nexus-focussed 
+activities are defined, specifying how they can add value.  
+ 
+Recommendation 4: Effective Coordination and Resource Mobilization 
+Clearly and realistically define the scale and types of additional resources to be leveraged and how the MYRP can do 
+so, while aligning future programming with other funding sources and mechanisms and ensuring that economies of 
+scale are achieved where possible. 
+ 
+Recommendation 5: Strengthening Governance of MYRP 
+Ensure government roles and responsibilities are clearly/well integrated from the outset of the programme, avoiding 
+potential conflict of interests, and that the government has a leading role in leadership and oversight of programming, 
+while building on PMU successes and capacity. 
+ 
+Recommendation 6:  Robust monitoring, impact measurement and accountability of MYRP 
+Partners should be actively encouraged to report on outcomes, and link programming to impact, maintaining (and 
+sharing) quantitative data on clear and measurable outcomes, and ensuring output data is systematically collected and 
+independently verifiable.  
+ 
+
+ 
+ 
+| 1 |
+Chapter 1: Context and Description of the 
+Object of the Evaluation1 
+1.1 Intervention Context 
+The Education Cannot Wait (ECW) facilitated Multi Year Resilience Programme (MYRP) was implemented in the State of 
+Palestine (SoP) between June 2019 and December 2022. The following sub-sections provide contextual information for the 
+intervention. 
+1.1.1 Context 
+The State of Palestine is located in Western Asia, 
+bordering the Mediterranean Sea, Egypt, Israel, 
+and Jordan. The total population of the State of 
+Palestine in 2023 is estimated to be 5,483,450 
+people (Palestinian Central Bureau of Statistics, 
+2021). As of 2021, the country’s GDP was 
+US$18.04 Billion, with a per capita GDP of 
+US$3,052.6 (The World Bank, 2021). The State of 
+Palestine is currently recognized by 138 of 193 
+United 
+Nations 
+(UN) 
+member 
+states. 
+The 
+humanitarian situation in Palestine is among the 
+world’s most long-standing protection crises. 
+Hebron is the largest Governorate in the West Bank 
+in terms of area (997 km2), population (729,139 - 
+approximately 23% of the West Bank population), 
+and economic activity (17,661 active businesses, 
+comprising 18% of the West Bank’s total). In 
+contrast, Hebron also has the highest poverty rate 
+in the West Bank (not including refugee camps) with 
+32.5% of its population classified as poor compared 
+to an average of 18%, with 22% of HHs either 
+severely or moderately food insecure, compared to 
+the West Bank average of 16%. The Governorate 
+has been divided into Areas A, B and C since the 
+Oslo accords of 1995. Approximately 67,850 Palestinians (11% of Hebron governorate population) live in Area C of Hebron, 
+which also includes 51.1% of the agricultural land.  
+Over 60% of the West Bank is classified as Area C. Area C is the only contiguous area in the West Bank and contains the bulk 
+of Palestinian agricultural and grazing land, as well as land reserves and resources that are essential for Palestinian growth and 
+development. According to OCHA, an estimated 297,900 people live in 532 residential areas in Area C, comprising some of 
+the most vulnerable communities in the West Bank in terms of humanitarian needs.  
+The total Palestinian population in Jerusalem stands at around 323,700, 76% of whom live under the poverty line including 83.4% 
+of children. 
+1.9 million Palestinians live in Gaza, of which 1.3 million people are registered refugees with UNRWA. Gazans face a 
+socioeconomic crisis that puts them in a state of de-development. The socioeconomic conditions in Gaza are characterized by 
+a high unemployment rate of 53.7 percent (41.1 percent for men and 71.5 percent for women). In addition to the high 
+ 
+1 The content in this section is largely drawn and adapted from the Terms of Reference: Final Evaluation of the State of Palestine Education Cannot Wait Multi-Year 
+Resilience Programme (SoP ECW/MYRP) (See Annexure 1), and the Programme Proposal (ECW, 2019).  
+2 The map in Figure 1 has been included at the express request of UNICEF, which takes full responsibility for its inclusion.  Its inclusion does not constitute an 
+endorsement of any content therein by the Evaluation Team. 
+Figure 1: UN OCHA State of Palestine Map2 
+ 
+SOURCE:  UN OCHA MAPS, AVAILABLE AT: 
+HTTPS://WWW.OCHAOPT.ORG/MAPS

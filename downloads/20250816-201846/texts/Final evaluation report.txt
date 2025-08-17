@@ -1,0 +1,524 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Educational Environment Improvement 
+Project in Kilinochchi District  
+ 
+Part 1: Evaluation Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+CONTENTS 
+Executive summary ................................................................................................................................. 5 
+1 
+Introduction .................................................................................................................................... 9 
+1.2 
+Evaluation methodology ....................................................................................................... 12 
+1.3 
+Evaluation limitations ........................................................................................................... 17 
+2 
+Findings ......................................................................................................................................... 18 
+2.1 
+Relevance .............................................................................................................................. 18 
+2.2 
+Effectiveness ......................................................................................................................... 24 
+2.3 
+Efficiency ............................................................................................................................... 43 
+2.4 
+Sustainability ......................................................................................................................... 44 
+2.5 
+Cross-cutting issues ............................................................................................................... 52 
+3 
+Conclusions and lessons learned .................................................................................................. 54 
+3.1 
+Conclusions ........................................................................................................................... 54 
+3.2 
+Lessons learned ..................................................................................................................... 57 
+4 
+Recommendations ........................................................................................................................ 59 
+4.1 
+For UNICEF ............................................................................................................................ 59 
+4.2 
+For the Ministry of Education (central level) ........................................................................ 60 
+4.3 
+For provincial and zonal education authorities .................................................................... 60 
+4.4 
+For project schools ................................................................................................................ 61 
+Annex 1. 
+ToRs ................................................................................................................................... 62 
+Annex 2. 
+Key project indicators ....................................................................................................... 73 
+Annex 3. 
+Project school profiles ....................................................................................................... 76 
+Annex 4. 
+Key endline studies data informing the evaluation .......................................................... 78 
+Annex 5. 
+Additional information on the initial methodology .......................................................... 82 
+Annex 6. 
+List of respondents ............................................................................................................ 86 
+ 
+ 
+ 
+
+3 
+LIST OF TABLES 
+Table 1 Relevance of the activities and strategies in achieving the project objectives ........................ 22 
+Table 2 Summary of achievements for Impact, outcome and output Indicators from the Endline 
+Study ..................................................................................................................................................... 24 
+Table 3 Summary of Project Key Indicators for the KAP survey on 'importance of education' and 
+'social cohesion' .................................................................................................................................... 25 
+Table 4 Objectives of the provincial and zonal action plans developed under the Project as a follow-
+up from the Korean study tour. ............................................................................................................ 49 
+Table 5 Number of teachers by education level and disability ............................................................. 76 
+Table 6 Student population by education level, sex and disability or Special Educational Needs (SEN)
+ .............................................................................................................................................................. 77 
+Table 7 Grade 5 Examination pass rate (above 70%), by school, 2016-2021 ....................................... 78 
+Table 8 G.C.E. / O.L. Examination pass rate (qualified for GCE/AL), by school, 2016-2021 ................. 78 
+Table 9 G.C.E. / A.L. Examination pass rate, by school, 2016-2021 ...................................................... 79 
+Table 10 Key Informant List .................................................................................................................. 82 
+Table 11 Focus Group Discussion List ................................................................................................... 83 
+Table 12 Case Study List ........................................................................................................................ 85 
+ 
+LIST OF GRAPHS 
+Graph 1 Proportion of students obtaining marks 70 and above at Scholarship Exam 2018-2021....... 79 
+Graph 2 Proportion of students passing the CGE/OL Exam (qualified for GCE/AL), 2017-2021 .......... 80 
+Graph 3 Proportion of students passing the CGE (A/L) Exam 2018-2021 ............................................ 81 
+ 
+ 
+ 
+
+4 
+ABBREVIATIONS 
+ 
+ADE 
+Assistant Director for Education 
+IEC 
+Information, Education and Communication materials 
+ISA  
+In-Service Advisor 
+LMDMU 
+Learning Material Development Management Unit 
+KOICA  
+Korea International Cooperation Agency 
+MHM  
+Menstrual Hygiene Management 
+M&E 
+Monitoring and Evaluation 
+MOE  
+Ministry of Education 
+ML  
+Multi-level Teaching 
+PDE 
+Province Department of Education 
+SBTD 
+School-based Teacher Development 
+SDC 
+School Development Committee 
+SEN 
+Special Educational Needs 
+SEU 
+Special Education Unit 
+UNICEF  
+United Nations Children’s Fund 
+WASH  
+Water, Sanitation and Hygiene 
+ZEO 
+Zone Education Office 
+ 
+ 
+ 
+
+5 
+EXECUTIVE SUMMARY 
+INTRODUCTION 
+The Educational Environment Improvement Project in Kilinochchi District (hereafter: the Project) 
+was funded by KOICA for a total amount of USD 6,750,000 over the period October 2018 – 
+December 2022. The Project Goal was to enhance learning outcomes in targeted poor-performing 
+schools through both hardware (infrastructure) and software interventions in Kilinochchi district.  
+The primary target of the project was 13 schools and Zone and Province-wide activities were also 
+implemented. The project was managed by UNICEF in coordination with national agencies and 
+implemented by Province and Zone authorities and services and selected civil society organisations, 
+private sector organisations and the University of Jaffna.  
+The purpose of this evaluation is threefold: (i) To determine the relevance, effectiveness, efficiency, 
+and sustainability of the Project; (ii) To assess cross-cutting issues of equity, gender equality, human 
+rights, environment, and technology (ICT) applied in the project planning and implementation; (iii) 
+To draw recommendations for future anticipated project design and advocacy for scaling up. The 
+evaluation criteria and questions are articulated around four DAC-OECD evaluation criteria 
+(relevance, effectiveness, efficiency and sustainability) and one additional cross-cutting issues 
+criteria.  
+This evaluation report is based on a methodology with strong limitations, as the Sri Lankan firm 
+recruited to conduct the evaluation produced evaluation drafts deemed of insufficient quality by 
+UNICEF. Another consultant was hired to re-write the report based on available data (17 interviews 
+and 21 focus group discussions). The evaluation tools used by the initial team to collect data had 
+significant gaps. Wherever possible, this report draws from the endline studies (general endline and 
+KAP endline) to fill in the gaps. The writer acknowledges that she was involved in some M&E 
+activities of the project (endline study) but was not involved in any activity on the ground. 
+FINDINGS 
+RELEVANCE 
+Overall, the objectives and design of the Project were sensitive to the economic, environmental, 
+equity, social, political economy and capacity conditions in which it took place and the activities 
+were relevant in achieving the project objectives. The project design and activities have contributed 
+to addressing key educational shortcomings in Kilinochchi in terms of infrastructure, teacher quality, 
+dropout rates and learning outcomes. Project activities and inputs were needs-based and relevant to 
+the diverse needs of target schools. The project implementation strategies were relevant to the 
+significant changes that took place throughout implementation due to the pandemic and 
+subsequent economic, political and social crises. Adaptative strategies to respond to the pandemic 
+and economic crisis context were found relevant by local authorities and implementing partners. 
+EFFECTIVENESS 
+The project achieved all its indicator targets. The project contributed to: 
+• 
+Significantly improving the project schools’ learning environments (physical environment, 
+equipment, learning materials, hand washing stations), which increased students’ safety in 
+school and increased their motivation for learning and participation in physical education. 
+
+6 
+• 
+Positive changes in terms of increased capacity and adoption of child friendly teaching and 
+learning practices (hands-on an experiential learning, activity-based approaches, improved 
+knowledge, skills and attitudes of teachers regarding child-centred practices, improved IT skills, 
+improved support to low performers). 
+• 
+Positive changes for students (attendance, motivation, learning outcomes, wellbeing), teachers 
+but also principals, School Development Committees, parents, some non-project schools, ADEs 
+and ISAs.  
+• 
+Improved exam results in the 13 project schools and the Kilinochchi district for the G5 exam and 
+the GCE/OL Exam. 
+All evaluation stakeholders make clear causal links between project’s inputs and outcomes. The 
+project provided several types of inputs that, combined together, contributed to some of the above 
+reported achievements and changes. Key effectiveness strategies included (i) the combination of 
+hard and soft inputs (capacity building and community mobilisation); (ii) the participation of 
+different subject teachers from both primary and secondary schools to capacity building activities, 
+which created a critical mass of trained teachers in schools; and (iii) the consistency of key points 
+and messages conveyed to various target audiences at community, school, zone and province levels.  
+There were some limitations in the quality assurance approach of the project set up for the capacity 
+building component, which initially planned to rely on existing zonal tools and procedures which 
+were difficult to identify and were further constrained by the pandemic which did not allow for 
+school monitoring visits by zonal staff.  
+EFFICIENCY 
+Coordination mechanisms were deemed efficient by UNICEF and education authorities. UNICEF 
+demonstrated efficient resources management strategies, being agile with budget fluctuation and 
+strategic in how to use additional funding generated by the depreciation of the US dollar. The 
+Project was of sufficient duration for all planned activities. Despite some delays for the construction 
+component, the project overall adapted quickly to the time constraints created by the pandemic. 
+UNICEF learned from implementation, as illustrated by the approach to M&E, for which the capacity 
+was strengthened after the baseline to strengthen data collection processes. 
+SUSTAINABILITY 
+There is a strong ownership of the project by zonal and provincial authorities. The province and zone 
+offices have taken several steps to ensure sustainability (i) encouraging project schools to share their 
+resources and facilities and to strengthen their school-based professional development activities, (ii) 
+identifying the key elements to put in place to sustain the project, such as monitoring and teacher 
+mentoring, documenting activities; (iii) developing action plans to implement some of the learning 
+from the Korea study tour. Some schools have also: (i) committed to continue some activities with 
+their own funds, (ii) developed maintenance strategies for the equipment received. In addition, the 
+Principals’ and ADEs’ training modules will be endorsed by the PDE and widely shared across the 
+Province and the teacher training modules, which are owned by Zone offices, will serve for future 
+training events. 
+Key constraints to sustainability include (i) the overall lack of resources in the context of the 
+economic crisis, (ii) the anticipated costs that will be needed to upgrade and renew the IT equipment 
+overtime, (iii) the absence of parental engagement activities in the provincial and zonal action plans 
+and initial commitments to sustain project outcomes, and (iv) concerns over the capacity of SDCs to 
+take over the community mobilisation component in its entirety. 
+
+7 
+CROSS-CUTTING ISSUES 
+The project promoted the principle of sustainable environment in the construction component. The 
+Project was relevant to and addressed the various needs of various sub-groups of children, 
+particularly girls, children with disabilities and low performers, but lacked a gender and inclusion 
+lens to develop gender sensitive and disability sensitive implementation strategies. A promising 
+element is the integration of special and inclusive education as one of the 3 objectives in the 
+provincial action plan developed as a follow-up of the Korean study tour. 
+CONCLUSIONS AND LESSONS LEARNED 
+The main conclusions are: 
+1. The Project has made a significant contribution to improving access to education and learning 
+outcomes in Kilinochchi. 
+2. Project results have made and will make a difference for students in one of the poorest districts 
+of Sri Lanka. The project has made significant efforts to sustained activities and results, yet there 
+are some potential constraints on sustainability due to the current economic situation. 
+3. The Project’s relevance has increased throughout implementation due to the unexpected 
+context within which the Project took place, i.e. a global pandemic and a severe national 
+economic, social and political crisis. 
+4. The Project has modelled a combination of support activities and implementation strategies that 
+have enhanced its overall effectiveness. 
+5. The Project has paved the way for promising educational developments in the Kilinochchi Zones 
+and Northern Province in future years. 
+6. UNICEF and the project team have demonstrated adaptability, agility and resilience throughout 
+implementation and have increasingly strived to support system strengthening. 
+7. The Project’s approach to capacity development would have benefited from a stronger 
+theoretical approach in its initial design, encompassing not only individual capacity at school and 
+zone levels but also organisational and institutional capacity to build in sustained capacity 
+change at the onset. 
+8. Quality assurance mechanisms and monitoring capacities remain a gap at zone level. 
+9. UNICEF and ZEOs have not fully harnessed the potential of the promising community 
+mobilisation model developed by the Project and which has led to proven results in terms of 
+knowledge and attitudinal changes. 
+10. Anecdotal evidence suggests that there has been little improvement in terms of overall social 
+cohesion. 
+The key lessons learned are: 
+• 
+Using locally available materials is important for cost-benefit purposes but also for contributing 
+to the local economy and reducing the carbon footprint of the infrastructure developed. 
+• 
+Multipurpose facilities are appealing to respond to schools needs but are not always fit for 
+purpose.   
+• 
+Explaining and mediating to schools, communities and building contractors the goals of a 
+project, its innovative infrastructure technical specificities, its environmental impact mitigation 
+requirements and its budget constraints is a time-consuming process. 
+• 
+Offshore procurement is a time consuming and complex matter due to tax exemption 
+administrative processes. 
+• 
+The Project benefited from harnessing the potential of local and national expertise, by going the 
+extra mile to identify the right people with the necessary expertise. 
+
+8 
+• 
+Training teachers the way they are expected to teach students is fundamental, that is using a 
+learner-centred hands-on approach to teacher training. 
+• 
+It cannot be expected that trained teachers (or staff) are de-facto trainers themselves and able 
+to share their new learning and skills meaningfully with their peers. This requires support.  
+• 
+Awareness of contextual constrains preventing teachers from implementing their newly 
+acquired knowledge and skills is critical to induce a cultural shift amongst teachers. 
+• 
+Community engagement for education requires a comprehensive approach, targeting parents, 
+community leaders and groups, and school stakeholders such as SDCs. 
+• 
+Social cohesion improvement is a complex matter that requires understanding the underlying 
+causes of social division and the psychological processes and psychosocial dynamics involved. 
+• 
+Strong M&E expertise is required at the onset and throughout implementation for a project of 
+this scope and size. 
+RECOMMENDATIONS 
+FOR UNICEF 
+1. Strengthen inclusion programming principles in future project design and implementation 
+(gender, disability). 
+2. Strengthen organisational (structures, processes and procedures, policies and plans, roles and 
+responsibilities) and institutional capacity development (legislation, regulations), such as costing 
+studies to support discussions on sustainability and scale up.  
+3. Ensure and maximise the re-use and re-purposing of project outputs and materials internally and 
+externally (KAP studies, community mobilisation training materials). 
+4. Take a leadership role in supporting government authorities nationally and locally to develop 
+and sustain digital environments in schools. 
+5. Continue to feedback key learning from the project into national strategic programme support 
+and advocacy. 
+FOR THE MINISTRY OF EDUCATION 
+6. Include project models, practices, lessons and recommendations in on-going education reforms 
+and education planning activities. 
+7. Engage in long-term systemic support to inclusive education. 
+8. Engage in long-term systemic support to digital learning and ICT in education. 
+FOR THE ZONE OFFICES AND PROVINCE DEPARTMENT OF EDUCATION 
+9. Ensure dissemination and sustained use of project outputs and results. 
+10. Consider re-packaging some of the capacity development courses into online self-paced courses 
+that could be taken on a modular basis by zone staff and teachers. 
+11. Integrate best practices in infrastructure development from the Project into the Provincial 
+standards and criteria for school buildings. 
+12. Develop a teacher professional development plan at province and zone level. 
+13. Develop a province and zone staff professional development plan. 
+14. Strengthen education quality assurance mechanisms. 
+FOR SCHOOLS 
+15. Sustain key project practices (school-based teacher professional development, community 
+engagement, school planning, guidance and counselling…) 
+16. Develop creative models to pool resources from different schools (equipment, material). 
+
+9 
+1 INTRODUCTION 
+1.1.1 About this report 
+This report presents the evaluation findings, conclusions and recommendations related to the 
+implementation of the Educational Environment Improvement Project in Kilinochchi District. 
+This report consolidates the initial draft evaluation reports researched and authored by Multi-Tech 
+Solutions Ltd based on a rapid review of the qualitative data collected by the evaluation team and 
+other Project data sources.  
+The Report includes four sections and several annexes: 
+• 
+Introduction (project context and evaluation methodology); 
+• 
+Findings (organised under the evaluation criteria Relevance, Effectiveness, Efficiency, 
+Sustainability and Cross-cutting issues); 
+• 
+Conclusions and lessons learned; 
+• 
+Recommendations. 
+Annexes present additional information and data, including the evaluation ToRs. 
+The initial evaluation tools are presented in a separate Appendix to this report. 
+1.1.2 Project overview 
+CONTEXT 
+The Educational Environment Improvement Project in Kilinochchi District (hereafter: the Project) 
+was funded by KOICA for a total amount of USD 6,750,000 (Programme costs: USD 5,694,444 and 
+Indirect support costs: USD 455,556) over the period October 2018 – December 2022. The total 
+budget includes 600,000 USD added by KOICA in 2020 in response to the pandemic. 
+Kilinochchi is one of the 5 districts in the Northern Province. When the Project was designed, the 
+Province had the highest Poverty Headcount Index of the country (7.7%) (World Bank, 2015), and 
+Kilinochchi was the poorest district in the country with 18.8% Poverty Headcount Index (Ministry of 
+National Policies, 2016). Kilinochchi was also in the top 5 districts nation-wide with the lowest Gini 
+coefficient (Ministry of National Policies, 2016). In 2019, Kilinochchi had 17.6% of its population 
+vulnerable to poverty, making it one of the top five districts with the highest proportion of 
+population vulnerable to poverty in the country (Ministry of Economy, 2019).1  
+OBJECTIVES AND EXPECTED RESULTS 
+The Project Goal was to enhance learning outcomes in targeted poor-performing schools through 
+both hardware (infrastructure) and software interventions in Kilinochchi district. The main 
+objectives were:  
+1. To improve the physical learning environment through construction/renovation of 
+classrooms/facilities and equipping of the targeted schools. 
+ 
+1 using a multidimensional measurement of poverty comprising 10 indicators reflecting the deprivations faced 
+by people at household level 
+
+10 
+2. To build the capacity of teachers, principals and in-service advisors to provide better quality 
+education services in the targeted schools that promote improved learning outcomes and social 
+cohesion. 
+3. To increase community awareness on the importance of education and the role of parents as 
+part of the school community. 
+The Project was amended in 2020 to support an additional objective:  
+4. To provide a safe environment for and quality education during and after the COVID-19 
+pandemic. 
+The Project’s expected results were as follows: 
+• 
+Outcome 1: Children have access to improved physical learning environments and materials in 
+the targeted schools 
+o Output 1.1: Enhanced quality of and types of facilities available in the targeted schools 
+o Output 1.2: Increased availability and use of quality learning materials in the targeted 
+schools 
+• 
+Outcome 2: Children benefit from improved teaching and learning approaches adopted by 
+teachers in the targeted schools 
+o Output 2.1: Increased capacity of teachers, principals and in- service advisors to use 
+more effective teaching approaches and provide psychosocial support 
+o Output 2.2: Increased community awareness on the importance of education and social 
+cohesion 
+• 
+Outcome 3 (per Amended Agreement signed on 29 June 2020): Children benefit from a safe 
+environment and quality education during and after the COVID-19 pandemic. 
+o Output 3.1: Safe School Operations during and after the COVID-19 pandemic 
+o Output 3.2: Increased capacity of teachers, principals and in-service advisors to provide 
+needs-based education during the COVID-19 pandemic 
+The Project aimed to contribute to the Sustainable Development Goal 4 and particularly: (i) target 
+4.1 (Universal primary and secondary education); (ii) target 4.4 (Relevant skills for decent work); (iii) 
+target 4.5 (Gender equality and inclusion); (iv) target 4.a (Effective learning environments) and. (v) 
+target 4.c (Teachers and educators). 
+PROJECT COMPONENTS 
+The Project’s main components are summarised below. Components 1 to 3 were included in the 
+initial Project Proposal and Components 4 and 5 were added in the 2020 Amendment Agreement in 
+response of the COVID-pandemic and then in response to the 2022 economic crisis. 
+Component 1 
+Support school construction/repair and required supplies and teaching/learning 
+materials in 13 project schools to better ensure children’s access to improved 
+physical learning environment and materials 
+Component 2 
+Support capacity building of education stakeholders including teachers, 
+principals, and education government officials on key components of inclusive 
+and child-centred teaching/learning 
+Component 3 
+Support community awareness raising on 7 thematic areas – education, reading 
+culture, health/nutrition/WASH, ICT and online safety, social cohesion, violence-
+free schools, and children with disabilities. 
+
+11 
+Component 4 
+Support to safe school reopening and operation across the island during the 
+COVID-19 pandemic and capacity building of teachers, school principals and in-
+service advisors on home-based learning. 
+Component 5 
+Provision of emergency education supplies (papers and notebooks) in the 
+Northern Province to ensure continuous learning for children, including the most 
+disadvantaged, amidst the ongoing economic crisis. 
+ 
+GEOGRAPHICAL SCOPE 
+The primary target of the project was 13 schools in Kilinochchi Education Zone. Following the 
+division of the Kilinochchi Education Zone into Kilinochchi North Education Zone and Kilinochchi 
+South Education Zone, 5 project schools fell under the North Zone and 8 under the South Zone.  
+Kilinochchi North Zone 
+• 
+Iyakkachchi Government Tamil Mixed School 
+• 
+Soranpattu Ceylon Christian Tamil Mixed 
+School 
+• 
+Pallai Hindu Primary Vidyalayam 
+• 
+Ramanathapuram East Government Tamil 
+Mixed School  
+• 
+Piramanthanaru Maha Vidyalayam 
+Kilinochchi South Zone 
+• 
+Kilinochchi Hindu Primary Vidyalayam 
+• 
+St. Theresa’s Girls College 
+• 
+Kanakampikaikulam Government Tamil Mixed 
+School  
+• 
+Sivapathakalaiyagam Government Tamil Mixed 
+School  
+• 
+Mulangavil Primary Vidyalayam 
+• 
+Iranaitivu Roman Catholic Tamil Mixed School 
+• 
+Kariyalai Nagapaduvan N0 -2 Government Tamil 
+Mixed School  
+• 
+Mukkompan Maha Vidyalayam 
+ 
+In addition, Zone and Province-wide activities have also been implemented. Teachers from non-
+project schools took part in selected training activities. Additional schools benefited from some 
+materials (learning material and health equipment and materials during the pandemic), support to 
+students’ activities and from capacity building interventions for principals and SDC. Professional 
+development activities targeting ADEs, ISAs and other education officials and communities have also 
+benefited non-project schools. To this end, the KOICA project supported a Provincial Capacity 
+Development Strategy, to which KOICA-funded interventions contributed to.  
+IMPLEMENTATION MODALITIES 
+The project has been managed by UNICEF Sri Lanka and implemented, in cooperation with the 
+National and Provincial Ministry of Education and National Institute of Education, through: 
+• 
+Provincial and Zonal Education Authorities (needs assessment, project coordination, teacher 
+training, liaison with schools, monitoring); 
+• 
+Provincial and Zonal Building Departments (coordination of the construction component, needs 
+assessment, contractor selection, monitoring and compliance with MoE standards); 
+• 
+Zonal Health and Probation and Childcare Departments (involvement in community mobilisation 
+component for WASH and nutrition and importance of education, involvement in activities 
+related to COVID-19 response such as washing stations, safe school re-opening protocols, etc.); 
+• 
+Private contractors (particularly building contractors); 
+• 
+School Development Committees (SDCs), for the community mobilisation component; 
+
+12 
+• 
+Selected Civil Society Organisations as implementing partners (reading habit and library 
+component, community mobilisation component, teacher training activities, school-based 
+activities, data collection and M&E). 
+Key project indicators are in Annex 2. 
+1.1.3 Project implementation context 
+During the implementation of the KOICA Project there were many important contextual changes. 
+The COVID-19 pandemic hit early 2020, leading to months of school closure for most students. There 
+were attempts of re-opening schools for secondary school students in summer 2020, with mixed 
+success, and primary schools remained closed. A gradual reopening of schools occurred from 
+summer 2021, hindered by teacher strikes and the first signs of an economic crisis, which increased 
+throughout the year and 2022, combined with fuel shortages and very high inflation rates and food 
+price rises. Early 2022 was marked by an economic, social and political crisis, which led to more 
+school closure and disruption. Schools gradually reopened from the June 2022 onwards.  
+Figure 1 Project and non-project timeline of events 
+ 
+Source: Endline Study 
+1.2 EVALUATION METHODOLOGY 
+1.2.1 Rationale and objectives of the evaluation 
+This evaluation is intended to unveil the nature of the change that has taken place in 1) access to 
+improved physical learning environments and materials; 2) improved teaching and learning

@@ -1,0 +1,659 @@
+i 
+ 
+Tabla de contenido 
+ACRÓNIMOS .................................................................................................................................................. III 
+AGRADECIMIENTOS .................................................................................................................................. IV 
+RESUMEN EJECUTIVO ................................................................................................................................. I 
+1. CONTEXTO Y ANTECEDENTES ......................................................................................... 1 
+2. OBJETO DE LA EVALUACIÓN Y TEORÍA DEL CAMBIO ............................................. 8 
+2.1.   OBJETO DE EVALUACIÓN .......................................................................................................................... 8 
+2.2.   RECONSTRUCCIÓN DE LA TEORÍA DEL CAMBIO ..................................................................................... 11 
+3. PROPÓSITO DE LA EVALUACIÓN ...................................................................................... 13 
+4. OBJETIVO DE LA EVALUACIÓN ...................................................................................... 13 
+5. ALCANCE DE LA EVALUACIÓN ....................................................................................... 14 
+6. MARCO DE LA EVALUACIÓN ........................................................................................... 14 
+7. METODOLOGIA .................................................................................................................... 16 
+7.1.    DESCRIPCIÓN .......................................................................................................................................... 16 
+7.2.     NORMAS DE EVALUACIÓN Y CONSIDERACIONES ÉTICAS ...................................................................... 22 
+8. HALLAZGOS ............................................................................................................................. 22 
+EFICACIA ...................................................................................................................................................... 22 
+PERTINENCIA .............................................................................................................................................. 39 
+EFICIENCIA .................................................................................................................................................. 47 
+SOSTENIBILIDAD ........................................................................................................................................ 52 
+DERECHOS DE LA NIÑEZ Y EQUIDAD DE GENERO .......................................................................... 56 
+9. CONCLUSIONES .................................................................................................................... 58 
+10. LECCIONES APRENDIDAS .................................................................................................. 59 
+11. RECOMENDACIONES ........................................................................................................... 60 
+12. SEMÁFORO .............................................................................................................................. 62 
+ 
+
+ 
+ii 
+ 
+ 
+ 
+ 
+ 
+TABLA DE CUADROS 
+Cuadro 1: Idioma y población por sexo según pueblo originario ___________________________________ 1 
+Cuadro 2: Comarcas y Territorios según pueblo, administración política y reconocimiento ______________ 1 
+Cuadro 3: Índice de Pobreza Multidimensional de niños, niñas y adolescentes por comarca ______________ 3 
+Cuadro 4: Presupuesto Teórico del Plan Quinquenal 2014-2019 ___________________________________ 9 
+Cuadro 5: Relación de preguntas por Criterio de Evaluación _____________________________________ 15 
+Cuadro 6: Adecuaciones metodológicas por el Covid-19 ________________________________________ 16 
+Cuadro 7: Entrevistas individuales y colectivas realizadas por categoría según sexo ___________________ 20 
+Cuadro 8: Programas producidos por año y pueblo originario ____________________________________ 25 
+Cuadro 9: Materiales elaborados durante el Plan Quinquenal EIB _________________________________ 26 
+Cuadro 10: Frecuencia de la supervisión que reciben los docentes _________________________________ 30 
+Cuadro 11: Egresados de la Licenciatura de Educación con énfasis en EBI de UDELAS _______________ 31 
+Cuadro 12: Docentes atendidos por Organismos Capacitadores que ofrecen EIB _____________________ 32 
+Cuadro 13: Programas desarrollados por la cooperación internacional ______________________________ 35 
+Cuadro 14: Elementos para la planificación curricular __________________________________________ 37 
+Cuadro 15: Leen y escriben en lengua originaria y castellano según el nivel esperado _________________ 39 
+ 
+ 
+TABLA DE GRAFICOS 
+Gráfico 1: Matriz de indicadores del IPM-NNA en porcentajes por comarcas _________________________ 3 
+Gráfico 2: % de Centros Educativos y oferta educativa por Pueblo _________________________________ 4 
+Gráfico 3:Población estudiantil por nivel educativo según sexo ____________________________________ 4 
+Gráfico 4: Teoría del Cambio reconstruida del Plan Quinquenal EIB 2014-2019 _____________________ 12 
+Gráfico 5: Muestra, directores/as encuestados, centros educativos con EIB y docentes encuestados por 
+comarca indígena _______________________________________________________________________ 19 
+Gráfico 6: Escuelas EIB según DNEIB y directores/as de escuelas ________________________________ 36 
+Gráfico 7: Criterios para planificar el uso de lenguas ___________________________________________ 38 
+  
+ 
+ANEXOS 
+Anexo 1: Términos de Referencia de la Consultoría ____________________________________________ 65 
+Anexo 2: Participantes Taller de Teoría del Cambio ____________________________________________ 77 
+Anexo 3: Marco de Evaluación _____________________________________________________________ 78 
+Anexo 4: Encuesta a directores/as de Centros Educativos ________________________________________ 84 
+Anexo 5: Encuesta a docentes de grado con EIB _______________________________________________ 87 
+Anexo 6: Proceso de traducción y validación de encuesta a formulario web _________________________ 91 
+Anexo 7: Relación de Centros Educativos donde se aplicaron encuestas ____________________________ 92 
+Anexo 8: Listado de documentos revisados ___________________________________________________ 97 
+Anexo 9: Documento de información _______________________________________________________ 100 
+Anexo 10: Personas entrevistadas __________________________________________________________ 102 
+Anexo 11: Guías de entrevistas ____________________________________________________________ 105 
+Anexo 12: Roles del equipo consultor ______________________________________________________ 115 
+Anexo 13: Cronograma corregido por pandemia del Covid-19 ___________________________________ 116 
+ 
+ 
+
+ 
+iii 
+ 
+ 
+ACRÓNIMOS 
+ 
+AECID 
+Agencia Española de Cooperación Internacional para el Desarrollo 
+ACUN 
+Acción Cultural Ngäbe 
+ASMUNG 
+Asociación de Mujeres Ngäbe Buglé 
+BID 
+Banco Interamericano de Desarrollo 
+BM 
+Banco Mundial 
+BSAFE 
+Basic Security Advanced in the Field 
+CONAMUIP 
+Coordinadora Nacional de Mujeres Indígenas de Panamá 
+COONAPIP 
+Coordinadora Nacional de Pueblos Indígenas de Panamá 
+DNEIB 
+Dirección Nacional de Educación Intercultural Bilingüe 
+DRE 
+Dirección Regional Educativa 
+EBI 
+Educación Bilingüe Intercultural 
+EIB 
+Educación Intercultural Bilingüe 
+IIDKY 
+Instituto de Investigación y Desarrollo de Kuna Yala 
+INEC 
+Instituto Nacional de Estadística y Censos 
+IPM 
+Índice de Pobreza Multidimensional 
+IPM - NNA 
+Índice de Pobreza Multidimensional de Niños, Niñas y Adolescentes 
+ISAE 
+Instituto Superior de Administración y Educación 
+MEDUCA 
+Ministerio de Educación 
+MEF 
+Ministerio de Economía y Finanzas 
+MIDES 
+Ministerio de Desarrollo Social 
+MINSA 
+Ministerio de Salud 
+OCA 
+Organismo Capacitador 
+OCDE 
+Organización para la Cooperación y el Desarrollo Económico 
+ODS 
+Objetivos de Desarrollo Sostenible 
+OEI 
+Organización de Estados Iberoamericanos 
+OIT 
+Organismo Internacional del Trabajo 
+OLOWAILI 
+Asociación de Mujeres Kunas 
+ONG 
+Organización No Gubernamental 
+ONU 
+Organismo de las Naciones Unidas 
+PISA 
+Programa Internacional para la Evaluación de Estudiantes 
+PPOO 
+Pueblos Originarios 
+PSEA 
+Protection from Sexual Exploitation and Abuse 
+TDC 
+Teoría del Cambio 
+UDELAS 
+Universidad de las Américas 
+UNDP 
+Programa de las Naciones Unidas para el Desarrollo 
+UNESCO 
+Organización de las Naciones Unidas para la Educación, la Ciencia y 
+la Cultura 
+UNICEF 
+Fondo de las Naciones Unidas para la Infancia 
+UNFPA 
+Fondo de Población de las Naciones Unidas 
+ 
+ 
+ 
+ 
+ 
+
+ 
+iv 
+ 
+ 
+AGRADECIMIENTOS 
+ 
+El equipo consultor quiere expresar su agradecimiento a todas las personas que hicieron 
+posible este informe: 
+ 
+• A los directores y directoras, a las y los docentes que respondieron las encuestas, lo que 
+en muchos casos significó trasladarse fuera de sus hogares buscando conectividad. 
+ 
+• A las autoridades locales, directores regionales, supervisores y supervisoras que usaron 
+sus momentos de descanso al final del día o sábados y domingos para responder a las 
+entrevistas. 
+ 
+• A las y los dirigentes indígenas que se organizaron para establecer conexiones con 
+plataformas digitales o se movilizaron hacia zonas donde se podía asegurar una buena 
+conexión. 
+ 
+• A las autoridades nacionales del MEDUCA que respondieron las entrevistas en pleno 
+trabajo de crear y organizar el lanzamiento del año escolar de modo no presencial. 
+ 
+• A representantes de las Universidades y Organismos de Capacitación (OCAs) que 
+asumen la formación y capacitación del docente en áreas indígenas que respondieron las 
+entrevistas y compartieron sus programas. 
+ 
+• A representantes de los organismos de cooperación internacional y ONGs, con 
+programas y acciones en los territorios de los pueblos originarios que compartieron sus 
+propuestas. 
+ 
+Gracias a su disponibilidad, generosidad y compromiso con los derechos de los niños, niñas 
+y adolescentes indígenas se ha podido realizar este informe. 
+ 
+Muchas gracias, 
+ 
+Equipo Consultor
+
+ 
+I 
+ 
+ 
+RESUMEN EJECUTIVO 
+Contexto y antecedentes  
+Los siete pueblos originarios de Panamá, Bribri, Naso Tjerdi, Ngäbe, Buglé, Kuna, Emberá y 
+Wounaan, representan el 12.3% de la población panameña y sus niños, niñas y adolescentes el 19% 
+del total de menores de 18 años de Panamá (INEC 2010). Están organizados en 5 comarcas y 7 
+territorios indígenas. Tres de estas comarcas: Ngäbe-Buglé, Kuna Yala y Emberá-Wounaan tienen 
+categoría de provincia, por lo cual, tienen direcciones educativas regionales propias. Dos, con 
+población kuna, Madugandí y Wargandí tienen categoría de corregimientos. Estas junto con las 
+comunidades formadas por los pueblos Naso y Bribri, son parte de direcciones regionales con 
+población latina. 
+ 
+El Índice de Pobreza Multidimensional de los Niños, Niñas y Adolescentes (IPM-NNA) de hogares 
+indígenas supera el índice nacional que está en 0.1494. En la comarca Kuna Yala es 0.593, en Emberá-
+Wounaan es 0.365 y en Ngäbe-Buglé es 0.568 (MEF, INEC, MIDES, 2018). 
+ 
+El indicador de carencia de educación y formación temprana del IPM-NNA, también supera el índice 
+nacional ubicado en 16.1. En las comarcas de Kuna Yala, Emberá-Wounaan y Ngäbe-Buglé es de 
+48.7, 40.9 y 48.7 respectivamente. La oferta educativa en las escuelas de los pueblos indígenas es 
+deficitaria en todos los niveles con excepción de la primaria. El acceso al nivel preescolar en Darién 
+y en la Comarca Emberá-Wounaan no llega al 45% de la población menor de 5 años, la premedia 
+supera el 50% sólo en la comarca de Kuna Yala y en todos los territorios indígenas la media es casi 
+inexistente (MEDUCA 2019). Las escuelas de estos pueblos son deficitarias en infraestructura, 
+maestros formados en EIB, programas curriculares contextualizados y materiales, así como una 
+supervisión adecuada. 
+ 
+Los pueblos indígenas de Panamá, cuestionan la calidad de la educación que se brinda en sus escuelas 
+y rescatan la necesidad de incluir su lengua y sus saberes en el currículo y programas de estudio. A 
+inicios de la década de 1980, en América Latina se empezó a cuestionar el sesgo homogenizante de 
+los sistemas educativos, que se limitaban a traducir contenidos académicos escolares a las lenguas 
+vernáculas (Trapnell 1984), o a adicionar contenidos escolares “indígenas” a currículos nacionales, y 
+se planteó más bien repensar la educación indígena desde una perspectiva de descolonización cultural 
+e ideológica (Varese y Rodríguez 1983). Acuerdos y convenciones internacionales se sumaron a este 
+concepto de educación intercultural bilingüe (EIB), asumiendo que esta educación acepta la 
+existencia de distintas visiones de la realidad y se opone a conceptos racionales que buscan la ‘verdad 
+única y universal’.  
+ 
+En Panamá, la Constitución de la República, la Ley de Educación, las leyes de creación de las 
+comarcas, la Ley 88, entre otras, reconocen el derecho a la educación intercultural bilingüe. La 
+Dirección Nacional de Educación Intercultural Bilingüe (DNEIB) del Ministerio de Educación 
+(MEDUCA) tiene el mandato de gestionar la implementación de la EIB en todo el territorio nacional. 
+Para cumplir con este rol, con apoyo de UNICEF, diseñó el Plan Quinquenal de EIB, 2014-2019. 
+ 
+Objeto de la evaluación 
+El objeto de la evaluación es el “Plan Quinquenal de EIB para los Pueblos Originarios de Panamá, 
+2014 – 2019”, cuyo objetivo general fue “ofrecer a los pueblos originarios una educación que 
+considere sus características culturales y desarrolle su competencia comunicativa en la educación 
+inicial y básica de la educación intercultural multilingüe, para el fortalecimiento de su identidad, 
+apropiación de la cultura nacional, consolidar en forma oral y escrita su lengua materna (L1) y la 
+adquisición en forma oral y escrita del español e inglés como una segunda lengua (L2)”.  
+El Plan definió cuatro componentes de trabajo: i) fortalecimiento de recursos humanos en gestión y 
+docencia EIB, ii) currículo y materiales, iii) reestructuración de la gestión y administración escolar y 
+
+ 
+II 
+ 
+iv) evaluación, seguimiento y supervisión de aula; con los cuales, al final del período, debía contar 
+con una administración nacional y regional fortalecida en la gestión y supervisión EIB, 3,000 docentes 
+capacitados, 400 centros educativos de los siete pueblos originarios desarrollando la EIB hasta el 
+noveno grado, beneficiando a 60,000 niños, niñas y adolescentes (NNA) indígenas. 
+Para la ejecución del Plan, la DNEIB presentó un requerimiento presupuestal de 46 millones de 
+balboas, integrándose sólo 21 millones al presupuesto que el MEDUCA presentó al MEF, obteniendo 
+al final de la Asamblea Legislativa solo 5 millones de balboas. 
+Los titulares del derecho del Plan son los NNA indígenas y el principal garante es el MEDUCA. Las 
+autoridades indígenas son garantes secundarios del derecho a una EIB de calidad. 
+ 
+Propósito y objetivo de la evaluación 
+El propósito de la evaluación es lograr aprendizajes institucionales y que la promoción de políticas a 
+futuro esté guiada por el conocimiento generado en el quinquenio evaluado.   
+El objetivo es analizar la eficacia de lo realizado en el Plan para el logro de los resultados, su 
+pertinencia a las necesidades nacionales y derechos de los NNA, la eficiencia en el manejo de los 
+recursos humanos y financieros y la sostenibilidad de las acciones y resultados obtenidos y la 
+participación de los NNA desde una perspectiva de derechos humanos y equidad de género. 
+ 
+Alcance de la evaluación 
+Temático: La evaluación analiza las intervenciones realizadas con la implementación de la EIB, en el 
+marco de los cuatro componentes del Plan, identificando cuellos de botella y resultados logrados. 
+Temporal: Abarca los cinco años del período del Plan 2014-2019. 
+Territorial: Su alcance es nacional porque evalúa información de las escuelas de los sietes pueblos 
+originarios.  
+ 
+Marco de la evaluación 
+La evaluación del Plan Quinquenal se realiza en base a los criterios definidos por la OCDE: eficacia, 
+pertinencia, eficiencia y sostenibilidad en un marco de derechos humanos. En cada criterio hay 
+preguntas que guían la evaluación del Plan, identificando por cada pregunta la formación de juicio, 
+los indicadores, las fuentes de información y los métodos de recolección. 
+ 
+Metodología 
+Esta evaluación utiliza métodos mixtos, combinando herramientas cualitativas y cuantitativas, y 
+elementos de la evaluación basada en la teoría del Plan (Teoría de Cambio reconstruida). La 
+evaluación fue realizada durante la pandemia del Covid-19 en condiciones de restricciones de 
+movilidad, distanciamiento social y cierre de las escuelas. Por esta situación se suspendió las visitas 
+a las escuelas y se utilizó  tres fuentes fundamentales: i) dos encuestas aplicadas de modo virtual a 
+173 directores/as de escuelas y 101 docentes que aplican la EIB; ii) 60 entrevistas virtuales a 
+directores/as nacionales, regionales y supervisores/as del MEDUCA, instituciones formadoras, 
+organizaciones de cooperación internacional, líderes y lideresas de comarcas y organizaciones 
+indígenas; iii) análisis de programas curriculares, materiales, informes, planes, leyes, datos 
+estadísticos 2019 del MEDUCA, entre otros. Para una mejor triangulación de la información, los 
+datos cuantitativos fueron contrastados con la información cualitativa. La muestra para aplicar las 
+encuestas estuvo formada por todas las escuelas que según información de la DNEIB estaban 
+aplicando la EIB.  
+ 
+Conclusiones 
+Se presentan las principales conclusiones producto de los hallazgos encontrados: 
+Eficacia: 
+1.La implementación del Plan no fue lo suficientemente eficaz para lograr que se desarrolle la EIB 
+en las escuelas de los siete pueblos indígenas y que se pueda cumplir con el derecho de los niños, 
+niñas y adolescentes indígenas a una educación de calidad, con respeto a su lengua y a su cultura. La 
+
+ 
+III 
+ 
+falta de desarrollo de las estrategias y actividades previstas impidieron contar con programas 
+curriculares y materiales EIB, personal formado en la gestión y la docencia en EIB, sistemas de 
+seguimiento y supervisión de escuelas EIB y de evaluación de estudiantes; así como garantizar el 
+fortalecimiento institucional de la DNEIB y de las direcciones regionales comarcales. Con excepción 
+del producto de requerimiento presupuestal, su ejecución no logró ninguno de los otros productos 
+previstos ni los resultados esperados.  
+Al final del período se continua sin escuelas EIB, sólo aulas con docentes que intentan desarrollar 
+EIB a pesar de no contar con los programas curriculares y los materiales de EIB. 
+2. La implementación del Plan no fue asumida por la mayoría de la estructura organizacional del 
+MEDUCA, dejando en la DNEIB toda la responsabilidad de su ejecución, sin proveerle de la 
+normatividad, recursos humanos y financieros que le permitieran liderar un proceso sistemático y 
+articulado con las diferentes direcciones nacionales y regionales, autoridades indígenas y la 
+cooperación internacional. 
+ 
+Pertinencia: 
+3. La poca claridad que tenían los distintos actores responsables sobre qué es la EIB y sus implicancias 
+en el trabajo escolar, incidieron en que las actividades y programas realizados no respondieran 
+suficientemente a los derechos de la niñez indígena a una educación pertinente y de calidad. No se 
+dio una respuesta adecuada a los cambios en los escenarios sociolingüísticos, a las necesidades de 
+formación y capacitación docente desde una dimensión tanto personal como técnico pedagógico, ni 
+a la articulación de los saberes de los pueblos originarios con los conocimientos académicos escolares. 
+4. El escaso involucramiento en la formulación e implementación del Plan Quinquenal de los líderes, 
+lideresas y autoridades tradicionales de los siete pueblos originarios impidió recoger sus demandas y 
+necesidades y contar con su apoyo en la difusión y la vigilancia del desarrollo del Plan, así como en 
+el logro de sus metas y objetivos.   
+ 
+Eficiencia: 
+5. Aunque los recursos financieros obtenidos para la implementación del Plan fueron el 10% 
+($5,000,000.00) del requerimiento presupuestal, fue la primera vez que un Plan elaborado por la 
+DNEIB lograba contar con presupuesto. Sin embargo, la DNEIB no tuvo la capacidad de gestión para 
+priorizar actividades y resultados que permitieran un uso eficiente de los recursos obtenidos y usarlo 
+como contraparte con otras fuentes financieras. 
+6. A pesar que la cooperación internacional apoyó al MEDUCA con diversos programas y productos 
+mencionados en el Plan Quinquenal, no se encontró evidencia que el Plan fuera una herramienta 
+articuladora que potencialice este aporte. 
+ 
+Sostenibilidad: 
+7. No se han garantizado las condiciones mínimas para asegurar la sostenibilidad de las acciones 
+realizadas a favor de la EIB durante el quinquenio. No se ha logrado un desarrollo organizacional 
+articulado entre las diferentes instancias nacionales y regionales del MEDUCA, el fortalecimiento de 
+los equipos técnicos y un contexto de compromiso político del MEDUCA y las autoridades 
+tradicionales indígenas a favor de la implementación de la EIB. 
+ 
+Derechos de la niñez y equidad de género: 
+8. El Plan no ha generado espacios para la reflexión sobre las necesidades diferenciales entre géneros, 
+ni para la participación de los niños, niñas y adolescentes. Aunque el Plan Quinquenal se dirigió a 
+hacer efectivo su derecho a una EIB de calidad, ellos y ellas no pueden ser sólo receptores y deben 
+junto a sus padres y madres, actuar en el reconocimiento y exigencia de sus derechos.  
+ 
+ 
+
+ 
+IV 
+ 
+Lecciones aprendidas 
+1. El proceso de implementación de un plan orientado a la educación de los pueblos originarios, 
+requiere de la acción concertada de las diferentes direcciones del MEDUCA. Mientras la EIB siga 
+siendo un tema marginal en el MEDUCA se corre el riesgo de mantener el paradigma de una escuela 
+oficial monocultural, de espaldas a la realidad diversa del país, y limitar la EIB al desarrollo de 
+actividades puntuales, disconexas entre sí, sin un impacto real en los y las estudiantes indígenas.  
+2. Una efectiva implementación del Plan Quinquenal exige la participación, coordinación y 
+articulación estratégica y permanente de distintos tipos de actores, y no sólo de los técnicos de la 
+DNEIB, de forma que se involucren, desde la formulación del Plan, a las autoridades tradicionales, 
+líderes y lideresas de las organizaciones indígenas, a los niños, niñas y adolescentes y a sus padres y 
+madres, así como a ONGs y entidades de la cooperación internacional que desarrollan proyectos y 
+programas educativos en zonas indígenas.   
+3. El desarrollo de un Plan Quinquenal de EIB para los pueblos originarios de Panamá requiere, como 
+mínimo, que los diferentes actores responsables de su implementación manejen una propuesta clara 
+y consensuada sobre qué se entiende por EIB y qué características tiene una escuela EIB; que los 
+actores cuenten con el perfil y las capacidades necesarias para su ejecución, y se tenga el presupuesto 
+requerido.   
+4. Para ser pertinentes las propuestas de EIB deben responder a los cambios en los escenarios 
+sociolingüísticos y en las dinámicas demográficas y sociales que están ocasionando el desplazamiento 
+de las lenguas originarias por el español y una creciente migración hacia zonas urbanas.  
+5. La demora en la aprobación de normas ha sido un freno para la implementación de la EIB durante 
+el desarrollo del Plan Quinquenal, afectando el derecho de los niños y niñas a una educación en su 
+lengua y cultura, refrendado por leyes y políticas nacionales e internacionales. Sin embargo, la falta 
+de la norma no puede seguir siendo una excusa para frenar el desarrollo de propuestas de EIB.  
+ 
+Recomendaciones 
+En vista de los hallazgos y conclusiones señaladas, el equipo consultor presenta las siguientes 
+recomendaciones, dirigidas a mejorar la eficacia, eficiencia y sostenibilidad de la implementación de 
+la EIB en Panamá.  
+ 
+Institucionalización de la EIB 
+1. La alta dirección del MEDUCA debe asegurar que la EIB se convierta en una política de Estado 
+priorizada, que se implementa con un plan nacional de manera progresiva y sistemática, con metas, 
+objetivos, estrategias e indicadores claros y con un presupuesto que permita su implementación 
+gradual en todas las escuelas que atienden a los y las estudiantes indígenas.  
+2. La EIB requiere de un marco normativo que permita su operativización y oficialización. Se sugiere 
+que el MEDUCA acelere la culminación de todo el paquete normativo que ha quedado en proceso: i) 
+el reglamento de la ley 88, ii) las propuestas de resueltos elaboradas, y iii) los perfiles de los diferentes 
+cargos para la EIB. 
+ 
+Currículos contextualizados y materiales 
+3. Se sugiere que la DNEIB y la Dirección de Currículo, junto con las direcciones regionales de 
+educación y las autoridades tradicionales de las comarcas, revise la estrategia adoptada de añadir 
+materias al currículo nacional, y analice otras alternativas, aprovechando los avances logrados. Esto 
+requiere elaborar nuevos protocolos para el diseño de los programas curriculares desde un enfoque 
+EIB que aborde los saberes indígenas y los académico-escolares de manera articulada, así como un 
+plan de diseño de nuevos materiales que responda a dichos programas.  
+ 
+ 
+
+ 
+V 
+ 
+Formación de recursos humanos para la EIB 
+4. Se sugiere que la Dirección de Formación y Perfeccionamiento Docente, en coordinación con la 
+DNEIB, diseñe un plan de formación de recursos humanos, con el apoyo de instituciones formadoras 
+estatales y privadas para la formación inicial y continua de docentes en EIB. Este Plan debería 
+también abarcar la formación especializada en gestión y administración de escuelas para directores 
+de centros educativos y administración y gestión de la EIB para diversos funcionarios/as del sistema 
+educativo nacional y regional. 
+ 
+Atención diferenciada en EIB y tratamiento de lenguas 
+5. Considerando el proceso de desplazamiento que están sufriendo las lenguas originarias por la 
+creciente influencia del español, se sugiere que el MEDUCA a través de la DNEIB, revise el Modelo 
+Pedagógico de EIB que asume que la lengua originaria es siempre la lengua materna (L1) de los niños 
+y niñas de pueblos indígenas y el español la segunda lengua (L2). Esto requiere el desarrollo de varios 
+modelos de atención de la EIB y de herramientas pedagógicas diferenciadas.  
+ 
+Participación indígena    
+6. El rol de las autoridades tradicionales, líderes y lideresas de las organizaciones indígenas es crucial 
+para el desarrollo de cualquier plan o programa educativo dentro de sus territorios. Por ello se 
+recomienda a los congresos indígenas incluir la temática de la EIB como tema prioritario en sus 
+agendas y espacios de trabajo y al MEDUCA crear un espacio de diálogo, concertación y toma de 
+decisiones con estos líderes y lideresas generando un nuevo pacto social a favor de una educación 
+intercultural bilingüe de calidad. 
+ 
+Disponibilidad y manejo de los recursos humanos y financieros 
+7. Es necesario que el MEDUCA trabaje con el MEF la creación de una partida presupuestal de 
+inversión específica para la política de EIB que forme parte del presupuesto nacional, de tal manera 
+que se cuente con los recursos suficientes para la implementación de la EIB en las comarcas indígenas 
+y tierras colectivas.  
+8. Dada la necesidad de maximizar los fondos y los recursos humanos disponibles para el desarrollo 
+de la EIB, se sugiere al MEDUCA que convoque a la cooperación internacional con el fin de concertar 
+esfuerzos orientados a la implementación efectiva de la EIB, en base a un plan específico y de manera 
+articulada en los territorios de los 7 pueblos originarios.   
+ 
+Fortalecimiento organizativo y de los equipos técnicos  
+9. Se sugiere al MEDUCA elaborar una estrategia de continuidad de los procesos y acciones que han 
+quedado inconclusas y que son necesarias para la atención con EIB a los y las estudiantes indígenas. 
+Esto implica articular las acciones del Plan con el nuevo proyecto de desarrollo de los pueblos 
+indígenas, próximo a ser iniciado con préstamo del Banco Mundial y liderado por el Ministerio de 
+Gobierno.  
+10. La implementación del Plan Quinquenal y el desarrollo de la EIB requieren de un equipo sólido 
+y con capacidades fortalecidas tanto a nivel de la DNEIB como de las direcciones regionales 
+educativas (DRE). Por ello es necesario que se revise la estructura organizativa del MEDUCA y se 
+mejoren los canales de coordinación y articulación entre las direcciones nacionales y regionales de 
+educación, así como generar en las DRE una mayor autonomía para una actuación más efectiva y 
+oportuna en sus territorios. 
+ 
+Derechos de la niñez y equidad de género 
+11. Se recomienda articular el trabajo de la EIB con otros sectores del Estado que velan por los 
+derechos de la infancia y con entidades de la cooperación como UNICEF y UNFPA y hacer más 
+explícito en el currículo nacional y en los programas curriculares contextualizados EIB, los temas de 
+derechos de los niños, el enfoque de equidad de género, desde una mirada intercultural. 
+
+ 
+I 
+ 
+1. CONTEXTO Y ANTECEDENTES 
+ 
+1.1.  Los pueblos originarios en Panamá 
+En Panamá hay 7 pueblos originarios: Ngäbe, Kuna, Emberá, Buglé, Wounaan, Naso Tjerdi, y Bribri, 
+con su propia cultura e idioma. Según estimaciones provenientes del último censo del 20101, para el 
+2018, su población representa el 12.3% del total de la población panameña y la población indígena 
+de 0 a 17 años representa el 19% del total de las personas menores de 18 años del país. El pueblo 
+Ngäbe es el de mayor población y el de menor es el Bribri. El índice de masculinidad es mayor en 
+todos los pueblos con excepción del pueblo Kuna, lo cual puede deberse a una mayor pérdida de 
+identidad indígena en las mujeres, o de pertenencia a un pueblo originario en el caso Buglé y Wounaan 
+que son minorías frente al Ngäbe y Emberá con quienes comparten territorios. 
+ 
+Cuadro 1: Idioma y población por sexo según pueblo originario 
+PUEBLO 
+IDIOMA 
+POBLACIÓN 
+ÍNDICE DE 
+MASCULINIDAD 
+TOTAL 
+HOMBRES 
+MUJERES 
+Ngäbe 
+Ngäbere 
+260,058 
+132,242 
+127,816 
+103 
+Kuna 
+Guna 
+80,526 
+40,142 
+40,384 
+99 
+Emberá 
+Emberá 
+31,284 
+16,126 
+15,158 
+106 
+Buglé 
+Buglere 
+26,871 
+14,241 
+12,590 
+113 
+Wounaan 
+Wounmeu 
+7,279 
+3,772 
+3,507 
+108 
+Naso 
+Teribe 
+4,046 
+2,083 
+1,963 
+106 
+Bribri 
+Bribri 
+1,068 
+537 
+531 
+101 
+Fuente: Contraloría General de la República de Panamá, XI Censo nacional de población y VII de vivienda, 2010. 
+ 
+Territorialmente estos pueblos se organizan en 5 comarcas y 7 territorios. El reconocimiento de 
+comarca es significativo porque les confiere un sistema de gobierno dual, con autoridades del régimen 
+republicano y autoridades tradicionales, además de un territorio único e integrado y la propiedad 
+colectiva de la tierra (UNFPA-INEC s/f). Tres de estas comarcas tienen categoría de provincia, por 
+lo cual, tienen direcciones educativas regionales comarcales; dos tienen categoría de corregimientos2 
+y sus escuelas están gestionadas por direcciones regionales educativas no comarcales. Dos de las 
+comarcas integran dos pueblos cada una y tres de las comarcas corresponden a un mismo pueblo. 
+ 
+Cuadro 2: Comarcas y Territorios según pueblo, administración política y reconocimiento 
+COMARCAS 
+PUEBLOS 
+ADMINISTRACIÓN 
+POLÍTICA 
+RECONOCIMIENTO 
+Kuna Yala 
+Kuna 
+Provincia 
+Ley 16 del 16/02/1952 
+Emberá Wounaan 
+Emberá y Wounaan 
+Provincia 
+Ley 22 del 08/11/1983 
+Madugandí 
+Kuna 
+Corregimiento de la provincia de 
+Panamá Este 
+Ley 24 del 12/01/1996 
+Ngäbe Buglé 
+Ngäbe y Buglé 
+Provincia 
+Ley 10 del 07/03/97  
+Wargandí 
+Kuna 
+Corregimiento de la provincia de 
+Darién 
+Ley 34 del 25/07/2000 
+Fuente: Elaboración propia 
+ 
+1 En Panamá el Censo Nacional de Población está a cargo del Instituto Nacional de Estadística y Censos (INEC) de la Contraloría General 
+de la República y se realiza cada 10 años. En base a estos datos se realizan proyecciones de población por sexo, grupos de edad, provincias, 
+comarcas, distritos, corregimientos, pero no por pueblos originarios. 
+2 El territorio de Panamá se organiza en provincias, distritos, corregimientos y comunidades. Esta división política se relaciona directamente 
+con el rango de autoridad local del aparato estatal. 
+
+ 
+2 
+ 
+ 
+Luego de muchos años de lucha, la ley 72 del 23 de diciembre de 2008 reconoció el derecho a la 
+propiedad colectiva de territorios con población indígena que habían quedado fuera de las comarcas. 
+Esta Ley establece el procedimiento especial para la adjudicación gratuita de la propiedad colectiva 
+de tierras de los pueblos indígenas que no están dentro de las comarcas y que han ocupado 
+tradicionalmente. Estos territorios conforman comunidades: Naso y Bribri en la provincia de Bocas 
+del Toro; Territorio Buglé en la comarca Ngäbe Buglé; Territorio Emberá del Alto Bayano y 
+Territorio Wounaan en la 
+provincia de Panamá Este; 
+Tierras colectivas Emberá-
+Wounaan y Territorio Kuna 
+Dakargunyala 
+en 
+la 
+provincia del Darién. Con 
+excepción 
+del 
+territorio 
+Buglé, que está dentro de la 
+comarca 
+Ngäbe-Buglé, 
+todos los demás territorios 
+están bajo la jurisdicción de 
+Direcciones Regionales de 
+Educación 
+(DRE) 
+de 
+provincias con directores no 
+indígenas.  
+ 
+ 
+Sin embargo, a pesar de estas iniciativas legales orientadas a garantizar el derecho de los pueblos 
+originarios sobre sus territorios se sabe de la existencia de diversos procesos que ponen en riesgo su 
+soberanía territorial. Entre ellos figuran las invasiones de los territorios (titulados o en reclamo) y los 
+megaproyectos de desarrollo económico y de infraestructura que se ejecutan o pretenden ejecutar en 
+ellos.  A los problemas de despojo se suma el impacto que podrían ocasionar estos procesos en 
+regiones ambientalmente muy débiles, que ya están sufriendo las consecuencias del cambio climático.   
+ 
+1.2.Situación socioeconómica de los niños, niñas y adolescentes de los pueblos 
+originarios 
+El Índice de Pobreza Multidimensional3 de los Niños, Niñas y Adolescentes4 de Panamá (IPM-NNA) 
+en hogares indígenas supera los índices nacionales. La incidencia, es decir la cantidad de los menores 
+de 18 años que son pobres es tres veces mayor en las comarcas. La intensidad de la pobreza en las 
+ 
+3 La metodología del IPM busca responder a tres preguntas: cuántos son pobres (incidencia), qué tan pobres son (intensidad), y qué les 
+hace pobres (índice de las privaciones); sobre la base de 17 indicadores agrupados en 5 dimensiones (vivienda, salud, educación, trabajo y 
+ambiente). UNICEF, 2019. 
+4 En 2018 INEC, MEF y MIDES con el acompañamiento del PNUD y UNICEF realizaron el cálculo del Índice de Pobreza 
+Multidimensional de los Niños, Niñas y Adolescentes (IPM-NNA) con el objetivo de identificar y medir la incidencia e intensidad de las 
+carencias y privaciones específicas de la población de 0-17 años de Panamá, a fin de mejorar el diseño e implementación de políticas 
+dirigidas a asegurar el cumplimiento de los derechos de los NNA. La matriz IPM-NNA determinó 5 dimensiones y 10 indicadores.  
+Vivienda: Precariedad de los materiales de la vivienda (construcción segura) y Hacinamiento o personas por habitación-  
+Agua y saneamiento: Carencia de saneamiento mejorado y Carencia y disponibilidad de fuentes de agua mejorada-  
+Salud y alimentación: Prevención de riesgos en salud (Vacunación, Controles, Orientación en SSR); Alimentación variada; (Lactancia 
+materna; Alimentación complementaria 
+Educación e información: Educación y formación temprana (Estimulación temprana, Asistencia, Actividades formativas, Repitencia) 
+Acceso a Internet 
+Protección y recreación: Protección de la infancia (Registro, Trabajo excesivo) Cuido, actividades infantiles y recreación (Cuido, 
+Actividades, Espacios recreativos).  
+MEF, INEC, MIDES. Índice de Pobreza Multidimensional de Niños, Niñas y Adolescentes en Panamá – IPM-NNA Aspectos conceptuales 
+y metodológicos y Resultados correspondientes al año 2018. Septiembre, 2018

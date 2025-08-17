@@ -1,0 +1,432 @@
+Peter Matz, Independent Consultant 
+EVALUATION COMMISSIONED BY UNICEF |  
+EVALUATION REPORT 
+SUMMATIVE EVALUATION OF THE GUINEA-BISSAU COVID-19 
+EDUCATION SECTOR RESPONSE PROJECT, 2020-2022 
+ 
+ 
+ JANUARY 2023 
+ 
+ 
+ 
+
+1 
+ 
+ 
+Table of contents 
+List of Tables ............................................................................................................................................ 3 
+List of Figures ........................................................................................................................................... 3 
+Acknowledgements ................................................................................................................................. 3 
+List of Abbreviations and Acronyms ........................................................................................................ 4 
+1. Executive Summary ............................................................................................................................. 5 
+1.1. Introduction .................................................................................................................................. 5 
+1.2. Purpose of the Evaluation ............................................................................................................ 5 
+1.3. Objectives of the Evaluation......................................................................................................... 5 
+1.4. Scope of the Evaluation ................................................................................................................ 6 
+1.5. Criteria and Evaluation Questions ................................................................................................ 6 
+1.6. Methodology ................................................................................................................................ 6 
+1.7. Presentation of the Main Findings and Conclusions .................................................................... 7 
+1.8. Lessons Learned ........................................................................................................................... 8 
+1.9. Recommendations........................................................................................................................ 9 
+2. Evaluation Context ............................................................................................................................ 11 
+3. Evaluation Object .............................................................................................................................. 11 
+4. Evaluation Purpose and Objectives ................................................................................................... 14 
+4.1 Evaluation Purpose ...................................................................................................................... 14 
+4.2. Evaluation Objectives ................................................................................................................. 15 
+5. Evaluation Scope ............................................................................................................................... 16 
+5.1. Thematic scope........................................................................................................................... 16 
+5.2. Geographic scope ....................................................................................................................... 16 
+5.3. Chronologic scope ...................................................................................................................... 16 
+6. Evaluation Questions and Criteria ..................................................................................................... 17 
+6.1. Evaluation criteria ...................................................................................................................... 17 
+6.2. Evaluation questions .................................................................................................................. 18 
+7. Methodology ..................................................................................................................................... 19 
+7.1. Evaluation approach ................................................................................................................... 19 
+7.2. Methods and data collection tools ............................................................................................. 20 
+7.2.1. Desk review ......................................................................................................................... 20 
+7.2.2. Quantitative secondary data analysis ................................................................................. 20 
+7.2.3. Semi-structured interviews with key informants ................................................................ 20 
+7.2.4. Focus group discussions ...................................................................................................... 20 
+7.2.5. Direct observation through school visits ............................................................................. 21 
+
+2 
+ 
+7.2.6. Review of learning and communication materials produced by the project ...................... 21 
+7.3. Sampling strategy ....................................................................................................................... 21 
+7.4. Data analysis and quality assurance ........................................................................................... 23 
+7.5. Ethical Considerations and Principles......................................................................................... 23 
+7.6. Limitations and Mitigation Measures ........................................................................................ 24 
+8.Findings and Preliminary Conclusions (by criterion) .......................................................................... 25 
+8.1. Relevance ................................................................................................................................... 25 
+8.1.1. Preliminary conclusion regarding the criterion “relevance” ............................................... 29 
+8.2. Coherence .................................................................................................................................. 30 
+8.2.1. Preliminary conclusion regarding the criterion “coherence” .............................................. 33 
+8.3. Effectiveness ............................................................................................................................... 34 
+8.3.1 
+Preliminary conclusion regarding the criterion “effectiveness” ................................... 45 
+8.4 Efficiency ..................................................................................................................................... 46 
+8.4.1 
+Preliminary conclusion regarding the criterion “efficiency” ......................................... 49 
+8.5 Sustainability ............................................................................................................................... 50 
+8.5.1. Preliminary conclusion regarding the criterion “sustainability” ......................................... 53 
+8.6. Equity, Gender and Human Rights ............................................................................................. 54 
+8.6.1. Preliminary conclusion regarding the criterion “equity, gender, and human rights” ......... 57 
+9. Final conclusions ................................................................................................................................ 58 
+10. Lessons learned ............................................................................................................................... 59 
+11. Recommendations........................................................................................................................... 61 
+Appendices ............................................................................................................................................ 63 
+Appendix 1: Terms of reference ........................................................................................................ 63 
+Appendix 2: List of people interviewed and schools visited ............................................................. 74 
+A2.1. People interviewed .............................................................................................................. 74 
+A2.2. Schools visited ...................................................................................................................... 75 
+Appendix 3: List of documents consulted ......................................................................................... 76 
+Appendix 4: Data collection instruments .......................................................................................... 79 
+A4.1. Interview guide .................................................................................................................... 79 
+A4.2. Guide for focus group discussions ....................................................................................... 80 
+A4.3. Guide for observation of services and practices .................................................................. 82 
+A4.4. Guide for assessing the quality of tools ............................................................................... 82 
+Appendix 5: Evaluator's biodata ........................................................................................................ 83 
+Appendix 6: Evaluation matrix .......................................................................................................... 84 
+ 
+
+3 
+ 
+List of Tables  
+Table 1: Brief presentation of the object of the evaluation 
+Table 2: Users and use of the evaluation 
+Table 3: Overview of evaluation criteria 
+Table 4: Summary of stakeholders consulted, by data collection tool 
+Table 5: Limitations and mitigation measures of the evaluation 
+Table 6: List of project activities supporting the specific objectives of the Contingency Plan 
+Table 7: Level of achievement by expected result 
+List of Figures 
+Figure 1: Initial and final enrolment in Bafatá region, school years 2018/19 until 2021/22 
+Figure 2: Initial and final enrolment in Oio region, school years 2018/19 until 2020/21 
+Figure 3: Percentage of respondents who had heard about the back-to-school campaign, by age group 
+Figure 4: Aspects remembered by respondents about the back-to-school campaign 
+Figure 5: Budget distribution, per Output (planned versus revised budget) 
+Figure 6: Initial and final enrolment in Bafatá region, school years 2018/19 until 2021/22 
+Figure 7: Initial and final enrolment in Oio region, school years 2018/19 until 2020/21 
+ 
+Acknowledgements  
+The evaluator would like to thank all those who supported the evaluation and provided strong 
+collaboration during the process. Special thanks go to Mr Amido Jalo, UNICEF Education Specialist, for 
+his excellent support during the field mission. 
+ 
+ 
+
+4 
+ 
+List of Abbreviations and Acronyms 
+APEEA – Parents’ Assocation (Associação de pais e encarregados de educação de alunos) 
+ASPAAB – Associação de Saneamento Básico, Proteção da Agua e Ambiente (Civil society organization 
+- CSO) 
+CCC - Core Commitments for Children in Humanitarian Action 
+CDC - Convention on the Rights of the Child 
+CFS – Child-friendly Schools 
+COGES – School Management Committee (Comité de Gestão Escolar) 
+COMES – Teacher Study Groups (Comissões de Estudos) 
+CNAPN - Comité Nacional para o Abandono das Práticas Tradicionais Nefastas a Saúde da Mulher e 
+da Criança (CSO) 
+CPD – Country Programme Document 
+CRS - Catholic Relief Services  
+CSO - Civil society organization 
+CTIP - Technical Committee for the Implementation of the Contingency Plan (Comité Técnico para a 
+Implementação do Plano de Contingência)  
+CTRIP - Regional Technical Committee for the Implementation of the Contingency Plan  (Comité 
+Técnico Regional para a Implementação do Plano de Contingência) 
+DGE – General Directorate for Education (Direção Geral de Ensino) 
+DRE – Regional Directorate for Education (Direção Regional de Ensino) 
+ECAS-D - Estrutura Comunitária de Animação e Sensibilização para o Desenvolvimento (CSO)  
+EiE - Education in emergency 
+ERIC - Ethical Research Involving Children 
+ESPIG - Education Sector Program Implementation Grant 
+GEROS – Global Evaluation Reports Oversight System 
+GPE – Global Partnership for Education 
+INEE - International Network for Education in Emergencies  
+LEG – Local Education Group 
+MEN – Ministry of Education (Ministério da Educação Nacional) 
+MHM - Menstrual hygiene management 
+MICS - Multiple Indicator Cluster Surveys 
+NGO - Non-governmental organisation 
+PASEC – Programme d’analyse des systèmes éducatives de la CONFEMEN 
+RENLUV - Rede Nacional de Combate à Violência baseada no género e criança (CSO)  
+SINAPROF – National Teachers’ Union (Sindicato Nacional dos Professores) 
+SRGBV - School-related gender-based violence 
+ToC – Theory of Change 
+UNCT - UN Country Team 
+UNEG - United Nations Evaluation Group 
+WASH – Water, Sanitation, and Hygiene 
+WFP – World Food Programme 
+WHO - World Health Organization 
+
+5 
+ 
+1. Executive Summary  
+1.1. Introduction 
+In Guinea-Bissau, COVID-19 has exacerbated a deep learning crisis, related to many challenges in the 
+education system, including a lack of inclusive and safe school infrastructures, qualified human 
+resources and didactic and pedagogical resources, as well as teachers' strikes. When the first cases of 
+COVID-19 were detected in Guinea-Bissau, all educational institutions (from pre-school to higher 
+education) closed, further compounding the above challenges, reducing the learning time of students, 
+and enhancing the risk of drop-out. 
+To respond to an emergency, UNICEF Guinea-Bissau received an emergency funding from the GPE for 
+a total amount of USD 3,5 million. Initially designed to run for 18 months (from July 2020 to December 
+2021), the implementation cycle of the interventions covered by this funding was extended twice by a 
+total of ten months, until the end of October 2022.  
+The main objective of the Guinea-Bissau COVID-19 Education Sector Response project was to support 
+the government of Guinea-Bissau and the Local Education Group (LEG) to reduce the impact of the 
+coronavirus on the education of children in the country by ensuring safe school operations and the 
+continuity of learning and well-being for children and youth, especially for the most vulnerable affected 
+by the outbreak. 
+This included the following specific objectives: i) To support response coordination and real-time 
+monitoring (focusing on the most vulnerable);ii) To ensure safe school operations including through 
+hygiene supplies and risk communication; iii) To support continuity of learning through access to 
+remote learning programs as appropriate for Guinea Bissau; iv) To scale-up psychosocial, health, 
+WASH, and nutrition services within the Education sector; v) To ensure a safe opening-back of schools 
+through back-to-school campaigns, catch-up classes, and accelerated learning and vi) To codify and 
+disseminate best practice and innovation. 
+1.2. Purpose of the Evaluation 
+The purpose of the evaluation is two-fold: accountability and learning. With regards to accountability, 
+this evaluation will provide both the donor (vertical accountability) and the expected beneficiaries 
+(horizontal accountability) with solid evidence regarding the extent to which the Guinea-Bissau COVID-
+19 Education Sector Response attained its envisaged objectives. As far as learning is concerned, it is 
+expected that the findings will inform the design and execution of new initiatives within the new 
+Country Programme. MEN, UNICEF, LEG partners, and the GPE will use the evidence-based findings to 
+inform and improve the design, implementation, monitoring, and assessment of future development 
+and humanitarian programming in the education sector. 
+1.3. Objectives of the Evaluation 
+The objectives of the evaluation are as follows: 
+1. To determine the relevance, coherence, effectiveness, and efficiency of the Guinea-Bissau 
+COVID-19 Education Sector Response project. 
+2. To identify lessons learning regarding what worked and did not work during the 
+implementation of the project, including unexpected outcomes (positive and negative); 
+
+6 
+ 
+3. To critically analyse the theory of change and the extent to which its planned logical framework 
+and assumptions compare with the actual implementation and the results achieved; 
+4. To assess the extent to which the project integrated equity, human rights, and gender 
+principles into its design, implementation, and monitoring; 
+5. To formulate key recommendations regarding: (1) how to further strengthen the response to 
+the COVID-19 pandemic in Guinea-Bissau; (2) how to prepare for future education in 
+emergency (EiE) situations and make the education sector more resilient; and (3) how to better 
+implement future EiE interventions. 
+1.4. Scope of the Evaluation  
+Regarding the thematic scope, the evaluation all the intervention areas included in the Project. This 
+included not only all the activities directly related to schools and learning, but also to the cross-sectoral 
+interventions supported by the project (for example, cash transfers, nutrition, WASH, and child 
+protection). The geographic scope was national , so the evaluation included national level secondary 
+data, as well as information covering all regions of the country for the document review. The fieldwork 
+included data collection in Bissau, Oio and Bafatá, considering rural and urban regions.  
+Regarding the chronologic scope, the evaluation examined all the activities implemented from the 
+launch of the project in July 2020 until the time of data collection in November 2022. 
+1.5. Criteria and Evaluation Questions 
+In order to fulfil the aim and objectives stated above, this evaluation was guided by five OECD 
+evaluation criteria: (A) relevance; (B) coherence; (C) effectiveness; (D) efficiency; and (E) sustainability, 
+as well as (F) an additional Gender, Equity and Human Rights criterion. In order to clarify how well the 
+Project matched these criteria, a total of 20 questions were formulated, and an evaluation matrix 
+developed accordingly (see Appendix 6). 
+1.6. Methodology 
+Within the overall framework of the Core Commitments for Children in Humanitarian Action (CCC), a 
+mixed-methods approach was used to collect and analyze information for the evaluation, consisting of 
+a desk review, a review of learning and communication materials, secondary quantitative data analysis, 
+and primary qualitative data (semi-structured interviews, direct observation, and focus groups). In 
+total, 66 individuals (10 women, 31 men, 12 girls, and 13 boys) were interviewed in semi-structured 
+interviews or focus groups. 
+Regarding the sampling strategy evaluation opted for a purposeful sampling strategy based on the 
+selected intervention sites in Bissau, Oio and Bafatá. 
+After presenting and receiving feedback on the initial findings, the evaluation conducted a systematic 
+review and analysis of all data, identifying key themes, patterns, relationships, and explanations 
+relevant to the evaluation questions and indicators in the evaluation matrix. The analysis, which was 
+performed manually, compared the project objectives with the actual findings, using the evaluation 
+matrix as a framework to organize data and guide the analysis. The evaluation used different lines of 
+evidence and triangulation of sources. 
+
+7 
+ 
+Data collection and processing were carried out in compliance with the UNEG Ethical Guidelines for 
+Evaluation and its principles. 
+1.7. Presentation of the Main Findings and Conclusions 
+The Guinea-Bissau COVID-19 Education Sector Response project was a “hybrid” project, with both 
+emergency and development aspects. As such, the Project fits with current reforms inspired by the 
+World Humanitarian Summit, which focus on the ongoing quest to find “new ways of working” that 
+bridge humanitarian action, development, peace, and security in a “nexus” approach, amidst 
+protracted global displacement.   
+The evaluation arrived at the following conclusions regarding the relevance, coherence, effectiveness, 
+efficiency, sustainability, as well as gender, equity and human rights: 
+Relevance: The Project was well aligned with the Contingency Plan for the education sector, supporting 
+its main objectives and contributing to all four specific objectives of the Contingency Plan. 
+Furthermore, the Project’s Theory of Change (ToC) was indeed logical and mostly aligned with 
+implementation realities, as all the elements of the ToC were translated into planned project outputs, 
+the majority of which were also implemented. Using the COVID-19 emergency situation as an entry 
+point, the Project looked beyond the short-term impact of the pandemic to address systemic 
+challenges related to the resilience of the education sector through a multi-sectoral approach. 
+However, the Project’s resilience aspect (although it is discussed in the Project document narrative) 
+was not made explicit in the Project objectives However, a few aspects of the ToC were not fully aligned 
+with implementation realities, namely distance learning, recovery classes, and accelerated learning. 
+Given the multitude of supply- and demand-side factors hampering education in Guinea-Bissau, the 
+multi-sectoral approach taken by the Project was highly relevant to tackle these multi-dimensional 
+barriers.  
+Coherence: The Project’s objectives were fully aligned with government priorities and national 
+policies, in particular the national Education Sector Plan 2017-2025 and the Government’s National 
+Contingency Plan, as well as the UNICEF Country Programme Document 2016-2020 and the UNCT’s 
+Socio-economic Response Plan. The Project accelerated other reforms previously discussed by MEN 
+and partners, particularly in relation to the development of a national strategy for distance learning to 
+benefit out-of-school children and the implementation of catch-up programmes to minimize the loss 
+of learning. 
+Effectiveness: By extending emergency-related services to more than 1,500 schools, the Project made 
+an important contribution to ensuring safe schools operations and the continuity of learning. The main 
+objective and half of the specific objectives were nearly fully reached. Three specific objectives were 
+partially reached. In particular, accelerated learning was not fully implemented, while the effectiveness 
+of distance learning was doubtful, given the restricted access and lack of circular learning. Good 
+practice and innovation were addressed only through a brief mid-term evaluation and the present final 
+evaluation. Factors that promoted the effectiveness of the Project were the demonstration of MEN’s 
+commitment (with UNICEF support) to assist schools to remain open, the alignment with the 
+Contingency Plan, the multi-sectoral nature of interventions, and the use of the mWater database. 
+Factors that hindered the effectiveness of the Project were the late recruitment of a full-time project 
+manager, the low absorption and implementation capacity of MEN, leadership turnover in MEN, the 
+lack of water at school level, transportation problems, and the non-availability of previously planned 
+partnerships to conduct a learning assessment. Regarding unexpected outcomes, the Project 
+
+8 
+ 
+facilitated a trusted list of schools for MEN and its partners, fostered the accountability of governance 
+in the education sector, and promoted awareness of the importance of WASH in schools. 
+Efficiency: Considering the challenges to implementation (including low absorption capacity, frequent 
+leadership changes, and customs clearance problems, among others), the timeliness of the Project’s 
+implementation can be considered satisfactory. The largest shares of the budget went to Output 2 
+(Sanitization of schools) and Output 4 (Multi-sectoral services), which is justifiable, given the close 
+linkage between Output 2 and the overall objective of continuing education, and the complexity of a 
+multi-sectoral approach. Due to the high costs involved with water infrastructure, fixed handwashing 
+devices were only installed in 20 schools that already had access to water. This was efficient, even 
+though it may have exacerbated existing inequalities. Furthermore, the efficiency of the Project was 
+facilitated by the installation of the CTIP for coordination and monitoring, synergies with existing 
+initiatives within UNICEF, and the use of mWater as a low-cost tool for the collection, storage, and 
+analysis of cross-sectoral data. 
+Sustainability: The project built logistical capacity for operating in an emergency situation, as well as 
+overall capacity on education in emergencies, for example, through mWater which has alleviated 
+known weaknesses in national education data systems and provided key information on the sector to 
+guide and monitor action going forward. The main coordinating body established by the Project, the 
+CTIP, was recently been entrusted with the responsibility of coordinating the Governing Council of the 
+Ministry of Education and may function as the Education Sector Plan Coordination Committee in the 
+future. Moreover, the agenda in favour of SRGBV, distance learning, and accelerated learning has been 
+advanced as a result of the Project and have improved the capacity of the Education Sector to deal 
+with other types of disruptions to fragile education system, notably teacher strikes, at central level. 
+The sustainability of the Project was further enhanced by directly and indirectly engaging with the 
+Teacher Study Groups (Comissões de Estudos, COMES), the School Management Committees (Comité 
+de Gestão Escolar, COGES), and the parents’ associations (Associação de pais e encarregados de 
+educação de alunos, APEEA), all of which are regulated under MEN norms and standards. However, 
+doubts remain regarding local school administration’s capacity to deal with future emergencies. 
+Equity, gender, and human rights: The Project applied equity considerations in the selection of 
+geographical regions and in the targeting and implementation of the cash transfer initiative. The 
+priority geographical areas selected for the Project included (i) the regions and areas most affected by 
+the spread of COVID-19 and (ii) the regions with the highest number of children out of school. 
+Conversely, efficiency gains may have come at the expense of equity, with regards to the exclusion of 
+households of out-of-school children for the cash transfer, and the installation of fixed handwashing 
+devices in schools that already disposed of access to water. The Project addressed an important set of 
+barriers to girls’ and boys’ school attendance, which had been previously identified as a concern by 
+MEN and its partners, by tackling SRGBV. Generally speaking, the Project promoted the right to 
+education (CRC Art. 28), and the right to health and a safe environment (CRC Art. 24). 
+1.8. Lessons Learned  
+The evaluation identified the following lessons learned: 
+LL1. It is possible to reach the majority of schools in Guinea Bissau with support during an emergency, 
+with sufficient funding.  
+LL2. Tackling multiple barriers to education through a multi-sectoral intervention is an appropriate and 
+feasible approach.  
+
+9 
+ 
+LL3. A complex multi-sectoral project requires a dedicated project manager.  
+LL4. The mWater database proved to be a useful tool for data collection and monitoring in education.  
+LL5. Unconditional cash transfers are a relevant social protection initiative in Guinea-Bissau, but 
+baseline and endline studies for such an initiative should always be carried out within the same school 
+year.  
+LL6. Accelerated learning and distance learning are complex initiatives, which require time to test, 
+develop and assess new tools. 
+LL7. Schools need access to water. Therefore, attention to this aspect of school infrastructure is vital.  
+1.9. Recommendations 
+The following strategic and operational recommendations are supported by findings and conclusions. 
+Strategic recommendation 1: Ensure the integration of mWater with existing systems in MEN, for data 
+collection, planning, and monitoring by designating a focal point in MEN, training MEN staff on mWater 
+and advocating for usage among LEG partners (Users: MEN, UNICEF, LEG) 
+Strategic recommendation 2: Promote regional contingency plans on education in emergencies by 
+developping contingency plans in all 11 educational regions, contextualizing INEE Minimum Standards, 
+working closely with COMES and COGES and promoting a policy to stipulate incentives for teachers to 
+stay in their place of duty in case of school closure ( Users: MEN, UNICEF, LEG) 
+Strategic recommendation 3: Continue efforts to develop and systematize accelerated learning.by 
+considering in depth accelerated learning in the context of the forthcoming national strategy on out-
+of-school children (Users: UNICEF, MEN, LEG) 
+Strategic recommendation 4: Continue efforts to develop and systematize distance learning by 
+conducting a feasibility study for a robust distance education system that includes digital technology, 
+integrating circular learning into distance learning methodologies (i.e., students’ responses) and 
+advocating for inclusion of Project tools in the current and future World Bank project (Users: UNICEF, 
+MEN, LEG) 
+Strategic recommendation 5: Promote water infrastructure in schools by engaging in resource 
+mobilization in favour of schools’ water infrastructure, strengthening the issue of access to water in 
+the Local Education Group and supporting the World Bank to map all school infrastructure. (Users: 
+LEG, UNICEF, MEN ) 
+Strategic recommendation 6: Carry out a study on child labour and school attendance, jointly between 
+UNICEF Education and Child Protection Sections. (Users: UNICEF, MEN, LEG) 
+Strategic recommendation 7: Analyse the reasons for the lack of girls’ enrolment in Oio region, and 
+develop targeted interventions. (Users: UNICEF,MEN, LEG) 
+
+10 
+ 
+Strategic recommendation 8: Engage strategically with teachers’ unions, to create synergies and avoid 
+duplication of efforts, for example, in the provision of materials during an emergency. (Users: UNICEF, 
+LEG) 
+Operational recommendation 1: Identify "champions" among COGES, and promote peer-to-peer 
+education with other COGES, in order to promote good practice regarding school management, 
+particularly during an emergency. (Users: UNICEF, MEN) 
+Operational recommendation 2: Provide further support for community volunteers, particularly with 
+regards to distance learning, and monitor and evaluate their engagement, in order to strengthen the 
+link between schools and communities and to better prepare for an emergency. (Users: UNICEF, MEN) 
+ 
+ 
+ 
+ 
+ 
+
+11 
+ 
+2. Evaluation Context 
+The coronavirus disease 2019 (COVID-19) was declared by the World Health Organization (WHO) as a 
+public health emergency of international concern under the International Health Regulations, and on 
+March 11, 2020, as a pandemic. The COVID-19 pandemic has disrupted learning for over 89% of the 
+world’s student population. For more than 1.5 billion children in 188 countries, education has been 
+interrupted. The gains in expanding access to education and improving the quality of education were 
+in risk in being permanently compromised. 
+In Guinea-Bissau, the first cases of COVID-19 were recorded on 24 March 2020. Two years later, the 
+country recorded 8,186 positive cases, including 171 deaths. The capital Bissau and the regions of 
+Biombo and Bafatá remain the most affected. The most affected age group is 25-34 years old, followed 
+by 35-44 years old and, the disease seems to affect men more than women. When the first cases of 
+COVID-19 were detected in Guinea-Bissau, all educational institutions (from pre-school to higher 
+education) closed, reducing the learning time of students already affected by long and frequent 
+teacher strikes. 
+COVID-19 has indeed exacerbated a deep learning crisis. In Guinea-Bissau, 1 in 4 children of primary 
+school age (6-14 years) were out of school before the advent of COVID-19. When they are in school, 
+the level of achievement in school content is generally very low. The MICS data showed that only 1 in 
+10 children aged 7- 14 had mastery of basic literacy and numeracy skills. 
+In Guinea-Bissau, the education system faces many challenges: the system lacks inclusive and safe 
+school infrastructures, qualified human resources (a good proportion of the teaching staff have 
+no/limited background in pedagogy) and didactic and pedagogical resources. In recent years, teachers’ 
+strikes have occurred more frequently and for longer durations, increasing the number of out-of-
+school children and the risk of permanent drop-out. 
+For children, the lack of access to education can have lifelong impacts, creating a widening gap in 
+learning and reducing their ability to acquire skills that increase their employability. The World Bank 
+estimates that there will be a loss of income of US$10 trillion for the current cohort of children if this 
+learning crisis is not addressed. 
+To address these challenges in Guinea-Bissau, it was important to act on several levels and find 
+educational alternatives that allow out-of-school children to acquire foundational skills for their 
+personal and social development. With funding from the Global Partnership for Education, UNICEF 
+Guinea-Bissau has therefore supported the scaling up of the education sector response to mitigate the 
+impacts of the crisis on access and learning. 
+3. Evaluation Object  
+Guinea-Bissau received an emergency funding from the Global Partnership for Education (GPE) for a 
+total amount of USD 3,5 million. Initially designed to run for 18 months (from July 2020 to December 
+2021), the implementation cycle of the interventions covered by this funding was extended twice by a 
+total of ten months, until the end of October 2022.  
+The main objective of the Guinea-Bissau COVID-19 Education Sector Response project was to support 
+the government of Guinea-Bissau and the Local Education Group (LEG) to reduce the impact of the 
+coronavirus on the education of children in the country by ensuring safe school operations and the

@@ -1,0 +1,663 @@
+FINAL REPORT  
+EVALUATION 
+ 
+1 
+ 
+Formative Evaluation of the UNICEF 
+Eastern Caribbean Multi-Country 
+Programme 2017-2021 
+ 
+Final Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for // UNICEF LACRO/ECA 
+By // IOD PARC 
+Date // 14 July 2021 
+ 
+IOD PARC is the trading name of International 
+Organization Development Ltd 
+Omega Court 
+362 Cemetery Road 
+Sheffield 
+S11 8FT 
+United Kingdom 
+Tel: +44 (0) 114 267 3620 
+www.iodparc.com 
+
+FINAL REPORT  
+EVALUATION 
+ 
+2 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS  
+ 
+TABLE OF CONTENTS ............................................................................................................................ 2 
+ACRONYMS ............................................................................................................................................... 6 
+EXECUTIVE SUMMARY .......................................................................................................................... 9 
+1. 
+EASTERN CARIBBEAN AREA (ECA) CONTEXT .................................................................. 16 
+1.1 
+SOCIAL POLITICAL AND ECONOMIC CONTEXT RELATED TO CHILD 
+PROTECTION IN ECA REGION ...................................................................................................... 16 
+1.2 
+CONTEXTUAL CHANGES DURING THE CPD IMPLEMENTATION ......................... 18 
+1.3 
+CHILD RIGHTS IN THE SUB-REGION ............................................................................... 19 
+1.4 
+CLIMATE CHANGE ................................................................................................................. 22 
+1.5 
+MIGRATION .............................................................................................................................. 22 
+1.6 
+COVID-19 .................................................................................................................................. 22 
+2. 
+OBJECT OF THE EVALUATION ............................................................................................... 25 
+3. 
+PURPOSE OF THE EVALUATION ........................................................................................... 28 
+4. 
+OBJECTIVES OF THE EVALUATION ...................................................................................... 29 
+5. 
+SCOPE OF THE EVALUATION ................................................................................................ 29 
+5.1 
+EVALUATION CRITERIA ........................................................................................................ 30 
+5.2 
+EVALUATION QUESTIONS AND EVALUATION FRAMEWORK ............................... 31 
+5.3 
+INDICATORS ............................................................................................................................ 32 
+6. 
+METHODOLOGY ......................................................................................................................... 33 
+6.1 
+EVALUATION DESIGN AND METHODS .......................................................................... 33 
+6.2 
+SAMPLING ................................................................................................................................ 34 
+6.3 
+MEASURES TO ENSURE DATA QUALITY ........................................................................ 35 
+6.4 
+DATA ANALYSIS ..................................................................................................................... 36 
+6.5 
+LIMITATIONS AND MITIGATION MESAURES .............................................................. 37 
+6.6 
+EVALUATION NORMS AND ETHICAL CONSIDERATIONS ....................................... 39 
+7. 
+FINDINGS ...................................................................................................................................... 41 
+7.1 
+RELEVANCE TO CIRCUMSTANCES IN THE 12 EASTERN CARIBBEAN 
+COUNTRIES AND TERRITORIES .................................................................................................... 41 
+7.3 
+EFFECTIVENESS ....................................................................................................................... 45 
+7.3.1 
+Life-long learning ............................................................................................................... 46 
+
+FINAL REPORT  
+EVALUATION 
+ 
+3 
+ 
+7.3.2 
+Security and Justice for Children .................................................................................. 52 
+7.3.3 
+Social inclusion and child rights monitoring ............................................................ 60 
+7.3.4 
+EXTERNAL CHALLENGES TO UNICEF ECA RESULTS .............................................. 63 
+7.3.5 
+INTERNAL FACTORS IN ACHIEVING UNICEF ECA MCP RESULTS .................... 65 
+7.4 
+COHERENCE ............................................................................................................................. 70 
+7.5 
+SUSTAINABILITY ..................................................................................................................... 79 
+7.6 
+GENDER, YOUTH AND CLIMATE CHANGE ................................................................... 81 
+8. 
+CONNECTEDNESS ..................................................................................................................... 84 
+9. 
+CONCLUSIONS ........................................................................................................................... 91 
+10. 
+LESSONS LEARNED ................................................................................................................... 91 
+11. 
+RECOMMENDATIONS .............................................................................................................. 94 
+ANNEXES ........................................................................................ Error! Bookmark not defined. 
+ANNEX 1: TERMS OF REFERENCE ......................................... Error! Bookmark not defined. 
+ANNEX 2: TOC .............................................................................. Error! Bookmark not defined. 
+3.2: REVIEW OF MCP TOC .................................................... Error! Bookmark not defined. 
+3.3: ASSUMPTIONS ................................................................. Error! Bookmark not defined. 
+3.4 “STRAWMAN” TOC .......................................................... Error! Bookmark not defined. 
+ANNEX 3: LIST OF DOCUMENTS REVIEWED ..................... Error! Bookmark not defined. 
+ANNEX 4: LIST OF PEOPLE INTERVIEWED .......................... Error! Bookmark not defined. 
+ANNEX 4: SCHEDULE OF EVALUATION .............................. Error! Bookmark not defined. 
+ANNEX 5: UNICEF OFFICE FOR THE EASTERN CARIBBEAN AREA MULTI-COUNTRY 
+PROGRAMME OF COOPERATION 2017-2021. ORGANIZATION CHART- PROPOSED 
+STRUCTURE. .................................................................................. Error! Bookmark not defined. 
+ANNEX 6: DATA COLLECTION TOOLS ................................. Error! Bookmark not defined. 
+ANNEX 7: SUMMARY OF EVALUATION FRAMEWORK . Error! Bookmark not defined. 
+
+FINAL REPORT  
+EVALUATION 
+ 
+4 
+ 
+ 
+ 
+List of Figures 
+ 
+Figure 1: Distribution of children in the UNICEF ECA .................................................................................................. 16 
+Figure 2: National child protection legislation by country/territory (OECS Member States only) ............. 19 
+Figure 3: Realization of Children’s Rights Index by OECS Member States* ........................................................ 20 
+Figure 4: Current MCP Theory of change ......................................................................................................................... 26 
+Figure 5: Data analysis model ................................................................................................................................................ 36 
+Figure 6: Caribbean Disaster Events .................................................................................................................................... 43 
+Figure 7: Perceived Internal Challenge of UNICEF ECA ............................................................................................... 66 
+Figure 8: Stakeholder analysis ............................................................................................................................................... 73 
+Table 13: Level of stakeholder engagement across geographies ........................................................................... 74 
+Figure 9: UNICEF ECA Participatory Partnership Ranking .......................................................................................... 76 
+Figure 10: Engagement with Stakeholders ....................................................................................................................... 78 
+Figure 11: Participatory assessment of scale and sustainability .............................................................................. 80 
+Figure 12: Conceptual Framework and programme ToC ................................ Error! Bookmark not defined. 
+Figure 13: Rights-based approach ............................................................................ Error! Bookmark not defined. 
+ 
+List of Tables 
+ 
+Table 1: Selected socio-economic indicators for 12 countries and territories ................................................... 17 
+Table 2 Gender inequality index by country: ................................................................................................................... 21 
+Table 3: COVID-19 cases/deaths in eastern Caribbean (as of 6 April 2021) ....................................................... 23 
+Table 4: UNICEF ECA MCP Fund Utilization 2017 -2020 ............................................................................................. 27 
+Table 5: Final Sample ................................................................................................................................................................ 35 
+Table 6: Strength of evidence ratings................................................................................................................................. 37 
+Table 7: Relevant strategies and policies of the OECS ................................................................................................ 41 
+Table 8: Enrolment in ECE institutions, public and private ........................................................................................ 48 
+Table 9: Cases of physical, sexual and emotional violence and neglect reported to authorities, 2018 ... 53 
+Table 10: National Child Protection Legislation (OECS only ................................................................. 55 
+Table 11: Status on Legal Abolition of Corporal Punishment............................................................... 57 
+Table 12: Child Indigence and poverty rates in the ECA ............................................................................................. 61 
+Table 13: Eastern Caribbean Humanitarian Situation January 2018 ...................................................................... 89 
+Table 14: Prioritized MCP-E Recommendations ............................................................................................................ 94 
+ 
+ 
+
+FINAL REPORT  
+EVALUATION 
+ 
+5 
+ 
+List of Boxes  
+Textbox 1: Violence against Women and Girls in the Caribbean ............................................................................ 58 
+Textbox 2: COVID-19 and UN agency coordination ..................................................................................................... 77 
+Textbox 3: Prevalence of Violence Against Women (VAWG) in the Caribbean: ................................................ 82 
+Textbox 4: The Spotlight Initiative ....................................................................................................................................... 83 
+Textbox 5: Confronting norms ................................................................................... Error! Bookmark not defined. 
+ 
+ 
+
+FINAL REPORT  
+EVALUATION 
+ 
+6 
+ 
+ 
+ 
+ACRONYMS 
+ 
+ACT 
+Advocacy Capacity Tool 
+ALNAP 
+Active Learning Network for Accountability and Performance 
+CARICOM 
+Caribbean Community  
+CDB 
+Caribbean Development Bank 
+CDEMA 
+Caribbean Disaster Emergency Management Agency 
+CEDAW 
+CMCO 
+Convention on the Elimination of All Forms of Discrimination against Women 
+Conditional Movement Control Order 
+CRC 
+Convention on the Rights of the Child 
+COVID-19 
+Coronavirus disease 2019 
+CPE 
+Country Programme Evaluation 
+CPMP 
+Country Programme Management Plan 
+CRPD 
+Convention on the Rights of Persons with Disabilities 
+CSEC 
+Caribbean Secondary Education Certificate 
+CWI 
+Cricket West Indies 
+DFID 
+Department for International Development (UK) 
+DRR 
+Disaster risk reduction 
+EAPRO 
+East Asia and Pacific Regional Office 
+ECA 
+Eastern Caribbean Area 
+ECD 
+Early Childhood Development 
+ECPAT 
+End Child Prostitution and Trafficking 
+ECSC 
+Eastern Caribbean Supreme Court 
+EMG 
+Evaluation Management Group 
+ERG 
+Evaluation Reference Group 
+ERIC 
+Ethical Research Involving Children 
+ESRC 
+Economic and Social Research Council 
+EU 
+European Union 
+FCO 
+Foreign and Commonwealth Office 
+FGD 
+Focus Group Discussion 
+GDP 
+Gross Domestic Product 
+GEEW 
+Gender equality and empowerment of women  
+GEROS 
+Global Evaluation Reports Oversight System 
+GESI 
+Gender and social inclusion 
+GNI 
+Gross National Income 
+GPR 
+Gender Programmatic Review 
+GSHS 
+Global School-Based Health Survey 
+HDI 
+Human Development Index 
+IAWGCP 
+Inter-Agency Working Group on Children’s Participation  
+ILO 
+International Labor Organization 
+IMF 
+International Monetary Fund 
+IOM 
+International Organization for Migration 
+IFRC 
+International Federation of Red Cross and Red Crescent Societies 
+
+FINAL REPORT  
+EVALUATION 
+ 
+7 
+ 
+IPV 
+Intimate partner violence 
+IRB 
+Internal Review Board 
+IT 
+Information technology 
+ITU 
+International Telecommunication Union 
+JECT 
+Joint Emergency Cash Transfer  
+KII 
+Key informant interview 
+LACRO 
+(UNICEF) Latin America and Caribbean Regional Office 
+LWC 
+Living Water Community 
+MCP 
+Multi-Country Programme 
+M-CPD 
+Multi-Country Programme Document 
+M-CPE 
+Multi-Country Programme Evaluation 
+MEL 
+Monitoring, evaluation, learning 
+OECD/DAC 
+Organization for Economic Cooperation and Development/ Development Assistance 
+Committee 
+OECS 
+Organization of Eastern Caribbean States  
+PAHO 
+Pan-American Health Organization 
+PWD 
+Persons with disabilities 
+QA 
+Quality assurance 
+RF 
+Regulatory Framework 
+SAMOA 
+Small Island Developing States Accelerated Modalities of Action 
+SDG 
+Sustainable Development Goal 
+SIDS 
+Small Island Developing States 
+SMART 
+Specific, Measurable, Achievable, Realistic, Timely 
+SMR 
+Strategic Moment of Reflection 
+SNA 
+Social network analysis 
+SP 
+Social Protection 
+ToC 
+Theory of Change 
+UK 
+United Kingdom 
+UN 
+United Nations 
+UNCT 
+United Nations Country Team 
+UNCRC 
+UN Convention on the Rights of the Child 
+UNDAF 
+United Nations Development Assistance Framework 
+UNDP 
+United Nations Development Programme 
+UNECLAC 
+United Nations Economic Commission for Latin America and the Caribbean 
+UNEG 
+United Nations Evaluation Group 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization 
+UNFPA 
+United Nations Population Fund 
+UNHCR 
+United Nations High Commissioner for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UN-MSDF 
+United Nations Caribbean Multi-Country Sustainable Development Framework 
+UNRCO 
+United Nations Resident Coordinator Office 
+UNSDCF 
+UN Sustainable Development Cooperation Framework 
+UNWOMEN 
+United Nations Entity for Gender Equality and the Empowerment of Women 
+US 
+United States 
+USAID 
+United States Agency for International Development 
+
+FINAL REPORT  
+EVALUATION 
+ 
+8 
+ 
+USD 
+United States Dollar 
+VAWG 
+Violence against women and girls 
+VPN 
+Virtual Private Network 
+WB 
+World Bank 
+WFP 
+World Food Programme 
+WHO 
+World Health Organization 
+ 
+ 
+ 
+
+FINAL REPORT  
+EVALUATION 
+ 
+9 
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+Background and context  
+The 12 countries and territories1 covered by the United Nations Children’s Fund (UNICEF) Eastern 
+Caribbean Area (ECA) Office are Small Island Developing States (SIDS) comprising about 2.3 million 
+people, of which 27 per cent are children. All 12 of these countries and territories are classified as high 
+or upper-middle-income and as ‘very high’ and ‘high’ on the Human Development Index (HDI). Most 
+countries in the sub-region carry a high debt burden. Public debt reduces state spending on essential 
+public services, which is further exacerbated by the ongoing coronavirus disease 2019 (COVID-
+19) pandemic.  
+ 
+Evaluation Object  
+The object of the evaluation was the 2017-2021 UNICEF Eastern Caribbean Multi-Country Programme 
+(MCP). It covered 12 countries and territories in the sub-region, with an overall budget of about USD 40 
+million.  
+ 
+The 2017-2021 UNICEF Eastern Caribbean MCP has been developed in alignment with the UN 
+Caribbean Multi-country Strategic Development Framework (UN-MSDF) 2017-2021 priorities: (a) an 
+inclusive, equitable and prosperous Caribbean; (b) a safe, cohesive and just Caribbean; and (c) a 
+sustainable and resilient Caribbean. The programme is defined in the context of the 2030 Agenda for 
+Sustainable Development, the Small Island Developing States Accelerated Modalities of Action 
+(SAMOA) Pathway and national and regional frameworks. 
+ 
+The overall goal of the 2017-2021 MCP was “an Eastern Caribbean where no child lives in poverty, all 
+children achieve minimum academic qualifications in a quality, protective and resilient learning 
+environment and free from violence, neglect, exploitation and abuse.” Three outcomes were designed 
+to contribute to this goal:  
+• 
+By 2021, 10% more children and adolescents, particularly boys, access equitable, healthy, safe 
+and protective learning environments in development and humanitarian contexts  
+• 
+30% more vulnerable and poor households – particularly female-headed and large 
+households - have access to quality social services 
+• 
+All girls and boys (in and outside humanitarian situations) grow up healthy, resilient and 
+benefit from improved parenting practices and strengthened child protection systems 
+ 
+There was an unequivocal UNICEF ECA demand to revisit the UNICEF M-CPD, including its 
+achievements, but also its ability to adapt and flex to unexpected contextual changes, whether climate 
+change, migration or the COVID-19 pandemic, among other, inevitable crises, including health crises. 
+The recent eruption of the Soufriere volcano in Saint Vincent and the Grenadines is only one example 
+of these challenges. There is great emphasis now also on “building back better,” increasing the resilience 
+of the SIDS to inevitable future challenges.   
+  
+Evaluation Purpose, Objectives, Scope and Intended Audiences  
+The purpose of this M-CPE was to supports UNICEF learning efforts in enhancing the relevance and 
+effectiveness of UNICEF programmes in the Eastern Caribbean Area (ECA), particularly by informing the 
+development of the next Multi-Country Programme 2022-2026. 
+ 
+The objectives of the evaluation were as follows:  
+
+FINAL REPORT  
+EVALUATION 
+ 
+10 
+ 
+• 
+To assess the relevance, effectiveness, coherence and sustainability of the 2017-2021 
+UNICEF, MCPD and implementation with a particular focus on relevance and connectedness 
+and a formative and forward-looking focus on the current and evolving ECA context.  
+• 
+To take stock of the progress made towards the attainment of the development and 
+humanitarian results, including effects in addressing disparities and inequities; and identify 
+the most effective implementation strategies and partnerships for UNICEF ECA to adopt for 
+the next phase of programme development.  
+• 
+To determine how UNICEF can most effectively position itself, build on its comparative 
+advantage, and provide specific recommendations to improve the design and relevance of 
+the 2022-2026 MCP in the ECA and UN-MSDCF.  
+  
+The evaluation Terms of Reference served as the basis for the thematic, geographic and chronological 
+aspects of the scope of work. This included its three main components, with a deeper dive into the 
+issues of child protection, violence and resilience, as well as the UNICEF hurricane and migration 
+response, also in relation to the COVID-19 crisis. While the MCP generally aimed to implement the 
+identified priorities and components across the 12 countries and territories, the evaluation also 
+identified specific case studies on the selected themes described above, in three chosen countries, the 
+British Virgin Islands, Dominica, as well as Trinidad and Tobago. It covered three and a half years of the 
+MCP, from the beginning of the current MCP and UN-MSDF to April 2021.   
+  
+The primary audience of the evaluation was UNICEF ECA Multi-Country Office (MCO) and UNICEF Latin 
+America and the Caribbean Regional Office (LACRO), with interest also from UNICEF HQ, UNICEF donors, 
+and other UN agencies, as well as the sub-regional organizations, governments and civil society 
+organizations implementing related interventions in the 12 countries and territories.  
+   
+Methodology    
+The design of the evaluation was non-experimental and theory based, applying contribution analysis 
+and utilization focused, participatory mixed-methods that included both quantitative and qualitative 
+data in 
+assessing 
+the 
+effectiveness 
+of 
+the 
+UNICEF 
+MCP 
+approaches 
+adopted 
+in 
+the 
+current programme cycle against their intended aims. The formative aspect of the evaluation allowed 
+for conclusions to be drawn on the MCP conceptual framework and UNICEF’s Theory of Change (ToC) 
+related to how MCP would achieve the goals they were intended for. The theory-based approach was 
+further strengthened by describing similar interventions, notably child protection and disaster risk 
+reduction (DRR) in the British Virgin Islands, Dominica, and Trinidad and Tobago. The selected case 
+study themes particularly explored the adaptation and flexibility of the MCP to intransigent problems 
+such as violence and the increasingly frequent crises facing the region.  
+ 
+The evaluation relied substantially on secondary data sources, where these were made available to the 
+evaluation team. Primary data collection methods enhanced existing data or covered identified gaps 
+and priorities and included the following:   
+ 
+• 
+Perception survey (e-survey)   
+• 
+Key informant interviews (KIIs) 
+• 
+Group interviews  
+ 
+Overall, the evaluation sought to improve data quality through the triangulation of findings. This 
+evaluation was conducted remotely in a context of restrictions imposed by the COVID-19 pandemic.   
+  
+ 
+ 
+ 
+
+FINAL REPORT  
+EVALUATION 
+ 
+11 
+ 
+ 
+Key Findings 
+Evaluation question 1:  To what extent did the MCP objectives (including any adjustment of objectives) 
+and UNICEF-supported interventions remain appropriate and relevant to the changing circumstances 
+in the 12 Eastern Caribbean countries and territories? 
+Main findings: While the original MCP objectives and outcomes were well aligned with both sub-
+regional and the priorities of the supported countries and territories, based on document review, e-
+survey and interview data, to a degree, they had to be set-aside to due to the need to react to the 
+sudden-onset disasters, whether hurricanes, COVID-19 or most recently, the volcanic eruption in Saint 
+Vincent and the Grenadines. The MCP was able to adapt and flex to both the specific national priorities 
+of supported countries and territories, as well as to the more immediate needs imposed by these 
+disasters, but the nexus between developmental and humanitarian work is not yet fully integrated, 
+based on a review of the MCP TOC and interviews.  
+ 
+Evaluation question 2: To what extent did the MCP objectives (including any adjustment of objectives) 
+and UNICEF-supported interventions remain appropriate and relevant to the needs of children and 
+young people, especially the most marginalized? 
+Main findings: While the MCP prioritized addressing the needs of the most marginalized and 
+vulnerable children, UNICEF relied primarily on governments to identify these populations (with the 
+exception of Trinidad and Tobago) and major data gaps existed on identifying the poorest and 
+especially ‘invisible’ or ‘unaccounted’ children, based on a review of poverty data, as well as interviews. 
+The COVID-19 crisis has generated a new group of marginalized children, but again with limited data.  
+Strength of evidence: Medium (Low on disability) 
+ 
+Evaluation question 3: What are the major factors influencing the achievement (or not) of the MCP 
+outputs? (e.g. (a) external factors - political, social, economic; (b) internal factors – implementation 
+model/structure, quantity, quality, timeliness of delivery). What influence did these factors have on 
+achievement (or not) of MCP outcomes? 
+Main findings:  
+Progress on original MCP outcomes is mixed, based particularly on UNICEF ECA project monitoring 
+and reporting data. Primarily this was due to the need to recurrently redirect resources to crisis 
+management, but also due to the highly ambitious and comprehensive MCP, which was not fully 
+aligned with the means of UNICEF ECA, as indicated through consultations with UNICEF ECA staff in 
+particular. More progress was made in outcome areas, namely in life-long learning that utilized the full 
+suite of UNICEF strategies, including evidence-based advocacy for policy change, communication 
+strategies to influence behavior change and actual service provision, over a long time period. While 
+some progress was made in the promotion of child protection legislation, actual implementation was 
+constrained by institutional capacity, as well as deeply entrenched norms that held-back the behavior 
+change required. The Multiple Indicator Cluster Survey (MICS) demonstrated that the influence of 
+evidence alone on government strategies and policies was more mixed, with a particular weakness 
+identified in influencing public expenditure for children. While tracking public expenditure for children 
+was a key indicator in the MCP results framework, related data was not systematically collected and 
+analyzed. Generally, monitoring and evaluation, especially data quality remained a concern across the 
+main outcome areas, with limited adaptation made to these efforts despite the major challenges 
+posed by the recurrent crises in the region. 
+(See below for main findings in the three MCP components)  
+ 
+Strength of Evidence: Medium 
+ 
+ 
+ 
+
+FINAL REPORT  
+EVALUATION 
+ 
+12 
+ 
+Main findings:  
+Education 
+Progress on original MCP learning outcomes was mixed, based namely on OECS education statistics 
+from the sub-region, due to the need to shift attention and human resources to disaster response, 
+according to interviews. 
+  
+Further progress was made on the availability and quality of early childhood development and positive 
+behavioral management, the former employing the full suite of UNICEF strategies, from policy advocacy 
+to the actual provision of related services, but no effect has yet been felt on school retention rates, 
+especially of more marginalized boys, based on a review of OECS data, the e-survey and interviews. 
+While initiatives beyond ECD and positive behavioral management may have responded to real 
+government needs, they were more piece-meal, based on a review of UNICEF ECA reporting.  
+Strength of Evidence: High 
+ 
+Main findings:  
+Child protection 
+While UNICEF has a unique mandate and clear value proposition on the promotion of child protection, 
+there has been limited progress in reducing child abuse and violence against children, based on 
+available data on related cases. While some progress has been made on legislation (e.g. in Saint Lucia 
+and Trinidad and Tobago), actual implementation is constrained by institutional capacity, as well as 
+deeply entrenched norms in the small communities, based on interviews.  
+In addition to promoting related policy change, UNICEF ECA has particularly utilized communications 
+for development to promote related awareness among children, youth, caregivers and the broader 
+population, based on UNICEF ECA reporting and interviews. There are particular challenges related to 
+the time required for awareness raising to influence behavior and underlying norms, as well as 
+measurement issues with assessing related behavior change.  
+Strength of Evidence: Medium 
+ 
+Main findings:  
+Social inclusion and child rights monitoring 
+The flagship data UNICEF data product has been the Multiple Indicator Cluster Survey (MICS), though 
+its influence, along with other produced data and evidence on government strategies and policies is 
+more mixed, based on interview data. UNICEF advocacy for the increase of public expenditure for 
+children is a particular weakness, with also no data regularly gathered on related government 
+commitments by UNICEF ECA. UNICEF has been extending its mandate into social protection, especially 
+through the use of its DRR support as a catalyst for broader policy reform (e.g. British Virgin Islands, 
+Dominica) but its mandate and added-value, also in relation to that of other UN agencies remains less 
+clear, based on other evaluations and interview data. 
+Strength of Evidence: Medium 
+ 
+Evaluation question 4: What is UNICEF’s added value in the 12 Eastern Caribbean countries/territories 
+– particularly in comparison to other UN agencies? Are these strengths a result of UNICEF corporate 
+features or are they specific to the multi-country Office? 
+Main findings: 
+The M-CPD and ToC did not sufficiently capture UNICEF added-value, especially the interlinkages and 
+synergies between upstream and downstream approaches and between inside-track and outside track 
+advocacy; the latter being closely linked to the UNICEF established “brand” and excellent 
+communications, which are among its global assets, based on the e-survey and interview data. 
+Strength of Evidence: Medium

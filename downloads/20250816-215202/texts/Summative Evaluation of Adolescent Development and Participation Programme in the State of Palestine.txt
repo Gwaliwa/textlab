@@ -1,0 +1,689 @@
+Title  
+Summative Evaluation of Adolescent Development and 
+Participation Programme in the State of Palestine  
+Country  
+State of Palestine 
+Evaluation 
+Timeframe 
+ 2018 - 2021 
+Evaluation 
+Execution 
+September 2022 to July 2023 
+Date of the report 
+Draft Report: May 6, 2023 
+Revised Report: June 4, 2023 
+Revised Report: July 14, 2023 
+Final Report: July 31, 2023 
+Evaluation 
+Organisation  
+AAN Associates 
+Organisation 
+commissioning the 
+evaluation  
+UNICEF in the State of Palestine 
+UNICEF staff 
+contact point for the 
+evaluation 
+Shereen Obaid, Monitoring and Evaluation Specialist in 
+UNICEF SoP 
+Iain Murray, Chief of Planning, Monitoring and Evaluation 
+in UNICEF SoP 
+
+ACKNOWLEDGEMENTS 
+The evaluation team would like to express its sincere appreciation to all those who contributed to 
+the successful completion of this evaluation. We extend our heartfelt gratitude to the Evaluation 
+Steering Group (ESC) members, especially representatives from the Ministry of Education (MoE) 
+and Ministry of Social Development (MoSD) for their oversight, facilitation, and invaluable inputs.  
+We would like to acknowledge UNICEF in the State of Palestine for their trust and unwavering 
+support throughout the evaluation. We extend our special thanks to Shereen Obaid, Iain Murray, 
+Maysoon Obeidi, Panji Catherine Chamdimba, and Nesma Siam for their guidance, continuous 
+support and contributions. 
+We would also like to thank our national partner, RAI Consults, and our local consultants, Samira 
+Abu Aisha and Zuhair Allyan, for leading data collection, even amidst challenging conditions. Our 
+gratitude also goes to the AAN Pakistan-based team, including Hamna Ishaq, Faisal Shahzad, Ali 
+Yaseen Khan, Ayesha Javaid, Zosheen Riaz, Sadia Atta, Sara Anwer and Inaam ul Haq, for their 
+hard work and dedication. 
+Finally, we extend our deepest appreciation to the communities in State of Palestine who 
+participated in this evaluation and shared their experiences and suggestions. Education and CP 
+for adolescents are crucial for enabling them to realize their full potential and offer them safe and 
+protected environments. We wish the State of Palestine and UNICEF all the best in their ongoing 
+work and partnership to improve the lives of Palestinian children. 
+ 
+ 
+ 
+ 
+  
+  
+  
+On behalf of the Evaluation Team  
+  
+Nadeem Haider   
+Chief Executive Officer 
+AAN Associates  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: This report has been commissioned by UNICEF by Ann Associates. The views expressed in this publication are those of 
+the authors and do not necessarily reflect the views or policies of UNICEF, the United Nations or any of its affiliated organizations. 
+UNICEF is not responsible for any inaccurate or libellous information or the erroneous use of information. 
+
+ACRONYMS 
+Acronym 
+Description 
+AAP 
+Accountability to Affected Populations 
+ADAP 
+Adolescent Development and Participation Programme 
+APD 
+Area Programme Document  
+BRAVE  
+Building Resilience and Addressing Violence from Early years through Adolescence 
+CBO 
+Community Based Organisations 
+CCA 
+Common Country Analysis 
+CP 
+Child Protection 
+CPAP 
+Country Programme Action Plan  
+CRC 
+Convention on the Rights of the Child 
+CSO 
+Civil Society Organisation 
+DAC 
+Development Assistance Committee 
+DEAL 
+Digital Entrepreneurial Adolescent Leaders 
+ECD 
+Early Child Development 
+ECHO 
+European Civil Protection and Humanitarian Aid Operations 
+ERDB 
+Evaluation and Research Database 
+ESC 
+Evaluation Steering Committee 
+EvalNet 
+Network on Development Evaluation 
+FACE 
+Funding Authorization and Certification of Expenditures  
+FGD 
+Focus Group Discussion 
+GEROS 
+Global Evaluation Reports Oversight System 
+HRBA 
+Human Rights Based Approach 
+IEC 
+Information, Education, and Communication 
+IR 
+Inception Report 
+IP 
+Implementing Partners  
+KII 
+Key Informant Interviews 
+LSCE 
+Life Skills and Citizenship Education 
+M&E 
+Monitoring and Evaluation 
+MENA 
+Middle East and North Africa 
+MICS 
+Multiple Indicator Cluster Survey 
+MoE 
+Ministry of Education 
+MoSD 
+Ministry of Social Development  
+NFSI 
+Nutrition Friendly School Initiative 
+NGO 
+Non-governmental Organisations 
+NIS 
+New Israeli Shekel 
+NIVACS 
+National Inter-sectoral Violence against Children Strategy 
+NYVSP 
+National Youth Volunteer Services Programme 
+OECD 
+Organisation of Economic Cooperation and Development 
+OOS 
+Out of School 
+OOSC 
+Out of School Children 
+PCBS 
+Palestinian Central Bureau of Statistics 
+PMO 
+Prime Minister’s Office 
+PRIMED 
+Planning, Research, Monitoring, Evaluation, and Data 
+RAM 
+Result Assessment Module 
+SBC 
+Social and Behaviour Change 
+SDG 
+Sustainable Development Goals 
+SoP 
+State of Palestine 
+SoPCO 
+State of Palestine Country Office 
+ToC 
+Theory of Change 
+ToR 
+Terms of Reference 
+TVET 
+Technical Vocational Education and Training 
+UN 
+United Nations 
+UNDP 
+United Nations Development Programme 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNICEF  
+United Nations Children’s Fund 
+UNRWA 
+United Nations Relief and Works Agency 
+UN-SWAP 
+United Nations System-Wide Action Plan  
+VAC 
+Violence against Children 
+WASH 
+Water, Sanitation and Hygiene 
+
+GLOSSARY  
+Term 
+Description 
+Accountability 
+Principles 
+The UN defines accountability principles as the responsibility of individuals, organisations, 
+and institutions to be answerable for their decisions and actions, ensuring transparency in 
+decision-making, following established rules and procedures, being accountable to 
+stakeholders, monitoring and reporting performance, and taking corrective action when 
+necessary. Accountability is a vital component of good governance and promotes trust and 
+sustainable development.1 
+Adolescents 
+Adolescents with disabilities, special needs, and those who have dropped out of school for 
+various reasons. 
+Child Protection 
+UNICEF uses the term ‘child protection’ to refer to prevention and response to violence, 
+exploitation, and abuse of children in all contexts. This includes reaching children who are 
+especially vulnerable to these threats, such as those living without family care, on the 
+streets or in situations of conflict or natural disasters.2 
+Civil Society 
+Organisation 
+(CSO) 
+A CSO is any non-profit, voluntary citizens’ group which is organized on a local, national, 
+or international level.3 
+Contribution 
+Analysis 
+Contribution analysis explores attribution through assessing the contribution a programme 
+is making to observed results.4 
+Global Evaluation 
+Reports Oversight 
+System (GEROS) 
+The GEROS system consists of systematic and independent quality assessment of 
+evaluation reports that have been uploaded to the corporate Evaluation and Research 
+Database (ERDB) by UNICEF Country Offices, Regional Offices, HQ divisions and 
+Evaluation Office. The purpose of the Global Evaluation Reports Oversight System 
+(GEROS) is to support and strengthen the evaluation function to meet and exceed United 
+Nations Evaluation Group (UNEG) standards, UN System Wide Action Plan (UN-SWAP) 
+on gender equality and other UNICEF commitments (including equity and human-rights 
+based approaches).5 
+Hackathons 
+A hackathon is an event that brings together experts and creates a collaborative 
+environment for solving a certain problem. While the majority of hackathons revolve around 
+computer programming and IT, many other industries follow suit.6  
+Humanitarian 
+Action 
+Humanitarian action saves lives, alleviates suffering, and maintains human dignity 
+following conflict, shocks, and natural disasters.7 
+Humanitarian 
+Principles 
+Humanitarian principles are a set of values and ethical standards that guide humanitarian 
+action to ensure assistance and protection to people affected by crises in a neutral, 
+impartial, independent, and humane way. The four main principles are humanity, neutrality, 
+impartiality, and independence. Upholding these principles ensures aid is provided based 
+on need, without discrimination, and with respect for the dignity, safety, and rights of those 
+affected by crisis.8 
+Human Rights 
+Based Approach 
+(HRBA) 
+The human rights-based approach (HRBA) is a conceptual framework for the process of 
+human development that is normatively based on international human rights standards 
+and operationally directed to promoting and protecting human rights. It seeks to analyse 
+inequalities which lie at the heart of development problems and redress discriminatory 
+practices and unjust distributions of power that impede development progress.9 
+Life Skills  
+Life skills are defined as a group of psychosocial competencies and interpersonal skills 
+that help people make informed decisions, solve problems, think critically and creatively, 
+communicate effectively, build healthy relationships, empathize with others, and cope with 
+and manage their lives in a healthy and productive manner.10 
+Marginalized 
+Groups 
+Persons with disabilities, youth, women, members of minority groups, internally displaced 
+persons, and non-nationals including refugees, asylum seekers, and migrant workers.11 
+ 
+1https://www.undp.org/content/undp/en/home/librarypage/democratic-governance/accountability/principles-of-accountability.html 
+2 https://data.unicef.org/topic/child-protection/overview/ 
+3 https://www.un.org/en/civil-society/page/about  
+4 https://www.betterevaluation.org/en/plan/approach/participatory_evaluation 
+5 https://www.unicef.org/evaluation/documents/global-evaluation-reports-oversight-system-geros-handbook-and-summary 
+6 What is a Hackathon? 
+7 https://www.oecd.org/dac/financing-sustainable-development/development-finance-topics/humanitarian-assistance.htm 
+8 https://www.unocha.org/story/humanitarian-principles 
+9https://unsdg.un.org/2030-agenda/universal-values/human-rights-based-approach#:~:text=The per cent20human per cent20rights per cent2Dbased per 
+cent20approach, promoting per cent20and per cent20protecting per cent20human per cent20rights. 
+10 https://unesdoc.unesco.org/ark:/48223/pf0000223059 
+11 https://www.ohchr.org/ 
+
+Term 
+Description 
+Mixed-Method 
+A procedure for collecting, analysing, and ‘mixing’ both quantitative and qualitative 
+research and methods in a single study to understand a research problem.12 
+Nonviolent 
+Disciplinary 
+Practices 
+The nonviolent disciplinary practices included in the child discipline module are: 1) 
+explaining why a behaviour is wrong, 2) taking away privileges or not allowing him/her to 
+leave the house, and 3) giving him/her something else to do.13  
+OECD-DAC 
+Criteria 
+The Organisation of Economic Cooperation and Development-Development Assistance 
+Committee (OECD-DAC) Network on Development Evaluation (EvalNet) has defined six 
+evaluation criteria – relevance, coherence, effectiveness, efficiency, impact, and 
+sustainability – and two principles for their use. These criteria are intended to guide 
+evaluations.14 
+Participatory 
+Approach15 
+Participatory evaluation is an approach that involves the stakeholders of a programme or 
+policy in the evaluation process. This involvement can occur at any stage of the evaluation 
+process, from the evaluation design to the data collection and analysis and the reporting 
+of the study. 
+Summative 
+Evaluation 
+Focuses on analysing the performance at the end of the project (strengths, weaknesses, 
+and achievement of intended results), but also seeks to document the key lessons learnt 
+and develop robust recommendations (evidence-based) to inform the future 
+implementation. 
+Technical, 
+Vocational 
+Education and 
+Training (TVET) 
+TVET refers to education and training aimed at developing skills related to various 
+occupational fields, production, services, and livelihoods. It includes learning opportunities 
+at secondary, post-secondary, and tertiary levels, as well as work-based and continuing 
+training. TVET also emphasizes the development of literacy and numeracy skills, 
+transversal skills, and citizenship skills.16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 https://education.nova.edu/Resources/uploads/app/35/files/arc_doc/mixed_methods.pdf 
+13 UNICEF  
+14 https://www.oecd.org/dac/evaluation/evaluation-criteria-flyer-2020.pdf 
+15 https://www.betterevaluation.org/en/plan/approach/participatory_evaluation. 
+16 https://unterm.un.org/ 
+
+TABLE OF CONTENTS 
+Executive Summary ............................................................................................................................... i 
+Chapter 1: Introduction, Context and Object of the Evaluation ....................................................... 1 
+1.1 Intervention Context .................................................................................................................. 1 
+1.2 Programme Overview (Object of Evaluation)............................................................................ 4 
+Chapter 2: Evaluation Purpose, Objectives, Users, And Scope ...................................................... 9 
+2.1 Evaluation Purpose ................................................................................................................... 9 
+2.2 Evaluation Objectives ................................................................................................................ 9 
+2.3 Evaluation Stakeholders’ Role and Uses of Evaluation ............................................................ 9 
+2.4 Evaluation Scope .................................................................................................................... 10 
+2.5 ToC .......................................................................................................................................... 11 
+Chapter 3: Evaluation Criteria, Key Questions, Design, And Methodology ................................. 14 
+3.1 Evaluation Criteria and Key Questions ................................................................................... 14 
+3.2 Evaluation Design ................................................................................................................... 15 
+3.3 Evaluation Methods ................................................................................................................. 16 
+3.4 Data Processing and Analysis ................................................................................................ 18 
+3.5 Quality Assurance Measures .................................................................................................. 19 
+3.6 Integration of Cross-Cutting Programming Priorities in Evaluation Design and Methodology 19 
+3.7 Compliance to Evaluation Norms and Ethical Standards ....................................................... 20 
+3.8 Limitations, Challenges, and Mitigation Measures ................................................................. 21 
+3.9 Evaluation Team, Implementation Phases, and Deliverables ................................................ 21 
+Chapter 4: Evaluation Findings And Analysis ................................................................................. 24 
+4.1 Relevance ............................................................................................................................... 24 
+4.2 Efficiency ................................................................................................................................. 25 
+4.3 Effectiveness ........................................................................................................................... 28 
+4.4 Impact ...................................................................................................................................... 32 
+4.5 Sustainability ........................................................................................................................... 34 
+4.6 Coverage ................................................................................................................................. 36 
+4.7 Coherence ............................................................................................................................... 38 
+4.8 Connectedness ....................................................................................................................... 40 
+4.9 Gender Equality, Equity and Child Rights ............................................................................... 43 
+Chapter 5: Conclusion, Lessons Learnt, and Recommendations ................................................. 48 
+5.1 Conclusions ............................................................................................................................. 48 
+5.2 Lessons Learnt ........................................................................................................................ 49 
+5.3 Recommendations .................................................................................................................. 50 
+APPENDICES ....................................................................................................................................... 54 
+Appendix 1: Terms of Reference .................................................................................................. 54 
+Appendix 2: Country and Sector Contexts .................................................................................... 75 
+Appendix 3: Selected Outcome and Output Indicators ................................................................. 79 
+Appendix 4: Timeline and Location of ADAP Projects .................................................................. 80 
+Appendix 5: Programme Beneficiaries .......................................................................................... 81 
+Appendix 6: Programme Budget ................................................................................................... 83 
+Appendix 7: Evaluation Matrix....................................................................................................... 85 
+Appendix 8: Key Informant Interview Guides ................................................................................ 90 
+Appendix 9: List of Interviewed Stakeholders ............................................................................. 104 
+Appendix 10: Focus Group Discussion Guides .......................................................................... 105 
+Appendix 11: Distribution of FGDs .............................................................................................. 110 
+Appendix 12: Copy of Ethical Clearance .................................................................................... 111 
+Appendix 13: Evaluation Steering Committee ToRs ................................................................... 112 
+Appendix 14: Evaluation Team ................................................................................................... 115 
+Appendix 15: List of Documents Reviewed ................................................................................ 117 
+Appendix 16: Evaluation’s Implementation Phases and Deliverables ........................................ 121 
+Appendix 17: Efficiency Analysis ................................................................................................ 122 
+Appendix 18: Most Disadvantaged Groups ................................................................................ 125 
+Appendix 19: Coherence Findings .............................................................................................. 126 
+Appendix 20: Connectedness Findings ...................................................................................... 131 
+Appendix 21: ADAP Compliance with UN-SWAP ....................................................................... 132 
+Appendix 22: Compliance to UNEG & UNICEF Norms and Standards for Evaluation .............. 133 
+
+ 
+LIST OF TABLES 
+Table 1: SoP’s Global Commitments on Adolescents Employment and CP .......................................... 3 
+Table 2: List of Projects and the Implementing Partners ........................................................................ 4 
+Table 3: Key Programme Stakeholders and their Roles ......................................................................... 6 
+Table 4: Stakeholders’ Role and Uses of the Evaluation ........................................................................ 9 
+Table 5: Evaluation Criteria, Key Questions and Sub-Questions ......................................................... 14 
+Table 6: KII Distribution ......................................................................................................................... 17 
+Table 7: Quality Assurance Measures in Evaluation ............................................................................ 19 
+Table 8: Limitations, Challenges and Mitigation Measures .................................................................. 21 
+Table 9: Planned vs Achieved Outcomes ............................................................................................. 29 
+Table 10: Enabling and Disabling Factors ............................................................................................ 30 
+Table 11: Sustainability of ADAP Results ............................................................................................. 34 
+Table 12: Adolescents Needs and Appropriateness of ADAP Interventions ........................................ 37 
+Table 13: Coherence of ADAP Interventions with National Policies and UNICEF Guidelines ............. 38 
+Table 14: Recommendations ................................................................................................................ 51 
+ 
+LIST OF FIGURES 
+Figure 1: Structure of the Report ............................................................................................................ 1 
+Figure 2: Overview of Demographics ...................................................................................................... 2 
+Figure 3: Employment, Education, Training ............................................................................................ 3 
+Figure 4: Programme Strategies ............................................................................................................. 6 
+Figure 5: Programmes Geographic Focus .............................................................................................. 6 
+Figure 6: Programme Beneficiaries ........................................................................................................ 7 
+Figure 7: Evaluation Scope ................................................................................................................... 10 
+Figure 8: Theory of Change .................................................................................................................. 12 
+Figure 9: Evaluation Methods ............................................................................................................... 16 
+Figure 10: Distribution of FGDs ............................................................................................................ 18 
+Figure 11: Evaluation Phases and Deliverables ................................................................................... 22 
+Figure 12: ADAP Output Achievements ................................................................................................ 26 
+Figure 13: ADAP Achievements vs Budget Utilization …………………………………………………… 27 
+Figure 14: ADAP Alignment with SDGs ………………………………………………………………...…. 42 
+ 
+ 
+
+ 
+i 
+EXECUTIVE SUMMARY 
+The United Nations Children’s Fund (UNICEF) State of Palestine (SoP) office commissioned a Summative 
+Evaluation of the UNICEF-supported Adolescent Development and Participation (ADAP or the 
+Programme). ADAP is uniquely composed of 21 individual projects that focused on adolescent education, skills 
+development, and child protection (CP). The Programme’s goal was to provide Palestinian adolescents, 
+particularly the most vulnerable, with access to secure, high-quality, and inclusive learning opportunities and to 
+invest in their life skills and employability though the education sector.  
+Chapter 1 - Intervention Context and Object of 
+Evaluation: Adolescents (between 10-19 years) constitute 
+22.3 per cent17 of the population in the SoP and face 
+challenges related to education access and quality, as well 
+as protection risks that have been worsened by the prolonged 
+humanitarian crisis and COVID-19. Adolescents (aged 15-
+24) face high unemployment rates (41 per cent),18 especially 
+girls, due to a volatile economy, decrease in public and 
+private capacity to provide job opportunities, and an outdated 
+education system. Additionally, around 90 per cent19 of 
+children aged 1-14 years faced violent discipline at home. 
+Consequently, 
+320,439 
+children 
+reportedly 
+required 
+protection and psychosocial support.   
+The object of this evaluation is the ADAP Programme which 
+was a part of UNICEF’s Area Programme Document (APD) 
+(2018-2022) and included 21 projects. The Programme 
+focused on training and creating awareness on life skills and 
+citizenship education (LSCE), non-violence and positive 
+discipline. The implementation included a hybrid approach where the key public sector partners, i.e., the Ministry 
+of Education (MoE) and Ministry of Social Development (MoSD) were supported by 11 implementing partners 
+(IP) in the West Bank, East Jerusalem, and the Gaza Strip. The total budget was 18.12 million shekels, including 
+53,200 shekels for supplies. 
+Chapter 2 - Evaluation Purpose, Objectives and Scope: This is a Summative Evaluation with the primary 
+purpose of demonstrating accountability by objectively assessing the Programme’s achievements against 
+intended results. The secondary purpose was to identify challenges, lessons learnt, and recommendations for 
+future programming. The evaluation target audience included UNICEF, MoE and MoSD, IPs, UN agencies, 
+donors, and beneficiaries. The evaluation scope covered 21 projects implemented in six governorates (Gaza 
+City, Deir Al Balah, Khan Yunis, Hebron, Ramallah, and Nablus) of the Gaza Strip and the West Bank between 
+2018 and 2021. The evaluation excluded the assessment of UNICEF’s role in the Education Cluster 
+Coordination and other education and CP interventions. 
+Chapter 3 - Evaluation Criteria, Design, Methodology, and Limitations: The evaluation followed the 
+established Organisation of Economic Cooperation-Development Development Assistance Committee (OECD-
+DAC)20 criteria, including relevance, efficiency, effectiveness, impact, and sustainability. The evaluation also 
+focused on humanitarian action criteria (coverage, coherence, and connectedness) and UNICEF’s cross-cutting 
+priorities, including gender equality, equity, child rights, and accountability. 
+In line with the evaluation purpose, the evaluation employed two approaches, theory-based and participatory. 
+The participatory approach ensured the engagement of all key stakeholders throughout the evaluation process, 
+from planning to dissemination. The theory-based approach was employed to assess the Theory of Change 
+(ToC) for its completeness and validity. The evaluation used a mixed-methods approach, utilising both 
+secondary (for quantitative data) and primary data collection methods (for qualitative data). Primary data was 
+collected by conducting 37 key informant interviews (KII), 31 focus group discussions (FGD) and a validation 
+workshop. Secondary data was collected through desk review of 189 documents. The evaluation team reached 
+out to 279 individuals, with over 50 per cent being females and girls (i.e., 153), including public sector officials, 
+UNICEF and IP staff, parents and caregivers, school staff, and adolescent boys and girls.  
+ 
+17 UNFPA 
+18 State of Palestine 2030 Demographic Change: Opportunities for Development - April 2017 
+19 MICS 2019/2020. 
+20 https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm 
+
+ 
+ii 
+The evaluation team faced delays due to the absence of the beneficiary list and teacher strikes in the West 
+Bank. Therefore, the approach for FGD implementation was modified, and sessions were conducted both 
+virtually and in-person to obtain the perspectives of the most important stakeholder – adolescent boys and girls. 
+Additionally, there were gaps in the data, including limited secondary data to map the Programme's 
+achievements for CP interventions and the absence of an impact statement in the ToC and Results Framework, 
+which constrained effectiveness and impact assessment. 
+Chapter 4 - Evaluation Findings: Findings for each evaluation criteria are given below:  
+Relevance: The evaluation findings indicated that the ADAP Programme demonstrated relevance through its 
+inclusive design process, involving consultations with key stakeholders such as the MoE, MoSD, civil society 
+organizations (CSO), and UN agencies. These consultations enabled the identification of stakeholders’ priorities 
+and needs. Additionally, the Programme effectively utilised insights from secondary assessments to inform its 
+interventions and adapt to the national and local contexts. However, the evaluation findings also suggested a 
+notable gap in the direct engagement of adolescents during the design phase. The Programme missed the 
+opportunity to involve adolescents, which could have provided valuable perspectives for designing the 
+Programme interventions. 
+Efficiency: The evaluation team faced challenges in conducting an efficiency assessment due to limited 
+progress data for the CP component (Output 2.3).21 The available secondary data for the education component 
+(2018-2021) indicated that the Programme achieved 76 per cent of its outputs while utilising only 68 per cent of 
+the allocated funds which indicates cost efficiency. While the team acknowledges this achievement, they were 
+unable to identify the factors that contributed to the cost savings. It is possible that the savings were due to 
+over-budgeting or the shift from in-person to remote interventions during and after the pandemic. On time 
+efficiency, the Programme faced some delays due to various factors, including school closures resulting from 
+the COVID-19 pandemic, weak infrastructure to support remote teaching and learning, and teacher strikes.  
+The evaluation team found that UNICEF had financial tracking systems in place to monitor and report inter-
+agency and donor investments, but the limited evidence prevented assessment of whether the system facilitated 
+timely course correction and adaptive management, resulting in cost and time savings. 
+Effectiveness: Based on the available secondary data (Result Assessment Module (RAM) Report 2018-2022), 
+the evaluation findings indicated that the Programme was largely effective for achieving outcome targets (only 
+for the education component). The Programme achieved all three outcome indicators, but progress information 
+for the CP component was not tracked in the RAM reports and therefore could not be assessed. Despite 
+significant challenges such as COVID-19, ongoing security concerns, and frequent teachers strikes, the 
+Programme achieved the education outcomes. Key factors contributing to this success included alignment of 
+the ADAP Programme with national priorities, the use of a hybrid implementation model (involving IPs and the 
+public sector), and the use of innovative and remote learning methods.  
+The monitoring system exhibited some gaps, such as: disconnect between the indicators and targets of the IPs 
+and the UNICEF ADAP results frameworks; lack of impact indicators; limitations of outcome indicators to assess 
+quality/changes in the lives of beneficiaries; and insufficient evidence to show that monitoring data informed 
+decision-making. A more focused approach will enable creating a usable and effective monitoring system for 
+future programmes. 
+Impact: Due to the absence of impact statements and indicators, the evaluation was limited in measuring the 
+Programme’s impact. As such, the evaluation team explored perceived changes in impact levels among 
+implementers and beneficiaries. Most of the beneficiaries perceived the interventions to have contributed 
+positively, including acquiring new skills and knowledge, increasing self-confidence, improving communication, 
+reducing violent behaviours, and experiencing a positive shift in disciplinary practices within communities and 
+schools. Nonetheless, it was unclear to what extent these improvements resulted in job opportunities or created 
+long-term behavioural changes in adolescents. The respondents also pointed out unintended impacts such as 
+overburdened students and teachers due to poor scheduling of school-based activities timed with exams and 
+adolescents becoming addicted to games due to the promotion of game-based learning. 
+Sustainability: The evaluation findings indicated that some of the ADAP results such as the integration of LSCE 
+into the Palestinian education system are expected to be fully sustained. Others, including the National Youth 
+Volunteer Services Programme (NYVSP), knowledge and skill development of adolescents, and the reduction 
+of violence in schools and homes, are only partially likely to be sustained. This is due to limited focus on 
+transitioning learning into earning and short-term nature of CP interventions, raising concerns about their 
+ 
+21 Output 2.3: More parents, teachers, adolescents, and other stakeholders have increased knowledge and skills to eliminate harmful practices and better protect children 
+(aged 0-18) from violence, exploitation, and grave violations. 
+
+ 
+iii 
+sustainability. Additionally, limited community involvement and external challenges (such as the Israeli 
+occupation, Palestinians’ internal political divisions, and limited budgets for ministries) indicate continued 
+technical and financial support are likely to be needed to sustain the Programme results.  
+Coverage: The findings indicated that the Programme was largely successful in targeting most vulnerable 
+areas, however gaps were identified particularly in addressing gender-specific vulnerabilities of male 
+adolescents and those residing in Area C. The absence of consultations with adolescents during the design of 
+ADAP interventions underscored the need for increased engagement with the target group. 
+Coherence: The evaluation found that the ADAP Programme’s objectives and strategies were consistent with 
+national policies for adolescent education and CP. These policies included the Education Sector Strategic Plan 
+(2020), National Youth Strategy in State of Palestine (2020), National Policy Agenda (2017-2022), and National 
+Intersectoral Violence Against Children Strategy in the Context of COVID-19 (2021-2023). Moreover, the 
+Programme’s interventions were found to be in line with UNICEF’s Global Adolescent Programming Guidelines 
+(2018). The evaluation also found that both the design and implementation of the Programme are largely 
+consistent with the humanitarian principles – humanity, impartiality, and neutrality. However, due to Israeli 
+occupation, not all communities in Area C were accessible which may have compromised the principle of 
+independence.  
+There was insufficient evidence to support the effectiveness of external coordination with other actors to avoid 
+duplication and gaps. This was attributed to the absence of a formal coordination mechanism and limited 
+attention to ADAP by relevant public institutions.  
+Connectedness: The evaluation findings indicated that the ADAP Programme effectively utilised internal 
+synergies within UNICEF, specifically in the areas of CP, Health, Nutrition, Water, Sanitation, and Hygiene 
+(WASH), and Social and Behaviour Change (SBC) interventions. The CP Programme played a critical role in 
+supporting education and adolescent outcomes, enabling the transfer of knowledge and skills to eliminate 
+harmful practices and enhance CP in schools. The Health and WASH Sections collaborated with the ADAP 
+Programme to address the negative effects of the COVID-19 pandemic by providing hygiene kits, training, and 
+cleaning materials to schools. The SBC Section provided cross-cutting support by conducting awareness 
+sessions on non-violent discipline techniques and positive parenting. Furthermore, Programme interventions 
+contributed to multiple Sustainable Development Goals (SDGs), including SDG:4 (Quality Education), SDG:5 
+(Gender Equality), SDG:8 (Decent Work and Economic Growth), SDG:10 (Reduced Inequalities), and SDG:16 
+(Peace, Justice, and Strong Institutions).  
+UNICEF Cross Cutting 
+Gender Equality: The findings suggested that the ADAP Programme took into account gender and cultural 
+factors, evidenced by providing separate training sessions and gender-specific skills training. However, the 
+Programme design did not adequately address gender-specific determinants and conditions, such as higher 
+school dropout rates for boys and their increased vulnerability to violence compared than girls. Furthermore, 
+only one outcome indicator and one output indicator included gender-disaggregated targets. While the 
+Programme reached a balanced number of boys and girls, there was limited reporting on results. Therefore, the 
+evaluation found the ADAP Programme partially aligned with gender equality principles. 
+Alignment with UNICEF’s Equity Agenda: The evaluation findings suggested that the ADAP Programme was 
+partially aligned with UNICEF’s Equity Agenda. While the Programme prioritised identifying vulnerable groups 
+through the Common Country Analysis (CCA) (2016), the Results Framework did not include specific targets 
+for these groups and did not define a vulnerability criterion. The implementation focused on vulnerable groups, 
+including adolescents with disabilities and those who were out-of-school (OOS). However, reporting did not 
+include data on equity parameters, such as results achieved for vulnerable groups, disability status, or location.  
+Child Rights and Accountability: The evaluation findings indicated that the Programme was aligned with the 
+Convention on the Rights of the Children (CRC) principles of non-discrimination, best interests of the child, right 
+to life, survival, and development, and views of the child. However, there was little to no involvement of 
+adolescents in the Programme’s design. A dedicated feedback mechanism was implemented, but beneficiaries 
+were unaware of it, and there was no evidence of how the Programme addressed the complaints and feedback. 
+Chapter 5 – Conclusions, Lessons Learnt and Recommendations 
+Conclusion on Way Forward: Moving forward, the evaluation underlines the need for sustained focus on 
+adolescents by all stakeholders (public sector, private entities, development partners and others). Policy 
+interventions such as integration of LSCE and NYVSP are foundational and require continuous strategic and 
+operational support for sustainable outcomes. The hybrid implementation model (involving public, private and 
+CSO actors) has proven effective, particularly in facilitating the transition to remote teaching and learning, and 
+
+ 
+iv 
+thus merits continuity. Increased advocacy and engagement with the public sector should promote acceptance 
+of private and CSOs’ involvement for niche interventions, where these partners offer unique capacities and 
+advantages.  
+Future engagement with adolescents should underpin regular interaction with them to understand their 
+challenges, aspirations, and potential pathways. Education interventions should emphasize infrastructure 
+development and systemic capacities for remote/technology-based teaching and learning. This is critical to pre-
+empt any future disruptions (like COVID-19 and security challenges) and for engaging learning experiences. 
+Skill-building interventions must strike a balance between focus on pre-training, during training and post-training 
+focus. The evaluation underscores the need for medium to long-term interventions for behaviour change, such 
+as violence reduction and positive parenting. These require sustained messaging and community engagement 
+for sustainability. Lastly, the next phase should prioritise an effective monitoring system for results tracking and 
+evidence-based decision-making.  
+Lessons Learnt: Key lessons and good practices are outlined below: 
+• 
+The Programme’s design and implementation were underpinned by innovative approaches. One notable 
+innovation was the use of gamification for promoting learning, particularly in LSCE. This innovative 
+approach proved to be an effective practice, leading to tangible outcomes in increased critical thinking and 
+problem-solving skills among adolescents. The effectiveness of the gamification strategy also provides 
+valuable insights for its potential application across different sectors and contexts.  
+• 
+The ADAP Programme (Education & Adolescents component) primarily focused on providing pre/during 
+training support to adolescents. However, the post-training support aimed at fostering and improving the 
+broader ecosystem for job creation and entrepreneurship was not addressed. Consequently, due to this 
+gap, there is insufficient evidence to showcase the transition from learning to earning. This learning points 
+out a potential design deficiency, underlining the need to balance pre/during training and post-training 
+support, including access to capital financing, job placements, market access, and self-employment. This 
+learning is applicable across all contexts, especially in regions where the infrastructure for job placements 
+and entrepreneurship is less developed.  
+• 
+The ADAP Programme (CP component) support for behaviour change interventions (non-violent 
+behaviours and positive parenting) had a short lifespan (six months to a year) and lacked a consistent 
+approach to community engagement. Considering global evidence and feedback from participants, the 
+lesson learnt is to plan behaviour change interventions with a medium to long-term lifecycle approach (2 
+years or more). Moreover, these should be centred around community engagement interventions — 
+organising and mobilising local youth groups, religious and community leaders, to enable messaging 
+through such platforms for sustainable results. This lesson is applicable across sectors aiming for 
+behavioural and normative changes, and contexts, where local platforms or groups are either readily 
+available or could be mobilised for sustained messaging and localised accountabilities.  
+Recommendations: Find below evaluation recommendations drawn from findings and conclusions. The 
+recommendations have been improved based on the feedback received from the evaluation users: 
+Recommendation 1: Keeping in view the APD 2023-25 priorities for adolescent boys and girls, UNICEF 
+SoP is advised to draft an ADAP Results Framework and ToC for future guidance to develop 
+projects/interventions and tracking of results. 
+• 
+Action # 1: Draft the ADAP Results Framework and ToC. The Results Framework must include impact 
+statement and indicators, segregated outcomes and outputs, dedicated strategies, and underline allocation 
+of resources for disadvantaged groups (adolescents in Area C, adolescent girls and boys, adolescents with 
+disabilities, and OOS adolescents). (Primary Responsibility: UNICEF) 
+• 
+Action # 2: The Results Framework and ToC should be endorsed by the MoE in a high-level event. The 
+Results Framework and ToC can guide future engagement with relevant public sector partners. (Primary 
+Responsibility: UNICEF and MoE)  
+Recommendation 2: Based on the learning from the previous ADAP phase, the future ADAP strategies 
+and interventions merit a re-think and recalibration to offer better fit with the local context and achieve 
+improved results for the vulnerable groups.  
+• 
+Action # 1: Within the Education & Adolescents component, the skills development interventions must 
+strike balance between pre/during training and post post-training support such as access to finance, market 
+linkages, access to employers, and business associations. (Primary Responsibility: UNICEF, Secondary 
+Responsibility: MoE) 
+• 
+Action # 2: Establish clear vulnerability criteria to ensure the systematic inclusion of vulnerable groups in 
+its programming. This criterion should include various aspects, including location, age, gender, disability 
+status, etc. Specific strategies should be developed and implemented to address the unique needs of these

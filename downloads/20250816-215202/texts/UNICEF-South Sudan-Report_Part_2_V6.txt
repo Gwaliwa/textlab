@@ -1,0 +1,424 @@
+Evaluation of the UNICEF 
+Response to the South Sudan 
+Humanitarian Crisis (2016-2019)
+EVALUATION REPORT
+April 2021
+Part 2: Emergency Education, Child 	
+	
+	
+	
+Protection and related issues
+
+
+Evaluation of the UNICEF 
+Response to the South Sudan 
+Humanitarian Crisis (2016-2019)
+EVALUATION REPORT
+April 2021
+Part 2: Emergency Education, Child 	
+	
+	
+	
+Protection and related issues
+
+© UNICEF/UN0372916/Naftalin
+
+EVALUATION OF THE UNICEF RESPONSE TO THE 
+SOUTH SUDAN HUMANITARIAN CRISIS (2016-2019) 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Office is to 
+fulfil a corporate commitment to transparency through the publication of all completed evalu-
+ations. The reports are designed to stimulate a free exchange of ideas among those interested 
+in the topic and to assure those supporting the work of UNICEF that it rigorously examines its 
+strategies, results, and overall effectiveness.
+The report was prepared by independent consultants - James Darcy (team leader), Francesca 
+Ballarin, Sophie Busi, Rui da Silva, and Volker Huls. Jane Mwangi managed the overall evalu-
+ation process with active engagement and support from UNICEF South Sudan country office.  
+The purpose of the report is to facilitate the exchange of knowledge among UNICEF personnel 
+and its partners. The contents of the report do not necessarily reflect the policies or views of 
+UNICEF. The text has not been edited to official publication standards and UNICEF accepts no 
+responsibility for error. The designations in this publication do not imply an opinion on the legal 
+status of any country or territory, or of its authorities, or the delimitation of frontiers.
+The copyright for this report is held by the United Nations Children’s Fund. Permission is re-
+quired to reprint/reproduce/photocopy or in any other way to cite or quote from this report 
+in written form. UNICEF has a formal permission policy that requires a written request to be 
+submitted. For non-commercial uses, the permission will normally be granted free of charge. 
+Please write to the Evaluation Office at the address below to initiate a permission request.
+© United Nations Children’s Fund, New York, 2021
+United Nations Children’s Fund
+Three United Nations Plaza
+New York, New York 10017
+April 2021
+For further information, please contact:
+Evaluation Office
+United Nations Children’s Fund
+3 United Nations Plaza
+New York, New York 10017
+evalhelp@unicef.org
+This report is available online at:
+unicef.org/evaluation/reports#/detail/8897
+UNICEF 2021. Evaluation of the UNICEF 
+Response to the South Sudan Humanitarian 
+Crisis (2016-2019) 
+UNICEF Evaluation Office, New York.
+
+CONTENT
+Preface
+Abbreviations
+Executive Summary
+I. Introduction
+1.1	
+Background to the evaluation
+1.2	
+Evaluation purpose, scope and intended use
+1.3	
+Evaluation process, approach and methodology
+II. Context: the South Sudan crisis
+2.1	  The South Sudan crisis
+2.2	 UNICEF and the wider international response to the crisis
+III. UNICEF and the education response
+3.1	 The education context and needs analysis
+3.2	 UNICEF role and strategy in education
+3.3	 UNICEF education in emergencies strategy: clarity, coherence, logic
+3.4	 Designing the response: coverage, focus and target-setting
+3.5	 Effectiveness against stated objectives
+3.6 	 UNICEF and the education cluster
+3.7	 Capacity development, sustainability, resilience and future prospects
+IV. UNICEF and the child protection response
+4.1	 Child protection context and needs analysis
+4.2	 UNICEF CPiE strategy: clarity, coherence, logic
+4.3	 Designing the response: coverage, focus and target-setting
+4.4	 Implementing the strategy
+08
+10
+14
+24
+25
+26
+28
+34
+35
+38
+41
+42
+46
+47
+50
+52
+58
+59
+61
+62
+66
+68
+72
+
+4.5	 Coordinating the CP response:  
+	
+UNICEF, the protection cluster and CP sub-cluster
+4.6	 Capacity development, sustainability and future prospects
+V. UNICEF and the WASH, health and nutrition responses
+5.1	 Background
+5.2	 The WASH response
+5.3	 The health response
+5.4	 The nutrition response
+VI. Cross-cutting issues
+6.1	 ‘Centrality of protection’ and protection mainstreaming
+6.2	 UNICEF partnerships in South Sudan
+6.3	 The generation and use of child-related data and evidence
+VII. Conclusions and recommendations
+7.1	
+Overall conclusions on the UNICEF response, 2016-2019
+7.2	
+Conclusions on education and child protection
+7.3	
+Conclusions on WASH, health and nutrition
+7.4	
+Recommendations
+78 
+79
+81
+82
+82
+86
+91
+95
+96
+100
+104
+109
+110
+113
+118
+119
+
+Evaluation of the UNICEF Response to the South Sudan Humanitarian Crisis (2016-2019)
+8
+PREFACE
+This report contains the results of Part Two of the evaluation of the UNICEF 
+Level 3 emergency response in South Sudan (from January 2016 to De-
+cember 2019). The focus of Part Two is on child protection and emergency 
+education, although it also covers some cross-cutting issues including the 
+humanitarian-development nexus and the centrality of protection principle. 
+It also updates the analysis of ‘child survival’ sectors from Part One of the 
+evaluation (Nutrition, Health and Water, Sanitation and Hygiene). While the 
+formal cutoff date for the evaluation is the end of 2019, the report also makes 
+reference to the more recent situation, particularly as affected by the coro-
+navirus (COVID-19) pandemic and related control measures. The report’s rec-
+ommendations are framed with this in mind.
+Although much of the work on the evaluation was undertaken in 2019, com-
+pletion was delayed by a number of factors, including changes in personnel 
+on the evaluation team and in the South Sudan country office, and more 
+recently by the COVID-19 situation. This necessitated some mid-term revision 
+of the terms of reference: in particular, some of the more management-re-
+lated and operational aspects of the response were not considered, and the 
+overall timeframe was extended to the end of 2019. The core focus on child 
+protection and emergency education has remained constant.
+The evaluation team was led by James Darcy, an independent consultant, 
+who was also the team leader for Part One of the evaluation. He was joined 
+by Francesca Ballarin, an independent specialist in child protection and 
+education in emergencies, and by Sophie Busi, an independent consultant 
+who assisted particularly with data analysis. A specialist in education, Rui da 
+Silva, formed part of the team in 2019. Volker Huls, who was involved with 
+the Part One team, also supported Part Two remotely with document colla-
+tion and data analysis. The team was joined on the inception mission by Jane 
+Mwangi from the UNICEF Evaluation Office, who also provided support and 
+oversight to the evaluation process from New York.  I would like to convey 
+my sincere appreciation to James and the rest of the team for the evalu-
+ation team for undertaking the two-part evaluation and generating useful 
+recommendations that will enable UNICEF to enhance its programming for 
+children of South Sudan.
+
+9
+PREFACE
+I would like to express our thanks to the  UNICEF  South Sudan, and in par-
+ticular Hyun Hee Ban and her team in the social policy, planning, monitoring 
+and evaluation department, and the Deputy Representative (Andrea Suley) 
+for generously hosting the evaluation and supporting it over such an ex-
+tended period. Their patience throughout has been much appreciated. 
+Thanks finally to colleagues in the Evaluation Office in New York for enabling 
+and supporting the whole two-part process, namely, Jane Mwangi for man-
+aging the evaluation; Carlotta Tincati and Laura Olsen for technical inputs 
+and support; and Celeste Lebowitz, Geeta Dey and Dalma Rivero for provid-
+ing administrative support throughout out the evaluation process. 
+Fabio Sabatini
+Evaluation Director a.i.
+
+Evaluation of the UNICEF Response to the South Sudan Humanitarian Crisis (2016-2019)
+10
+ABBREVIATIONS AND ACRONYMS
+AoR	
+	
+Area of Responsibility
+BTL	
+	
+Back To Learning
+C4D	
+	
+Communications for Development 
+CAAFAG	
+Children Associated with Armed Forces and Groups
+CBCM	 	
+Community-Based Complaint Mechanism
+CBO	
+	
+Community-Based Organization
+CCCs	
+	
+Core Commitments for Children in Emergencies
+CEAP	 	
+Corporate Emergency Activation Procedure
+CFS	
+	
+Child-Friendly Space
+CLTS	
+	
+Community-Led Total Sanitation
+COAR	 	
+Country Office Annual Report
+COVID-19	
+Novel coronavirus
+CP	
+	
+Child Protection
+CPD	
+	
+Country Programme Document
+CPiE	
+	
+Child Protection in Emergencies
+CSO	
+	
+Civil Society Organization
+EiE	
+	
+Education in Emergencies
+EO	
+	
+Evaluation Office
+ESARO		
+Eastern and Southern Africa Regional Office
+FAO	
+	
+Food and Agricultural Organization
+FO	
+	
+Field Office 
+FSNMS	
+Food Security and Nutrition Monitoring System
+FTR	
+	
+Family Tracing and Reunification
+GAM	
+	
+Global Acute Malnutrition
+HACT	 	
+Harmonized Approach to Cash Transfer
+HCT	
+	
+Humanitarian Country Team
+HNO	
+	
+Humanitarian Needs Overview 
+
+11
+ABBREVIATIONS AND ACRONYMS
+HRP	
+	
+Humanitarian Response Plan
+IASC	
+	
+Inter-Agency Standing Committee
+ICF	
+	
+Interim Cooperation Framework
+ICMN	 	
+Integrated Community Mobilization Network
+IDP	
+	
+Internally Displaced Person
+IMO	
+	
+Information Management Officer
+IOM	
+	
+International Organization for Migration
+IPC	
+	
+Integrated food security Phase Classification system
+IRRM	 	
+Integrated Rapid Response Mechanism
+IYCF	
+	
+Infant and Young Child Feeding
+KAP	
+	
+Knowledge Attitude and Practices
+KII	
+	
+Key Informant Interview
+L2	
+	
+Level 2 emergency
+L3	
+	
+Level 3 emergency
+M&E	
+	
+Monitoring and Evaluation
+MAM	 	
+Moderate Acute Malnutrition
+MHPSS	
+Mental Health and Psychosocial Support
+MRE	
+	
+Mine Risk Education
+MRM	 	
+Monitoring and Reporting Mechanism
+NGO	
+	
+Non-Governmental Organization
+OCHA	 	
+United Nations Office for the Coordination of Humanitarian Affairs
+ODF	
+	
+Open Defecation Free
+OTP	
+	
+Outpatient Therapeutic feeding Program
+PCA	
+	
+Programme Cooperation Agreement
+PfRR	
+	
+Partnership for Resilience and Recovery
+PoC	
+	
+Protection of Civilians
+PSS	
+	
+Psychosocial Support
+
+Evaluation of the UNICEF Response to the South Sudan Humanitarian Crisis (2016-2019)
+12
+PTA	
+	
+Parent-Teacher Association
+RAM	
+	
+Results Assessment Module
+SAM	
+	
+Severe Acute Malnutrition
+SMC	
+	
+School Management Committee
+SNAP	 	
+Strategic National Action Plan
+SPLM	 	
+Sudan People’s Liberation Army
+SPLM-IO	
+Sudan People’s Liberation Army In Opposition
+SPPME		
+Social Policy Planning Monitoring and Evaluation
+SSCO	 	
+South Sudan Country Office
+SWfPR		
+Sustainable WASH for Partnership and Resilience
+TLS	
+	
+Temporary Learning Space
+ToC	
+	
+Theory of Change
+TSFP	
+	
+Targeted Supplementary Feeding Programme
+TWG	
+	
+Technical Working Group
+UASC	 	
+Unaccompanied and Separated Children 
+UNESCO	
+United Nations Educational, Scientific and Cultural Organization 
+UNFPA		
+United Nations Population Fund
+UNHCR	
+United Nations High Commissioner for Refugees
+UNMISS	
+United Nations Mission in South Sudan
+UN-Women	
+United Nations Entity for Gender Equality and the Empowerment of Women
+WASH	 	
+Water, Sanitation and Hygiene
+WFP	
+	
+World Food Programme
+WGFS	 	
+Women- and Girls-Friendly Space
+WHO	
+	
+World Health Organization
+WHS	
+	
+World Humanitarian Summit
+ABBREVIATIONS AND ACRONYMS

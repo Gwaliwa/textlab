@@ -1,0 +1,630 @@
+EVALUATION REPORT
+December 2021
+Evaluation of UNICEF’s coverage 
+and quality in complex humanitarian 
+situations: Nigeria
+
+
+Evaluation of UNICEF’s coverage 
+and quality in complex humanitarian 
+situations: Nigeria
+EVALUATION REPORT
+December 2021
+
+4
+PREFACE
+In 2018, UNICEF undertook an evaluation of the coverage and quality of its response to complex 
+humanitarian emergencies, and as part of this developed 11 country case studies. The purpose 
+was to generate, through robust and systematic analysis in a range of country contexts, 
+information on how UNICEF could improve the coverage and quality of its humanitarian response. 
+Both the evaluation process and its findings have contributed to a body of evidence and learning 
+regarding the enablers and barriers to delivering high-quality humanitarian action in complex 
+humanitarian emergencies; these have shown how such barriers have affected UNICEF’s 
+performance and its ability to reach the most vulnerable populations. 
+While the country case studies were internal documents, the Nigeria Country Office (NCO) was 
+interested in expanding and updating its analysis to get an in-depth assessment of the coverage 
+and quality of UNICEF’s humanitarian response in the country, while identifying enabling and 
+inhibiting factors and good practice. The decision to develop and update the 2018 country case 
+study into a fully-fledged evaluation has proved a valuable one, including conducting the second 
+data collection mission to Nigeria, which was made possible despite the constraints caused by 
+Covid-19. 
+This evaluation reveals that UNICEF has been among the largest and most important providers 
+of humanitarian assistance and protection in north-east Nigeria over the periods 2015–2018 
+and 2020–2021. UNICEF has been successful in meeting targets, and its generally pragmatic 
+approach to programme quality has resulted in positive feedback from its beneficiaries. UNICEF’s 
+broad range of partnerships with both government and non-government partners, alongside 
+its systematic and generally successful approach to resource mobilization, have put it in a 
+strong position to deliver humanitarian programmes at scale. The report, however, also sheds 
+light on areas that require improvement. These include: UNICEF’s approach to target-setting, 
+which provides little indication of actual performance vis-à-vis humanitarian needs; its siloed, 
+
+5
+EVALUATION OF UNICEF’S COVERAGE AND QUALITY IN COMPLEX HUMANITARIAN SITUATIONS: NIGERIA
+sector-oriented programming; limited and unsystematic community engagement practices; the 
+complex and challenging issue of a government–United Nations strategy of restricted access to 
+unsecured areas, which impacts on the equity principle for delivery of humanitarian assistance 
+in conflict contexts; weak use of digital tools for collecting, analysing and visualizing monitoring 
+data and information on coverage and quality; and delays in establishing and renewing partnership 
+agreements, among others.
+The evaluation was carried out by an independent team from Itad. On behalf of the Evaluation 
+Office, I would like to thank Clemens Gros, the team leader, and Pierre Townsend, together with 
+Monye Chinedu and Esther Igube, for their dedication, expertise and professionalism during the 
+evaluation process, together with the Itad project management team that made this evaluation 
+possible. 
+I would also like to join the evaluation team in thanking Peter Hawkins (Representative), Rushnan 
+Murtaza (Deputy Representative), Robert Ndamobissi (Evaluation Manager) and Andrea Malatesta 
+(Emergency Manager) of UNICEF’s Nigeria Country Office for their support during the second 
+phase of the evaluation. Thanks are also due to the former Representative Mohamed Malick Fall 
+and Former Emergency Manager Gillian Walker for their assistance in support and oversight of 
+the first phase of the evaluation in 2018. We are also grateful to UNICEF staff and partners in 
+Maiduguri and Abuja for their participation in this exercise, namely: Phuong T Nguyen (Chief Field 
+Office Maiduguri), Boris Matous (Emergency Specialist Maiduguri), Chukwuemeka Henry Okoli 
+(Monitoring Specialist Maiduguri), Opiyo Nixon (Chief Field Office Abuja), Christina Valderrama 
+Maya-Alfirev (Emergency Manager Abuja), Olayinka Afolabi (Emergency Specialist Abuja), and 
+all Section Chiefs and members of the Operations & Security Team of UNICEF Nigeria Country 
+Office. Finally, I would like to thank my colleagues in the Evaluation Office who managed this 
+work, namely Jane Mwangi, supported by Carlotta Tincati, and Uyen Kim Huynh and Andres 
+Ochoa Toasa, who prepared and analysed the U-Report survey data. I would like to thank Celeste 
+Lebowitz, Geeta Dey and Dalma Rivero for their administrative support throughout the process, 
+and ProseWorks for managing the editing of this report.
+Robert McCouch
+Director of Evaluation
+ 
+
+6
+EVALUATION OF THE UNICEF ROLE AS CLUSTER LEAD (CO-LEAD) AGENCY (CLARE II)
+
+7
+EVALUATION OF UNICEF’S COVERAGE AND QUALITY IN COMPLEX HUMANITARIAN SITUATIONS: NIGERIA
+TABLE OF CONTENTS
+Table of acronyms
+Executive summary
+	
+Introduction and context
+	
+Coverage and quality outcomes
+	
+How does UNICEF’s approach affect programme coverage and quality?
+	
+How do UNICEF’s inputs affect programme coverage and quality?
+	
+Conclusions and recommendations
+1. Introduction
+	
+1.1  Evaluation purpose, objectives, scope and target audience
+	
+1.2  Analytical framework
+	
+1.3  Evaluation matrix and questions
+	
+1.4  Overview of methodology and data collection tools
+	
+1.5  Data analysis and synthesis
+	
+1.6  Ethics, confidentiality and quality assurance
+	
+1.7  Limitations
+	
+1.8  Structure of the report
+2. The context of the humanitarian response in north-east Nigeria
+	
+2.1  The humanitarian crisis in north-east Nigeria, 2015–2020
+	
+2.2  An overview of external factors affecting humanitarian coverage and quality
+3. Coverage and quality outcomes
+	
+3.1  Humanitarian coverage
+	
+3.2  Programme quality
+	
+3.3  UNICEF’s approach to prioritizing coverage and quality
+4. How do UNICEF’s ways of achieving outcomes enable or constrain programme coverage and quality?
+	
+4.1   Programme approaches to strengthen coverage and quality
+	
+4.2  The influence of security and risk management on coverage and quality
+	
+4.3  The effect of UNICEF’s partnerships on coverage and quality
+10
+12
+12
+13
+14
+16
+18
+21
+22
+23
+25
+26
+29
+30
+32
+32
+34
+35
+40
+46
+47
+61
+69
+72
+73
+88
+93
+
+8
+	
+4.4  The role of programme monitoring to identify and address gaps in coverage and quality
+	
+4.5  Maintaining relevance
+	
+4.6  Advocacy
+5. How do UNICEF’s inputs enable or constrain programme coverage and quality?
+	
+5.1  Human resources
+	
+5.2  Resource mobilization
+	
+5.3  Policies and procedures
+6. Conclusions and recommendations
+	
+6.1  Conclusions
+	
+6.2  Recommendations
+Annexes	
+	
+Annex 1: Summary of terms of reference for the evaluation
+	
+Annex 2: Evaluation matrix
+	
+Annex 3: List of interviewees
+	
+Annex 4: Bibliography
+	
+Annex 5: Phase 1 evaluation recommendations, management response and follow-up
+Figure 1: Analytical framework for the evaluation
+Figure 2: Four-step process for systematic evidence gathering and analysis
+Figure 3: Summary of the results of the coverage and quality analysis
+Figure 4: Understanding the meaning of ‘targets met’ in relation to the number of people in need 
+	
+ and UNICEF’s role in the cluster system
+Figure 5: Summary of U-Report results, beneficiary perceptions of quality, timeliness and needs
+	
+ met by programme section
+Figure 6: Mapping physical access of humanitarian organizations
+Figure 7: UNICEF Nigeria HPM process and workflow
+Figure 8: Staffing levels in the Maiduguri Field Office, 2015-2020
+Figure 9: Number of staff (fixed-term and temporary) by programme area, 2015–2020
+Figure 10: UNICEF Nigeria funding trends for Other Resources: regular (ORR) and emergency (ORE)\ 
+Figure 11: Proportion of funds available vs requirements as defined in HAC, by programme section
+Figure 12: HAC appeal amounts funded in USD by programme section
+98
+104
+111
+118
+119
+123
+127
+132
+133
+139
+144
+144
+148
+156
+160
+164
+24
+30
+44
+54
+68
+79
+100
+120
+121
+124
+124
+126
+Figures
+
+9
+EVALUATION OF UNICEF’S COVERAGE AND QUALITY IN COMPLEX HUMANITARIAN SITUATIONS: NIGERIA
+Table 1: Scope of the evaluation
+Table 2: Summary of documents reviewed
+Table 3: Summary of key informant interviews conducted during the evaluation
+Table 4: Summary of community consultations during phase 1 of the evaluation
+Table 5: Timeline of key humanitarian, political and security-related events
+Table 6: Summary of findings by OECD/DAC evaluation criteria
+Table 7: Recommendations
+23
+26
+27
+28
+37
+138
+139
+Tables
+
+10
+TABLE OF ACRONYMS
+AAP	
+    	
+Accountability to Affected 	
+	
+	
+	
+Populations
+AAH/ACF	
+Action Against Hunger
+AAWG	
+Assessment and Analysis 	
+	
+	
+	
+Working Group
+AWG	 	
+Access Working Group
+BAY	
+	
+Borno, Adamawa, Yobe
+C4D	
+	
+Communication for 	 	
+	
+	
+	
+Development
+CCC	
+	
+Core Commitments for Children
+CEF	
+	
+Consolidated Emergency 	
+	
+	
+	
+Report
+CHS	
+	
+Core Humanitarian Standard
+CHTE	 	
+Complex High-threat 		
+	
+	
+	
+Environment
+CJTF	 	
+Civilian Joint Task Force
+CO	
+	
+Country Office
+Covid-19	
+Coronavirus disease
+CRM	 	
+Complaints Response 	
+	
+	
+	
+Mechanism
+CTG	
+	
+Committed to Good
+DHIS	 	
+District Health Information 	
+	
+	
+	
+System
+DO	
+	
+Designated Official
+EiE	
+	
+Education in Emergencies
+EO	
+	
+Evaluation Office
+e-PMV		
+Electronic Programmatic 	
+	
+	
+	
+Monitoring Visits 
+EQ	
+	
+Evaluation Question
+FGD	
+	
+Focus Group Discussion
+FO	
+	
+Field Office
+GBV	
+	
+Gender-based Violence
+HAC	
+	
+Humanitarian Action for 	
+	
+	
+	
+Children
+HACT	 	
+Harmonized Approach to Cash 	
+	
+	
+Transfers
+HC	
+	
+Humanitarian Coordinator
+HCT	
+	
+Humanitarian Country Team
+HNO	 	
+Humanitarian Needs Overview
+HPD	
+	
+Humanitarian Programme 	
+	
+	
+	
+Document
+HPM	 	
+Humanitarian Performance 	 	
+	
+	
+Monitoring
+HQ	
+	
+Headquarters
+HRP	
+	
+Humanitarian Response Plan
+HRS	
+	
+Humanitarian Response 	
+	
+	
+	
+Strategy
+IASC	 	
+Inter-Agency Standing 	
+	
+	
+	
+Committee
+IDP	
+	
+Internally Displaced Person
+IHL	
+	
+International Humanitarian Law
+INGO	 	
+International Non-governmental 	
+	
+	
+Organization
+INSO	 	
+International NGO Safety 	
+	
+	
+	
+Organization
+IT 	
+	
+Information Technology
+
+11
+EVALUATION OF UNICEF’S COVERAGE AND QUALITY IN COMPLEX HUMANITARIAN SITUATIONS: NIGERIA
+IYCF	
+	
+Infant and Young Child Feeding
+JIAF	
+	
+Joint Inter-agency Assessment 	
+	
+	
+Framework
+KfW	
+	
+Kreditanstalt für Wiederaufbau 	
+	
+	
+(German Development Bank)
+KII	
+	
+Key Informant Interview
+LHD	
+	
+Linking Humanitarian and 	
+	
+	
+	
+Development
+M4R	
+	
+Management for Results
+MSNA		
+Multi-sector Needs 	 	
+	
+	
+	
+Assessment
+MRM	 	
+Monitoring and Reporting 	
+	
+	
+	
+Mechanism
+MWASD	
+Ministry of Women Affairs 	
+	
+	
+	
+and Social Development
+NAF	
+	
+Nigerian Armed Forces
+NCO	 	
+Nigeria Country Office
+NGO	 	
+Non-governmental 	
+	
+	
+	
+	
+Organization
+NRC	
+	
+Norwegian Refugee Council
+NSAG		
+Non-state Armed Group
+OCHA		
+Office for the Coordination of 	
+	
+	
+Humanitarian Affairs
+OECD/DAC	
+Organization for Economic 	
+	
+	
+	
+Co-operation Development/ 	 	
+	
+	
+Development Assistance 	
+	
+	
+	
+Committee	
+	
+ORE	
+	
+Other Resources Emergency
+ORR	
+	
+Other Resources for Regular
+OTP	
+	
+Outpatient Therapeutic Centre
+PEA	
+	
+Political Economy Analysis
+PMV	 	
+Programmatic Monitoring Visits
+PoLR	 	
+Provider of Last Resort
+PSS	
+	
+Psychosocial Support
+PRC	
+	
+Partnership Review Committee
+RC	
+	
+Resident Coordinator
+RC/HC		
+Resident/Humanitarian 	
+	
+	
+	
+Coordinator
+RRM	 	
+Rapid Response Mechanism
+RUTF	 	
+Ready-to-use Therapeutic Food
+SAM	 	
+Severe Acute Malnutrition
+SECTO	
+Special Emergency 	 	
+	
+	
+	
+Compressed Time-off
+SitRep		
+Situation Report
+SOP	
+	
+Standard Operating Procedures
+SRP	
+	
+Strategic Response Plan
+TA	
+	
+Temporary Appointment
+TOR	
+	
+Terms of Reference
+TPF	
+	
+Third-party Facilitator
+UN	
+	
+United Nations
+UNDSS	
+United Nations Department of 	
+	
+	
+Safety and Security
+UNEG		
+United Nations Evaluations 	 	
+	
+	
+Group
+UNICEF	
+United Nations Children’s 	
+	
+	
+	
+Emergency Fund
+UNSG		
+United Nations Secretary 	
+	
+	
+	
+General
+UNSMS	
+United Nations Security 	
+	
+	
+	
+Management System
+USAID		
+United States Agency for 	
+	
+	
+	
+International Aid
+WASH		
+Water, Sanitation and Hygiene
+WFP	
+	
+World Food Programme
+WHS	 	
+World Humanitarian Summit
+
+12
+Introduction and context
+Purpose of the evaluation
+The objectives of the evaluation were to 
+assess UNICEF’s performance in achieving 
+coverage and quality in Nigeria between 2018 
+and 2020. The evaluation aimed to identify 
+internal and external enabling and inhibiting 
+factors that influenced the delivery of high-
+quality humanitarian action, and to capture 
+good practice and innovation.
+EXECUTIVE SUMMARY
+Methodology
+The evaluation was conducted in two phases. 
+Nigeria was a case study for the global thematic 
+evaluation of UNICEF’s coverage and quality 
+in complex humanitarian situations (phase 
+1), which covered the period 2015–2017 and 
+was published in 2018. In the second phase, 
+conducted in 2021, the Nigeria case study was 
+updated with a view to publishing a fully-fledged 
+evaluation report. Throughout both phases, 
+the team used a mixed-methods approach for

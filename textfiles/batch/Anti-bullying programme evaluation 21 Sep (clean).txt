@@ -1,0 +1,2893 @@
+Formative Evaluation of the Anti-Bullying
+Programme in Schools in the United Arab Emirates
+Written by:
+Dr Maha Ismail, PhD
+Lead Evaluator, Cairo Development Benchmarking Centre
+m.ismail@cdbenchmark.com
+July 2023
+Table of Contents
+Table of Contents .................................................................................................................................... i
+Acknowledgements .............................................................................................................................. v
+Abbreviations and acronyms ........................................................................................................... vi
+List of Tables ......................................................................................................................................... vii
+List of Figures ...................................................................................................................................... viii
+List of Shapes ...................................................................................................................................... viii
+Executive Summary ............................................................................................................................. ix
+1. Introduction .................................................................................................................................... 0
+1-1 Country context ........................................................................................................................... 0
+1-2 Education system in the UAE .......................................................................................................... 2
+1-3 Bullying in schools in the UAE ........................................................................................................ 3
+1-4 Child protection policy in schools in the UAE ............................................................................... 4
+1-5 UNICEF SCMC programme on the prevention of bullying in schools in the UAE ..................... 5
+2. Purpose and Objectives of Evaluation.................................................................................... 7
+3. Evaluation Scope, Criteria, and Questions ............................................................................ 8
+4. Evaluation Methodology ............................................................................................................. 9
+Desk review ............................................................................................................................................ 10
+Key informant interviews ...................................................................................................................... 10
+Sampling and sample characteristics for stakeholder surveys ....................................................... 10
+Data collection at schools .................................................................................................................... 13
+Risk map................................................................................................................................................. 14
+Stakeholder survey questionnaires .................................................................................................... 14
+Data collection ethics ........................................................................................................................... 16
+Limitations ............................................................................................................................................. 16
+Evaluation findings ............................................................................................................................. 17
+5. Relevance ....................................................................................................................................... 17
+5-1 Programme relevance to the SCMC 2017–2021 strategy ............................................................ 17
+5-2 Programme relevance to the MOE strategy ................................................................................. 18
+5-3 Programme relevance vis-à-vis the Ministry of the Interior ....................................................... 18
+5-4 Programme relevance to the Sustainable Development Goals ................................................. 18
+5-5 To what extent are the programme’s intervention approaches evidence-based? ................... 19
+5-6 To what extent did the programme adapt to the new realities triggered by the COVID-19 pandemic?
+................................................................................................................................................................. 20
+5-7 Programme design and implementation alignment with gender mainstreaming .................... 20
+5-8 Programme relevance to the human rights-based approach (HRBA) ....................................... 21
+6. Coherence....................................................................................................................................... 22
+6-1 Programme alignment with relevant school policies .................................................................. 22
+6-2 Programme support of the operationalisation of the anti-bullying and anti-violence mechanism
+................................................................................................................................................................. 25
+6-3 Is there an overlap with MOE interventions? ............................................................................... 25
+7. Efficiency ........................................................................................................................................ 26
+7-1 To what extent have the programme’s funds and resources been utilised efficiently? ......... 27
+7-2 How well was the establishment and implementation of the programme planned and managed?
+................................................................................................................................................................. 27
+7-3 How often did data collection and monitoring activities impact the results? .......................... 27
+8. Effectiveness.................................................................................................................................. 28
+8-1 To what extent have the target groups been reached? .............................................................. 28
+8-2 Are the programme objectives realistic? To what extent has the programme achieved its planned
+goals? ..................................................................................................................................................... 30
+8-3 Has the programme managed to reach out to the most vulnerable children? ......................... 35
+8-4 What are the critical determinants of the programme’s effectiveness and their impact on the
+beneficiary groups? .............................................................................................................................. 37
+8-5 Level of satisfaction of each beneficiary group? ........................................................................ 38
+8-7 What happens to the cases reported and what are the response mechanisms? .................... 42
+9. Sustainability ................................................................................................................................ 42
+9-1 To what extent have UNICEF, the SCMC, and the MOE promoted a spirit of joint ownership of the
+programme?........................................................................................................................................... 42
+9-2 Have legal, institutional, and financial mechanisms encouraged the programme’s sustainability?
+................................................................................................................................................................. 43
+9-3 How sustainable are the results achieved thus far for the broader school community at the 64 pilot
+schools? ................................................................................................................................................. 44
+10. Looking Ahead .............................................................................................................................. 44
+10-1 Stakeholders’ priorities ................................................................................................................ 44
+10-2 Students’ priorities ....................................................................................................................... 46
+10-3 School Discipline Committees’ priorities ................................................................................... 48
+10-4 School principals’ priorities ......................................................................................................... 49
+10-5 Parents’ priorities .......................................................................................................................... 50
+11. Lessons Learnt and Best Practices ........................................................................................ 51
+11-1 Lessons learnt ............................................................................................................................... 52
+11-2 Best practices ................................................................................................................................ 52
+11-3 Success stories ............................................................................................................................. 53
+12. Conclusions .................................................................................................................................... 53
+13. Recommendations ...................................................................................................................... 54
+13-1 Strengthen the service reponse .................................................................................................. 55
+13-2 Support pilot schools in continuing to adopt programme interventions ............................... 55
+13-3 Improve the programme manuals ............................................................................................... 55
+13-4 Update the anti-bullying programme materials ......................................................................... 56
+13-5 Develop a results framework for the programme ...................................................................... 56
+13-6 Accelerate the programme’s implementation ............................................................................ 56
+13-7 Expand the scope of the programme to deal with the topics mentioned in the school code of
+conduct, and integrate the beneficiaries’ priorities ........................................................................... 57
+13-8 Offer non-school support to regularly bullied students and aggressive bullies ................... 57
+13-9 Develop a capacity-building programme for implementation partners .................................. 58
+13-10 Position the SCMC as a third-party monitor ............................................................................ 58
+13-11 Build the capabilities of social workers and school staff through a dedicated programme to plug
+the human-resources gaps among social protection specialists and social workers .................. 58
+13-12 Strengthen the UNICEF’s role in the programme to maximise the impacts ......................... 58
+13-13 Support the scale-up .................................................................................................................. 59
+Author: Dr Maha Ismail, PhD
+m.ismail@cdbenchmark.com
+The contents do not necessarily reflect the policies or views of UNICEF.
+April 2023
+Suggested citation:
+Ismail, M. (2023). Evaluation of the Anti-Bullying Programme in Schools in the United Arab Emirates by UNICEF
+UAE, 2014-2022. UNICEF Gulf Area Office.
+Acknowledgements
+The lead evaluator, Dr Maha Ismail, wishes to express her thanks and appreciation to Mr Saji Thomas
+(director, child protection), Mr Moataz Azzam (programme associate), and Ms Nohiere Nashaat (child
+protection officer) at the UNICEF United Arab Emirates (UAE) Office, as well as Ms Mariia Matsepa,
+multi-country evaluation specialist at the UNICEF Middle East and Northern Africa Regional Office, and
+Mr Sheku Golfa, M&E specialist at the UNICEF Gulf Area Office (GAO), for the support they have
+provided in conducting this evaluation and their overall coordination and follow-up that made this
+evaluation possible.
+The lead evaluator also wishes to acknowledge Ms Amna AlSuwaidi from the Supreme Council for
+Motherhood & Childhood for providing tremendous support during evaluation field visits, Ms Hala El-
+hefnawy, the national expert from Abu Dhabi, UAE, who supported data collection, and Mr Mohamed
+Wael and Mr Amr Elkady, national experts for monitoring data collection online.
+Special thanks are extended to the UAE Supreme Council for Motherhood & Childhood, the Emirates
+Schools Establishment, especially Ms Aisha ElKaabey, the UAE Ministry of Education, the UAE Ministry
+of the Interior, and the school staff, students, and parents from each of the 14 schools who took time
+to participate in this evaluation and share their experiences and perspectives.
+Abbreviations and acronyms
+Abbreviation Definition
+ABC Anti-bullying committees / school discipline committee
+ADEK Abu Dhabi Department of Education and Knowledge
+CRC The UN Convention on the Rights of the Child
+DAC Development Assistance Committee
+ERB Ethics Review Board
+ESE Emirates School Establishment
+FDF Family Development Foundation
+GWU General Women’s Union
+HDI The Human Development Index
+HRBA Human Rights Based Approach
+KHDA The Knowledge and Human Development Authority
+MOCD Ministry of Community Development
+MOE Ministry of Education
+MOHAP Ministry of Health and Prevention
+OECD Organisation for Economic Co-operation and Development
+PANEL Participation, Accountability, Non-discrimination and Equality, Empowerment and Legality
+PIRLS Progress in International Reading Literacy Study
+PISA Programme for International Student Assessment
+SCMC Supreme Council for Motherhood & Childhood
+SEC Sharjah Education Council
+SEHA Ambulatory Healthcare Services
+SPEA Sharjah Private Education Authority
+TIMSS Trends in International Mathematics and Science Study
+UAE United Arab Emirates
+UNEG United Nations Evaluation Group
+UNICEF GAO UNICEF Gulf Area Office
+VAC Violence against Children
+List of Tables
+Table 1: Distribution of students by sex and school type 2018/2019 .................................................................... 3
+Table 2. List of evaluation criteria and questions ................................................................................................... 8
+Table 3. List of stakeholders interviewed ............................................................................................................. 10
+Table 4. Distribution of control and intervention schools’ students by nationality ............................................. 11
+Table 5. Sampling using quasi-experimental control/intervention concept ......................................................... 11
+Table 6. Survey participants .................................................................................................................................. 12
+Table 7. Student distribution by nationality for the whole sample ...................................................................... 12
+Table 8. Programme relevance to HRBA human rights principles ........................................................................ 22
+Table 9. Students reporting acting pro-socially: control group v intervention group .......................................... 31
+Table 10. Students reporting being bullied: control group v intervention group ................................................. 32
+Table 11. Students reporting bullying others: control group v intervention group ............................................. 32
+Table 12. Students reporting acting pro-socially: by Emirate ............................................................................... 32
+Table 13. Students reporting being bullied: by Emirate ....................................................................................... 33
+Table 14. Students reporting bullying others: by Emirate .................................................................................... 33
+Table 15. Students reporting acting pro-socially: Emiratis v expatriates ............................................................. 33
+Table 16. Students reporting being bullied: Emiratis v expatriates ...................................................................... 34
+Table 17. Students reporting bullying others: Emiratis v expatriates ................................................................... 34
+Table 18. Students reporting acting pro-socially: boys v girls............................................................................... 34
+Table 19. Students reporting being bullied: boys v girls ....................................................................................... 35
+Table 20. Students reporting bullying others: boys v girls .................................................................................... 35
+Table 21. Priorities identified by the stakeholders interviewed ........................................................................... 45
+Table 22. Key challenges in the school environment as defined by students using risk maps (n=93) ................. 47
+List of Figures
+Figure 1. Students' views on gender roles and social position ............................................................................. 20
+Figure 2. How did you engage with the anti-bullying programme? - school committee ..................................... 29
+Figure 3. Frequency of use of the following strategies reported by the School Discipline Committee ............... 30
+Figure 4. How did you engage with the anti-bullying programme? - parents ...................................................... 30
+Figure 5. Are there any special procedures for the most vulnerable students? ................................................... 36
+Figure 6. In your opinion, what factors contributed to the success of the programme vis-a-vis the vulnerable
+group? ................................................................................................................................................................... 37
+Figure 7. In your opinion, what factors hindered the success of the programme vis-a-vis the vulnerable group?
+............................................................................................................................................................................... 37
+Figure 8. School Discipline Committee rates of satisfaction with programme interventions .............................. 38
+Figure 9. Parent satisfaction with programme intervention ................................................................................ 39
+Figure 10. How students normally act when they face a bullying issue ............................................................... 39
+Figure 11. How bullying cases are handled after being reported ......................................................................... 40
+Figure 12. Have you attended the following capacity-building activities under the programme? ...................... 40
+Figure 13. How did you engage with the anti-bullying programme? - parents .................................................... 41
+Figure 14. The last time you used these methods, did they decrease bullying? .................................................. 41
+Figure 15. In your experience, were these practices useful to your work? - school committee .......................... 42
+Figure 16. How will the school continue the programme after anti-bullying committee members move to other
+schools or if there is a lack of follow up? - School Discipline Committee ............................................................. 43
+Figure 17. Do schools need a child protection specialist on a permanent basis? ................................................ 44
+Figure 18. Key challenges faced by students in the school environment ............................................................. 46
+Figure 19. Should any type of child protection be added to the programme? - School Discipline Committee ... 48
+Figure 20. Are any other challenges faced by the children? ................................................................................. 49
+Figure 21. Should any type of child protection be added to the programme? - school principals ...................... 49
+Figure 22. Should any type of child protection be added to the programme? - parents ..................................... 50
+Figure 23. Are any other challenge faced by the children? - parents ................................................................... 50
+Figure 24. In your experience, what factors drive bullying more? ....................................................................... 51
+Figure 25. In your experience, what factors drive bullying more? - parents ........................................................ 51
+List of Shapes
+Shape 1. Ex-Post UAE anti-bullying programme theory of change ......................................................................... 7
+Shape 2. Human rights-based approach ............................................................................................................... 21
+Shape 3. Summary of key policies, committees, and functions in child protection under the programme ........ 24
+Shape 4. Summary of students’ vulnerabilities identified at schools ................................................................... 36
+Executive Summary
+This evaluation assessed a pilot programme for the prevention of bullying in a school setting, launched in 2014
+under the patronage of Her Highness Sheikha Fatima Bint Mubarak Chairwoman of The General Women’s Union
+The Supreme Chairperson of the family Development Foundation, and President of The Supreme Council for
+Motherhood and Childhood, and as a collaboration between the UNICEF Gulf Area Office (GAO) and the Supreme
+Council for Motherhood & Childhood (SCMC). The evaluation was conducted to support SCMC and UNICEF work
+on child protection in the UAE, specifically case management in schools and the establishment of links to systems
+outside schools. The programme was implemented in two phases. In the first phase, which started in 2014, the
+programme was rolled out in 14 schools in Abu Dhabi. The second phase was implemented in 64 schools from
+2016 to 2017. The programme was expanded to 64 schools, extending from Abu Dhabi to the Northern Emirates.
+In 2018, the program was handed over to the Ministry of Education, which in turn, mainstreamed in all schools.
+The evaluation assessed the pilot programme using the criteria of relevance, efficiency, effectiveness,
+coherence, and sustainability. The evaluation identified critical lessons learnt, best practices, and key
+recommendations.
+SCMC and UNICEF GAO initiated The UAE Programme for the Prevention of Bullying in Schools, by carrying out
+a preliminary analysis of the school environment in the UAE in order to establish a framework for protection and
+safety in schools and a learning environment. The results of the school analysis showed that bullying does occur
+in schools, especially among cycle II students. Hence, there was a need to develop a bullying prevention model
+suitable for implementation in the UAE.
+Initially, more than 15 specialized programs for international best practices in Antibullying were reviewed and 3
+programs were selected and presented in a 2-day seminar organized by UNICEF GAO and SCMC in Abu Dhabi
+from 21-22 May 2014. The seminar was attended by various education, health and protection authorities and
+resulted in forming a national committee to oversee the development of a bullying prevention model suitable
+for implementation in UAE schools. During this seminar, experiences from Australia, Finland (KiVa program) and
+the United States (Olweus Bullying Prevention Program) were presented, and experts shared their research/
+school-based models to combat bullying and the methodologies, approaches used, some of their educational
+material, lessons learnt and evidence of the effectiveness of these models in their respective countries.
+Tailored and comprehensive intervention was programmed through the production of a bullying prevention
+training manual based on six methods of intervention: direct sanctions, restorative practice, mediation, support
+group, shared concern, and victim empowerment. The programme was implemented in 14 schools in Abu Dhabi
+in the first phase and expanded to 64 schools in the second phase – 28 Schools in Abu Dhabi and 36 schools in
+Dubai and the Northern Emirates.
+The purpose of this evaluation is to assess the programme’s relevance, efficiency, effectiveness, coherence, and
+sustainability in mitigating bullying in the target schools, and thereby advise how UNICEF can best support the
+UAE and balance the government’s objectives and priorities with the UNICEF mandate. The evaluation aims to
+assess the pilot phase of the programme, gauge the programme’s accessibility with a focus on equity and gender
+equality, support the overall work on child protection in the country, and identify key lessons and best practices
+to enrich evidence-based decision-making. The evaluation’s intended primary audiences are UNICEF GAO, the SCMC,
+and the Ministry of Education (MOE) in the UAE.
+A mixed participatory approach was used in the evaluation. Following a desk review, the evaluator selected a
+sample of 12 schools involved in the programme and 2 schools outside the programme. She conducted seven
+key informant interviews and ran surveys among nine school principals, 112 parents, 62 social workers and
+School Discipline Committee members, and 1,330 students. Additionally, risk mapping was conducted with 93
+students. The evaluator presented her preliminary findings for validation.
+The evaluation yielded following findings.
+Relevance: The evaluation found the programme to be highly relevant to the United Arab Emirates Supreme
+Council for Motherhood and Childhood 2017–2021 Strategy and to the Ministry of Education Strategy. The
+evaluation concludes that the programme design was based on sound evidence and informed by global best
+practices. The programme design contributed to the achievement of the intended results and outcomes via
+relevant interventions, including staff training, training materials, and anti-bullying guides in Arabic and English.
+Nevertheless, the evaluator notes that the programme did not define the logical framework required for the
+programme, the programme’s theory of change, programme outcomes, an activities timeline, or monitoring
+plan. The programme was found to be relevant to the Convention on the Rights of the Child. More specifically,
+in terms of its non-discrimination principles, the programme effectively worked to eliminate all types of
+discriminations. Children’s views and opinions were prioritised at all stages of the programme. Finally, the
+evaluation found that the programme was consistent with a human-rights-based approach from the
+perspectives of participation, accountability, non-discrimination, equality, universality, and indivisibility.
+Coherence: The evaluation concludes that the programme is aligned with relevant school policies and the school
+code of conduct. The programme contributed to changes in social behaviour. It promoted the mobilisation of an
+anti-bullying and violence mechanism in the pilot schools. While the programme did not offer a case
+management structure similar to that of the school code of conduct, the schools used the programme manuals,
+training materials, and pre- and post-knowledge assessments. The evaluation found that the pilot programme
+and the MOE’s child protection and wellbeing programme complemented each other.
+Efficiency: The programme was drawn up and implemented by UNICEF, the SCMC, and the MOE. The MOE
+devised a national anti-bullying policy that covered all aspects of the programme. However, this pursuit of this
+policy was limited by three factors that affected the programme. First, due to the Covid-19 outbreak, lessons
+were halted, and new bullying issues emerged. Secondly, the MOE was split into two entities: the MOE and the
+Emirates Schools Establishment. It took time for the programme to be embedded at the MOE after this structural
+reform.
+UNICEF’s engagement with governments in the Gulf Region is different from the UNICEF work model deployed
+in many other UNICEF offices where it is fully dedicated not only to education, but also to management,
+reporting, and monitoring. Over time, this lack of involvement may limit UNICEF’s contribution to the
+programme. More needs to be done by the government to strengthen UNICEF’s engagement at local level and
+throughout the programme’s timeline in order to deepen the impact of the resulting achievements.
+Effectiveness: The programme reached the target group at the pilot schools on several levels. Schools drew up
+their own annual programmes. Results from the school committee questionnaire showed that the programme
+raised awareness among at least 80% of school students each year; more than 90% of school staff and social
+workers raised students’ awareness of bullying; 96.4% of them documented incidents of bullying; and 90.5%
+planned and participated in the anti-bullying week organised by the MOE. The programme made progress
+towards its planned objectives of creating a safe school environment and preventing violence and bullying in
+school. One of the programme’s milestones was the production of evidence-based anti-bullying manuals that
+are based on global best practices. It was drawn up, distributed, and used for training purposes. Results from
+student questionnaires indicated consistently lower bullying rates in the pilot schools compared to the control
+group. For example, the likelihood of students becoming victims is significantly lower in the intervention group.
+Students in the intervention group are 27.3% less likely to be called names, 41.2% less likely to get picked on by
+other students, 35.4% less likely to be made fun of, 46.8% less likely get hit by others, and 73.6% less likely to
+receive unpleasant computer, phone, and/or online messages from other students.
+Overall, the programme improved the school environment in each of the pilot schools to varying degrees and
+offered the whole school community a different level of understanding as regards the prevention of school
+violence and bullying. In terms of equity, the programme reached the most vulnerable children. The evaluation
+found that school staff and management systematically assess the students’ situation and offer support. Schools
+have tailored the programme to students with disabilities. With regard to students facing neglect within the
+family, although the number is not high, schools mentioned that these cases were a challenge to manage. Some
+students from lone-parent families sometimes act aggressively and their peers are unable to challenge such
+behaviour. While aspects like these are not the focus of the programme, this needs to be looked at during the
+next phase.
+The UAE government’s commitment to recognising and responding to bullying issues, and to engaging in
+evidence-based interventions, is a critical factor in the effectiveness of the programme. The programme also
+benefited from extensive international experience in the design phase. Schools were willing and eager to benefit
+from the training provided. The school trainer provided training on an annual basis, ensuring that the quality of
+the trainer training was high and making sure that content was available in both Arabic and English.
+Sustainability: The programme established strong buy-in via the training of trainers among national
+counterparts as a programme tool. The training of trainers allowed schools to lead the programme as most of
+the trainees were school principals and experienced social workers. The training of trainers was a key
+implementation mechanism. The evaluation concludes that the programme is legally and institutionally
+sustainable, with a component of financial sustainability depending on the situation playing out in the country.
+The evaluation suggests the following set of recommendations.
+1. Strengthen the service response at national level, continue programme interventions. The government is
+recommended to review and support the legal and policy framework for child protection systems. At
+national level, the Ministry of Education can partner with other ministries, civil society organisations, etc.
+Take evidence-based approaches drawing on comprehensive data and a systematic evaluation of the
+existing programmes and their impacts.
+2. Encourage pilot schools to continue adopting interventions under the programme. UNICEF, the SCMC, and
+the MOE should draw up a plan to ensure continuity in the support of pilot schools in their efforts to
+implement the programme. It is recommended that pilot schools’ efforts and contributions to the
+programme from 2014 to the present be acknowledged and rewarded.
+3. Strengthen the programme manuals. UNICEF and the SCMC should have the programme manuals reviewed
+by an expert group to update the content. More examples of situations from school life can be added so that
+school staff can easily investigate and verify cases. They should adopt up-to-date and child-friendly training
+materials and mainstream gender equality at all programme levels.
+4. Update the anti-bullying materials. The materials should be updated to ensure the diversity and localisation
+of content. This can be done by adding more modules to meet emerging needs defined by the students
+participating in this study and by their parents, and ensuring the localisation of content to reflect cultural
+differences and diversity across the Emirates.
+5. Develop a results framework for the programme. UNICEF should provide more support to stakeholders
+from the SCMC and MOE in taking the lead with national stakeholders to develop a results agenda with clear,
+quantified targets. The programme needs to document a theory of change to identify assumptions, risks and
+bottlenecks, and develop a results-based monitoring and evaluation framework.
+6. Accelerate the implementation of the programme. UNICEF should use a shorter sub-programme timeframe
+to regularly capture changes on the ground. A shorter sub-programme can be more easily financed than a
+very long programme. The programme should build a strong monitoring system and regularly collect data.
+7. Broaden the scope of the programme scope to address topics mentioned in the school code of conduct
+and integrate the beneficiaries’ priorities. It is recommended that the existing school code of conduct be
+used to scale up the programme, rather than creating a parallel dedicated school anti-bullying structure. The
+code of condct needs to be audited from a child protection prespective, and given trainng and social change
+materials. The MOE needs to develop a way of detecting and dealing with cases where children’s identities
+are kept anonymous.
+8. Offer non-school support to regularly bullied students and aggressive students. The UAE already has three
+levels of service response: primary, secondary and tertiary. These need to be mainstreamed into the school
+system. Students who aggressively bully others may either be given a fail grade or prevented from advancing
+to the next year, and placed in another school if there is no sustainable change in his/her behavior.
+Additional advanced modules need to be created to support and enhance the life skills of regularly bullied
+students with a view to increasing their self-esteem.
+9. Develop a capacity-building programme for implementing partners. One important method to keep all
+stakeholders on the same path is to engage in strong programme-based capacity building at the beginning
+in order to enhance implementers’ skills and share programme experiences among them.
+10. Put the SCMC in the position of third-party monitor. It is recommended that the programme build SCMC
+capacities to position itself as a third-party monitor conducting cross-cutting research and playing a
+monitoring role in multiple child-related areas, including bullying and child protection.
+11. Establish a programme dedicated to filling the gap in human resources among social protection specialists
+and social workers. This includes gauging and addressing the shortage of human resources among school
+social workers and assessing current social workers’ capabilities.
+12. Strengthen the UNICEF’s role in the programme to maximise the impacts. The current implementation
+model, where UNICEF is engaged in the design and the early stages, with programme implementation then
+managed by the national stakeholders, has shown limitations in two important components – systematic
+monitoring and learning. A study of the feasibility of various options on how the government and UNICEF
+can work together is recommended.
+13. Support the scale up. The scale-up phase needs to be discussed with stakeholders to ensure that they are
+technically and financially willing and ready for the scale-up, and the programme materials need to be
+revised to factor in new developments and the views of schools, parents, students, and principals.
+The following findings emerge from the evaluation:
+▪ Better coordination between UNICEF, the SCMC, and national and local government stakeholders at all
+levels would have helped to better achieve the programme’s goals.
+▪ A clear and comprehensive programme document identifying and spelling out the results, programme
+components, activities, timeline, key roles and responsibilities, and a monitoring framework would have
+facilitated performance tracking. A theory of programme change in response to identified assumptions,
+risks and bottlenecks could have helped to achieve the planned results. There is a lack of a programme
+monitoring and evaluation plan with tailored data collection benchmarks for learning and monitoring.
+▪ Since the MOE took over the implementation of the programme, there is little evidence of data
+collection and programme performance monitoring, with the exception of schools’ self-documentation
+of cases for internal use, which are not necessarily reported to the MOE.
+The evaluation identified the following best practices:
+▪ The programme draws on international best practices and successful models. Prior to its
+implementation, more than 15 international dedicated anti-bullying programmes were analysed, and
+the three best programmes – well-tested in Australia, Finland (the KiVa programme), and the United
+States (Olweus Bullying Prevention Program) – were presented to implementers prior to roll-out. Experts
+from those three programmes shared their school-based models, educational materials, lessons learnt
+and evidence of the effectiveness of these models in their respective countries.
+▪ The programme achieved a high level of buy-in among schools by engaging, equipping and empowering
+schools so that they have all the support they need to take the lead in the programme. The training of
+trainers gave schools guidance on sustaining interventions under the programme. Most of the staff
+trained in the trainer training scheme were school principals and experienced social workers. The trained
+staff enabled schools to be the key actor in maintaining the programme. Each year, the trained staff
+provide refresher training and awareness sessions to other staff at their schools to raise students’ and
+parents’ awareness of anti-bullying.
+▪ The SCMC Bullying Prevention in Schools Award is a very important tool in identifying and rewarding
+the best-performing staff, students, and parents. Schools should award it to students who make positive
+changes in their behaviour.
+The evaluator noted three schools that had been exceptionally successful in implementing the programme:
+a) Hamdan Bin Zayed School: the school committee has been comprehensively organised. In addition to
+social workers, they have added music and drama teachers, PE teachers, and other staff. The school
+formed a student support group composed of senior students who observe and guide younger students’
+behaviour. The school invested heavily in delivering awareness sessions in a child-friendly manner with
+drawings and videos. The school has a strong, diversified team.
+b) Al Rawafed Private School: the school fully documented all programme activities. It applied all
+programme steps on annual basis. The school principal was very engaged in the process.
+c) Al Shawamekh School for Girls: the school carefully collected and analysed data on bullying incident
+1. Introduction
+1-1 Country context
+The UAE consists of seven emirates; Abu Dhabi, Dubai, Sharjah, Ras Al-Khaimah, Ajman, Umm Al-
+Qaiwain, and Al- Fujairah, which were united as a federal state on 2 December 1971. The official
+language is Arabic. Among the immigrant population, English, Hindi, Farsi, and Filipino are spoken.
+English is the language of commerce and business. Islam dominates all aspects of life. Matters
+relating to marriage, divorce, inheritance, economics, politics, and personal conduct are affected
+by Sharia (Islamic) law. The Emiratis are tolerant toward other religions, and immigrants of other
+faiths are allowed to have their own places of worship.
+In 2021, the UAE’s population was estimated at 9,365,145. The population growth (annual %) is
+0.8%. The GDP per capita (current US$) was equal to $44,315.6 in 2021. The internet can be used
+by 100%1 of the population; the country hosts migrants of multiple nationalities, including Arab
+nationalities, e.g. Egyptians, Lebanese, Syrians, Tunisians and Moroccans, Asian nationalities, e.g.
+Indians, Philippines and Pakistanis, and African migrants, in addition to western residents from
+the USA and Europe.2 The 0-14 year age bracket represents 15% of the population3
+The UAE ranked 26th globally and first in the Arab world in the 2021/2022 Human Development
+Report. The Human Development Index (HDI) is a summary measure for assessing long-term
+progress in three basic dimensions of human development: a long and healthy life, access to
+knowledge, and a decent standard of living.4
+According to the SDGs dashboard, the UAE ranked 85th out of 163 among the index countries.
+The UAE has already achieved the targets related to goal 1 (no poverty) and goal 4 (quality of
+education).5
+1 The World Bank, United Arab Emirates data profile, retrieved on 20 March 2023, retrieved from
+https://data.worldbank.org/country/AE.
+2 UAE Ministry of Education and International Cooperation, Facts and figures, https://www.mofaic.gov.ae/ar-ae/the-uae/facts-
+and-figures
+3 The World bank, United Arab Emirates data profile, https://data.albankaldawli.org/indicator/SP.POP.0014.TO.ZS
+4 UNDP (United Nations Development Programme). 2022. Human Development Report 2021-22: Uncertain Times, Unsettled
+Lives: Shaping our Future in a Transforming World. New York.
+5UN DESA. 2022. The Sustainable Development Goals Report 2022 – July 2022. New York, USA: UN DESA. © UN DESA.
+https://unstats.un.org/sdgs/report/2022/
+The quality of education in the UAE performed well globally, being among the top 15 countries
+in the PIRLS score (Progress in International Reading Literacy Study). PIRLS is an international
+assessment administered every five years to measure trends in reading comprehension at fourth
+grade. The assessment is conducted in the language of instruction in public and private schools
+and compares the results with the abilities of peers in participating countries.6
+The UAE acceded to the Convention on the Rights of the Child on 3 January 1997 and the Optional
+Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution
+and child pornography on 2 March 2016.7 Since then, the UAE has made significant progress in
+ensuring the compliance of its legal and policy frameworks to protect children from violence and
+abuse. Federal Law No. 3 of 2016 concerning children’s rights, also known as Wadeema’s Law,
+has been issued to ensure that all children are provided with appropriate living standards, access
+to health services, education, and equal opportunities in essential services and facilities without
+any kind of discrimination. The law protects children against all forms of negligence, exploitation,
+and physical and psychological abuses.
+1-2 Education system in the UAE
+The current education system in the UAE has been in effect since 1952. In the 1960s and 1970s,
+a school building programme expanded the education system. Currently, education at primary
+and secondary levels is universal. Public schools are funded by the UAE government, and the
+curriculum is created to mirror the UAE’s development goals. The language of instruction in
+public schools is Arabic, while a stress is placed on English as a second language. There are many
+internationally accredited private schools. Public schools in the country are free for citizens of
+the UAE; fees for private schools vary.
+The UAE education reform policy focuses on better preparation, greater accountability, higher
+standards, and improved professionalism. In addition, rote instruction is being replaced with
+more interactive forms of learning. English-language education is being integrated into other
+subjects, such as mathematics and science. The Ministry of Education (MOE), the Emirates School
+Establishment (ESE), the Abu Dhabi Department of Education and Knowledge (ADEK), the
+Knowledge and Human Development Authority (KHDA) in Dubai, the Sharjah Private Education
+Authority (SPEA), and the Sharjah Education Council (SEC) are tasked with education reform that
+preserves local traditions, principles, and the cultural identity of the UAE.
+Education from primary to secondary level is universal and compulsory up to the twelfth grade.
+This education is provided in a four-tier process over 14 years:
+▪ 4- to 5-year-olds attend kindergarten (KG1, KG2)
+6 PIRLS and ePIRLS Results, https://nces.ed.gov/surveys/pirls/pirls2016/tables/pirls2016_table11.asp
+7 Office of the High Commissioner for Human Rights – ohchr, Pledge by United Arab Emirates,
+https://www.ohchr.org/sites/default/files/Documents/HRBodies/CRC/30Anniversary/Pledges/UnitedArabEmirates.pdf
+2
+▪ 6- to 11-year-olds attend primary schools (Grades 1-4)
+▪ children aged 12 to 14 attend preparatory middle schools (Grades 5-8)
+▪ 15- to 17-year-olds attend secondary schools (Grades 9-12)
+More than a million students enrolled in pre-university education in the UAE in 2017/2018; an
+education service is offered by private and public schools. Public schools admitted 287,700
+students in 2017/2018, private schools 793,300 students.8
+In 2018/2019, 1,099,331 students enrolled in schools in the country. Private schools admitted
+810,537 students, 48.2% female and 51.8% male. Public schools took in 288,794, 52.2% female
+and 47.8 male. Girls are more likely to be enrolled in public schools and boys are more likely to
+be enrolled in private schools.9
+Table 1: Distribution of students by sex and school type 2018/2019
+Enrolment Percentage
+P ublic schools F 150,790 13.7
+M 138,004 12.6
+P rivate schools F 390,764 35.5
+M 419,773 38.2
+Total 1,099,331 100.0
+A 2001 cabinet decision excluding expatriate students from government schools was repealed in
+2006. Since the 2006/07 academic year, admission for expatriate students has been conditional
+on approval, merit, and geographic location, and fees are levied.10
+The UAE government allocates a significant share of its federal budget to education; the
+education budget has ranged from 13.44% of the UAE federal budget in 2016 to 20.23% in
+2018.11 In 2022 the government spent 16.3% of the country’s $16 billion federal budget on
+education.12 The UAE has also drawn up a National Education Strategy to equip future
+generations of students with the technical and practical skills needed to strengthen the labour
+market. The strategy aims to reinforce accreditation standards, set a framework of
+qualifications, and further develop the curricula to match international standards and the UAE
+education tracks (a general, technical, advanced and elite stream).
+1-3 Bullying in schools in the UAE
+According to a programme’s situation analysis, bullying in schools is a problem that affects
+students in many countries. It can have serious consequences on well-being and mental health.
+8 Ministry of Education, school statistics 2017/2018.
+9 UAE Ministry of Education, open data, https://www.moe.gov.ae/Ar/OpenData/Pages/Home.aspx
+10 UAE Embassy in Washington, Education in the UAE, K-12 Education, http://www.uaecd.org/k-12-education
+11 Ministry of Education, Ministry of Education Strategic Plan 2017-2021,
+https://www.moe.gov.ae/En/AboutTheMinistry/Pages/MinistryStrategy.aspx
+12Maya Najm, United Arab Emirates Education, US Commercial Service, 2022
+3
+Bullying may be defined broadly as “the systematic abuse of power in interpersonal relations. It
+involves individuals or groups deliberately seeking to dominate and upset those they target
+without having any reason to do so. Bullying may be physical, as in hitting or kicking someone, or
+verbal, as in using abusive language. It may also be indirect, as in deliberate and unfairly excluding
+people or spreading rumours about them that are known to be untrue. In recent years, it has
+involved the use of cyber technology to send hurtful messages.”
+In 2014, the UNICEF Gulf Area Office (GAO), in cooperation with the Supreme Council for
+Motherhood & Childhood (SCMC), carried out a preliminary situation analysis of the school
+environment in the UAE to develop a framework for protection and safety in the school and
+learning environment. The UNICEF GAO’s experts visited 11 schools (cycles 1 & 2) across different
+Emirates to assess the school environment by engaging in general group discussions with the
+students, school staff, parents, and school management. Results from the preliminary school
+assessment indicated that there is bullying behaviour in schools, especially among cycle 2
+students (grades 6-9; aged 11-15 years).
+Some of the key findings of the preliminary assessment include:
+- students were subjected to bullying by other students;
+- students were subjected to bullying by their teachers;
+- younger students (11-12 years) were franker about the problems they faced;
+- verbal bullying was the most common form of bullying;
+- a few teachers reported being subjected to verbal and physical abuse by students;
+- students were under constant surveillance by the school staff;
+- school staff and parents did not acknowledge the negative impact of bullying on children;
+- school staff are not able to identify signs of bullying;
+- parents were not actively involved in their children’s school.
+1-4 Child protection policy in schools in the UAE
+There are several regulations that protect and organise child rights in UAE, including the
+compulsory education law, the people with disabilities law, the human resources law, the child
+crime law, and the child rights law – Federal Law No. 3 of 2016 (Wadeema). This child rights law
+was named after a girl who was tortured and killed by her father and his wife in 2012, an event
+which shook the country.
+The law has created a comprehensive approach to child protection based on global best
+practices. The law stresses that all children must be provided with appropriate living standards,
+access to health services, education, equal opportunities in essential services and facilities
+without any kind of discrimination. The law protects children against all forms of negligence,
+exploitation, physical and psychological abuses. In addition, smoking in public and private
+vehicles and indoor facilities where children are present is also prohibited under the law.
+Violators are subject to penalties as imposed by the law.
+The law allows childcare specialists to remove children from their home against the parents’
+wishes and without judicial permission in cases of imminent danger. In less severe cases,
+specialists may intervene by visiting the child regularly, providing social services, and mediating
+a solution between the family and the child. Parents who put children in danger, abandon them,
+neglect them, leave them without supervision, do not enrol them in school or fail to register them
+4
+upon birth are subject to a prison sentence and/or a fine. The law applies to all children up to the
+age of 18.13
+At a school level, internal discipline is defined by the school code of conduct issued by Ministerial
+Executive Order No. 851 of 2018. The school code of conduct as per the MOE refers to the
+regulation of students’ day-to-day issues at schools, from the dress code to bullying. Under the
+code of conduct, students’ conduct at school is graded as morals and behaviour and is subject to
+a pass/fail grade just like other subjects. Under the code of conduct, education officials are asked
+to protect children from neglect, exploitation, bullying and all forms of abuse, and to avoid
+disclosing confidential information about students and their families. The code of conduct
+includes the prohibition of spreading false news and rumours, and of committing any verbal or
+physical violence against students in any circumstances. Additionally, the MOE has joined with
+other entities to implement several national strategies and polices, such as the quality-of-life
+strategy and school health and safety, in addition to several programmes geared towards child
+well-being.
+Child protection professionals and advisers work via a child protection unit; they are a bridge
+intervening between schools and families. Their numbers are relatively low, at one specialist for
+every 10 schools. Their capacities also need to be strengthened in order to meet children’s needs
+as indicated by the MOE’s representative.
+1-5 UNICEF SCMC programme on the prevention of bullying in schools in the UAE
+In 2014, the SCMC and UNICEF conducted an assessment with a view to developing a framework
+for protection and safety in schools. This initial assessment indicated that bullying behaviour was
+a key challenge.
+In response to this assessment, UNICEF and the SCMC formed a national committee of
+stakeholders to address the bullying issue. Following discussions and meetings, the committee
+decided to draw up an anti-bullying programme in schools in the UAE.
+The initial assessment in 2014 was conducted via focus group discussions with students at
+schools. Data issued later by the UAE Ministry of Health and MOE within the scope of the Global
+School-Based Student Health Survey 2016 showed that the percentage of students bullied on one
+or more days during the 30 days before the survey was 27.1% among students aged 13-15 years,
+21.2% among students aged 16-17 years, and 24.8% among students aged 13-17 years. This also
+confirmed the SCMC and UNICEF assessment that priority should be given to cycle 2 students,
+i.e. those aged 13-15 years,14 as this is where bullying rates are highest.
+The development of the programme started with a study of global experiences. In this respect,
+15 global best practices were carefully reviewed, with three programmes being invited to provide
+more information. The three programmes selected were from Finland (KiVa), the United States
+(Olweus Bullying Prevention Programme), and Australia.
+Afterwards, an international expert in psychology was commissioned to draw up a tailored and
+comprehensive intervention programme by producing a training manual based on six methods
+13 The United Arab Emirates Government Portal, Children’s Safety, https://u.ae/en/information-and-services/justice-safety-and-
+the-law/children-safety#:~:text=Federal%20Law%20No.,without%20any%20kind%20of%20discrimination.
+14 World Health Organisation, Global School-based Student Health Survey,
+https://extranet.who.int/ncdsmicrodata/index.php/catalog/647
+5
+of intervention: direct sanctions, restorative practice, mediation, support group, shared concern,
+and strengthening of the victim. The training manual was tested and translated and used as a
+tool to train trainers from schools so they could transfer this knowledge to school staff.
+Prior to the training of trainers, a pre-assessment was conducted to measure the bullying rates
+at schools. The training was then provided and delivered from school staff to students via several
+delivery methods. The programme schools reported the following strategies to address bullying
+issues:
+▪ production of a brochure and leaflets to raise awareness of bullying;
+▪ awareness-raising among the student body at morning assemblies;
+▪ organisation of a play on bullying in schools;
+▪ collaboration with community police to hold a workshop on cyber-bullying;
+▪ organisation of art activities to express students’ ideas and perspectives on bullying;
+▪ contest to come up with a creative design for the bullying prevention project;
+▪ parent engagement in discussions on bullying and its consequences at morning
+assemblies and school celebrations.15
+Another assessment was conducted to measure the effectiveness of the draft programme – a
+post assessment – which reported that:
+▪ there was a significant reduction in those being bullied;
+▪ there was a significant reduction in those doing the bullying.
+At this stage, the programme interventions were proved to be effective and phase 2 was rolled
+out with the expansion of the programme to 64 schools – 28 schools in Abu Dhabi and 36 schools
+in Dubai and the Northern Emirates.
+In the absence of a programme theory of change, the evaluator drew up an ex-post illustrative
+theory of change (Shape 1).
+15 Ken Rigby, Bullying in schools in the United Arab Emirates and the effectiveness of an intervention programme:
+Report 2 , UNICEF GAO, 2017
+6
+Shape 1. Ex-Post UAE anti-bullying programme theory of change
+Needs
+e m assessment
+ToT
+Awareness Students awareness
+it
+m
+g
+n
+n
+A
+a
+i
+r
+y
+E
+g
+l
+o
+lu
+r p
+b -
+e g n a
+h c fo y r
+o e h
+T
+n o
+m
+i t
+e
+i
+l
+n
+b
+i
+o
+f e
+r
+f
+d
+p o
+T
+s
+m
+e
+r
+2
+m
+a
+a
+-
+i
+d
+n
+n
+i
+a
+n
+u
+i
+y
+n
+a
+a
+r
+l
+g
+d
+c f
+M
+e
+N
+o o
+c
+r m
+i
+r
+a
+n
+A m
+e
+t
+i
+m
+e
+B
+i
+s
+a
+o
+t
+i
+C
+e
+s
+i t
+n
+t
+s
+r
+i t o
+u
+i
+a
+a
+e
+e
+n
+l
+l
+e
+d
+r
+R
+un
+s
+e
+F
+e
+n o
+p
+A i
+s
+r n
+o
+m
+s
+B g
+i
+r
+C i
+o
+n s
+t
+s c
+n
+g
+i
+h
+n
+s
+/ o
+g
+ol Par
+B
+e
+u
+n
+l
+t
+l
+r
+r
+s
+y
+a
+a
+i
+a i
+i
+n
+s
+s
+w
+g
+e
+e
+a d
+d
+c
+r
+a
+e
+s
+n
+e
+e
+s
+s s
+s e
+d
+t a
+e
+r
+s a
+g
+e
+n iy llu
+b
+t n e m n
+s l
+o
+o
+r
+o
+iv
+h
+n e
+c s
+A U Partnerships Studies system managed r c e D e f a S
+2. Purpose and Objectives of Evaluation
+The purpose is to conduct an independent formative evaluation of the pilot phase of the Anti-
+Bullying Programme in 64 schools using OECD DAC criteria to assess the programme relevance,
+efficiency, effectiveness, coherence, and sustainability in mitigating the bullying problem in the
+schools targeted. It is equally important for the UNICEF GAO to make critical findings and define
+best practices for subsequent phases. The formative evaluation also covers relevant auxiliary
+services at schools, with a particular focus on school social support services.
+The evaluation helps to shed light on how UNICEF can best support the UAE and strike a balance
+between government objectives and priorities and the UNICEF mandate. The knowledge
+gathered and the specific lessons learnt should inform evidence-based decision-making and
+advocacy, and contribute to learning within UNICEF on how to strengthen children’s well-being
+in the region and beyond. The evaluation’s recommendations will be reflected in the UNICEF
+GAO’s new Area Programme Document and will be of assistance to the UAE government in
+scaling up and replicating the programme in schools.
+More specifically, the evaluation has the following objectives:
+• assess the pilot phase of the programme from the perspective of its relevance, efficiency,
+coherence, and sustainability, and its impact on teachers, children, and parents, taking into
+account the UN Convention on the Rights of the Child (CRC) and other critical human rights
+conventions;
+• evaluate the programme’s accessibility with a view to preventing violence in schools and
+providing a safer educational environment, with a focus on equity and gender perspectives;
+• support overall work on child protection in the UAE in terms of case management in schools,
+and links to systems outside schools;
+7
+• make critical findings, define best practices, draft key recommendations for the smooth
+process of formalising and scaling up the tprogramme nationwide to ensure its inclusivity,
+sustainability, and efficiency.
+The evaluation assessed pilot schools’ relevance, effectiveness, efficiency, and coherence. The
+formative evaluation also assessed related services, especially social workers and case management.
+3. Evaluation Scope, Criteria, and Questions
+The evaluation focuses on ongoing efforts at child protection in schools, especially with a focus
+on case management that goes beyond schools. It covers 64 pilot schools, where the programme
+is implemented with the support of the SCMC and Ministry of Education and will cover the period
+from 2014 to the present (March 2023).
+The evaluation criteria and questions are listed in the table below.
+Table 2. List of evaluation criteria and questions
+Criteria Key questions
+Relevance To what extent do the programme objectives coincide with beneficiaries’ needs, priorities,
+and expectations at all levels?
+Assessment questions include:
+• To what extent are the programme’s objectives, strategies, activities, etc., realistic,
+feasible, and aligned with the relevant government policy’s priorities in terms of
+preventing violence in schools?
+• To what extent are the programme’s intervention approaches evidence-based,
+and to what extent do they address the actual needs of the broader school
+community (school staff, children, and parents)?
+• Are the programme and its activities fit to achieve the intended results and
+outcomes?
+• To what extent did the programme adapt to the new realities triggered by the
+COVID-19 pandemic?
+• Is the programme’s design and implementation aligned with CRC principles (non-
+discrimination, best interests of the child, the right to life, and participation),
+gender mainstreaming, and the Human Rights-Based Approach (HRBA)?
+Coherence To what extent do relevant interventions (particularly policies) support or undermine the
+programme? Assessment questions include:
+• To what extent is the programme aligned with relevant school policies and anti-
+violence practices established in the pilot schools to encourage synergies and
+avoid overlap?
+• To what extent has the programme supported the operationalisation of the anti-
+bullying and anti-violence mechanism in pilot schools?
+• Is there any overlap of interventions, such as those adopted by the MOE to
+promote child well-being and by the UNICEF to build the capacity of child
+protection specialists?
+• How does the programme align with overall CP mechanisms within the school and
+outside the school system?
+Effectiveness What critical positive and negative short- and long-term repercussions are spurred on by
+the programme, either directly or indirectly? Assessment questions include:
+• Are the programme objectives realistic?
+• To what extent has the programme achieved its planned goals?
+8
+• To what extent have the target groups been reached? Has the programme
+managed to reach out to the most vulnerable children? Has the programme been
+accessible to the broader school community in pilot schools?
+• What are the critical benefits for principals, psychologists/pedagogical
+counsellors, teachers, children, and parents who participated in the programme?
+Are there different beneficiary groups (based on ethnicity, socio-economic profile,
+urban-rural residence, disabilities, etc.)?
+• What are the critical determinants of the programme’s effectiveness and their
+impact on the beneficiary groups, with a particular focus on those most
+vulnerable?
+• How effective are the capacity-building activities supported by the programme?
+• What is the level of satisfaction of each beneficiary group within the broader
+school community? What are their recommendations to further improve the
+programme?
+• What happens to the cases reported and response mechanisms and their
+sustainability? How did the programme contribute to overall CP systems and
+mechanisms within schools?
+Efficiency How are economic resources/materials (funds, expertise, time, etc.) mainstreamed into
+the results? Assessment questions include:
+• To what extent have the programme funds and resources been utilised efficiently?
+• Is there a more cost-effective means of implementation to achieve the expected
+results?
+• How well were the establishment and implementation of the programme planned
+and managed?
+• How often was data collected and were monitoring activities carried out by the
+school administration, UNICEF, and the SCMC to improve the programme’s
+performance and its impact results?
+Sustainability To what extent does the programme have the ability to maintain its positive impacts over
+time. Assessment questions include:
+• To what extent have UNICEF, the SCMC, and the MOE promoted a spirit of joint
+ownership of the programme?
+• Did legal, institutional, and financial mechanisms encourage the programme’s
+sustainability?
+• What are the critical determinants of the programme’s long-term financial
+sustainability?
+• What is the way forward in further leveraging the programme’s sustainability?
+• How sustainable are the results achieved thus far for the broader school
+community in the 64 pilot schools?
+• What are the key steps to scaling up the programme nationwide?
+4. Evaluation Methodology
+This evaluation used a mixed-method participatory approach. It was guided by Terms of
+Reference (TOR), the Revised Evaluation Policy of UNICEF, Evaluation Norms and Standards of
+the United Nations Evaluation Group (UNEG), UNICEF Procedure for Ethical Standards and
+Research, Evaluation, Data Collection and Analysis, and UNICEF-Adapted UNEG Evaluation Report
+Standards. Primary data collection was conducted from 12 February 2023 to 2 March 2023.
+9
+Desk review
+Prior to the primary data collection, the evaluator conducted a desk review of existing documents
+for purposes of initial analysis. The documents consulted are listed in the annex. The initial desk
+review served as a basis for the evaluator drawing up the inception report to detail the evaluation
+approach and plan.
+The inception report and data collection tools were sent for an external ethical review to ensure
+that the processes were effective and that there was accountability for ethical oversight. This is
+to ensure that the protection of human subjects, including the protection of and respect for
+human and child rights, was incorporated into the evaluation methodology and data collection
+processes. The Ethical Review Board granted approval on 12 January 2023 (IRB #1211, IORG #850,
+FWA #1102).
+Key informant interviews
+The primary data collection conducted by the evaluator consists of key informant interviews,
+stakeholder surveys, general group discussions and risk map exercises. For key informant
+interviews, the evaluator took a purposeful sample of key stakeholders. The list was consulted
+and agreed during the inception phase (see Table 3).
+Table 3. List of stakeholders interviewed
+Entity Name Position
+UNICEF GAO Dr Jumana Haj-Ahmad Deputy Regional Director for Gulf
+Cooperation Council Countries at UNICEF
+UNICEF UAE Office Mr Saji Thomas Chief, Child Protection, Mr Moataz Azzam
+Programme Associate
+Mr Moataz Azzam Programme Associate
+Supreme Council for Ms Meera AlMheiri SCMC Board Member
+Motherhood & Childhood
+Dr Mohamed Ibrahiem Al SCMC Lead Technical Adviser
+Mansour
+Emirates Schools Ms Hasa ElKabey16 Child Protection Unit Head – Emirates
+Establishment (ESE) Schools Establishment
+Ministry of the Interior Ms Shama Al Balooshy Child Protection Unit Representative
+Sampling and sample characteristics for stakeholder surveys
+The evaluator conducted surveys with various stakeholders. The evaluator applied a control-
+intervention method to measure the pilot schools’ performance against other schools where the
+programme had not been implemented. Initially, eight and four schools were sampled as the
+intervention and control group, respectively. The number of schools in the control group was to
+be equivalent to a quarter of the intervention schools sampled. However, the MOE approved
+16 Ms Hasa AlMheiri previously worked for the Ministry of Education and provided an insight from that perspective,
+as well as from the ESE vantage point.
+10
+only two schools for the control group. Regarding the intervention group, four private schools
+were additionally suggested during the field mission.
+Therefore, visits were made to 12 intervention schools and two control (non-programme) from
+five Emirates: Abu Dhabi, Dubai, Sharjah, Ras El-khiema, and Ajman. The Abu Dhabi sample
+includes both public and private schools; the other Emirates comprise public schools only. This
+evaluation follows a proportion-to-size sampling method, so the sample mirrors the programme
+concept. Public school students account for 78.2% of the interviewed sample, private school
+students 21.8%.
+Table 4 shows the homogeneity between intervention and control schools by nationality.
+Additionally, the control schools were located very close to the intervention schools (i.e. they
+were in the same neighbourhood).
+Table 4. Distribution of control and intervention schools’ students by nationality17
+Nationality Control Intervention
+African nationalities 1.3% 0.3%
+Arab: Egyptian, Sudanese, Syrian, Lebanese, Tunisian, 21.1% 18.3%
+Moroccan, Yemeni, or other Arabic nationality
+Asian: Indian, Pakistani, or other Asian nationality 0.0% 0.4%
+Emirati 77.6% 80.1%
+European nationalities 0.0% 0.3%
+Other 0.0% 0.6%
+100% 100%
+The sample distribution among the Emirates is proportional to the number of pilot schools in
+each Emirate (see Table 5).
+Table 5. Sampling using quasi-experimental control/intervention concept
+Emirate Number of Intervention schools Control schools
+intervention/ visited visited
+pilot schools
+Abu Dhabi 28 6 1
+Dubai 6 2
+Sharjah 6 1 1
+Ajman 5 1
+RAK 7 2
+UMQ / Fujairah 11
+Total 63 12 2
+Different survey questionnaires were prepared depending on the type of stakeholders, i.e.
+whether they were school principals, school discipline committee members, parents, or students.
+17 Arab nationalities include Arab countries in Africa, e.g. Egyptian, Sudanese, Tunisian, and Moroccan, whereas
+African nationalities exclude these.
+11
+In total, nine school principals, 64 school discipline committee members, 114 parents, and 1,330
+students participated in the surveys (see Table 6).
+Table 6. Survey participants
+Target Group Tool Sample Size
+▪ School (principal) ▪ Online questionnaire ▪ 9 school principals (6 females, 3 males)
+▪ School Discipline ▪ Online questionnaire ▪ 64 School Discipline Committee
+Committee (including members (46 females, 18 males)
+teachers, nurses, and
+social workers)
+▪ Students ▪ Paper/online ▪ 1,330 students (803 females, 527 males)
+questionnaire
+▪ Parents ▪ Online questionnaire ▪ 114 (10-12 in each school; 81 females,
+33 males)
+For student sampling within schools, the evaluator used the probability-proportional-to-size
+(PPS) sampling. PPS is a method of sampling from a finite population, where a size measure is
+available for each population unit before sampling, and where the probability of selecting a unit
+is proportional to its size. This sample method best suits the programme evaluation. In each
+school, a sample of 75-100 students was chosen, with special attention given to male-to-female
+representation, disability, and nationality. In each school, four classes were selected, using a
+random approach. Each class represents one grade (five to eight).
+The average class size within the sampled schools is 23.4 students. Among the 1,330 students
+sampled, 527 are males and 803 are females. 745 students are from Abu Dhabi, while 78, 169,
+164, and 174 students are from Ajman, Dubai, RAK, and Sharjah, respectively. Only 1.7% of
+students reportedly have disabilities.
+Table 7. Student distribution by nationality for the whole sample18
+Nationality Abu Dhabi Ajman Dubai Ras Al Khaimah Sharjah Total
+Emirati 74% 94% 84% 87% 88% 79.8%
+African 1% 0% 0% 0% 0% 0.4%
+Arab 24% 6% 16% 12% 10% 18.7%
+Asian 1% 0% 0% 0% 1% 0.4%
+European 0% 0% 0% 1% 0% 0.2%
+Other (American/Iranian) 0% 0% 1% 1% 1% 0.5%
+100% 100% 100% 100% 100% 100%
+18 The student questionnaire asked for the respondents’ nationalities in this structure.
+12
+As for nationality, in the public schools sampled, 79.8% of students are Emiratis and 20.2% are
+non-Emiratis, whereas 58.2% are Emiratis and 41.8% are non-Emiratis in the private schools
+sampled.
+Data collection at schools
+Data collection at school level followed the procedures below:
+1- Passive informed consent was sent to the parents a week before the data collection
+started. The form was drawn up in Arabic and English. Parents could get in touch with the
+school if they had any questions or comments.
+2- The school visits started with a meeting with the school management to introduce the
+evaluation objectives, procedures, tools, and data needed, and to make sure that the
+parent consent forms had been sent.
+3- A general group discussion was conducted with the students’ disciplinary committee
+about the use of the programme manuals, the quality of the training provided, current
+challenges, best practices, and findings emerging from their practices.
+4- The student questionnaire was sent to students’ laptops. Students opened it only during
+the evaluator’s visit to the class. The class teachers were asked to leave the class during
+the collection of the data. The school’s social workers gave an introductory presentation
+to the students on the evaluation and then left.
+5- The evaluator explained the purpose of the evaluation, the privacy and protection policy,
+and the students’ right to skip any question and even not to fill in the questionnaire at all.
+The evaluator asked students not to write their name or any personal data (the
+questionnaire had no place for any personal data).
+6- The evaluator explained each question until the questionnaire was finished.
+7- Risk maps were collected only from students whose parents had signed a written parent
+consent form. Several students obtained written consent. However, due to the limited
+time, only around 8-10 students from each school participated in the exercise. It was
+conducted individually rather than as a group as per the ethical review board’s
+recommendation.
+8- Surveys for principals, committee members and parents were explained to the school
+staff and collected online.
+13
+Risk map
+A risk map is a child friendly tool that uses a simple technique to capture the risks children face in their
+surrounding environment.
+For example, the moderator shows the student a chart of a school building depicting a classroom, the
+grounds, toilets, and labs, and asks them simple questions, such as if they feel comfortable in this place
+and, whether they like or don’t like the place. Places that students feel uncomfortable in or don’t like are
+usually places where risks are found or where abuses happen. So, the moderator asks why they don’t feel
+comfortable in this place, and the students start to express the reasons that can lead to risk factors.
+The tool can also capture sexual harassment by showing the student a figure of a person and asking if
+he/she was touched or beaten by another person. If so, the student can refer to the touched place so the
+moderator can register the case.
+Usually, child victims attend the risk map exercise as a group so that they can support each other as they
+talk. It should be carried out by a trained person.
+For this evaluation, the ethical board approved the implementation of the tool on an individual basis,
+subject to written parental consent. There were plans to meet around eight students in each school, but
+higher numbers of students brought the written consent and wanted to participate.
+Confidentiality and anonymity were assured by not collecting names. Other information was replaced
+with encoded identifiers, while the encoding key was kept in a different secure location. Data stored on
+paper, such as surveys or notebooks, was kept together in a safe, secure location away from public access.
+Stakeholder survey questionnaires
+1 – Student questionnaire: the methodology used to calculate the school bullying rates in this
+report is the same methodology adopted by the programme in 2016. Findings regarding the
+prevalence of school bullying were derived from the responses of students (N = 1,330) in grades
+5-8 at 14 schools in five Emirates. Students reported that they (i) bullied other students (ii) were
+14
+themselves victimised. The frequency at which each of these occurred depended on the nature
+of the bullying, gender, and the grade of the student.
+In order to determine the impact of the intervention conducted in schools months later,
+comparisons were made between the responses to the questionnaires made by students (N =
+1,162) in 12 schools who had experienced the intervention (the intervention/pilot group) and
+students (N = 151) in two schools who had not received the intervention (the control group). The
+intervention group scored lower on reliable measures of victimisation and bullying and reported
+feeling less unsafe. In addition, students in the intervention group scored higher when reported
+pro-social behaviour was measured.
+Questions relating to behaviour comprised five questions about being bullied, four about bullying
+others, and four about acting pro-socially. An additional question asked how safe or unsafe
+students felt at school. The questions took the form of statements, in response to which students
+could indicate “never”, “once in a while”, “a few times a month”, or “a few times a week”.
+Examples:
+▪ I get called names by others (victimisation)
+▪ I like to make others scared of me (bullying)
+▪ I enjoy helping others (pro-social)
+The questionnaire given to the intervention group contained some additional questions asking
+students how helpful the programme activities had been. Prepared statements were provided
+for them to indicate whether they strongly agreed, agreed, neither agreed nor disagreed,
+disagreed, or strongly disagreed.
+The statements were:
+▪ The activities were helpful in reducing bullying among students in my school
+▪ I learnt certain ways to handle bullying when it happened to me
+▪ The activities gave me sufficient knowledge of bullying
+▪ Relations with my peers improved after doing these activities
+In order to gauge the measures of peer relations, the following multi-item scales were drawn up:
+Pro-Social Scale: this consisted of four scores assessing how often a student engaged in pro-social
+behaviour, such as sharing things with others. High scores indicated that they were acting pro-
+socially relatively often.
+Victimisation Scale: this consisted of four scores relating to student reports of being bullied at
+school, such as being picked on. These were scored as Never = 1; Once in a while = 2; A few times
+a month = 3; A few times a week = 4. High scores indicated that they were being bullied relatively
+often.
+Bullying Others Scale: this consisted of four scores assessing how often a student engaged in
+bullying others, such as “upsetting weak people”. These were scored in the same way as the
+Victimisation Scale. High scores indicated they were bullying others relatively often.
+15
+2 – School Discipline Committee questionnaire: the School Discipline Committee questionnaire
+covered two main aspects.
+The first aspect is the use of programme interventions and relevant activities, such as attending
+a training course, getting the manual and training materials, and participating in committee
+activities.
+The second aspect is the effectiveness of programme interventions, including the training
+manual, based on the six methods for intervention with those involved in bullying: direct
+sanctions, restorative practice, mediation, support group, shared concern, and strengthening the
+victim.
+3 – Parent questionnaire: this questionnaire mainly covers parents’ attendance of awareness-
+raising sessions held by schools, receipt of the parent manual, and parents’ views of the
+challenges that face their children in schools.
+4 – School questionnaire: this questionnaire mainly covers schools’ secondary data on the
+number of trained staff, the number of children whose awareness has been raised, and the given
+school’s priorities in the next phase of the programme.
+Data collection ethics
+Informed consent was collected for all participants prior to their participation. Confidentiality
+and anonymity were assured by replacing names and other information with encoded identifiers,
+with the encoding key kept in a different secure location. No personally identifiable information
+was collected from children. To maintain its integrity, whether in written or electronic form, the
+data was protected from tampering, loss, theft, or physical damage by limiting access to the data.
+Data stored on paper, such as surveys or notebooks, was kept together in a safe, secure location
+away from public access and will be disposed of safely after three years.
+Rules and procedures were defined for the evaluator in situations where a participant disclosed
+information or was suspected to be at risk. The evaluator would report and respond to any
+concerns, suspicions, incidents or allegations of actual or potential abuse to a child or young
+person in accordance with the engaging office’s applicable procedures. She would fully and
+confidentially cooperate in any UNICEF investigation into concerns or allegations of abuse to
+children and young people. All charges, convictions, and other outcomes of an offence associated
+with exploitation and abuse of a child before/during the evaluation would be immediately
+disclosed.
+For the risk map, only children who obtained parental consent for it participated in the exercise.
+It was initially planned to be a group exercise. However, in keeping with the guidance of the Ethics
+Review Board (ERB), the exercise was conducted on an individual basis at a location that could
+fully protect the participant’s privacy in view of the potential risks.
+The evaluation team completely abided by ERB regulations during the evaluation process.
+Limitations
+The evaluation had certain limitations. First, there was a high turnover of school social workers
+and School Discipline Committee members, as some of the staff trained in the period from 2014
+16
+to 2016 moved to other schools. To mitigate that, we asked the schools to define and invite staff,
+teachers and social workers who were still working at the school and had been involved in the
+programme at several stages. Secondly, the control group sample consisted of just two schools,
+as the third and fourth schools were not approved by the MOE, so the evaluator did her best to
+engage the two available schools’ students, and called them back multiple times to ensure that
+the online questionnaires were filled in by the schools, committees, and staff. Thirdly, there were
+not enough documents to respond to certain questions related to efficiency in the spending of
+programme funds, and whether there was a more cost-effective means of implementation that
+would achieve the expected results. Finally, the programme had no programme documents or
+monitoring data to capture the progress of implementation or provide an overall programme
+description.
+Evaluation findings
+The findings are presented by evaluation criterion: relevance, coherence, effectiveness,
+efficiency, and sustainability.19
+5. Relevance
+In evaluating relevance, the evaluator captured the extent to which the programme objectives
+coincided with beneficiaries’ needs, priorities, and expectations at all levels.
+5-1 Programme relevance to the SCMC 2017–2021 strategy
+H.H. Sheikha Fatima Bint Mubarak, the President of the SCMC, launched the National Strategy
+for Motherhood and Childhood in 2017 with the vision that “all children enjoy all their state-
+guaranteed rights, growing up in a healthy, safe and supportive environment that develops
+abilities and skills.” A meeting with SCMC representatives highlighted that the programme was
+relevant to the SCMC’s 2017–2021 strategy in line with the UAE government’s efforts to
+strengthen child protection policy and deliver high-quality education.
+An interview with the SCMC’s lead technical adviser showed the level of engagement between
+UNICEF and the SCMC under several programmes, including a 1000-day programme on
+parenthood skills, a programme on adulthood and adolescence, and the anti-bullying programme
+in the UAE. The SCMC’s lead technical adviser indicated that the programme was consistent with
+the SCMC’s child protection efforts. He also highlighted the joint efforts behind the anti-bullying
+award.
+The Council, collaborating with various entities, launched strategies aimed at promoting welfare
+and development for mothers and children in all fields and establishing a primary point of
+reference to guide professionals and organisations towards continued progress in maternal care
+and childcare.20
+19 Respondents were identified in the following four categories: School Discipline Committee members (social workers, activities
+teachers, and special education teachers), students, parents, and school principals.
+20 The offcial website of the SCMC, https://scmc.gov.ae/en
+17
+5-2 Programme relevance to the MOE strategy
+The MOE’s mission is to “develop an innovative education system for a knowledge-based and
+global competitive society that embraces all age groups in order to meet future labour-market
+demand by ensuring the quality of the Ministry of Education’s outputs, and provide the best
+services for internal and external customers.”21 The MOE implemented the programme via the
+National Programme for the Prevention of Bullying by establishing a National Commission for the
+Prevention of Bullying in the School Environment and a support team for the National Week for
+the Prevention of Bullying in Schools, creating an approved training nucleus for bullying,
+preparing training workshops for all school staff, and holding the National Week for the
+Prevention of Bullying. The evaluation found that the MOE’s National Programme for the
+Prevention of Bullying in the School Environment and the Anti-Bullying Programme, the subject
+of this evaluation, were complementary and reinforced each other.
+5-3 Programme relevance vis-à-vis the Ministry of the Interior
+Since the promulgation of the Wadeema Law in 2016, the Ministry of the Interior has played an
+important role in investigating Wadeema Law violations and ensuring that the law is enforced,
+especially against abusers.22 The evaluation revealed the following active anti-bullying services:
+use of the Hemayati app, emails, the ministry website, and a hotline. The ministry also offers
+lectures at schools through the community police department. The ministry holds awareness
+sessions at school level to explain more about child rights, the protection cycle, and measures
+necessary to protect children from being involved in any abuse-related incidents. Cases may be
+reported by parents, the school, the ministry, or other parties. The Anti-Bullying Programme,
+the subject of this evaluation, was relevant to the reinforcement of the measures pursued by
+the Ministry of the Interior.
+5-4 Programme relevance to the Sustainable Development Goals
+21 Ministry of Education, National Educational System in the United Arab Emirates, 2020/2021,
+https://www.moe.gov.ae/En/ImportantLinks/Documents/matrix/MOEducationSystem2020-2021.pdf. In addition, some of the
+MOE’s strategic objectives are to deliver inclusive quality education, including pre-school education, achieve excellent leadership
+and educational efficiency, and ensure that learning environments are safe, conducive, and challenging.
+22 In addition, the ministry has established the Child Protection Centre, with the aim of implementing processes geared towards
+the provision of safety, security and protection for all children living in the UAE or coming as visitors.
+18
+The evaluation found that the programme was contributing to the achievement of Sustainable
+Development Goals 4, 5, 10, and 16, the most relevant indicators being 4.7;23 4.A;24 4.C;25 5.2;26
+5.C;27 10.2;28 16.2;29 and 16.6. 30
+5-5 To what extent are the programme’s intervention approaches evidence-based?
+The evaluation concluded that programme interventions were
+Awareness-raising using the
+based on sound evidence and well tested. More specifically, in
+programme materials at
+2014, a situation analysis of the school environment in the UAE
+Hamdan Bin Zayed School
+was conducted to develop a framework for protection and safety
+in the school and learning environment.31 The programme design
+was guided by global best practices, specifically those from
+Australia, Finland (KiVa) and the United States (Olweus Bullying
+Prevention Programme). Experts from such programmes in these
+countries shared their experiences with various UAE education,
+health and protection authorities. The training manual is based
+on six methods for intervention with those involved in bullying:
+Direct Sanctions, Restorative Practice, Mediation, Support
+Group, Shared Concern, and Strengthening the Victim.
+A section on social skills activities was also drawn up, which
+compiled different interactive activities to equip students with
+adequate social skills. The methodology of the school-based
+bullying programme is based on the active involvement of
+students and encompasses changes in the attitudes of school
+staff, improvements in the social environment in general, and
+awareness-raising among parents.
+23 By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including,
+among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality,
+promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s
+contribution to sustainable development.
+24 Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, nonviolent, inclusive and
+effective learning environments for all.
+25 By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training
+in developing countries, especially least developed countries and small island developing states
+26 Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual
+and other types of exploitation.
+27 Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment
+of all women and girls at all levels.
+28 By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race,
+ethnicity, origin, religion or economic or other status.
+29 End abuse, exploitation, trafficking and all forms of violence against and torture of children.
+30 Develop effective, accountable and transparent institutions at all levels. For more information, see UN, Sustainable
+Development Goals, https://www.un.org/sustainabledevelopment/education/.
+31 This was conducted by way of general group discussions with parents, school staff, social workers and students. The situation
+analysis yielded the following results, used to guide programme interventions: students were subjected to bullying by other
+students; students were subjected to bullying by their teachers; younger students (11-12 years) were franker about the problems
+they faced; verbal bullying was the most common form of bullying; few teachers reported being subjected to verbal and physical
+abuse by students; students were under constant surveillance by school staff; school staff and parents did not acknowledge the
+negative impact of bullying on children; school staff are not able to identify signs of bullying; parents were not actively involved
+in their children’s school.
+19
+5-6 To what extent did the programme adapt to the new realities triggered by the COVID-19 pandemic?
+COVID-19 posed a major challenge to the programme’s implementation. In-person school
+attendance ended and online education methods were introduced. Key bullying and child
+protection issues engendered by COVID-19 were bullying via text messages and emails. The
+programme responded to this type of bullying effectively, with the training manual and the
+programme’s relevant interventions covering online bullying such as receiving unpleasant
+messages from other students via computer, phone, and/or online. However, four other online
+protection challenges emerged with COVID-19. The first was the privacy of families, as students
+had their cameras on during classes. Their mothers complained about home privacy. The other
+challenges were extensive use of YouTube and social media, the emergence of “being-on-trend
+phenomena”,32 and advertisements that ran when online games were played – some of them
+had a violent and sexual connotation.
+5-7 Programme design and implementation alignment with gender mainstreaming
+Although bullying rates can be
+Figure 1. Students' views on gender roles and social position attributed mainly to male
+students, training materials and
+80.0%
+programme policies are gender
+66.8%
+70.0%
+neutral, cover bullying issues
+60.0% 51.0% 53.9%
+46.9% where all students should be
+50.0%
+equally protected, and power
+40.0%
+relations between boys and girls
+30.0%
+are balanced.33 While students
+20.0%
+offered relatively positive views
+10.0%
+on gender equality, especially
+0.0%
+gender roles and social position,
+In your opinion, do women In your opinion, do girls have
+have the same right to work the same position as males in it is important to take into
+like men? the family? account the fact that bullying is
+more prevalent among male
+Control Intervetion
+children.
+32 I have used this term to express social media trends (which include repeating certain idioms, selfies, engaging in certain
+challenges, wearing certain clothes and haircuts, or acting toward others in a certain manner) that emerge, with children and
+young people imitating these trends without taking time to understand their meaning or implications.
+33 Possible recommendation: if UNICF and the SCMC are planning to scale up the programme, gender can be mainstreamed at all
+programme levels, starting with a definition of gender challenges at the planning phase – set gender-based outcomes and
+relevant interventions, and how these interventions will be monitored to deliver specific gender-based outcomes. In addition, a
+gender transformative approach can offer options that would support girls’ leadership.
+20
+5-8 Programme relevance to the human rights-based approach (HRBA)
+The integration of human rights into the broad range of all UN activities is at the centre of ongoing
+efforts by the UN. The UN’s specialised agencies, programmes, and bodies have repeatedly
+shown their commitment to the mainstreaming of human rights in their work; in 2003, they
+agreed on a common understanding relating to the content of a human rights-based approach
+(HRBA) to programming.34 The HRBA has two objectives: (a) to empower rights-holders in
+asserting and exercising their rights; and (b) to strengthen the capacity of duty-bearers, who have
+the obligation to respect, protect, promote, and fulfil human rights.35 These objectives are
+pursued through human rights principals, such as participation, accountability,
+Shape 2. Human rights-based approach
+Source: Fragility, conflict, and human rights,
+https://www.shareweb.ch/site/Conflict-and-Human-Rights/startpage-tools/human-rights-
+based-approach
+and non-discrimination. Table 8 summarises how the programme follows human right principles.
+The evaluation concludes that the programme is highly relevant in each aspect analysed.
+34UNESCO, Human Rights-Based Approach to Programming, https://en.unesco.org/human-rights/hrba
+35 Rights-holders are individuals or social groups that have particular entitlements in relation to duty-bearers.
+Duty-bearers are state or non-state actors, that have the obligation to respect, protect, promote, and fulfil human rights of rights-
+holders. The HRBA is underpinned by five key human rights principles, also known as PANEL: Participation, Accountability, Non-
+discrimination and Equality, Empowerment and Legality.
+21
+Table 8. Programme relevance to HRBA human rights principles
+Human rights Explanation of principle Relevance to the programme
+principles
+Participation Everyone is entitled to participate actively Students, teachers, and school staff were
+in decision-making processes which affect systemically engaged in the project process by
+the enjoyment of their rights. having awareness raised about their rights, and
+the fact that they should not remain silent in the
+face of bullying abuses.
+Accountability Duty-bearers are held accountable for The anti-bullying programme created a clear
+failing to fulfil their obligations towards path for reporting. For example, 75% of students
+rights-holders. There should be effective agreed that the programme’s activities gave
+remedies in place when human rights them sufficient knowledge about bullying and
+breaches occur. how to act against it.
+Non- All individuals are entitled to their rights The programme vigorously countered all type of
+discrimination without discrimination of any kind. All types discriminations and defined them as bullying
+and equality of discrimination should be prohibited, issues that need to be treated and eliminated.
+prevented, and eliminated.
+Universality Human rights are universal and inalienable, The programme contributed to the universality
+no one can voluntarily give them up. Nor of children’s rights by raising their awareness
+can they be taken away by others. about these rights, and by detecting and acting
+against actions that may cause harm or prevent
+them from enjoying these rights.
+Indivisibility Human rights are indivisible. Whether civil, The programme protected children’s rights and
+political, economic, social or cultural in upheld the indivisibility principle by contributing
+nature, they are all inherent to the dignity to the school safety, while protecting other
+of every human. Consequently, they all student rights.
+have equal status as rights. There is no such
+thing as a “small” right. There is no
+hierarchy of human rights.
+6. Coherence
+In evaluating coherence, the evaluator captured the extent to which relevant interventions
+(particularly policies) supported or undermined the programme.
+6-1 Programme alignment with relevant school policies
+In the first few years, few school polices were in place. However, since 2018, several new polices
+have been introduced. Shape 3 summarises schools’ key polices and structures.
+The key dominant structure in a school is the School Discipline Committee,36 which encompasses
+all student aspects, such as appearance, uniform, attendance, school violence, and bullying – a
+fourth-degree violation. To move up to the next grade, students must score 60/100 in their
+committee assessment. Students who fail cannot move on to the next grade. Interviews and
+group discussions with the School Discipline Committee have indicated that their approaches to
+these cases include warning students and their parents several times before deploying the
+sanctions mentioned in the code of conduct. Students and their families try to avoid being held
+back a grade under the code of conduct. Likewise, social workers do not want children to be held
+36 The School Discipline Committee implements both the anti-bullying programme and the code of conduct policy
+22
+back a grade either. However, there is a gap here as educators and school social workers have
+few resources they can use to change students’ aggressive behaviours. The pilot schools have
+materials on anti-bullying, but the code of conduct covers a huge number of topics – not only
+bullying, but also issues such as appearance, uniform, smoking, drugs, sexual harassment, misuse
+of computers and school appliances, taking photos of others without their consent, driving cars
+and controlling other vehicles, absence, and being late to school.
+The following findings emerged from the key informant interviews and general group discussions:
+• The punitive nature of sanctions under the code of conduct are not enough, as restorative
+practices are needed;
+• Restorative practices and behavioural-change activities are more effective than punitive
+sanctions;
+• This does not mean detracting from the code of conduct, but complementing it with a
+behavioural-change component;
+• Awareness-raising is a critically effective method in decreasing the number of cases subject
+to sanctions under the code of conduct;
+• Several schools have few social workers. Some schools have employed student officers to fill
+the social-worker gap. It is also worth mentioning that some schools have employed non-
+specialised staff to do social-worker jobs. Also, staff available in the Northern Emirates tended
+to lack suitable qualifications and the training needed for their job.
+23
+Shape 3. Summary of key policies, committees, and functions in child protection under the programme
+School Discipline Anti -bullying comittee Quality of life
+Wadeema Law Health and safety policy
+Committee
+•The key school structure •TheMOEhascreatedalink •The anti-bullying policy •Every school has a nurse •A new school structure
+managing students’ between the school and was issued by the MOE who works to monitor the that works on students'
+behaviour the Wadeema Law by under Ministerial Decree students’ heath, lecture quality of life as they
+•Under the code of reporting two types of 645for2020 them about healthy food, develop school initiatives
+conduct, a student’s cases: first, parental •The policy offered a check their weight and on several environmental
+morals and behaviour are neglect, which becomes comprehensive approach height, test their hearing, issues, aimed at raising
+marked according to a apparentinstudents'weak to bullying. The policy and check their skin and awarenessaboutqualityof
+system of degree-based performance, absence drew on the programme's teeth life not only through
+violations from school with no concepts and definitions, •The safety officer is environmental matters,
+•Mechanismofpenaltiesfor reason, and failure to do and international best responsible for students’ but also through healthy
+violations assignments or homework practices safety on buses, and practices, sports, and
+•Deductions from conduct on a regular basis; second, •The policy highlighted the monitors the school hygiene. These initiatives
+scores depend on the type parental harm, where programme as a infrastructure. Safety are receiving increasing
+ofviolation,asfollows: students come to school preventive mechanism to officers played an attention with the UAE
+injured or abused by raise students’ awareness important role when hosting the UN's COP 28
+•First-degree violation: 4-
+parents of bullying in schools and students returned to climatechangeconference
+pointdeduction
+•A special form is sent to provide behavioural- school after the covid-19 nextNovember
+•Second-degree violation:
+the MOE with all action changeactivities pandemic
+8-pointdeduction
+taken to report a violation •The policy also provided a •In addition, all schools
+•Third-degree violation: 12- of the Wadeema Law to mechanism for reporting have a special education
+pointdeduction thepolice casestotheMOE teacher who works with
+•Fourth-degree violation: students on study
+thestudentisfailed. difficulties and supports
+•Inviolentcases,theschool studentswithdisabilities
+reports to the MOE and
+blocks the student's
+admissionforthenextyear
+24
+School Discipline Committee members currently employ the same type of activities for all child-
+related violations, including discussions with children, plays, and school initiatives. Nonetheless,
+there is little evidence that using the same social activities for all violation types is effective. Each
+type of abuse/violation needs a commensurate set of interventions. These interventions should
+be planned on three levels: first, awareness and prevention; second, behavioural change when
+the violation takes place; and third, a dispute settlement process that ensures justice among
+students when a violation happens. However, overall, the programme brought about social
+behaviour changes reflecting the code of conduct. The MOE representative has highlighted that
+that they receive reports about cases and sanctions that have been imposed in response to
+student bullying, but the actual reasons behind the aggressive behaviour are not addressed.37
+“The Ministry receives reports from schools about bullying cases and sanctions that have been
+imposed in response to student bullying, but the actual reasons behind the aggressive behaviour
+need to be treated” – child protection unit head, Emirates Establishment for Education
+6-2 Programme support of the operationalisation of the anti-bullying and anti-violence mechanism
+The MOE issues its anti-bullying policy under Ministerial Decree 645 for 2020. This policy offered
+a comprehensive approach to bullying phenomena. The policy drew on the programme’s
+concepts and definitions, and international best practices. The policy highlighted the programme
+as a preventive mechanism to raise students’ awareness about bullying in schools and provide
+behavioural-change support. Unlike the school code of conduct, the programme did not offer a
+case management structure. It did, however, offer a reporting system. The ministry initiated the
+policy for purposes of prevention rather than case management. The decree also mentioned
+other anti-bullying programmes, e.g. the National Pact Initiative, which enhances Emirati
+students’ cognitive and personal skills in order to prepare them for the knowledge-based
+economy and promote a culture of innovation and leadership. This is in addition to the student
+code of conduct monitoring students’ behaviour at school. The decree mentioned the formation
+of an anti-bullying committee to pursue a plan that would address anti-bullying, raise awareness,
+and report on cases. The programme also mentioned an ethics course to be taught as a class. In
+addition, the decree provided monitoring and reporting forms that are to be used by schools to
+report cases to the MOE. The national policy acknowledged the UNICEF SCMC Anti-Bullying
+Programme by using the programme’s materials to raise awareness and a questionnaire to
+monitor and report cases to the MOE. The policy was prepared and issued in 2020, a few weeks
+before the COVID-19 outbreak and seven years after the programme started. However, schools
+have also been using interventions developed in the early stages of the programme, especially
+manuals, training materials, and pre- and post-knowledge questionnaires. The materials on anti-
+bullying in schools clearly stemmed primarily from the UNICEF SCMC programme.
+6-3 Is there an overlap with MOE interventions?
+As mentioned in the last point, the MOE policy referred to three anti-bullying programmes in the
+implementation the National Pact and the student code of conduct.
+37Possible recommendation: in the scale-up phase, there is an urgent need to cover many important child protection topics that
+are interrelated with bullying, to deepen the current anti-bullying interventions in order to capture the huge change in bullying
+following COVID-19, and to have a comprehensive approach to cases before, during and after their resolution.
+25
+However, the evaluation found little evidence of this overlap at school level. These programmes
+jointly contribute to the school bullying challenge. A key knowledge material at school level is the
+anti-bullying manual developed by the programme. Ministerial Decree 645 for 2020 on the anti-
+bullying policy has given impetus to the UNICEF programme and the MOE’s willingness to
+cooperate with UNICEF.
+The policy drew on the programme’s concepts and definitions, international best practices,
+training materials, and the reporting system developed under the UNICEF programme.
+The policy highlighted the programme as a preventive mechanism to raise students’ awareness
+of bullying in schools and provide behavioural-change activities. Unlike the school code of
+conduct, the programme did not offer a case management structure.
+The national policy has acknowledged the anti-bullying programme by drawing on the
+programme’s materials to raise awareness and the programme questionnaire to monitor and
+report cases to the MOE.
+The reason why the school code of
+Example of the programme materials used in raising
+conduct did not overlap with the anti- students’ awareness
+bullying programme is that each of them – Al Asyael School for Girls
+plays a different role. Also, the anti-
+bullying programme pursues behavioural
+change.
+Some of the best practices under the
+programme are as follows:
+• the anti-bullying programme has
+offered behavioural-change
+interventions to support the school
+code of conduct and enhance
+students’ positive behaviour;
+• these interventions offered strong
+support for prevention and
+awareness;
+• the programme can be enhanced by
+further supporting interventions in
+the dispute settlement process and at punitive stages.
+The evaluation concludes that the programme is coherent and aligned with national strategies
+and policies.
+7. Efficiency
+The evaluation looked at how resources/materials (funds, expertise, time, etc.) are
+mainstreamed into results.
+26
+7-1 To what extent have the programme’s funds and resources been utilised efficiently?
+The evaluator did not receive the relevant documents. The UNICEF UAE programme associate
+reported that most of the programme costs were covered by the government, using their
+resources-management systems.38
+7-2 How well was the establishment and implementation of the programme planned and managed?39
+The programme was developed and implemented by UNICEF, the SCMC and the MOE. The MOE
+drew up a national anti-bullying policy that covered all the programme’s aspects, including
+definitions of bullying, types of bullying, training materials, and the formation of the School
+Discipline Committee.40
+Three factors affected programme management:
+▪ the Covid-19 outbreak paused education, and new bullying issues emerged;
+▪ the MOE split into two entities: the MOE and the Emirates Schools Establishment. It took
+time to establish the programme within the MOE after these structural reforms;
+▪ follow-ups on the programme’s yearly activities have been limited.
+A key highlight is that, after the delivery of programme interventions (training and materials), the
+pilot schools themselves take a lead in implementing and sustaining the programme’s activities.
+7-3 How often did data collection and monitoring activities impact the results?
+The data collection activities benefited the programme’s design and implementation. Data was
+collected at several stages of the programme.
+38 Possible recommendation for scale-up purposes: the programme needs to enforce clear implementation modalities. UN
+organisations have several models of partnership with governments, and a study of the feasibility of the options described below
+is recommended. A joint implementation model: this model applies where both parties finance the programme together. They
+engage in planning, implementation, and monitoring via a joint implementation unit. In this model, implementation takes place
+within the government structure. Each government implementer offers detailed regular reporting to the joint unit. The unit also
+has the right to conduct mid-term assessments and third-party monitoring to ensure the quality of the application. A contract-
+based implementation model: here, the government finances most or all the programme activities. Under this model, the two
+parties sign a contract defining all the programme's aspects, especially the roles of the signatories. The programme is managed
+by a programme steering committee, with all relevant stakeholders engaged in the decision-making process. Implementation is
+mostly via the donor agency. On the technical side, UNICEF can assess the SCMC’s role within several childhood, motherhood and
+education policies to define gaps that can effectively be filled by the SCMC. Since the SCMC is not an executive arm, it can offer
+a third-party cross cutting research and monitoring function to several childhood issues, including bullying and child protection.
+39 To better manage the programme in the scale-up phase, procedures need to be devised under a results programme where all
+parties agree to decrease the current level of bullying. The results programme should have a shorter timeline to capture changes
+in the nature of bullying. A strong follow-up monitoring system needs to be built, and data should be collected regularly to ensure
+the quality of implementation and enhance learning.
+40 The MOE has formed The National Commission for the Prevention of Bullying in the School Environment with the following
+partners: the Ministry of Culture; the Ministry of Health and Prevention; the Ministry of the Interior; the Ministry of Community
+Development; the Dubai Police; the telecommunications regulation authority; the Sharjah Education Council; the Dubai Health
+Authority; the Youth Council; the Community Development Authority; Abu Dhabi Media; Sharjah media cooperation; Dubai media,
+including the Department of Education and Knowledge, Social Services Department – Sharjah, the National Programme for
+Happiness and Well-being, the Dubai Foundation for Women and Children, Child Safety, Dubai Knowledge, the Supreme Council
+of Family Affairs – Sharjah Khalifa Media City.
+27
+▪ In the early stage of the programme, a situation analysis was conducted to analyse the
+bullying situation. The situation analysis was used to define the bullying types and stages of
+interventions.
+▪ At the capacity-building stage, pre- and post-intervention assessments were conducted to
+validate the programme interventions. This data was used to test the programme’s key
+interventions and ensure its impact.
+While the programme was taken up by the MOE, there is little evidence that any data was
+collected, except for the schools’ self-monitoring data. Three factors affected the programme
+monitoring:
+1. the lack of a project document with a clear MOE plan to report data regularly;
+2. the lack of regular reporting by schools to the MOE;
+3. the lack of regular data collection for monitoring and learning. This was highlighted by the
+UNICEF programme associate: “There is a need for a yearly reporting system that offers
+data about bullying cases so we can use this data to measure the programme’s
+performance. Also, a steering committee that works on these reports and leads discussions
+on them among stakeholders”. Some schools use Excel spreadsheets to report cases to the
+MOE, but other schools, especially in the Northen Emirates, have little konwldge about the
+reporting process using Excel.
+Additional data gaps were pinpointed by the MOE. Schools which did not participate in the
+programme lack a clear methodology to calculate bullying rates. In the UAE, there is also a need
+to support national statistics to calculate the national prevalence of bullying rates.
+The evaluation concludes that it was not possible to analyse and present all aspects of efficiency
+due to a lack of critical data.
+8. Effectiveness
+Within the scope of the effectiveness criterion, the evaluation looked into critical positive and
+negative short- and long-term consequences spurred by the programme, either directly or
+indirectly.
+8-1 To what extent have the target groups been reached?
+The programme has reached the target groups in the pilot schools effectively. Trainers were
+trained once at the beginning of the programme, and schools have since delivered training to
+their staff on a yearly basis. Likewise, school staff have raised awareness among children and
+their parents. The programme has reached around 80-100 school students each year, with both
+female and male students receiving awareness sessions. The average school size is 475 students
+according to data reported by schools. The average number of students reached, as estimated
+by this evaluation, is 445 students per school. That means 6,230 in the first phase of 14 schools
+from 2014–2015, with a total 12,460 students, and for the second phase at 64 schools 28,480
+students were reached yearly; 227,840 students were reached in 2016–2023. The total
+programme reach is 240,300 students.
+28
+School staff, teachers and social workers have acknowledged the usefulness of programme
+interventions, especially programme manuals and training materials. More than 90% of school
+staffs and social workers indicated that they have engaged with the programme by raising
+students’ awareness of bullying. 96.4% of them documented bullying cases and 90.5%
+participated in the anti-bullying week organised by the MOE. 87% attended the training
+programme and 82.1% received the training manuals.
+Only 41.7% of School Discipline Committee members/staff participated in the Anti-Bullying
+Award. The main reason behind the low participation rate is a lack of awareness about the award.
+Figure 2. How did you engage with the anti-bullying programme? - school committee
+100.0 94.1 96.4 93.5
+90.0 87.1 82.1 85.2 86.7
+80.0
+70.4
+70.0
+60.0
+50.0 41.7
+40.0
+30.0
+20.0
+10.0
+0.0
+Attended Received Received Raised Participated Worked/ Wrote Participated Participated
+the program manuals training children in anti- solved on reports in the award in anti-
+training materials awareness bullying students’ about the bullying
+committee cases anti-bullying week
+Also, 85.3% of school staff and social workers reported that bullying rates had decreased after
+implementing the programme. 14.7% think the bullying rates are the same or increasing due to
+the emergence of online bullying and the effects of social media.
+The most commonly used strategies reported by the School Discipline Committee members are
+the raising of children’s awareness, the reporting and documenting of bullying cases, and
+attendance of training sessions organised within the framework of TOT.
+29
+Figure 3. Frequency of use of the following strategies reported by the School Discipline Committee
+100%
+90% 7% 8% 12% 5 5 % % 22% 9%
+25%
+80% 22%
+70%
+22%
+14%
+60%
+50% 73% 25%
+80% 76% 77% 83%
+40%
+63%
+30% 50% 57%
+20%
+10%
+0%
+Attended Received Received Trainer / Participated Worked/ Wrote ParticipatedParticipated
+the program manuals training raised in anti- solved on reports in the award in anti-
+training materials children bullying students’ about the bullying
+awareness committee cases anti-bullying week
+about formation in the school
+bullying
+less than 5 times 5-9 times 10 times or more
+Schools also drew up yearly plans to deal with bullying. These plans contain awareness activities,
+such as plays, drawings, student activities, and school competitions. Parents benefited from
+attending training and awareness sessions, where they received a parents’ manual and
+participated in the anti-bullying week.
+Figure 4. How did you engage with the anti-bullying programme? - parents
+57.0
+55.8
+56.0
+55.0
+54.0
+53.1
+53.0
+52.2
+52.0
+51.0
+50.0
+Attended the program awaraness Received parents’ manuals Participated in anti-bullying
+sessions committee work
+8-2 Are the programme objectives realistic? To what extent has the programme achieved its planned
+goals?
+The programme has no programme document or time-bound quantitative targets. Accordingly,
+the programme results were assessed in relation to the general objective of reducing bullying in
+schools and creating a safe environment. The programme made progress towards the general
+objective of creating a safe school environment and preventing school violence and bullying. To
+30
+measure if the programme had reached its overall goal, a sample of 1,330 students responded to
+a questionnaire measuring three behaviours: students’ pro-social behaviour, students reporting
+being bullied, and students reporting bullying others. The results are presented in the following
+breakdown: control intervention versus intervention group, by Emirate, and Emirate nationals
+versus expatriates.
+Students from 14 schools participated in this evaluation – 12 intervention/pilot schools and two
+control schools. The sample covers boys’ schools, girls’ schools, and mixed schools. There were
+11 public schools and three private schools. Both private and public schools have national and
+foreign students. The sample selection method is proportion-to-size, meaning that the sample
+represents the programme’s pilot school distribution. Since the pilot programme has not been
+implemented in all schools, the sample does not represent all schools in the UAE. For further
+details, see the methodology section.
+Intervention group versus control group41
+Students acting pro-socially: students in the intervention group are 8.24% less likely to play
+sport, 4.48% less likely to get good marks, and 1.1% more likely to make friends. Bullying
+behaviour was sometimes accompanied by pro-social skills. Research noticed, in several
+studies, that bullying students are generally social. These studies suggest that most children
+and young people who bully others wield considerable power within their peer network and
+that high-status perpetrators tend to be perceived by peers as being popular, socially skilled,
+and leaders.42
+Table 9. Students reporting acting pro-socially: control group v intervention group
+Control Intervention Difference
+I like playing sport 88.0% 81.3% -8.24
+I get good marks in class 88.7% 84.9%
+-4.48
+I like to make friends 74.8% 75.7% 1.19
+I like to help people 92.8% 90.7%
+-2.32
+I share things with others 70.9% 70.0% -1.29
+Students being bullied: the evaluation found that there are significant differences between the
+control group and intervention group. Students in the intervention group are 27.31% less likely
+to be called names, 41.2% less likely to get picked on by other students, 35.37% less likely to be
+made fun of, 46.84% less likely to get hit by others, and 73.60% less likely to receive unpleasant
+messages from other students via computer, phone, and/or online.
+41 The intervention group is the group of sampled schools benefiting from the programme; the control group is a
+group of sampled schools that have characteristics similar to the beneficiary schools, but have not benefited from
+the programme. For details, please refer to 4. Evaluation Methodology.
+42 E.g. de Bruyn E, Cillessen A, Wissink I. “Associations of peer acceptance and perceived popularity with bullying
+and victimisation in early adolescence”. Journal of Early Adolescence. 2010
+31
+Table 10. Students reporting being bullied: control group v intervention group
+Control Intervention Difference
+I get called names by others 29.8% 23.4% -27.31
+I get picked on by other students 25.8% 18.3% -41.20
+Others make fun of me 22.4% 16.5% -35.37
+I get hit and pushed around by others 13.9% 9.5% -46.84
+I receive unpleasant messages from other students 13.9% 8.0% -73.60
+via computer/phone/online
+Students bullying other students: students at the pilot schools are 7.4% less likely to join a group
+that teases others, 95.2% less likely to make fun of others and, 78.1% less likely to upset weak
+students. They are also 110.63% less likely to get into a fight with someone they can easily beat.
+Table 11. Students reporting bullying others: control group v intervention group
+Control Intervention Difference
+I am part of a group that goes around 4.61% 4.29% -7.46
+teasing others
+I like to make others scared of me 13.42% 6.88% -95.06
+I enjoy upsetting weak people 4.67% 2.62%
+-78.24
+I like getting into a fight with someone I 7.33% 3.48% -110.63
+can easily beat
+Breakdown by Emirate
+Students acting pro-socially: students from Ajman have the highest pro-social skills, i.e. 86.36%
+of students. In Sharjah, 81.5% of students have social skills, followed by 81.22% of students in
+Abu Dhabi and 76.9% in Ras Al Khaimah.
+Table 12. Students reporting acting pro-socially: by Emirate
+Abu Dhabi Ajman Dubai Ras Al Sharjah Average
+Khaimah
+I like playing sport 82.8% 92.3% 81.0% 77.7% 79.3% 82.0%
+I get good marks in class 85.9% 94.9% 87.3% 76.5% 83.8% 85.2%
+I like to make friends 75.4% 85.7% 77.6% 66.9% 78.4% 75.6%
+I like to help people 90.4% 96.1% 83.4% 94.5% 94.3% 91.74%
+I share things with others 71.6% 62.8% 66.7% 69.3% 71.7% 68.42%
+Average 81.22% 86.36% 79.20% 76.98% 81.50% 81.05%
+Students being bullied: regarding students being bullied, the lowest rate of students being
+bullied is in Abu Dhabi (14.5%), followed by Sharjah (15.2%). The highest rates are in Ajman
+(21.2%) and in Ras Al Khaimah (19.1%).
+32
+Table 13. Students reporting being bullied: by Emirate
+Abu Ajman Dubai Ras Al Sharjah Average
+Dhabi Khaimah
+I get called names by others 22.3% 36.4% 21.8% 29.7% 23.3% 26.7%
+I get picked on by other students 18.5% 26.0% 19.8% 24.2% 14.0% 20.5%
+Others make fun of me 15.4% 18.2% 22.6% 20.5% 16.8% 18.7%
+I get hit and pushed around by others 9.3% 11.5% 11.3% 10.2% 10.4% 10.5%
+I receive unpleasant messages via 6.9% 14.1% 7.2% 10.8% 11.5% 10.1%
+computer/phone/online or on social
+media
+Average 14.5% 21.2% 16.5% 19.1% 15.2% 17.3 1%
+Students bullying other students: regarding students who admit to bullying other students, Abu
+Dhabi has the lowest rate: 3.3% of students said they bully others, followed by Ajman (4.6%). The
+highest rate is in Sharjah (10%), while in Dubai it is 5.3%.
+Table 14. Students reporting bullying others: by Emirate
+Abu Ajman Dubai Ras Al Sharjah Averag
+Dhabi Khaima e
+h
+I am part of a group that goes around 2.8% 2.6% 7.8% 5.5% 7.5% 5.24%
+teasing others
+I like to make others scared of me 6.2% 3.8% 7.3% 7.4% 16.3% 8.2%
+I enjoy upsetting weak people 2.1% 3.8% 3.7% 2.5% 5.8% 3.58%
+I like getting into a fight with someone I 2.2% 8.0% 2.4% 4.3% 10.4% 5.46%
+can easily beat
+Average 3.3% 4.6% 5.3% 4.9% 10.0% 4.5%
+Overall, the programme clearly had a positive impact on the school environment in each of the
+pilot schools to varying degrees and offered the whole school community a different level of
+understanding of the prevention of school violence and bullying.
+Emirate nationals versus expatriates
+Students acting pro-socially: expatriate students have more social and cooperative skills than
+Emiratis. The Emirate national students represent 79.8% of the sample and the expatriate
+students 20.2% of the sample.
+Table 15. Students reporting acting pro-socially: Emiratis v expatriates
+Emiratis Expatriates Difference
+I like playing sport 81.5% 84.5% 3.7%
+I get good marks in class 83.6% 91.3% 9.2%
+I like to make friends 74.3% 80.4% 8.1%
+I like to help people 90.8% 92.5% 1.8%
+33
+I share things with others 69.7% 71.3% 2.3%
+Students being bullied: the evaluation found that there are differences between Emiratis and
+expatriate students. Expatriate students are 19.3% less likely to be called names, 6.8% less likely
+to get picked on by other students, 11.5% less likely to be made fun of, 15.6% more likely to be
+hit by others, and 71.6% less likely to receive unpleasant messages from other students via
+computer, phone, and/or online.
+Table 16. Students reporting being bullied: Emiratis v expatriates
+Emiratis Expatriates Difference
+I get called names by others 24.76% 20.75% -19.3%
+I get picked on by other students 19.34% 18.11% -6.8%
+Others make fun of me 17.32% 15.53% -11.5%
+I get hit and pushed around by others 9.55% 11.32% 15.6%
+I receive unpleasant messages from other students via
+9.06% 5.28% -71.6%
+computer/phone/online
+Students bullying other students: expatriate students are 32% less likely to join a group that
+teases others, 21.3% more likely to scare others, 4% less likely to upset weak students. They are
+also 18% less likely to get into a fight with someone they can easily beat.
+Table 17. Students reporting bullying others: Emiratis v expatriates
+Emiratis Expatriates Difference
+I am part of a group that goes around teasing others 4.51% 3.41% -32.18%
+I like to make others scared of me 7.29% 9.27% 21.34%
+I enjoy upsetting weak people 2.82% 2.71% -4.08%
+I like to get into fights with someone I can easily beat 4.08% 3.45% -18%
+Males versus females
+Students acting pro-socially: male students have more social and cooperative skills than the
+female students.
+Table 18. Students reporting acting pro-socially: boys v girls
+Male Female Difference
+I like playing sport 89.8% 77.3% -16.12
+I get good marks in class 87.9% 83.5% -5.23
+I like to make friends 75.9% 75.6% -0.50
+I like to help people 90.6% 90.7% 0.19
+I share things with others 68.0% 71.0% 4.16
+Students being bullied: regarding students being bullied, girls are 72.2% less likely to get called
+names. Girls also are 41.6% less likely to get picked on by other students, and 50.9% less likely to
+get hit or pushed around. They are 26.5% less likely to receive unpleasant messages from other
+students via computer/phone/online.
+34
+Table 19. Students reporting being bullied: boys v girls
+Male Female Difference
+I get called names by others 32.8% 19.0% -72.2
+I get picked on by other students 22.9% 16.2% -41.6
+Others make fun of me 18.3% 15.7% -16.8
+I get hit and pushed around by others 12.3% 8.1% -50.9
+I receive unpleasant messages from other students 9.4% 7.4% -26.6
+via computer/phone/online
+Students bullying other students: girls are almost as likely to join a group that teases others as
+boys. Girls are 11.5% less likely to scare others, and 25.7% less likely to upset weak students. They
+are also 30.6% less likely to get into fights with someone they can easily beat.
+Table 20. Students reporting bullying others: boys v girls
+Male Female Difference
+I am part of a group that goes around teasing 4.28% 4.29% 0.34
+others
+I like to make others scared of me 7.4% 6.6% -11.5
+I enjoy upsetting weak people 3.0% 2.4% -25.7
+I like to get into a fight with someone I can easily 4.1% 3.2% -30.6
+beat
+8-3 Has the programme managed to reach out to the most vulnerable children?
+To answer this question, we need to start by explaining the four types of vulnerabilities as defined
+by schools: economic vulnerabilities, students with disabilities, parental neglect of children, and
+students who live with a single parent (see shape 4).
+School staff and management conduct a systemic assessment of the students’ situation and they
+offer support when possible. In the Northern Emirates, social workers have records of cases with
+relatively large numbers of students. They prefer to channel support via the government, or via
+the Shekh Khalifa Foundation or a similar foundation.
+35
+Shape 4. Summary of students’ vulnerabilities identified at schools
+Economic Students with
+Parental neglect Parents separated
+vulnerabilities disabilities
+•The school sends an •All UAE schools, •Parental neglect is •In the first week of
+assessment form to street and public another key issue the year, schools
+the parents. asking transporatoon are where a family either meet parents to
+them to fill it in and disgned to causesharmtoachild explain the school
+senditback accommodate the ortheyarenotcareful rules, and to ask
+•The MOE forwards needs of people with about his/her studies, about the family
+the forms to the disabilities and are leading to absences situation and who is
+Sheikh Khalifa fitted with ramps and and the failure to do responsible for the
+Foundation elevators homework child
+•The Sheikh Khalifa •Schoolshaveaprivate •Other schools noted ▪However, in some
+Foundation covers all education teacher domestic violence, cases families avoid
+students' costs, whoisresponsiblefor with children reporting issues like
+including uniform, conducting the attending school with these
+sportswear, releventassessments marksontheirfaceor ▪Some students with
+body
+stationery, everyday •Schools can also offer multiple
+expenses and any wheelchairs, learning •Schools were very vulnerabilities,
+schoolcosts materials, and detailed with these especially girls, have
+•Students' privacy is shadow teachers if cases as they aggressive behaviour
+maintained needed reported them towards other school
+•Economic ▪Schools offer study according to the students
+Wadeema Law to
+vulnerabilities are not supportmaterials ▪Thisisoneareawhere
+other authorities so
+commoninAbuDhab, schoolsfindmanaging
+that action could be
+but cases are these cases very
+taken
+increasing in the challenging
+NorthenEmirates
+Regarding students with disabilities, relatively few cases are identified. Schools have a
+programme specifically dedicated to them. Most students showed sympathy and support
+towards students with disabilities (“people of determination”, as named by students). Self-
+identified cases reported in the student questionnaire came to 2% in the control schools and
+1.7% in the intervention schools. The main types of disabilities mentioned are hearing, mobility,
+and visual impairments. Other students mentioned learning difficulties and distraction.
+The number of cases of family neglect is low. However, schools still find them challenging to
+address. Students with single parents have
+Figure 5. Are there any special procedures for the most vulnerable
+shown aggressive behaviours that their
+students?
+peers cannot cope with.
+80.0 75.0
+Students in single-parent families
+sometimes face economic vulnerability at 60.0
+the same time. Some of them engage In
+40.0
+aggressive behaviour towards other
+25.0
+children. School Discipline Committees
+20.0
+often seem not to have strategies to
+support such students or contain their
+0.0
+aggressive behaviour towards other
+children. Instead, such aggressive No Yes
+36
+behaviour is sometimes explained as being associated with psychological illness. However, the
+programme generally addresses bullying, including that against vulnerable groups of children.
+It is recommended that a special module be introduced to deal not only with bullied students,
+but also with students who bully others, in order to integrate them into the school community.
+The programme could also devise a vulnerability assessment tool that can assess multi-
+dimensional vulnerabilities.
+Additionally, both aggressive bullying students and victims have a degree of vulnerability.
+Therefore, there is a need to create additional advanced modules to support and enhance the
+life skills of regularly bullied students and another module to deal with aggressive students.
+They should also be provided with additional support by a support team, including their
+parents, teachers, and psychologists. In most cases, the most vulnerable students need
+referrals to organisations beyond the education sector, such as child protection authorities and
+community-based service providers, which are specialised in working with vulnerable children
+and their families.
+8-4 What are the critical determinants of the programme’s effectiveness and their impact on the
+beneficiary groups?
+The programme has several Figure 6. In your opinion, what factors contributed to the success of the
+programme vis-a-vis the vulnerable group?
+determinants to safeguard the
+70
+programme’s effectiveness, as 57.9
+60
+described below.
+50
+40
+1- The UAE government’s 31.6
+30
+commitment to recognise the
+challenges of bullying and take 20 10.5
+action against it. 10
+0
+2- A strong programme concept by
+School and Parents Different methods to Follow up
+UNICEF and evidence-based attention raise awarness
+interventions; the programme
+has benefited from very strong
+international experience. Figure 7. In your opinion, what factors hindered the success of the
+programme vis-a-vis the vulnerable group?
+3- Schools’ willingness and
+50.0 45.5
+commitment to benefit from the
+36.4
+40.0
+training provided. They were
+trained for the first time during 30.0
+2016. Then, the school trainers 18.0
+20.0
+passed on this training on a yearly
+10.0
+basis.
+0.0
+4- Quality of the training of trainers,
+parents No time for Psychological
+with content in both Arabic and
+awareness stress
+English. The presentations and
+sessions
+37
+training materials have been very useful. Schools have strong evidence that they used
+materials developed by the programme, including pictures, definitions, concepts, and
+students’ activities. A School Discipline Committee member has mentioned “Enhancing
+student knowledge, developing teachers professionally, and helping to create a school-wide
+approach to anti-bullying”.
+8-5 Level of satisfaction of each beneficiary group?
+The level of satisfaction was measured across the evaluation questionnaires. It was linked to the
+key benefits they got from the programme (explained in 8-1). It is important to highlight that not
+all the interviewed groups received the same benefit. The School Discipline Committee, for
+example, is composed of limited number of individuals. The committee should define the
+responsibilities of its members so that everyone does not participate in the decision-making
+process of the committee, but they contribute to the committee’s work. The anti-bullying award
+was not recognised by several social workers and School Discipline Committees.
+Figure 8. School Discipline Committee rates of satisfaction with programme interventions
+Participated in anti- bullying week 100.0
+Participation in the anti-bullying award 16.7 16.7 66.7
+Worked/ solved on students’ cases 33.3 66.7
+Participated in anti-bullying committee formation 50.0 50.0
+Trainer / raised children awareness about bullying 18.2 36.4 45.5
+Received training materials 33.3 66.7
+Received manuals 16.7 50.0 33.3
+Attended the program training 36.4 63.6
+0 10 20 30 40 50 60 70 80 90 100
+Dissatisfied/ did not participate Neutral satisfied
+To measure satisfaction rates across all the programme activities, the evaluation measured
+satisfaction among School Discipline Committees, school principals, parents and children. The
+results for the School Discipline Committees show that the anti-bullying week received the
+highest satisfaction rate among all school activities, as 100% of the School Discipline Committees
+are satisfied, followed by the resolution of students’ cases and training materials. The training
+materials, for example, got a higher satisfaction rate than the programme’s training manuals.
+The programme’s manuals need to be localised rather than translated so that they are easily
+understood by any school staff. The manuals should also add more examples and situations from
+life so that school staff can easily judge and investigate cases. Investigations also need to be
+conducted to verify cases. In addition, terminology needs to be adjusted to meet the local context.
+38
+Regarding school principals,
+Figure 9. Parent satisfaction with programme intervention
+75% of them were either
+80.0% 69.1% 68.7%
+somewhat satisfied or very 63.6%
+satisfied with the programme. 60.0%
+Parents were invited by 33.3%
+40.0% 27.9% 28.4%
+schools to attend awareness
+20.0%
+activities. They were very 2.9% 3.0% 3.0%
+0.0%
+satisfied with the awareness
+How satisfied are the awareness How satisfied are
+session materials and
+you about the duration you about the school
+duration, and with the School
+awareness materials anti-bullying system
+Discipline Committee system.
+I did not attend not satisfied Satisfied
+As for students, the
+evaluation used a multi-level approach to understand their satisfaction. It started by asking how
+they normally act when they face any bullying or abuse. 28% of students responded that they
+usually talk to their parents. 24% usually talk to social workers, 23.9% talk to a teacher, and 18.5%
+talk to their peers. 3.4% of students responded that they stopped it or took revenge themselves,
+Figure 10. How students normally act when they face a bullying issue
+I talked to the bully 0.90%
+Talked to the nurse 3.20%
+I stopped it myself/ fight back 3.40%
+Talked to Nanny 4.70%
+stayed silent 14.30%
+Talked to a friend 18.50%
+Talked to the teacher 23.90%
+Talked to the social worker 24.40%
+Talked to parents 28.40%
+0.00% 5.00% 10.00% 15.00% 20.00% 25.00% 30.00%
+either verbally or physically.
+Students who face bullying issues were asked if they talked to anyone. Around 14.3% of students
+remained silent, around 3.4% stopped the bully either by fighting back or replying to the assault,
+and less than 1% talked to the bully.
+81.3% of students decided to talk to someone. Those who decided to talk to someone were asked
+how bullying cases were handled after they mentioned the case. 79.9% of students responded
+that the person they spoke to offered to help them. Among those students, 72.9% indicated that
+that action was taken. Only 53.7% of students were satisfied with the proposed solution, 30.03%
+were not satisfied with the proposed solution, and 16.28% thought that their complaints were
+not addressed. Attention should be paid to the 14.28% students who remained silent about
+bullying issues. 20.1% of students who mentioned a bullying case to someone indicated that no
+39
+action was taken by the person they mentioned it to. Even when any action was taken, 16.3% of
+students indicated the problem was not Figure 11. How bullying cases are handled after being reported
+60.00% 53.69%
+resolved.
+50.00%
+8-6 How effective are the capacity-building
+40.00%
+activities supported by the programme? 30.03%
+30.00%
+Capacity-building activities were assessed
+16.28%
+20.00%
+and given high satisfaction rates among
+10.00%
+School Discipline Committees, as indicated
+0.00%
+in a previous section. This evaluation
+Not solved Solved but I am Solved and I am
+measured the benefits perceived by the
+not satisfied satisfied
+trained group of school social workers and
+staff. It also assessed the quality of capacity-building methods used in the programme.
+87.1% of school staff, teachers and social workers attended the training, and 85.2% received
+training materials. These include the 82.1% who received the anti-bullying manual. 93.5%
+attended the anti-bullying week, and 41.7% participated in the National Anti-Bullying Award.
+Figure 12. Have you attended the following capacity-building activities under the programme?
+Participated in The Antibullying Award 41.7 58.3
+Participated in The Antibullying week 93.5 6.5
+Received the Training Materials 85.2 14.8
+Received the Programme Manual 82.1 17.9
+Attended the Training of the Programme 87.1 12.9
+0 10 20 30 40 50 60 70 80 90 100
+Yes No
+The schools who benefited from the programme devised annual plans to deal with bullying,
+encompassing awareness activities, such as plays, drawings, student’s activities, and school
+competitions. Parents benefited from attending training and awareness sessions, where they
+received the parent manual. They also participated in the anti-bullying week.
+40
+Figure 13. How did you engage with the anti-bullying programme? - parents
+57.0
+55.8
+56.0
+55.0
+54.0
+53.1
+53.0
+52.2
+52.0
+51.0
+50.0
+Attended the program awaraness Received parents’ manuals Participated in anti-bullying
+sessions committee work
+The evaluation found that the capacity-building activities were effective for two reasons. First,
+they became reference points used by schools to educate and teach staff, students, and
+parents about bullying. Secondly, school staff and social workers regularly used the training
+materials and programme exercises to improve students’ awareness.
+The evaluation tracked the knowledge of school staff and the use of the key trained skills, and
+found that the support-group method is the most effective method, followed by restorative
+practice. The shared-concern method came third. Direct sanctions were the least effective
+method, and strengthening the victim also had little effect, despite its importance. This
+information should guide the programme’s upcoming review of the content of training
+materials.43
+Figure 14. The last time you used these methods, did they decrease bullying?
+Direct Sanctions 55.2 44.8
+Shared Concern 29.0 3.2 67.7
+The Support Group 3.3 13.3 83.3
+Restorative Practice 25.8 3.2 71.0
+Mediation 33.3 3.3 63.3
+Strengthening the victim 43.3 6.7 50.0
+0 10 20 30 40 50 60 70 80 90 100
+I didn't use it recently Made no difference Reduced/ stopped the bullying
+43 For more details about the key knowledge imparted under the programme, see the training manual delivered by
+the programme
+41
+Figure 15. In your experience, were these practices useful to your work? - school committee
+The Method of Shared Concern0.0 100.0
+The Support Group Method 6.9 93.1
+Restorative Practice0.0 100.0
+Mediation 3.3 96.7
+Strengthening the victim 6.7 93.3
+Direct Sanctions 16.7 83.3
+0.0 20.0 40.0 60.0 80.0 100.0 120.0
+was not useful was useful
+These results were confirmed when school committee members were asked how useful the key
+knowledge imparted had been in their experience. They found all the student-support methods
+useful, especially the shared-concern method and restorative practice.
+8-7 What happens to the cases reported and what are the response mechanisms?
+After students complain about bullying, social workers warn the bully. If the bullying stops, then
+no case is reported.44 If it is repeated, the school calls the bully’s parents to inform them of the
+case, indicating their child’s behaviour and possible sanctions based on the school code of
+conduct. If it is repeated for a third time, the parents are expected come to the school and sign
+a written commitment form which indicates that the child will not repeat the bullying. If the issue
+persists, the school applies the school code of conduct procedures and deducts degrees.
+Cases that a school considers to be parental abuses are reported, in accordance with the
+Wadeema Law, to the child protection unit at the MOE, which coordinates with the police to
+keep the parents accountable.
+9. Sustainability
+9-1 To what extent have UNICEF, the SCMC, and the MOE promoted a spirit of joint ownership of the
+programme?
+The programme created strong ownership for pilot schools by delivering programme
+interventions to the MOE. The training of trainers gave schools the impetus to sustain the
+programme interventions. The majority of the staff trained were school principals and
+44 The code of conduct has four degrees of deduction. First-degree violation: 4 points are deducted; second-degree violation: 8
+points are deducted; third-degree violation: 12 points are deducted; fourth-degree violation: the student fails the grade. However,
+some cases where bullying is accompanied with physical harm or socially unacceptable verbal insults are reported directly without
+having to follow these procedures. Extreme cases are either reported to the MOE, which refers them to the police, especially if
+there is physical harm, or a student is given a fail mark as per the code of conduct. Some schools prevent students from applying
+for the next year if their behaviour has not changed.
+As for parents’ or caregivers’ violations against children, the school discusses these with the parents and warns them. If the
+students do not improve, they report them to the MOE using an assessment from. If a violation concerns students’ absence and
+persistently late homework or other educational issues, the case is referred to the MOE for assessment, and the MOE may turn
+to the police for action pursuant to the Wadeema Law. If a case concerns family abuse or violations, schools take the same path
+of reporting to the MOE and then the police for an investigation pursuant to the Wadeema Law.
+42
+experienced social workers. These trained trainers enabled schools to be the key sustainability
+actor. Each year, the trained staff at schools conducted refresher training and awareness sessions
+for other staff, who raised students’ and parents’ awareness of anti-bullying.
+9-2 Have legal, institutional, and financial mechanisms encouraged the programme’s sustainability?
+The programme’s sustainability measures are described below.
+• The training of trainers is known to be one of the strongest sustainability measures. As per
+the data presented in the effectiveness section of this report, every year several training
+sessions take place for school staff, teachers, and social workers, in addition to awareness
+sessions for parents and students.
+• Ministerial Decree 645, issued in 2020, constitutes a legislative sustainability measure. It was
+developed seven years after the programme started. However, due to the COVID-19 crisis
+and the suspension of in-person education, the anti-bullying committee and the MOE
+reporting system have not been fully activated.
+• As for institutional sustainability, the programme is currently managed by the MOE. However,
+no refresher training has been provided. The reporting of data has been irregular and
+inconsistent among schools. This may affect the programme’s long-term sustainability.
+• Little information has been registered about financial sustainability.
+• When School Discipline Committee members were asked to suggest sustainability measures,
+some of them recommended forming and training a new anti-bullying committee. Others
+recommended revising the programme with a new implementation framework (including a
+full system of training, committee and school reporting to the MOE’s child protection unit,
+and the Wadeema Law), devising a plan to avoid staff transfers to new schools, and increasing
+the amount of training.
+Figure 16. How will the school continue the programme after anti-bullying committee members move to other schools or if there
+is a lack of follow up? - School Discipline Committee
+50 45.5
+45
+40
+35
+30
+25
+18.2 18.2
+20
+15
+9.1 9
+10
+5
+0
+Forming ABC Develop an Develop a plan to avoid Increase Training don’t know
+committee and training implementation committee members
+framework transfer
+43
+9-3 How sustainable are the results achieved thus far for the broader school community at the 64 pilot
+schools?
+The programme has been proven to be sustainable from 2014 to the present. School principals
+and School Discipline Committee members are planning to continue using the programme
+materials. However, the high turnover of school staff and social workers may affect the
+programme’s sustainability. In this regard, refresher training is recommended. The school anti-
+bullying week initiated by the MOE and the anti-bullying award initiated by the SCMC are planned
+to continue being organised by both entities.
+For the programme’s scale-up, School Discipline Committee members were asked how the
+programme’s interventions could be sustained. They recommended forming an anti-bullying
+committee, retraining staff, and devising a plan to deal with high School Discipline Committee
+turnover. They also urged more field visits, increased awareness, and improvements in the case
+reporting system.
+Figure 17. Do schools need a child protection specialist on a permanent basis?
+Around 86% of School Discipline
+100.0
+Committee members think that 86.2
+schools need a child protection 80.0
+specialist on a permanent basis. The
+60.0
+lack of trained social workers to
+support the student committees is
+40.0
+another factor restricting the
+programme’s sustainability. The 20.0 13.8
+evaluation found, for example, a pilot
+school managed by one social worker 0.0
+with no previous experience. One
+Yes No
+control school had no social worker
+and assigned a student affairs officer to fill the position temporarily. The MOE and SCMC could
+draw up a one-year programme to train a social worker and equip them with the necessary skills.
+Graduates from relevant education institutions could join the programme to fill the gap.
+The evaluation concludes that there is a high possibility for the programme to be sustained if
+additional technical resources are forthcoming – see the annexes for details.
+10. Looking Ahead
+The bullying issue will remain a key priority for the programme, as verbal abuse was
+reported as a key challenge by 32.2% of schools’ committee members. Relational bullying
+was reported by 14.5% of the members. Gestural abuses were reported by 8.1%, and
+physical means of abuse were reported by 4.8% of the members.
+10-1 Stakeholders’ priorities
+Her Highness the Secretary-General of the Supreme Council of Motherhood & Childhood,
+representing the UAE government, has highlighted the programme’s goals and expressed
+her willingness to completely eradicate bullying behaviour among students. This goal is
+44
+ambitious but not unattainable; it can be divided into sub-targets for careful monitoring
+with a dynamic programme concept.
+All the stakeholders interviewed expressed a willingness to expand the cooperation to create a
+wider child protection umbrella. For example, the lead technical adviser at the SCMC highlighted
+the fact that bullying takes many forms and there is a need to include other child protection
+challenges in the programme besides bullying. The programme also needs to be adapted to
+emerging changes. Furthermore, the government needs to develop these initiatives into
+permanent policies so that future generations can benefit from them.
+The UNICEF GAO deputy director highlighted the fact that UNICEF is exploring the possibility of
+cooperation beyond bullying. She also pointed to the scarcity of data in the region and the need
+to carry out more research for evidence-based interventions.
+Table 21. Priorities identified by the stakeholders interviewed
+Key priorities Their recommendation
+SCMC Reduce bullying rates 1- Scale up the progamme so other schools can
+benefiet
+2- Deepen the intervention
+Smoking and drugs 3- The need for more awareness and prevention
+work
+4- The need for public clinics for child addicts
+MOE Plug the gap in child protection 1- The need for more social workers
+and social workers 2- Improve school reporting
+Improve the national statistics 3- Improve statistics reported internationally
+UNICEF Offer support when needed 1- Scale up the progamme so other schools can
+benefit
+Fix the data scarcity 2- Support for more data collection
+Strengthen the partnership model 3- Participate in the programme at all stages,
+so that it is more responsive to especially monitring and budget decisions
+emerging needs
+Research has shown that bullying and abuse are by no means standalone factors. Children who
+are frequently bullied are nearly three times more likely to feel like an outsider at school and
+more than twice as likely to miss school as those who are not frequently bullied. Children who
+are bullied have worse educational outcomes than children who do not. They score lower in
+mathematics and reading tests. The more often they are bullied, the worse their scores tend to
+be. Children who are frequently bullied are also more likely to expect to leave formal education
+after finishing secondary school than those children who are not frequently bullied.
+School violence and bullying affect the overall attainment of the student population at a school.
+Poor discipline and an unsafe school environment are associated with lower academic
+achievements. Bullying can have a significant impact on children’s mental health, quality of life,
+45
+and risk behaviours. Children who are bullied are about twice as likely to feel lonely, have a
+sleeping disorder, and have contemplated suicide as those who are not bullied.45
+In the following section, different tools were used to obtain the views of various duty-bearers
+and rights-holders about the school environment, key challenges, and needs.
+10-2 Students’ priorities
+Students were asked to assess the school environment by means of two data collection tools: a
+student questionnaire and risk maps. The questionnaire results revealed key school-environment
+challenges. It was found that 54% of students have complained about the quality of the toilets,
+39.5% of students lost belongings in the past month, and 20% of students indicated that teachers
+did not allow them to go and get water or go to the toilet during lessontime. 17.8% of students
+responded that no drinking water is available, and 11% do not feel safe on the way to school.
+Figure 18. Key challenges faced by students in the school environment
+100.0%
+90.0%
+80.0%
+70.0%
+60.0% 54.0%
+50.0%
+39.5%
+40.0%
+30.0% 20.3%
+17.8%
+20.0% 10.9%
+10.0%
+0.0%
+Bathrooms isnot in Lost any of your Teachers don't let you Drinkable water not The road to the school
+good quality school supplies or go to the bathroom or available is not safe
+money last month drink water
+For detailed aspects of the school environment, a risk map was used to assess the school-wide
+environment. 93 students participated in the risk-map exercise. 56 of them were girls and 37
+were boys. The exercise revealed the findings described below.
+a. Toilets
+55.4% of girls do not feel comfortable using the toilets. They complained about the cleanliness,
+water cuts, abusive words written on the walls, and rumours about other students written on
+the walls. Additionally, some girls congregate in the toilets to talk or to use phones, which is
+disturbing for others.
+13.9% of boys were not comfortable about the toilets. Some boys sometimes meet in the toilets to
+smoke and hide electronic cigarettes there, use phones, and occasionally fight. Some boys avoid
+going to toilet so as not to be bothered by others. Some schools have used surveillance cameras
+directed at the toilet door to watch who comes in and out.
+45 UNESCO, Behind the numbers: Ending school violence and bullying,
+https://unesdoc.unesco.org/ark:/48223/pf0000366483
+46
+Table 22. Key challenges in the school environment as defined by students using risk maps (n=93)
+Girls (N= 56) Boys (N=37)
+% of students who % of students who
+face challenges face challenges
+To what extent do you feel comfortable with the 55.4 13.9
+toilets?
+To what extent do you feel comfortable with the 32.5 31
+canteen, in terms of ease of access to food,
+availability, quality?
+To what extent do you feel comfortable with the 35.71 30.6
+classroom (chairs and benches, air-conditioning)?
+To what extent do you feel comfortable with the 23.2 11.1
+drinking-water situation?
+To what extent do you feel comfortable with the 16 16.7
+stairs?
+To what extent do you feel comfortable with the 12.5 13.9
+school playground / sports facilities?
+To what extent do you feel comfortable with the 16 2.7
+lighting in classrooms?
+To what extent do you feel comfortable with the 10.7 5.6
+bus/transport to schools?
+To what extent do you feel comfortable with the way 5.4 11.1
+to school?
+To what extent do you feel comfortable with the 5.3 8.3
+school fencing?
+To what extent do you feel comfortable with the 3.6 2.7
+library?
+To what extent do you feel comfortable with the 0 2.7
+labs?
+b. Canteen
+The evaluation found that 32.5% of girls and 31% of boys complained about the canteen. For
+example, some schools have created one lane for each grade, which is perceived as insufficient,
+given the number of students using the canteen. In some schools, students are not satisfied with
+the type or quality of the meals. Sometimes, there is not enough food for all students to buy. In
+one of the schools, expired milk was sold to children.
+c. Classrooms
+35.71% of the interviewed girls and 30.6% of the interviewed boys commented on the classrooms,
+despite the investments made and the high quality of the school infrastructure. Some students
+face challenges in the classroom, e.g. they did not like the chairs. They dislike sitting in the last
+row of the classroom. It was also mentioned that the electric board sometimes stops working.
+Finally, air-conditioners are sometimes too cold, too hot, or out of order. It is better for any future
+infrastructure development to integrate students’ views into selected materials
+d. Drinking water
+47
+Free drinking-water fountains are found in some schools. In other schools, students bring water
+from home, or buy it in the canteen. A key challenge is that some students spend the entire
+schoolday with no water if the canteen is crowded.
+Other places assessed, such as labs, music rooms, and libraries, are comfortable for students.
+They are also satisfied with school fencing and roads.
+In some schools, teachers are perceived to be a part of the problem. Anecdotally, a girl was
+accused by one teacher of having a crush on a male teacher. While this may be normal in other
+countries, it is very sensitive in an Arabic context. In this specific case, the girl and her mother
+took action against the teacher. The investigation concluded that the girl had not done anything
+wrong. This again highlights the importance of the rights-based approach empowering a victim
+to act against such abuses.
+The risk maps also highlighted other issues, such as comments about colour, hair, and
+clothing. They also indicated discrimination against students from different nationalities, a
+factor which has emerged in particular from other school discussions.
+10-3 School Discipline Committees’ priorities
+Verbal abuse was reported as a key school challenge by 32.2% of schools’ committee
+members. Relational bullying was reported by 14.5% of schools’ committee members.
+Gestural abuse was reported by 8.1%, and physical abuse by 4.8%.
+Broadly, School Discipline Committee staff have defined two key areas of work. First, they
+need more support on students’ mental health, learning difficulties, smoking and drugs,
+and school violence. In addition, they have defined the following challenges faced by
+children at school: study difficulties and stress, girls’ transition to maturity, obesity, school
+Figure 19. Should any type of child protection be added to the programme? - School Discipline Committee
+45.0% 41.6% 40.7%
+40.0% 37.2%
+35.0% 31.9%
+30.0% 26.5%
+25.0%
+20.0%
+15.0%
+10.0%
+5.0%
+0.0%
+Mental health/ learning difficulties Smoking and drugs School violence Integration and
+aggressive action promotion of
+understanding and
+tolerance
+infrastructure, and gender equality.
+Girls’ transition to maturity is a critical issue as girls and boys need to learn about the
+changes that happen physically and emotionally, and how to handle them. Such awareness-
+raising is best target at grade 7 or 8, because those in grade 5 and 6 are still relatively young.
+48
+In several schools, committee members highlighted the need for more support, including
+additional trained social workers, more training sessions, more awareness sessions, and
+more materials to meet emerging challenges.
+Figure 20. Are any other challenges faced by the children?
+40.0% 36.3%
+35.0%
+30.0% 27.4% 27.4%
+23.9%
+25.0%
+20.0%
+15.0% 12.4%
+10.6%
+10.0%
+5.0%
+0.0%
+Study difficulties Girls adulthood Obesity and School infrastructure Gender equality Road and
+undernutrition (play area, transportation to
+bathrooms) schools
+10-4 School principals’ priorities
+School principals indicated that they need support to deal with smoking, mental health,
+girls’ transition to maturity, and study pressures. School principals have defined key
+challenges faced by students, such as girls’ transition to maturity, study difficulties, gender
+equality, obesity, and school infrastructure.
+Figure 21. Should any type of child protection be added to the programme? - school principals
+35.0
+30.0
+30.0
+25.0
+20.0
+20.0
+15.0
+10.0 10.0
+10.0
+5.0
+0.0
+Smoking Mental health/ aggressive Cyber bullying Suicide and parental
+action awareness
+49
+10-5 Parents’ priorities
+The key school challenges raised by parents are study difficulties, girls’ transition to
+maturity, school violence, and obesity. They also requested support in addressing mental
+health, learning difficulties, smoking, and violence. Discussions with the SCMC
+representative highlighted the need for smoking, drugs, and addiction centres, where
+secondary and territory support can be provided. Families need to have addiction cases
+diagnosed and medical support provided so that addicted students can be properly
+supported.
+Figure 22. Should any type of child protection be added to the programme? - parents
+50.0%
+41.6% 40.7%
+40.0% 37.2%
+31.9%
+30.0% 26.5%
+20.0%
+10.0%
+0.0%
+Mental Learning difficulities Smoking School violence Integration and
+health/aggressive promotion of
+action understanding and
+tolerance
+As regards the key child-protection aspects parents feel should be added to the programme,
+they defined the following priorities: students’ mental health, learning diffculties, smoking
+and drugs, school violence, integration, and tolerance.
+9-5 External factors that drive bullying
+Finally, as bullying has both internal and external drivers, the questionnaire asked duty-
+bearers about factors that drive school bullying. School Discipline Committee members
+believe that YouTube and social media drive bullying more than peer behaviour, TV, and
+movies.
+Figure 23. Are any other challenge faced by the children? - parents
+50.0%
+40.0% 36.3%
+27.4% 27.4%
+30.0% 23.9%
+20.0%
+12.4%
+10.6%
+10.0%
+0.0%
+Study difficulties Girls adulthood Obesity and School Gender equality Road and
+undernutrition infrastructure transportation to
+(play area, schools
+bathrooms)
+50
+Figure 24. In your experience, what factors drive bullying more?
+100.0
+80.0
+60.0
+37.1
+40.0
+21.0 22.6
+20.0
+1.6
+0.0
+Media, movies and TV YouTube and social Peer behavior Teachers behavior
+media
+Parents singled out the behaviour of peers and classmates, YouTube, social media, movies,
+and TV as major factors. They admitted that family members’ behaviour could be a driver
+of bullying, as could the behaviour of other relatives and teachers.
+Figure 25. In your experience, what factors drive bullying more? - parents
+50.0% 44.2%
+40.7%
+40.0%
+31.9%
+30.1%
+30.0% 25.7%
+19.5% 18.6%
+20.0%
+10.0%
+0.0%
+Behavior of YouTube and Media, Family Family Teachers The behavior
+schoolmates social media movies and TV members members behavior of relatives
+behavior behavior toward
+toward the toward family children
+child workers
+YouTube, Facebook, and Google have child protection polices, but these do not appear to be
+sufficient. Furthermore, new platforms, such as TikTok and snapshot, regulate child protection
+issues very poorly. Similarly, online advertisements that appear between games are poorly
+regulated. The programme could cooperate with international stakeholders, such as the
+International Communication Union, and the UAE Ministry of Communication and Information
+Technology to strengthen the relevant online child protection policies.
+In addition, UNICEF needs to address the effects that artificial intelligence has on child protection
+and on children’s mental and psychological health, and come up with a guideline in response.
+Governments and parents could use or limit AI applications according to that guideline.
+11. Lessons Learnt and Best Practices
+51
+11-1 Lessons learnt
+The programme has offered learning experiences that could support future programming:
+▪ Better coordination between UNICEF, the SCMC, and government stakeholders at all
+levels would help to better achieve anti-bullying goals. As several government entities at
+national level and Emirate level work on child protection inside and outside schools, these
+efforts need to be mapped and coordinated to help citizens benefit more from the
+services. Coordination needs to be well maintained between the SCMC, the Child
+Protection Unit at the MOE, the Ministry of Community Development, the Child
+Protection Committee and Centre at the Ministry of the Interior, the Abu Dhabi Early
+Childhood Authority, the Family Care Authority – Abu Dhabi, the Nedaa service
+established to find missing children, the Child Safety Department of the Supreme Council
+for Family Affairs-Sharjah, the Ministry of Health and Prevention, the Endowment and
+Minors’ Trust Foundation in Dubai, the Child Safety Department in Sharjah, the Dubai
+Early Childhood Development Centre, the National Child Care Centre Dubai, the child
+protection hotline, and the Social Care and Minors’ Affairs Foundation.
+▪ A clear and comprehensive programme document with the programme’s intended results,
+components, activities, timeline, key roles and responsibilities, and a monitoring
+framework to support the programme learning process would facilitate performance
+tracking. A theory of programme change with identified assumptions, risks, and
+bottlenecks could facilitate the attainment of the planned results. There is no programme
+monitoring and evaluation plan with tailored data collection activities for learning and
+monitoring.
+▪ Since the MOE took over the programme’s implementation, there has been little evidence
+of data collection and programme performance monitoring, with the exception of schools’
+self-monitoring data.
+11-2 Best practices
+▪ The programme is based on international best practices and successful models. Prior to
+its implementation, more than 15 international dedicated anti-bullying programmes were
+analysed. Three well-tested programmes in Australia, Finland (KiVa) and the United States
+(Olweus Bullying Prevention Programme) were presented prior to implementation.
+Experts from the three programmes shared their school-based models to combat bullying,
+educational material, lessons learnt, and evidence of the effectiveness of these models in
+their respective countries.
+▪ Programme ownership: the programme achieved a high level of programme ownership
+by schools through engagement, resourcing, and the empowerment of schools to take a
+lead in the programme. The training of trainers gave schools the impetus to sustain the
+programme’s interventions. Most of the staff trained in the Training of Trainers system
+were school principals and experienced social workers. The trained staff enabled schools
+52
+to be a key sustainability actor. Each year, the trained staff conduct refresher training and
+awareness sessions at their school for other staff, who raise students’ and parents’
+awareness of anti-bullying.
+▪ Reward system at school level: The Anti-bullying Award is a very important tool in
+identifying and rewarding the best performing staff, students, and parents. Schools
+present Anti-bullying Awards to students who change their behaviour to a positive model.
+11-3 Success stories
+The evaluator documented three schools that had been exceptionally successful in implementing
+the programme. These schools are in Abu Dhabi:
+a) School Hamdan Bin Zayed School: the School Discipline Committee is comprehensively
+organised. In addition to social workers, they have added music and theatre teachers,
+sports teachers, and other types of teachers. The school formed a students’ support group
+composed of senior students, who observe and support younger students’ behaviours.
+The school invested heavily in delivering awareness sessions in a child-friendly way
+through drawings and videos. The school has a strong, diversified team.
+b) Al Rawafed private school: this school has fully documented all programme activities. It
+has applied all the programme’s processes on an annual basis. The school principal has
+been very engaged in the process.
+c) Al Shawaekh School for Girls: this school has collected data and analysed identified cases
+of bullying.
+12. Conclusions
+The conclusions presented below are derived from the findings and are associated with the
+programme’s objectives of creating a school-wide approach, fostering a safe school
+environment, and preventing school violence and bullying.
+▪ The programme is particularly relevant to the UAE SCMC 2017–2021 Strategy, and
+relevant to the MOE strategy.
+▪ The programme has been found to be relevant to the Convention on the Rights of the
+Child. More specifically, when it comes to its principles of non-discrimination, the
+programme has effectively worked to eliminate all types of discrimination. Children’s
+views and opinions have been prioritised at all the programme’s stages.
+▪ The programme was devised on the basis of sound evidence, including the use of pre- and
+post-assessments. The programme has also been influenced by global best practices.
+▪ The programme’s concept contributed to the attainment of the intended results and
+outcomes with relevant interventions, including staff training, training materials, and
+anti-bullying guides in Arabic and English.
+53
+▪ The programme needs a programme document summarising and defining the logical
+framework, theory of change, outcomes, activities, timeline, and monitoring plan.
+▪ The programme is in line with the human rights-based approach from the perspectives of
+participation, accountability, non-discrimination, equality, empowerment, and legality.
+▪ The programme is aligned with relevant school policies and the school code of conduct.
+The programme served to bring about social behavioural changes. It supported the
+operationalisation of the anti-bullying and anti-violence mechanism in pilot schools.
+▪ However, the programme did not offer a case management structure similar to that of
+the school code of conduct. Even so, schools used the programme manuals, training
+materials, and pre- and post-knowledge questionnaire.
+▪ The programme made progress toward its planned objectives of creating a safe school
+environment and preventing school violence and bullying. One of the programme’s
+milestones was to create evidence-based anti-bullying manuals that draw on global best
+practices. These were created, distributed and used for training purposes. The results
+from students’ questionnaires have shown a significant decrease in bullying rates in the
+pilot schools in comparison to the control group.
+▪ The bullying rates have decreased, as documented by the comparison between control
+schools and intervention schools. For example, students’ likelihood of being victimised is
+significantly lower among the interventions group.
+▪ The programme had a positive impact on the school environment in each of the pilot
+schools to varying degrees and offered the whole school community a different level of
+understanding in relation to the prevention of school violence and bullying. When it
+comes to equity, the programme reached out to the most vulnerable children, and the
+evaluation found that school staff and management systemically assess the students’
+situation and offer support. Schools have tailored programmes to students with
+disabilities.
+▪ The programme fostered strong programme ownership by running the training of trainers
+among national counterparts as a programme tool. TOT gave schools the lead, as most of
+those trained in the TOT scheme were school principals and experienced social workers.
+TOT allowed schools to be a key implementation mechanism. The evaluation concludes
+that the programme is sustainable legally, institutionally, with a financial sustainability
+component depending on the evolving country context.
+13. Recommendations
+54
+The recommendations below are based on findings, conclusions and lessons learnt from this
+evaluation. The recommendations have also been guided by good practices identified during the
+evaluation stakeholders’ interviews, school meetings, and data analysis.
+The recommendations focus on the process of institutionalising and scaling up the programme
+nationally, and on actions that need to be taken to ensure the high-quality and sustainable
+implementation of the programme in the future.
+13-1 Strengthen the service reponse
+For the government to ensure the successful scale-up of the programme to national level, it
+needs to consider strengthening the service response as detailed below.
+▪ Review and support the legal and policy framework. Investment in policy advocacy and
+technical support will lead to a strong legal and regulatory framework for child protection
+and the associated systems.
+▪ Collaboration and partnerships. At national level, this includes partnerships between the
+education and other sectoral ministries, civil society organisations, academic institutions,
+professional associations, and the media.
+▪ Assessment of reporting by schools in relation to the Wadeema Law. This reporting should
+expand types of abuse and vulnerabilities.
+▪ Evidence-based approaches, informed by accurate and comprehensive data and
+systematic monitoring of the results achieved and impacts made.46, 47
+▪ Incentives to encourage schools to report data on child abuse to the MOE.
+▪ A safe reporting channel that allows students to report staff abuse.
+13-2 Support pilot schools in continuing to adopt programme interventions
+▪ UNICEF, the SCMC and the MOE should devise a plan to ensure continuity in the support
+provided to pilot schools to implement the programme, particularly those pilot schools
+that are committed to strengthening their capacities to implement the programme
+effectively. During refresher training, additional copies of the manual and the relevant
+training materials should be distributed. The pilot schools should also be supported in
+their access to the National Anti-bullying Award.
+▪ They also need to recognise and reward pilot schools’ efforts and contributions to the
+programme from 2014 to the present, specifically school principals, students, School
+Discipline Committee members, and parents.
+13-3 Improve the programme manuals
+UNICEF and the SCMC should have an expert group review the programme manuals with a view
+to adding more modules to meet emerging needs and localise the manuals’ content. This will
+consolidate understanding among school staff. Specifically:
+46 UNICEF, Child Protection System Strengthening, September 2021.
+47 UNESCO, Behind the numbers: Ending school violence and bullying.
+55
+▪ add more examples and situations from school life so that school staff can easily
+investigate and verify cases. In addition, the terminology needs to be revisited and
+adapted to the local context;
+▪ directly and clearly integrate CRC principles and rights protected by national regulations
+into the training materials and awareness sessions. This will help children to learn their
+rights.
+Mainstream gender equality in all the programme components – define gender
+challenges at the planning phase, set gender-based outcomes, and devise the relevant
+interventions. There should be monitoring to gauge to what extent these interventions
+have contributed to specific gender-based outcomes. In addition, the gender
+transformative approach can offer options that will encourage girls’ leadership.
+13-4 Update the anti-bullying programme materials
+It is recommended that the anti-bullying materials be updated to ensure the diversity
+and localisation of the content. This can be done by adding more modules to meet
+emerging needs defined by students participing in this study and their parents, and to
+ensure the localisation of the content accommodates cross-Emirate cultural differences
+and diversity.
+▪ Adopt up-to-date and child-friendly training materials. These materials can be drawn up
+by children themselves in a competition, or by experts, but then tested and evaluated by
+children. These materials might be short videos, logos, and online exercises.
+13-5 Develop a results framework for the programme
+▪ UNICEF should take the lead in working with national stakeholders to develop a
+programme for results, with clear and quantified targets. For instance, the programme
+document should clearly identify the programme components, detailed activities,
+timeline, key roles and responsibilities.
+▪ The programme needs to document theory of change and identify assumptions, risks, and
+bottlenecks that may affect the achievement of planned results. It should define
+strategies to mitigate the bottlenecks identified.
+▪ The programme needs to develop a results-based monitoring and evaluation framework.
+The programme lacks a regular reporting system for activities implemented at school level.
+Schools do not regularly report their data to the MOE. Likewise, the programme needs to
+strengthen regular data collection for learning and monitoring.
+▪ Additional support should be provided to the MOE to develop a universal methodology
+that can be used to calculate bullying rates at all education cycles/stages. Support should
+be also provided to the UAE national statistics office to calculate the national prevalence
+of bullying rates per 1,000 students as per the intranational statistical standard.
+13-6 Accelerate the programme’s implementation
+▪ Stakholders should consider a shorter programme timeframe to regularly capture
+changes in the field.
+56
+▪ Shorter projects can be financed more easily than a very long programme. The
+programme can create sub-projects with different stakeholders. This will lead to the
+diversity of stakeholders and partners. Stakeholder diversificaiton would be beneficial for
+programming and financing.
+▪ On the other hand, this type of short project needs an agile repsonse from the
+government. Otherwise, it will be challenging to achieve the programme’s intended goals.
+13-7 Expand the scope of the programme to deal with the topics mentioned in the school code of conduct,
+and integrate the beneficiaries’ priorities
+The MOE and the Emirates School Establishment should take the lead in the programme scale-up
+phase, taking into account the considerations mentioned below.
+▪ As schools already have an active child policy as part of the code of conduct, creating a
+parallel school structure dedicated to bullying may not be the best option. Therefore, use
+of the current code-of-conduct policy is recommended.
+▪ However, the code of conduct needs to be audited from a child-protection prespective
+and incorporate training and social-change materials. The process should include, but not
+be limited to, increasing children’s knowledge of their rights and providing information
+about the support institution.
+▪ The current school code of conduct allows students to complain to social workers.
+Students perceive them as teachers. There is a parellel online system linked to the
+education portal. The evaluation could not test it to see if it offers enough privacy. Usually,
+students do not want anyone to know that they have complained about teachers. The
+MOE needs to create a pathway for detecting and managing cases that keeps children’s
+identities anonymous.
+▪ Students tend to have a fear of being known or attacked if they complain about school
+staff. Whenever possible, the child protection unit needs to create a trusted pathway and
+find a means to keep students’ identities anonymous. They need to keep students’
+identity anonymous both during investigations and after decisions have been reached.
+This will foster trust, so students will be more open to talking about teacher and staff
+abuses. Otherwise, students will remain silent on them.
+▪ Some aggressive behaviour reported by students and parents, such as smoking and drugs,
+needs to be addressed, because addicted students/smokers may bully other students and
+provoke them into engaging in the same behaviour. Girls are susceptible to bullying as
+they transition to maturity. For example, they may be accused or bullied for being in love
+or in a relationship with someone else, or vice versa.
+13-8 Offer non-school support to regularly bullied students and aggressive bullies
+▪ The UAE already has three levels of service repsonse: primary, secondary and tertiary.
+This needs to be mainstreamed into the school system, especially for students who
+aggressively bully others for and regularly bullied students. The reporting channel from
+schools to the child protection unit needs to be tested and strengthened.
+57
+▪ Aggressive bullies and victims alike tend to have a certain degree of vulnerability.
+Additional advanced modules need to be created to support and enhance the life skills of
+regularly bullied students to increase their self-esteem. Another module or policy to deal
+with aggressive students involves identifing these students and having them provided
+with additional layers of support by a support team – their parents, teachers, and
+psychologists. In most cases, the most vulnerable students need referrals beyond schools,
+such as child protection authorities and community-based service providers, which are
+specialise in working with vulnerable children and their families.
+13-9 Develop a capacity-building programme for implementation partners
+An important way of keeping all stakeholders on the same track is to engage in strong
+programme-based capacity building for all stakeholders involved in implementation at the
+beginning in order to enhance their skills and transfer all programme experience to them.
+13-10 Position the SCMC as a third-party monitor
+Under the programme, it is recommended that the SCMC’s capacities be built up so that it can
+be positioned as a third-party monitor playing a cross-cutting research and monitoring role for
+several childhood issues, including bullying and child protection.
+13-11 Build the capabilities of social workers and school staff through a dedicated programme to plug the
+human-resources gaps among social protection specialists and social workers
+The MOE needs to consider plugging the child protection human-resources gap at schools by:
+▪ developing a one-year degree in child protection, to be taught as a professional degree
+or a joint programme with a higher-education institution;
+▪ creating a test and certification centre for social workers and child protection specialists;
+▪ conducting a study to project the number of social protection specialists needed in the
+next 30 years;
+▪ assessing the human-resources gap in school social workers and the capacity of existing
+social workers;
+▪ studying the attitudes and perceptions of social workers towards bullying issues, especially their
+views of media and the effects of social media on children.
+13-12 Strengthen the UNICEF’s role in the programme to maximise the impacts
+The current Implementation model has exposed limitations in systematic monitoring and
+learning. After UNICEF’s involvement in the design and first phase, the programme was managed
+by national stakeholders. UNICEF can play a role in strengthening the results-based management
+of the programme. Accordingly, national stakeholders and UNICEF should explore alternative
+modalities, where UNICEF has a greater role in the programme, as exemplified below.
+▪ They could create a special results-based child protection fund for relevant programmes
+to receive funding. One advantage of such a fund is that it will strengthen the results-
+based programming and improve accountability. This can be an effective tool in tying
+funding to the results achieved. This fund will allow UNICEF and relevant donors to
+cooperate with local stakeholders from the government, NGOs and the private sector
+58
+who provide support services at school level. These stakeholders can play a role in
+enhancing implementation, monitoring, and learning to maximise the impact.
+▪ They could devise a joint implementation model. This model would be used where two
+parties finance the programme jointly. They plan, implement, and monitor via a joint
+implementation unit. In this model, implementation takes place within the government
+structure. Each government implementer regularly reports to the joint unit. The unit
+would have the right to conduct mid-term assessments and third-party monitoring to
+ensure the quality of the programme.
+▪ They could adopt the contractual implementation model. In this model, two parties sign
+a contract defining all programme aspects, especially the roles of the signatories. The
+programme is managed via a programme steering committee, where all relevant
+stakeholders are engaged in the decision-making process. The programme would be
+implemented mostly by donor agencies, such as UNICEF.
+13-13 Support the scale-up
+To scale up the programme nationwide, the SCMC and MOE should consider taking the actions
+described below.
+▪ Assess stakeholders’ willingness and readiness to scale up the programme technically and
+financially.
+▪ Assess and plug the human-resources gaps in well-trained social workers and child
+protection specialists. The programme can invest in multi-year programmes to qualify
+Emirati graduates for such professions.
+▪ Review the programme materials so that they are adapted to the latest developments
+and reflect the views of schools, parents, students and principals.
+▪ Draw up a results-based programme with clear and time-bound objectives and targets.
+▪ Create a strong regular data collection process for monitoring and learning.
+▪ Conduct a scale-phase costing study. Carrying out a costing analysis or cost comparison
+for the programme was beyond the scope of this evaluation.
+59

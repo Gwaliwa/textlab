@@ -1,0 +1,575 @@
+Formative Evaluation of the Girls’ Access through Female 
+Teacher Education (GATE) Scholarship Programme 
+Afghanistan: 2015 – 2019 
+ 
+Final Report 
+July 2021 
+ 
+Dr Rosaria Kunda Marron 
+Education and Development Solutions 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+i 
+ 
+Contributors 
+This formative evaluation of the GATE Programme commissioned by UNICEF Afghanistan's Country Office was 
+conducted by Education and Development Solutions (EADS) with support from Assess, Transform and 
+Reach (ATR) Consulting. The lead evaluator was Dr Rosaria Kunda Marron, and she was supported by Dr 
+Pauline Lyseight-jones, and the EADS quality assurance team. 
+ 
+The purpose of this evaluation was to facilitate the mutually reinforcing purposes of both accountability 
+and learning for UNICEF and implementing partners, and the copyright for this report is held by UNICEF. 
+ 
+Acknowledgements 
+EADS would like to acknowledge the support of the team from UNICEF who supported and assisted in the 
+design and execution of the evaluation, particularly Simon Peter Aturia, Kadijah Bahram, Ivan Ssenkubuge, 
+Minaa Ryan and Stanley Gwavuya. EADS also thanks ATR Consulting in Afghanistan who provided 
+invaluable support throughout the entire process. Specifically, EADS thanks Mr. Fayaz Amiri (ATR 
+Consulting) for the overall coordination of the field work, and the entire team from ATR for their time and 
+support in collecting and analysing the data.  
+ 
+EADS also thanks the officials from the Afghanistan Ministry of Education,particularly officials from the 
+national Teacher Education Directotate and the participating Provincial and District Education 
+Directorates for their support and interest in the evaluation. EADS particularly thanks the participating 
+Teacher Training Colleges for their assistance in facilitating the evaluation at field level.  
+ 
+EADS also thanks all the students and graduates of the GATE Scholarship Programme, the principals in the 
+TTCs, the headteachers and teachers who are working with graduates of the GATE Programme, the School 
+Management Shuras who support the GATE Students and the pupils taught by the GATE Programme 
+graduates for their time and substantial input during the data collection for this evaluation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+Abbreviations and Acronyms 
+ALCS 
+Afghanistan Living Conditions Survey 
+ALC  
+Accelerated Learning Centre 
+ATR 
+ 
+Assess, Transform and Reach Consulting 
+ 
+BEGE 
+Basic Education and Gender Equality 
+CADE 
+Convention against Discrimination in Education 
+CBS 
+ 
+Community Based School 
+CEDAW            Convention on the Elimination of all forms of Discrimination against  
+ 
+ 
+Women 
+CFS 
+ 
+Child Friendly School 
+CPAP 
+ 
+Country Programme Action Plan 
+CRC 
+ 
+Convention on the Rights of the Child 
+EADS 
+ 
+Education and Development Solutions 
+EFA 
+ 
+Education for All 
+EQRA  
+Education Quality Reform in Afghanistan 
+GIZ 
+ 
+Gesellschaft für Internationale Zusammenarbeit 
+GPE 
+ 
+Global Partnership for Education 
+MDG 
+ 
+Millenium Development Goals 
+MoE 
+ 
+Ministry of Education 
+NESP 
+ 
+National Education Strategic Plan 
+NGO 
+ 
+Non-Governmental Organisation 
+SDG 
+ 
+Sustainable Development Goals 
+SMS 
+ 
+School Management Shuras 
+TED 
+ 
+Teacher Education Directorate 
+ToC 
+ 
+Theory of Change 
+ToR 
+ 
+Terms of Reference 
+TTC 
+ 
+Teacher Training College 
+UNGEI  
+United Nations Girls Education Initiative 
+WASH  
+Water, Sanitation and Hygiene 
+
+iii 
+ 
+EXECUTIVE SUMMARY 
+vii 
+1.0 INTRODUCTION 
+1 
+   1.1 Context: Gender in Education 
+1 
+   1.2 Girls Access through Teacher Education (GATE) Programme Overview 
+6 
+   1.3 Programme Alignment 
+11 
+   1.4 Formative Evaluation of the GATE Programme 
+14 
+   1.5 Structure of the Report 
+16 
+2.0 EVALUATION DESIGN 
+16 
+   2.1 Evaluation Questions 
+17 
+   2.2 Evaluation Methodology 
+19 
+   2.3 Data Analysis 
+27 
+   2.4 Limitations 
+28 
+   2.5 Ethical Issues 
+29 
+3.0 EVALUATION FINDINGS 
+31 
+   3.1 Relevance 
+31 
+   3.2 Coherence  
+37 
+   3.3 Efficiency 
+41 
+   3.4 Effectiveness 
+45 
+   3.5 Sustainability 
+56 
+4.0 CONCLUSIONS: RESPONDING TO EVALUATION PRIORITIES 
+59 
+   4.1 Relevance 
+59 
+   4.2 Coherence 
+60 
+   4.3 Efficiency 
+60 
+   4.4 Effectiveness 
+61 
+   4.5 Sustainability 
+62 
+   4.6 Integration of Gender, Human Rights, and Equity 
+63 
+5.0 LESSONS LEARNED 
+64 
+6.0 RECOMMENDATIONS 
+66 
+BIBLIOGRAPHY 
+70 
+APPENDICES 
+73 
+   Appendix 1: GATE Programme Draft Theory of Change (UNICEF Afghanistan, 2020) 
+73 
+   Appendix 2: Terms of Reference: (Request for Proposal), 9th April 2020 
+74 
+   Appendix 3: Evaluation Matrix 
+87 
+   Appendix 4: Data Collection Instruments 
+112 
+   Appendix 5: Evaluation Team 
+162 
+   Appendix 6: Evaluation Mission Schedule 
+164 
+   Appendix 7: UNICEF Research Ethics Approval Certificate 
+167 
+   Appendix 8: Proposed Reconstructed Components for the GATE Programme ToC 
+168 
+   Appendix 9: Key Informants - Meetings via Zoom 
+170 
+   Appendix 10: Documents Reviewed 
+171 
+   Appendix 11: Consent/Assent Forms 
+173 
+
+iv 
+ 
+   Appendix 12: Snap Survey Data 
+179 
+   Appendix 13: Stories of Transformation 
+199 
+ 
+ 
+ 
+FIGURES 
+Figure 1: Gender Parity Index (GPI) for student enrolment 
+3 
+Figure 2: Culturally Responsive Evaluation Framework  
+17 
+Figure 3: Schematic depiction of Theory of Change 
+32 
+Figure 4: Sources from where scholarship recipients first heard about the GATE Programme 
+45 
+Figure 5: Percentage distribution of contract types 
+47 
+Figure 6: Perceptions of scholarship recipients on an increase in number of girls in schools  
+52 
+Figure 7: Scholarship recipients' perceptions (in numbers) of lecturer support 
+185 
+Figure 8: Age range of mentors 
+189 
+Figure 9: Graduate teacher perceptions of how supportive headteachers are in their schools 
+197 
+ 
+GRAPHS 
+ 
+Graph 1: Trends of public teachers by gender (EMIS/MoE: 2018) 
+5 
+Graph 2: Female primary school teachers in Afghanistan  
+6 
+Graph 3: Student enrolment onto the GATE Programme between 2015 - 2020 
+8 
+Graph 4: Number of organisations supporting girls’ education in Afghanistan 
+39 
+Graph 5: Perceptions on how active PED and DED are in supporting the GATE Programme 
+42 
+Graph 6: Percentage of students enrolled during 2015 - 2019 
+46 
+Graph 7: Number of pre-service scholarship recipients between 2015 – 2019 
+47 
+Graph 8: Percentage graduates by type of school they are teaching in 
+48 
+Graph 9: Percentage of graduates for different durations before being retained on 
+government payroll after graduation 
+48 
+Graph 10: Percentage of scholarship recipients hoping to work in hard-to-reach areas after 
+graduation 
+49 
+Graph 11: Perceptions of scholarship recipients on increase in number of female teachers in 
+schools in their communities 
+50 
+Graph 12: Perceptions of scholarship recipients on increase in number of female teachers in 
+their communities by province 
+50 
+Graph 13: Community attitudes towards female participation in school activities outside the 
+classroom 
+55 
+Graph 14: Perceptions of scholarship recipients on whether females participate in activities 
+outside school 
+56 
+Graph 15: Percentage of scholarship recipients in different age ranges 
+180 
+Graph 16: Percentage of age distribution of scholarship recipients in seven provinces 
+180 
+Graph 17: Teaching experience of scholarship recipients prior to being awarded the GATE 
+scholarship 
+181 
+Graph 18: Scholarship recipients ranking of six scholarship support components 
+182 
+Graph 19: Number of recruited lecturers each year from 2015 – 2019 
+183 
+Graph 20: Number of male and female lecturers in seven provinces 
+183 
+
+v 
+ 
+Graph 21: Highest qualifications of lecturers (in numbers) in seven provinces 
+184 
+Graph 22: Scholarship recipients’ perceptions of lecturer support 
+184 
+Graph 1: Perceptions of gender responsiveness (in numbers) of teaching and learning 
+materials by province 
+186 
+Graph 24: Satisfaction with five aspects of pedagogy  
+186 
+Graph 25: Satisfaction with five aspects of inclusiveness/participation  
+187 
+Graph 26: Number of male and female mentors in each of the seven provinces  
+188 
+Graph 27: Number of students and mentors in each of the seven provinces 
+189 
+Graph 28: Highest qualifications of mentors by province 
+190 
+Graph 3: Perceptions of mentorship support on three aspects 
+191 
+Graph 30: Percentage of scholarship recipients and frequency of meeting with their mentors 
+191 
+Graph 31: Percentage of scholarship recipients visited by mentors after graduation 
+192 
+Graph 32: Percentage of lecturers who reported that they have/have not received training 
+as part of the GATE Programme 
+193 
+Graph 33: Number of students in GATE Programme classes observed 
+194 
+Graph 34: Adequate physical environment in classes observed  
+195 
+Graph 35: Female students and number of female toilets in each TTC observed 
+195 
+Graph 364: Graduate teacher perceptions about the quality of their relationships with other 
+teachers in their schools 
+198 
+ 
+ 
+ 
+TABLES 
+Table 1: Gross Enrolment Ratio (EMIS, 2018) 
+3 
+Table 2: Notable indicators for education (including primary and secondary)  
+4 
+Table 3: Outcome components of projects included in formative evaluation 
+8 
+Table 4: Focus of Questions in ToR 
+19 
+Table 5: GATE Evaluation Sampling Frame 
+20 
+Table 6: KII Respondents 
+22 
+Table 7: FGD Respondent groups 
+23 
+Table 8: Field Researchers 
+26 
+Table 9: Recommendation Priority, Timeframe and Accountability 
+69 
+Table 10: Number of direct beneficiaries of GATE Programme by province 
+179 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+ 
+Map of Afghanistan highlighting provinces with GATE Programme Beneficiaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+EXECUTIVE SUMMARY 
+Overview of the context 
+The right to education is recognised by the Government of Afghanistan in its constitution,1 and gender 
+has been identified as one of the main disparities particularly impacting the education sector (Ministry of 
+Education, 2019, p. 33). Gender inequality in Afghanistan’s education sector is further reflected in the 
+presence or absence of female teachers. The shortage of teachers—particularly female teachers—has 
+been identified as a major bottleneck for access, attendance and retention of girls in learning spaces. Rural 
+areas are most affected by the shortfall of female teachers with some provinces having less than 5%  of 
+teachers being female and half of the districts having no female teachers at all (UNICEF Afghanistan, 2014). 
+ 
+Overview of the intervention 
+UNICEF has been providing financial and technical support to the MoE’s Teacher Education Directorate 
+(TED) through the GATE Programme to complement to the government’s initiatives and to develop a 
+sustainable strategy for increasing female teachers in rural areas. Practically, the programme is 
+implemented by the TED at provincial and district levels (as primary duty bearers) and participating 
+Teacher Training Colleges (TTC) (as secondary duty bearers). It provides an opportunity for a two-year 
+scholarship on a teacher training programme based in a TTC for both pre-service and in-service female 
+teachers who have Grade 12 as their highest qualification to achieve a Grade 14 qualification, which is the 
+minimum requirement for teachers in Afghanistan.  
+ 
+Scholarship recipients are drawn from provinces with the lowest numbers and percentages of female 
+teachers and low enrolment rates for girls, and they are supported by mentors and lecturers who receive 
+training (as part of the programme) around gender responsive teaching and coaching skills (UNICEF 
+Afghanistan, 2014). The GATE Programme was initially implemented as a standalone initiative between 
+2014 - 2017, but was subsequently subsumed as part of an integrated programme (UNICEF Afghanistan, 
+2020, p. 6) comprising two interventions as discussed in section 1.2.1.  
+ 
+Evaluation purpose, objectives and intended audience 
+This evaluation sought to respond to two overarching dimensions (UNICEF Afghanistan, 2020, p. 5): 
+• 
+Assess progress of the programme in relation to increasing female teacher presence in hard to 
+reach areas, girls participation in learning spaces and retention; and 
+• 
+Identify gaps along the results chain and recommend remedies to improve and inform scale up 
+of the programme 
+As a formative evaluation, this assignment looked at the GATE programme to explore possibilities of 
+improving and/or strengthening it using the Organisation for Economic Co-operation and Development 
+(OECD) Development Assistance Committee (DAC) criteria including relevance, coherence, effectiveness, 
+efficiency and sustainability. The evaluation also provided an independent platform for stakeholders to 
+ 
+1 Articles 17, 43 and 44 
+
+viii 
+ 
+contribute towards programme design and implementation through their experiences, thoughts and 
+recommendations.  
+ 
+Findings from the evaluation will be used for accountability, programme improvement and learning. 
+Primary users are UNICEF and the MoE who will use the findings to assess and report on the programme’s 
+performance and results that have been achieved so far. The findings will also be used as a learning tool 
+by providing insight into  programme achievements and lessons learned that are based on evidence to 
+inform strategic decision making.  Secondary users will include other key stakeholders and implementing 
+partners including the Local Education Group (LEG).  
+ 
+Evaluation Methodology 
+The evaluation questions have been addressed through both quantitative and qualitative research, 
+complemented by an analysis of key programme documents as secondary data sources. This approach 
+consolidates the findings from qualitative and quantitative evidence gathered from multiple sources to 
+cover the breadth and depth of the evaluation in a comprehensive and rigorous manner.  
+The evaluation team comprised 2 international consultants and a national consultant based within a local 
+research company to help administer the data collection tools. Data collection was organised in a tiered 
+approach to mitigate logistical challenges.  
+ 
+In total, 577 people were interviewed either individually or in groups during the inception and data 
+collection phases. This included 346 surveys, 226 key informant interviews, 27 focus group discussions 
+and several meetings via zoom. As suggested in the ToR, the seven participating provinces were 
+purposively selected by UNICEF—Badghis, Helmand, Khost, Laghman, Nangarhar, Paktia, and Wardak—
+on the basis of them having high numbers of GATE Programme active students and graduates.  
+ 
+Key findings  
+Programme Processes 
+• 
+Value and demand for the GATE Programme: There appears to be significant demand for the 
+scholarship programme and the need to provide scholarships to females for teacher training may 
+be substantively greater than the current demand. The findings of this evaluation attest to the 
+motivation by females to study to become teachers as well as the programme’s contribution to 
+an increased number of qualified female teachers. The high programme retention rates, 
+graduation rates and the low drop out rates all speak to this. 
+• 
+Adequacy and relevance of the GATE Programme components:The programme has very 
+practical strategies and components which encourage potential students to enrol onto the 
+programme and also those already on the programme to continue and complete their training. 
+Overall, the transport allowance was highlighted as the most important aspect of the programme 
+by all respondents because of the large distances that students often need to travel to access the 
+TTC’s and presumably the expenses incurred as a result. 
+ 
+
+ix 
+ 
+• 
+The existence of an enabling environment for programme graduates to teach: The graduates 
+who are teaching are working in enabling and supportive environments, and have no major 
+bottlenecks affecting their work as teachers.  
+Programme Performance 
+• 
+Programme targets: The programme exceeded its targets in terms of numbers of scholarship 
+recipients, qualified lecturers to teach the students, and mentors to support the scholarship 
+recipients. 
+• 
+Short Term Outcome: The qualitative evidence suggests that the programme has increased the 
+number of female teachers in hard-to-reach areas. During the period under evaluation 1,105 
+(68%) of the scholarship recipients had graduated from the programme including 366 (33%) pre-
+service students who had been recruited as teachers after graduation. 
+• 
+Linking two projects into one programme has been strategic: The evaluation noted that the GATE 
+Programme was initially implemented as a standalone initiative (UNICEF Afghanistan, 2020, p. 6). 
+It later combined two projects (Refer to Section 1.2) to strategically focus on girls education within 
+Outcome 5 of UNICEF’s Country Programme Action Plan, 2015 – 2021. This strategic shift re-
+aligned the GATE Programme within UNICEF ACO’s overall education strategy by re-framing it as 
+an exit strategy for the Community Based Education (CBE) Programme that would catapult girls 
+and female teachers into the formal education system in Afghanistan. It also aligned the 
+programme with the intent of the Girls’ Education Policy to ‘co-ordinate interventions, avoid 
+duplication and position girls’ education as a priority in the planning and strategic actions to 
+contribute to the NESP III objectives’ (UNICEF Afghanistan, 2020, p. 8). 
+• 
+Collaboration and coordination with stakeholders is an effective strategy for the programme: 
+UNICEF’s partnership approach to programming with the MoE provides a good foundation for 
+programme implementation— and potentially scale up —which could be leveraged further to 
+respond to the need for more females to be trained as teachers. The findings from this evaluation 
+also show that the various GATE Programme interventions are complementary and harmonized 
+with those of other relevant stakeholders or donor agencies, other UN agencies, NGOs, and 
+government education departments at central, provincial and district levels.  
+• 
+Significance of community support for the programme: The evaluation found that community 
+members and leaders are supportive of the GATE Programme in spite of the absence of deliberate 
+engagement component, and that they play an important role in their communities to promote 
+awareness of the importance of education and to support girls’ education and female teacher 
+training. With complex issues including religious and cultural dynamics, communication and 
+engagement with communities is an important approach to ensure that the programme remains 
+relevant and adaptable.  
+Gaps along the results chain 
+• 
+Female graduates are not supported or guaranteed recruitment on completion of training: The 
+GATE Programme does not specifically support the recruitment of programme graduates as 
+teachers in any way despite the intent in the ToC to do so through graduate networks.  
+• 
+None of the mentors on the programme have been trained: None of the mentors on the 
+programme have been trained.  
+• 
+Feedback mechanisms need stregthening: The evaluation did not find any evidence of the 
+involvement of the programme beneficiaries in providing feedback to the programme. 
+
+x 
+ 
+• 
+Programme monitoring can be strengthened: Despite UNICEF’s exeptional outreach and 
+presence in the targeted provinces through the zonal offices, the evaluation did not come across 
+an M&E strategy for the programme. Where available, the information/data were fragmented, 
+out of date or incomplete.  
+Existing Theory of Change 
+• 
+The Draft ToC is moderately descriptive, and portrays a reasonable, defensible, and sequential 
+order from implementation strategies or activities and on to outputs, outcomes, and impacts. It 
+also includes clear indicators at output level and outcome level. 
+• 
+Applicable assumptions and risks at the various stages are not outlined clearly and it is difficult to 
+link relevant considerations for outputs, outcomes and impact or to monitor, track and/or act 
+upon potential and emerging issues that may affect the achievement of outputs, outcomes and 
+impact.  
+ 
+Extent to which cross-cutting issues (gender, equity, human rights) are integrated into the programme 
+• 
+As a gender in education initiative, the GATE Programme intentionally focused on female students 
+as the scholarship recipients. 
+• 
+In terms of equity and the realisation of human rights, the GATE Programme was designed to 
+target and impact areas with low attendance and participation rates for girls and very low 
+numbers of female teachers. 
+Conclusion 
+The programme is effective in training female teachers and increasing the number of female teachers in 
+Afghanistan, which in turn contributes  to an increase in the number of girls in learning spaces. The GATE 
+programme has established itself as a key intervention to address some of the needs and priorities of 
+Afghanistan’s education sector. Through the scholarship components, female students are provided with 
+the opportunity to train as teachers and they are supported to do so. Programme beneficiaries also 
+indicated that the number of girls’ in schools has been increasing though progress is minimal. The 
+evaluation concluded that the GATE Programme has potential to increase the number of female teachers 
+in hard-to-reach areas.  
+Recommendations 
+Based on the results of this study, the evaluation provides several recommendations2 to strengthen the 
+quality of the GATE Programme. These are outlined below in order of proposed priority; 
+1. Reconstruct the (draft) Theory of Change to include specific assumptions and risks between the 
+strategic activities, outputs, outcome and impact, streamline the conceptualisation of the 
+programme, and make it more self-explanatory and predictive. 
+2. Revise, outline and clarify the targeting in the recruitment focus between pre-service and in-
+service teacher training scholarship recipients: The GATE Programme aims to recruit more 
+female teachers and also to upskill female teachers who do not have the G 14 qualification. The 
+ToC does not clearly spell out the two intentions and does not appear to be deliberate in recruiting 
+specific numbers of pre-service and in-service teachers. 
+ 
+2 Refer to Table 12 which outlines all the recommendation priorities and proposed timeframes for action

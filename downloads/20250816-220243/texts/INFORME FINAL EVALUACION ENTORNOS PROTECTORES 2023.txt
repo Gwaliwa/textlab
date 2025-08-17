@@ -1,0 +1,492 @@
+0 
+ 
+ 
+ 
+
+ 
+1 
+ 
+ 
+Tabla de contenido 
+Tabla de contenido 
+1 
+LISTA DE TABLAS, CUADROS Y FIGURAS 
+2 
+RELACIÓN DE ACRÓNIMOS 
+3 
+RESUMEN EJECUTIVO 
+4 
+1. ANTECEDENTES Y CONTEXTO DE LA EVALUACION. 
+8 
+2. OBJETO DE EVALUACIÓN 
+9 
+3. PROPOSITO DE LA EVALUACION 
+12 
+4. OBJETIVOS DE LA EVALUACION 
+14 
+5. ALCANCES DE LA EVALUACION: EVALUABILIDAD Y LIMITANTES DE LA EVALUACIÓN
+ 
+14 
+6.  MARCO DE LA EVALUACIÓN 
+15 
+7. METODOLOGÍA DE LA EVALUACIÓN 
+16 
+7.1 DISEÑO METODOLOGICO 
+17 
+7.2 CONSIDERACIONES ÉTICAS 
+18 
+8. HALLAZGOS DE LA EVALUACIÓN 
+19 
+8.1. HALLAZGOS POR CRITERIOS DE EVALUACIÓN 
+19 
+1. CRITERIO DE PERTINENCIA 
+19 
+2. CRITERIO DE EFECTIVIDAD 
+24 
+3. CRITERIO DE SOSTENIBILIDAD 
+44 
+8.2. PRESENTACIÓN DEL ESTUDIO DE CASO: LAS AULAS MUSEO COMO CASO EJEMPLAR 
+DEL PROYECTO. 
+48 
+9. TEORÍA DE CAMBIO 
+52 
+10. CONCLUSIONES 
+55 
+11. LECCIONES APRENDIDAS 
+58 
+12. RECOMENDACIONES 
+59 
+13 ANEXOS DE LA EVALUACION 
+61 
+ 
+
+ 
+2 
+ 
+ 
+LISTA DE TABLAS, CUADROS Y FIGURAS 
+Figuras 
+• 
+Figura 1. Teoría de cambio reconstruida a partir de la documentación formal del proyecto 
+“Fortalecimiento de entornos protectores para niños, niñas y adolescentes con enfoque de 
+derechos y equidad en la Habana Vieja, Cuba” 
+• 
+Figura 2. Elementos que favorecen y obstaculizan el desarrollo de las Aulas Museo 
+• 
+Figura 3. Elementos que permiten que las aulas museo se constituyan como entornos 
+protectores 
+• 
+Figura 4. Esquema de la teoría de cambio ajustada para el proyecto “Fortalecimiento de 
+entornos protectores para niños, niñas y adolescentes con enfoque de derechos y equidad en 
+la Habana Vieja, Cuba”. 
+Tablas 
+• 
+Tabla 1. Población meta del Proyecto entre 2017 y 2021 
+• 
+Tabla 2. Actividades en que participan NNA en situación de discapacidad o desventaja social 
+por años  
+• 
+Tabla 3. Distribución Total de Talleres, y Talleres intergeneracionales, por años entre 2017 y 
+2022 
+• 
+Tabla 4. Contenidos con enfoque de género impartidos por años  
+ 
+Gráficos  
+• 
+Gráfico 1. Desagregación de Matrículas a Talleres de A+ por sexo y grupos etarios 
+• 
+Gráfico 2. Porcentaje de estudiantes matriculados por cursos según color de la piel 
+• 
+Gráfico 3. Porcentaje de estudiantes matriculados por cursos según sexo 
+• 
+Gráfico 4. Participación de NNA en diversas iniciativas  
+• 
+Gráfico 5. Convocatorias según tipo de actividad que incluye NNA de fuera del territorio 
+Habana Vieja  
+• 
+Gráfico 6. Talleres intergeneracionales por años  
+• 
+Gráfico 7. Calidad del entorno físico  
+• 
+Gráfico 8. Aportes de la participación en las actividades del Proyecto 
+• 
+Gráfico 9. Efectos de participar en la vida personal 
+• 
+Gráfico 10 Consideraciones de adolescentes sobre el espacio A+ 
+• 
+Gráfico 11. Habilidades y beneficios identificados por jóvenes que participaron de las acciones 
+del Proyecto 
+• 
+Gráfico 12. Talleristas y voluntarios por sexo y Talleristas y voluntarios por nivel de 
+escolaridad 
+• 
+Gráfico 13. Acciones señaladas por talleristas y voluntarios ante detección de determinadas 
+situaciones.  
+• 
+Gráfico 14. Potencial de replicabilidad de la experiencia 
+• 
+Gráfico 15. Cantidad de Aulas museo y estudiantes según años  
+ 
+ 
+ 
+
+ 
+3 
+ 
+ 
+RELACIÓN DE ACRÓNIMOS 
+MINCEX – Ministerio de Comercio Exterior y la Inversión Extranjera de Cuba 
+NN – Niños y niñas   
+NNA – Niñas, niños y adolescentes 
+OECD – Organización para la cooperación económica y el desarrollo  
+OHC – Oficina del Historiador de la Ciudad 
+SPSS – Statistical Package for the Social Sciences (Paquete estadístico para las ciencias sociales) 
+TdC - Teoría de cambio  
+TdR – Términos de referencia  
+UNICEF – Fondo de las Naciones Unidas para la Infancia  
+UNESCO – Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura  
+VIH – Virus de Inmunodeficiencia Humana 
+ 
+ 
+ 
+ 
+
+ 
+4 
+ 
+ 
+RESUMEN EJECUTIVO 
+Esta evaluación (formativa) se implementó a partir de una consultoría externa, conducida por dos 
+especialistas, una de la Universidad de La Habana y otra del Instituto de Filosofía de Cuba. Se realizó entre 
+los meses de julio a diciembre de 2022, con el propósito de obtener un juicio externo acerca de la 
+conveniencia y fortalecimiento de entornos protectores para la infancia, a partir de la ejecución del proyecto 
+en curso “Fortalecimiento de entornos protectores para niños, niñas y adolescentes con enfoque de derechos 
+y equidad en la Habana Vieja, Cuba”. Dicho proyecto forma parte del Programa Social Infantil que incluye 
+a la adolescencia, y que desarrolla la Oficina del Historiador de la Ciudad de La Habana. Dicho proyecto, 
+centra su atención en la necesidad de estos grupos, de disponer de programas específicos que respondan a 
+sus características, intereses y demandas particulares. UNICEF y la Oficina del Historiador han trabajado 
+conjuntamente durante una década en la promoción de los derechos y la participación de niños, niñas y 
+adolescentes en este contexto patrimonial y de promoción cultural. UNICEF ha aportado a este desarrollo 
+tanto asesoría técnica como financiera. 
+Dio respuesta a los siguientes objetivos específicos: 1) Determinar el nivel de pertinencia, efectividad y 
+sostenibilidad del proyecto conjunto OHC-UNICEF Cuba 2) Generar evidencia confiable sobre el efecto 
+real de las iniciativas y actividades del proyecto en la participación y empoderamiento de niños, niñas y 
+adolescentes 3) Presentar un estudio de caso del proyecto que actualmente se implementa en el municipio 
+de la Habana Vieja, que contenga un análisis causal de buenas prácticas y fallos de funcionamiento, de cara 
+a su continuidad y su replicabilidad en otros territorios 4) Elaborar una teoría de cambio basada en supuestos 
+y riesgos para la creación y fortalecimiento de entornos protectores para la infancia y la adolescencia en 
+Cuba que contribuya al logro de resultados del componente programático de protección. 
+La evaluación cubre el período de implementación comprendido entre noviembre de 2017 y noviembre de 
+2022, y abarcó además del Centro a+, el resto de los espacios donde se implementa el Programa social 
+infantil y adolescente de la OHC.  La metodología se basó en un enfoque triangular o mixto, a partir de 
+técnicas como: análisis documental (542 documentos), encuestas (40 cuestionarios a especialistas y 
+voluntarios vinculados a la experiencia y 10 a jóvenes previamente vinculados a la experiencia de los talleres 
+en A+ durante su adolescencia), entrevistas semi estructuradas (10 entrevistas entre expertos y principales 
+directivos y especialistas vinculados a la experiencia), y observación no participante (21 observaciones). 
+Se llevó a cabo un estudio de caso, a partir de un taller diseñado desde la metodología de sistematización 
+de experiencias, con 13 especialistas de las Aulas Museo, complementado con datos obtenidos a partir de 
+los informantes clave y la revisión documental.  
+ 
+Se arribó entre otras a las siguientes conclusiones principales:   
+Con relación al criterio de pertinencia: 1) El proyecto se encuentra alineado a la programación del 
+proyecto OHC- Unicef. 1.1) Los objetivos del proyecto están coherencia con las políticas nacionales que 
+defienden el carácter prioritario de la infancia y la adolescencia como sujetos de derecho y parte de los 
+procesos de protección social garantizados por el Estado cubano. 1.2) La propuesta toma en consideración 
+elementos del contexto y las necesidades de NNA del territorio de la Habana Vieja, ajusta sus estrategias de 
+intervención, y el cronograma de actividades, desde donde se justifica, orienta y organiza su ejecución.1.3) 
+Existe correspondencia entre el conjunto de acciones diseñadas y luego implementadas para el alcance de 
+los resultados esperados a corto, mediano y largo plazo. El proyecto adolece de limitada coherencia entre 
+objetivos, resultados, indicadores y fuentes de verificación. Existe correspondencia entre el marco 
+conceptual del proyecto, las actividades y resultados esperados. 1.4) El marco del proyecto incorpora la 
+
+ 
+5 
+ 
+ 
+transversalización de los ejes de equidad, vulnerabilidad, derecho y medio ambiente. 1.5) Desde el diseño 
+explicita el monitoreo en términos de retroalimentación al conjunto de las actividades. 
+Criterio de efectividad: 
+1) El proyecto ha sido inclusivo teniendo en cuenta variables como sexo, territorio y color de la piel, pero 
+parcialmente inclusivo con relación a los grupos en situación de discapacidad o en desventaja social. 1.1) 
+El diseño parte de una perspectiva universal, y realiza convocatorias abiertas a las que pueden presentarse 
+NNA de todos los territorios y provincias del país. Concretamente, los NNA del territorio durante el curso 
+escolar, y NNA fuera en periodo de verano. 1.2) Se promueve un enfoque intergeneracional, de integración 
+comunitaria, con dos aristas principales: actividades que vinculan a NNA con sus familiares, y amigos y 
+actividades que incentivan la independencia a partir del disfrute de espacios creados solo para ellos.  
+2) Las actividades observadas cumplen con todos los niveles de un entorno protector, desde el punto de 
+vista físico, emocional, del personal implicado, y de participación de NNA. 2.1) Existe un balance positivo 
+entre el antes y el después de implementadas las acciones del proyecto, y se reconoce la ganancia en términos 
+de nuevas habilidades y conocimientos. La mayoría de las instituciones donde se desarrollan las iniciativas 
+y se ofrecen los servicios del proyecto han sido acondicionadas y preparadas para su desarrollo, aunque 
+existen áreas de mejoras como la generalización de kits de primeros auxilios en caso de accidente 2.2) El 
+proyecto promueven la transversalización y promoción del enfoque de género. 2.3) Las diferentes acciones 
+e iniciativas desarrolladas por el proyecto han promovido la ganancia y la integración social en NNA a partir 
+de fomentar nuevos conocimientos, como la orientación vocacional, la educación con perspectiva de 
+derechos y valores, la educación sexual y reproductiva, la educación artística, incorporando enfoques 
+transversales como los de equidad, discapacidad, derechos, género y participación social. Fomenta el 
+autocuidado y los estados de salud mental en ambientes de crisis, y ha potenciado la prevención del bienestar 
+psicológico desde un enfoque de alternativas múltiples y visión positiva. 2.4) Se afirma en la narrativa de 
+las personas entrevistadas que se producen en NNA cambios de comportamiento, transformaciones positivas 
+en su conducta, mejoras en su proyección y son socializados con nuevos valores. Un ejemplo de esto es su 
+expresión en actividades que desarrollan de manera independiente como el programa de radio Contigo 
+Somos +.  2.5) El proyecto garantiza la capacitación de los especialistas, voluntarios, maestros y maestras 
+y de otro personal vinculado al conjunto de las actividades. Lo que se evidencia, por ejemplo, con el Manual 
+de Normas y procedimientos, Guía Metodológica para proyectos culturales y Carpeta de Trabajo Educativo. 
+Sin embargo, estas capacitaciones no benefician de igual forma a especialistas de las Aulas Museo y a los 
+especialistas del Centro a+ y de la subdirección de gestión cultural. 2.6) Los especialistas han adquirido 
+nuevos conocimientos y habilidades, demostrando un alto nivel de capacidades y profesionalismo. 2.7) Se 
+destaca el trabajo coordinado y en alianzas que se desarrollan a todos los niveles, sumando cada año nuevos 
+actores, instituciones y organizaciones que enriquecen su labor. 2.8) Se llevan a cabo procesos de monitoreo 
+al conjunto de las actividades y servicios implementados, a partir de modelos elaborados por los 
+especialistas vinculados al proyecto, desde lo cual se afirma se realizan mejoras a las estrategias de 
+programación y comunicación, en función de atraer una mayor cantidad de público a las actividades. 2.9) 
+El proyecto ha sido adaptable a los cambios producidos durante el periodo que contempla la evaluación, 
+dígase la llegada de la pandemia. Las actividades y talleres se desarrollaron aprovechando los entornos 
+virtuales, principalmente la plataforma de WhatsApp y el canal de Telegram habilitado.  2.10) El Programa 
+Cultural de la OHC y las redes sociales se consideran las estrategias de comunicación y difusión 
+fundamentales de las iniciativas que son convocadas desde el proyecto.  
+Criterio de sostenibilidad:  
+
+ 
+6 
+ 
+ 
+1) El trabajo desarrollado a lo largo de los años, el alto grado de formalización de las prácticas 
+implementadas, el reconocimiento otorgado por autoridades internacionales, ventajas comparativas de la 
+OHC, recursos humanos capacitados vinculados al proyecto, uso adecuado del financiamiento son 
+elementos que garantizan la sostenibilidad del proyecto. Entre las limitaciones se encuentran una 
+dependencia relativa al carácter voluntario de talleristas, la limitada garantía de apoyo sostenido en el 
+tiempo, de las instituciones que actualmente aportan financiamiento, acciones, etc., el deficiente estado 
+constructivo de algunos espacios y la inexistencia de implementos necesarios para asistir a NNA en caso de 
+necesitar primero auxilios. 1.1) El personal vinculado al proyecto está capacitado y su formación es diversa, 
+con gran identificación, responsabilidad y compromiso con la labor realizada. 1.2) Se prioriza la formación 
+constante del personal implicado, por ejemplo, los jóvenes en adiestramiento, con vistas a promover su 
+aprendizaje y superación. 1.3) El proyecto implementa acciones en materia de sostenibilidad ambiental. 1.4) 
+No se encontraron ámbitos claramente insostenibles. 1.5) Algunos elementos replicables son: la pertinencia 
+y utilidad de su misión social, los objetivos estratégicos, proyecciones y formas de trabajo, la lógica del 
+proceso que va desde actividades hasta efectos expresada en la teoría de cambio, el programa de 
+capacitaciones que permite la formación permanente del personal, la forma de utilización eficiente de los 
+recursos, herramientas que permiten orientar metodológicamente el trabajo, así como la experiencia de las 
+Aulas Museo. 
+ 
+Las principales lecciones aprendidas que se identifican en el proyecto son:  
+1) La coherencia entre el diseño de las acciones y las necesidades de NNA, el trabajo previo desarrollado a 
+favor de la preservación del patrimonio histórico cultural, con personal capacitado y con gran compromiso 
+y motivación por su labor, y a la vez, con interés central en desarrollar acciones de diversa índole para el 
+desarrollo integral de NNA, son base y garantía para sostener e impulsar el trabajo, en un escenario Cuba 
+que defiende la equidad y los derechos de NNA como esencia de sus políticas. Aún en un contexto donde 
+no existe una política de infancia previamente definida y formalizada en todos sus componentes.  
+2) La flexibilidad y adaptabilidad de las personas involucradas en la implementación del proyecto son 
+condición necesaria para la creación de nuevas estrategias de trabajo que permitan continuar y avanzar en 
+el acompañamiento a NNA, la adecuación de acciones y el desarrollo de habilidades para el trabajo en 
+entornos cambiantes. Esto fue fundamental para el trabajo en entornos virtuales durante el período de la 
+Covid-19, en el que se limitaron considerablemente las dinámicas presenciales habituales. Este fue un 
+proceso de aprendizaje que aportó nuevos elementos a la sostenibilidad del proyecto, y demostró la 
+capacidad creativa ante escenarios complejos, donde resulta vital mantener entornos protectores para NNA.  
+3) El establecimiento de alianzas multiactorales e intersectoriales, como las de trabajo entre la OHC y 
+UNICEF Cuba constituyen un elemento fundamental para el desarrollo favorable y certero de conocimiento, 
+creación y mantenimiento de entornos protectores como en este caso el Proyecto evaluado. La articulación 
+de diversos actores resulta un elemento esencial que aporta diversidad a las acciones del proyecto, demuestra 
+trabajo en equipo, disposición de colaborar, soluciones creativas, apertura a distintas saberes y experiencias, 
+posibilidades de solución de problemáticas que responden al territorio de manera colectiva, 
+acompañamiento en la concepción de iniciativas y articulación en función de resolver cuellos de botella que 
+pueden generarse.  
+4) La replicabilidad de este proyecto particular hacia otros territorios o condiciones institucionales está 
+atravesada por las especificidades de constitución y funcionamiento de la Oficina del Historiador de la 
+Ciudad. Estas le otorgan prerrogativas en la atracción, gestión e implementación de fondos de cooperación 
+internacional, que deben ser consideradas ante la valoración de escalabilidad de este tipo de intervención. 
+
+ 
+7 
+ 
+ 
+ 
+Recomendaciones principales 
+De Pertinencia: La OHC y UNICEF deben revisar el planteamiento de los indicadores y fuentes de 
+verificación en correspondencia con los resultados propuestos.  
+De Efectividad:   
+1) La OHC desarrollará una estrategia para promover la participación en las diferentes actividades, de 
+grupos con necesidades educativas especiales y en situación de vulnerabilidad, dígase por ejemplo 
+adolescentes embarazadas o NNA que hayan cometido algún hecho que la ley tipifica como delitos. En este 
+sentido, se establecerá comunicación con la Comisión de Prevención del municipio,  
+2) La OHC debe incluir la teoría de cambio propuesta para monitorear el desarrollo del proyecto teniendo 
+en consideración el conjunto de indicadores medibles y fuentes de verificación que sean coherentes con los 
+objetivos propuestos.  
+3) La OHC a partir de la información provista por otros actores institucionales dentro del territorio, debe 
+actualizar la identificación de NNA más necesitados, con vistas a mantener la efectividad lograda por el 
+proyecto hasta el momento.  
+4) La OHC gestionará de conjunto con UNICEF y otras instancias, como la Dirección Municipal de Salud, 
+la posibilidad de habilitar un Kit de primeros auxilios para los centros vinculados al proyecto donde se 
+realicen actividades con NNA, y desarrollar capacitaciones sobre su utilización.  
+5) La OHC de conjunto con UNICEF deberán revisar, adecuar y garantizar el uso de productos 
+comunicativos que incluyan una posible ruta de derivación de atención física o psicológica a NNA que se 
+identifiquen en situación de riesgo de violencias. 
+De Sostenibilidad:  
+1) La OHC y UNICEF deben perfeccionar la estrategia desde el proyecto que garantice la permanencia del 
+voluntariado vinculado a la diversidad de iniciativas y servicios.  
+2) La OHC debe profundizar la inclusión del tema medioambiental como un objeto fundamental de 
+capacitación de NNA en las diferentes iniciativas que son desarrolladas desde el Programa Social Infantil y 
+Adolescente. 
+ 
+ 
+
+ 
+8 
+ 
+ 
+1. ANTECEDENTES Y CONTEXTO DE LA EVALUACION. 
+Si bien Cuba ha logrado una cobertura universal de salud y educación y sus indicadores para la infancia son 
+superiores al promedio regional, la cooperación con UNICEF se centra en brindar apoyo a la mejora de la 
+eficacia y la eficiencia de los servicios de salud, educación, cultura y protección de la niñez, con enfoques 
+transversales de derechos, equidad y género. Una de las iniciativas de mayor alcance en estos propósitos se 
+desarrolla en el municipio de La Habana Vieja de la provincia de La Habana, capital del país.  
+La Habana Vieja constituye uno de los municipios más pequeños de la Capital y es considerado el territorio 
+más antiguo de la ciudad. Posee una extensión territorial de 4,32 km2 y una población entre los 97 000 
+habitantes. Está conformada por siete Consejos Populares, cuatro de los cuales conforman el Centro 
+Histórico. El Centro Histórico abarca prácticamente la mitad del municipio (2.14 Km²) y el 70% de su 
+población (66 752 habitantes), de los cuales según el Censo de Población el 48 % son hombres y el 52 % 
+son mujeres. Comprende el área original de intramuros y la expansión extramuros de la Villa San Cristóbal 
+de La Habana, fundada en 1519.  En 1978, juntamente con el Sistema de Fortificaciones Coloniales, fueron 
+declarados Patrimonio Cultural de la Nación y en 1982, la UNESCO los incluye en el listado del Patrimonio 
+Cultural de la Humanidad. Se considera que su fondo construido posee gran valor patrimonial basado 
+mayoritariamente en una diversidad de tipologías de viviendas coloniales que datan de los siglos XVI, XVIII 
+y XIX, hasta casas y edificios de apartamentos del pasado siglo XX.  Otras tipologías arquitectónicas como 
+la civil-pública y la religiosa, presentan también ejemplares paradigmáticos a escala de la ciudad (Cabrera, 
+2014)  
+El manejo y gestión del Centro Histórico está a cargo de la Oficina del Historiador de La Habana (OHC). 
+Esta labor abarca una diversidad de programas y proyectos en favor del desarrollo humano y en apoyo a la 
+gestión que se desarrolla desde el gobierno local de La Habana Vieja. Entre sus principales tareas se 
+encuentra el facilitar el desarrollo integral del Centro Histórico y mantener su carácter residencial. Propicia 
+la transformación de las condiciones de vida de los habitantes de la zona, potenciando sus valores 
+socioeconómicos, culturales y ambientales y respondiendo a las urgencias de los sectores más vulnerables. 
+Este Plan tiene como finalidad, además, prever soluciones para las nuevas y crecientes necesidades que 
+genera una comunidad en vías de desarrollo (Ibidem). 
+La OHC fue instituida en el año 1938, y para el año 1981 se convirtió en responsable de conducir los 
+primeros planes de restauración del Centro Histórico; doce años después, se subordinó directamente al 
+Consejo de Estado de la República de Cuba para facilitar su intervención.  
+El  manejo y la gestión que desarrolla la Oficina hasta la actualidad quedan amparados, además, en el 
+Decreto Ley 143 aprobado en octubre de 1993 por el Consejo de Estado y el Acuerdo 2951 de 1995. La 
+normativa establece regímenes administrativos especiales que dan atribuciones y competencias a la Oficina 
+para conocer, decidir y controlar cuestiones diversas, relacionadas con la vivienda, bienes de propiedad 
+estatal, uso del suelo, proceso inversionista y otros. Le fueron otorgados poderes para concertar contratos 
+con personas naturales o jurídicas, nacionales o extranjeras, realizar operaciones mercantiles, fiscalizar las 
+actuaciones que se desarrollen en la zona, fomentar fuentes propias de financiamiento y formular y ejecutar 
+planes de rehabilitación. 
+Los presupuestos anteriores han posibilitado desarrollar un modelo de gestión autosustentable, en el que a 
+través de la administración del sector turístico e inmobiliario se generan los recursos financieros necesarios 
+para fomentar el desarrollo humano en su concepto más amplio. La obra incesante que desarrolla la Oficina 
+del Historiador ha puesto especial interés en proteger y revitalizar no sólo edificaciones consideradas 
+valiosas, sino todo el conjunto urbano del Centro Histórico, contribuyendo de este modo a perfeccionar la 
+obra social referida a la atención de la población residente (Cabrera, 2014). 
+
+ 
+9 
+ 
+ 
+Desde su creación en 1994 la Oficina del Plan Maestro (Oficina para el planeamiento del desarrollo integral 
+del Centro Histórico de la Habana y su zona de Amortiguamiento) ha impulsado la realización de una serie 
+de proyectos en el marco del proceso de rehabilitación integral que se desarrolla en el territorio. Estos 
+proyectos abarcan desde las temáticas estrictamente urbanas, hasta otras más enfocadas en temas sociales, 
+culturales, económicos y medioambientales, todos los cuales constituyen propuestas innovadoras y 
+potencialmente transferibles a otros sitios fuera del Centro Histórico. Una parte importante de estos 
+proyectos ha contado con el apoyo de otras instituciones, incluso de la cooperación internacional.  
+Los principales programas desarrollados están dirigidos a: niños/niñas, adolescentes, jóvenes, personas en 
+situación de discapacidad y adultos mayores. La Oficina cuenta con la Dirección de Patrimonio Cultural 
+que atiende toda la red de instituciones culturales con un alto perfil temático que abarca la cultura, la historia, 
+la ciencia, el arte, la etnografía entre otros campos de saber.  Estas instituciones realizan un trabajo continuo 
+de promoción e investigación, el cual tiene como premisa la relación con el público visitante, dentro del que 
+ocupa un lugar prioritario la comunidad de habitantes del Centro Histórico, además de apoyar el 
+fortalecimiento del currículum de los centros escolares. Cuenta además con un Plan Estratégico de 
+Desarrollo Integral, que reconoció tempranamente entre sus prioridades a la infancia. Por ello se creó hace 
+dos décadas un Programa Social Infantil, que después se amplió a la adolescencia, considerando la necesidad 
+de este grupo de programas específicos que respondieran a sus características, intereses y demandas 
+particulares. UNICEF y la Oficina del Historiador han trabajado conjuntamente durante una década en la 
+promoción de los derechos y la participación de niños, niñas y adolescentes en un contexto patrimonial.  
+Este desarrollo particular en la Habana Vieja se da en consonancia con el sistema de protección social 
+cubano, el cual identifica como un grupo esencialmente protegido a los NNA en el diseño e implementación 
+de programas, proyectos y servicios que componen el sistema de políticas sociales en el país. Dicho sistema 
+en función de estos objetivos e interés superior de estos grupos etarios se encuentra en concordancia con las 
+normativas que a nivel internacional regulan y comprometen a los Estados en la observación de los derechos 
+de menores de edad. Para esto Cuba cuenta con una variedad de normas jurídicas que enmarcan la política 
+en este ámbito, a pesar de no contar con una instancia directamente supeditada al gobierno dedicada a la 
+misión de garantizar la protección y los derechos de NNA. Por el contrario, el conjunto de acciones y 
+políticas en este sentido se encuentra compartida por diferentes actores y agentes sociales que parten del 
+propio Estado y el gobierno, el parlamento y sus estructuras, y los organismos de la administración central 
+del Estado, y organizaciones no gubernamentales, todos a sus diferentes escalas de actuación (Proenza & 
+Peña, 2021). 
+A partir de este desarrollo, se gestó entre los años 2008-2013 el proyecto nombrado “Desarrollo social 
+integral participativo de los adolescentes de la Habana Vieja”, al cual le siguió el de “Fortalecimiento de 
+entornos protectores para NNA con enfoque de derechos y equidad en la Habana Vieja, Cuba” actualmente 
+e implementación, y como implementación concreta de la sinergia consolidada entre los objetivos sociales 
+de la OHC hacia infantes y adolescentes, y las metas de UNICEF. En el paso de un proyecto al siguiente no 
+hubo una evaluación propiamente dicha, pero con el tránsito de un ciclo a otro de la cooperación entre 
+UNICEF y el Gobierno de Cuba, se ha producido una línea de continuidad basada esencialmente en el 
+sentido de la inclusión social de las políticas nacionales y locales que dan prioridad a la niñez más 
+vulnerable, y que encuentra en el municipio La Habana Vieja viabilidad para ampliar el alcance y mejorar 
+los resultados para NNA.  
+2. OBJETO DE EVALUACIÓN 
+Será objeto de la evaluación el proyecto titulado “Fortalecimiento de entornos protectores para NNA con 
+enfoque de derechos y equidad en la Habana Vieja, Cuba”. Las intervenciones del componente de Programa 
+
+ 
+10 
+ 
+ 
+de País, Cada niño está protegido contra la violencia y la explotación, en la que se inscribe actualmente 
+esta iniciativa está enfocando por primera vez y de manera explícita sus intervenciones, en la prevención de 
+la violencia a través del fortalecimiento de entornos protectores. Es una evaluación orientada al aprendizaje 
+(formativa) para examinar las perspectivas futuras de implementación y escalamiento del proyecto. Abarcó 
+el período comprendido entre noviembre de 2017 y noviembre de 2022, tomando como punto de partida la 
+creación del Centro a+ Espacios Adolescentes, por tratarse de uno de los elementos medulares del proyecto 
+en la actualidad. Y aunque en los últimos años el proyecto ha trascendido mediante acciones virtuales a 
+otros territorios, ajustándose a la situación provocada por la pandemia de COVID-19, sigue estando 
+localizado geográficamente en el municipio de la Habana Vieja. 
+El proyecto a evaluar se enmarca en la Teoría de Cambio del componente programático al que está adscrito. 
+Desde esta visión del cambio, los resultados del proyecto se sustentan en la idea general de que: si las 
+instituciones o profesionales de la protección están mejor equipados para prestar servicios de calidad a NNA, 
+a fin de prevenir la violencia y protegerlos de ella, si NNA adquieren los conocimientos y las competencias 
+necesarias para exigir sus derechos a una vida libre de violencia, si las familias, los cuidadores y las 
+comunidades consideraran que todos los tipos de violencia son inaceptables y perjudiciales, y adoptan 
+comportamientos positivos en la crianza de los hijos e hijas, niños, niñas y adolescentes disfrutarán de un 
+entorno libre de violencia y tendrán mayor bienestar.  
+El proyecto debía incidir en el fortalecimiento de capacidades de actores y en el empoderamiento y 
+participación de NNA. Es por esto que la evaluación debe determinar en qué medida se ha logrado hacer un 
+análisis de la situación presente, de las evidencias de cómo se produjo el cambio en ese contexto y los 
+supuestos y riesgos para su extensión a otros espacios de creación y fortalecimiento de entornos protectores 
+para la infancia y la adolescencia. A partir de aquí, UNICEF y sus contrapartes, dígase la OHC, podrían 
+examinar las evidencias sobre el progreso, las lecciones aprendidas y las implicaciones de sus resultados en 
+próximas etapas.  El Programa Social Infantil y Adolescente lo integran una diversidad de iniciativas que 
+poseen un carácter participativo y de empoderamiento dentro del escenario sociocultural del municipio 
+dirigido a NNA. Entre los proyectos implementados pueden mencionarse los Niños Guías del Patrimonio, 
+las Aulas Museo, y el programa Somos Uno. Además, se reconocen las visitas escolares y los programas 
+culturales que incluyen exposiciones, concursos, talleres de creación, presentaciones literarias, peñas, 
+encuentros de narración oral, entre otros.  
+El Centro A + se reconoce como un espacio para el desarrollo cultural, social e integral de las/os 
+adolescentes del municipio. A partir de una proyección sociocultural y de protección, encausa su trabajo al 
+desarrollo integral de este grupo a través de una fuerte labor educativa, que intenta minimizar, además, los 
+posibles factores de desventaja que pueden e inciden de manera negativa en la apropiación y posterior 
+desarrollo de conductas consideradas no apropiadas. Para ello han implementado nuevas metodologías, 
+experiencias participativas, herramientas de educación popular y el desarrollo de diferentes servicios, 
+actividades y talleres (Proenza & Peña, 2021).   
+Como parte del funcionamiento de esta variedad de espacios considerados entornos protectores,  se llevan 
+a cabo acciones que son asumidas como servicios de protección al tener como finalidad prevenir la 
+explotación, el abuso, la negligencia, las prácticas nocivas y la violencia contra NNA, o responder a estas 
+vulneraciones restaurando los derechos que puedan haber sido afectados. Un entorno protector se identifica 
+como un espacio sin peligros físicos, emocionalmente cálido, con adultos que actúan como garantes del 
+cuidado y la atención a sus necesidades, capaces de proveer un buen trato psicológico y emocional, libres 
+de cualquier forma de violencia, abuso o explotación (Horno, 2018). Un ambiente protector está dado por 
+brindar educación de calidad, formación especial y servicios amigables a partir de un enfoque de desarrollo 
+
+ 
+11 
+ 
+ 
+inclusivo, donde se tengan en cuenta la diversidad de los grupos poblacionales que conviven en la 
+sociedad.Como intervención el proyecto se encuentra en fase de implementación, pero no contaba al 
+momento de la Evaluación con una teoría de cambio explícita propia. De ahí que, la teoría de cambio del 
+proyecto que se visualiza en la siguiente página fuese producida por el equipo evaluador, y, describe en el 
+tiempo de ejecución cómo se aprecia la secuencia escalonada del cambio a partir de la organización de 
+actividades, productos y efectos esperados. Al respecto se propuso como teoría de cambio de partida la 
+siguiente:  
+  
+Figura 1. Teoría de cambio reconstruida a partir de la documentación formal del proyecto

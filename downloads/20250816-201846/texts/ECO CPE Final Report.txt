@@ -1,0 +1,672 @@
+COUNTRY PROGRAMME 
+EVALUATION OF THE 
+ERITREA-UNICEF 
+COUNTRY PROGRAMME 
+OF COOPERATION  
+2017-2021 
+ 
+ 
+ 
+FINAL REPORT 
+30 MARCH 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Dr. Pamela Wridt 
+Evaluation Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1
+ 
+COUNTRY PROGRAMME 
+EVALUATION OF THE 
+ERITREA-UNICEF 
+COUNTRY PROGRAMME 
+OF COOPERATION  
+2017-2021 
+ 
+ 
+ 
+FINAL REPORT 
+30 MARCH 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Dr. Pamela Wridt 
+Evaluation Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+2
+Maps of Eritrea 
+ 
+ 
+ 
+ 
+REGIONS OF ERITREA 
+ 
+ 
+ 
+Regions 
+Area 
+(km2)
+Capital 
+1. Northern 
+Red Sea
+27,800 
+Massawa 
+2.
+Anseba
+23,200
+Keren
+3. Gash 
+Barka
+33,200 
+Barentu 
+4. Maekel 
+1,300 
+Asmara 
+5.
+Debub
+8,000
+Mendefera
+6. Southern 
+Red Sea
+27,600 
+Assab 
+ 
+Sources: UN Map of Eritrea (top) Wikipedia, 
+Regions of Eritrea (left) Wikipedia 
+
+ 
+3
+Table of Contents 
+MAPS OF ERITREA .................................................................................................................. 2 
+TABLE OF CONTENTS ............................................................................................................ 3 
+TABLES AND FIGURES ........................................................................................................... 4 
+ACRONYMS .............................................................................................................................. 5 
+EXECUTIVE SUMMARY ........................................................................................................... 6 
+SECTION A: BACKGROUND ..................................................................................................15 
+1.1. OBJECT OF THE EVALUATION .............................................................................................15 
+1.2. COUNTRY CONTEXT ..........................................................................................................16 
+1.3. SITUATION OF CHILDREN AND ADOLESCENTS IN ERITREA ...................................................17 
+1.4. COUNTRY PROGRAMME THEORY OF CHANGE .....................................................................18 
+1.5. COUNTRY PROGRAMME STAKEHOLDERS ............................................................................21 
+SECTION B: EVALUATION PURPOSE, OBJECTIVES AND SCOPE .....................................22 
+2.1. EVALUATION PURPOSE ......................................................................................................22 
+2.2. EVALUATION USES ............................................................................................................22 
+2.3. EVALUATION OBJECTIVES .................................................................................................23 
+2.4. EVALUATION SCOPE ..........................................................................................................23 
+SECTION C: EVALUATION METHODOLOGY ........................................................................24 
+3.1. EVALUATION FRAMEWORK ................................................................................................24 
+3.2. DATA SOURCES AND INDICATORS ......................................................................................26 
+3.3. DATA COLLECTION AND ANALYSIS APPROACH ...................................................................26 
+3.4. DATA COLLECTION TOOLS AND SAMPLING .........................................................................28 
+3.5. METHODOLOGICAL LIMITATIONS AND MITIGATION ...............................................................33 
+3.6. QUALITY ASSURANCE AND ETHICAL CONSIDERATIONS .......................................................34 
+SECTION D: EVALUATION FINDINGS ...................................................................................35 
+4.1.  RELEVANCE .....................................................................................................................35 
+4.2.  COHERENCE .....................................................................................................................45 
+4.3.  EFFECTIVENESS ...............................................................................................................50 
+4.4.  EFFICIENCY ......................................................................................................................67 
+4.5.  SUSTAINABILITY ...............................................................................................................69 
+
+ 
+4
+SECTION E: CONCLUSIONS AND RECOMMENDATIONS ....................................................70 
+ANNEXES ................................................................................................................................75 
+ANNEX A: TERMS OF REFERENCE ...............................................................................................75 
+ANNEX B: BIBLIOGRAPHY ...........................................................................................................75 
+ANNEX C: DATA COLLECTION TOOLS ..........................................................................................78 
+ANNEX D: EVALUATION MATRIX ................................................................................................ 103 
+ANNEX E:  DATA TABLES .......................................................................................................... 109 
+ 
+Tables and Figures 
+ 
+Table 1: Eritrea Country Programme change strategies .............................................................................................. 20 
+Table 2: Eritrea Country Programme stakeholders and partners ................................................................................. 21 
+Table 3: Overview of evaluation stakeholders, methods, sample and tools ................................................................. 28 
+Table 4: Participant sample for CSD data collection .................................................................................................... 32 
+Table 5: Participant sample for BECPP data collection ................................................................................................ 33 
+Table 6: UNICEF's technical contributions to policy and system strengthening, 2017–2021 ....................................... 36 
+Table 7: Statistics on the situation of children in Eritrea prior to Country Programme, by zoba ................................... 38 
+Table 8: Number of Country Programme interventions and targeted populations, by zoba ......................................... 39 
+Table 9: Alignment of Eritrea Country Programme with GAP and UNICEF SP, 2018–2021 ........................................ 45 
+Table 10: Roles and contributions of UNICEF, UN agencies and the GoSE ................................................................ 47 
+Table 11: Number of CSD sectoral interventions, by sub-zoba .................................................................................... 54 
+Table 12: Number of BECPP sectoral interventions, by sub-zoba ............................................................................... 56 
+Table 13: Country Programme budget and utilization .................................................................................................. 67 
+Table 14: Status of Eritrea CO funding for humanitarian response, 2018–2021 .......................................................... 68 
+Table 15: Summary of CSD programme implementation, by geography, sector and number targeted ..................... 109 
+Table 16: Summary of BECPP programme implementation, by geography, sector and number targeted ................. 111 
+Table 17: Comparison of CSD scorecards ................................................................................................................. 114 
+Table 18: Comparison of frequency responses for CSD indicators ............................................................................ 115 
+Table 19: Comparison of CSD priorities ..................................................................................................................... 116 
+Table 20: Comparison of BECPP scorecards ............................................................................................................ 117 
+Table 21: Comparison of frequency responses for BECPP indicators ....................................................................... 118 
+Table 22: Comparison of BECPP priorities ................................................................................................................ 119 
+ 
+ 
+Figure 1: Eritrea Country Programme theory of change ............................................................................................... 19 
+Figure 2: Photographs of local objects used for scoring technique .............................................................................. 30 
+Figure 3: Required resources by UN agency for SPCF portfolios (USD), 2017–2021.................................................. 36 
+Figure 4: Number of UNICEF-supported interventions, by programme component and zoba ..................................... 40 
+Figure 5: Number of targeted populations, by programme component and zoba ........................................................ 40 
+Figure 6: UNICEF-supported humanitarian interventions, targeted vs. reached, 2018–2021 ...................................... 41 
+Figure 7: Overall community scorecards for CSD programming, by gender ................................................................ 52 
+Figure 8: Overall community scorecards for BECPP programming, by gender ............................................................ 52 
+Figure 9: Extent of CSD programme convergence, by sub-zoba ................................................................................. 54 
+Figure 10: Percentage of CSD interventions delivered, by sector ................................................................................ 55 
+Figure 11: Extent of BECPP programme convergence, by sub-zoba ........................................................................... 55 
+Figure 12: Percentage of BECPP interventions delivered, by sector ........................................................................... 56 
+Figure 13: Overall community scorecards for CSD programming ................................................................................ 57 
+Figure 14: Overall community scorecards for CSD programming, by gender and level of exposure ........................... 58 
+Figure 15: Overall community scorecards for BECPP programming ............................................................................ 62 
+Figure 16: Overall community scorecards for BECPP programming, by gender and level of exposure ....................... 63 
+ 
+ 
+
+ 
+5
+Acronyms 
+ 
+ADAP  
+Adolescent Development and Participation 
+BECPP 
+Basic Education, Child Protection and Participation 
+C4D 
+ 
+Communication for Development 
+CCCs   
+Core Commitments for Children in Humanitarian Action 
+CEDAW 
+Convention on the Elimination of All Forms of Discrimination Against Women 
+CO 
+ 
+Country Office 
+COVID-19 
+Coronavirus Disease 2019 
+CSD 
+ 
+Child Survival and Development 
+CP 
+ 
+Country Programme 
+CPD 
+ 
+Country Programme Document 
+CPE 
+ 
+Country Programme Evaluation 
+CRC 
+ 
+Convention on the Rights of the Child 
+CRPD   
+Convention on the Rights of Persons with Disabilities 
+ECCE  
+Early Childhood Care and Education 
+ECD 
+ 
+Early Childhood Development 
+ECE   
+Early Childhood Education 
+ECO 
+ 
+Eritrea Country Office 
+ECOSOC  
+United Nations Economic and Social Council 
+EMIS   
+Educational Management Information System 
+ESARO 
+Eastern and Southern Africa Regional Office 
+FAO 
+ 
+Food and Agricultural Organization 
+FGM/C 
+Female Genital Mutilation/Cutting 
+GAP   
+Gender Action Plan 
+GoSE  
+Government of the State of Eritrea 
+HTP   
+High Touch-Point 
+IFAD  
+International Fund for Agriculture and Development 
+ILO 
+ 
+International Labour Organization 
+IMAM   
+Integrated Management of Acute Malnutrition 
+IMNCI   
+Integrated Management of Neonatal and Childhood Illness 
+IYCF  
+Infant and Young Child Feeding 
+KII 
+ 
+Key Informant Interviews 
+LTP  
+ 
+Low Touch-Point 
+MHM  
+Menstrual Hygiene Management 
+MNH        
+Maternal and Newborn Health 
+NIDP   
+National Indicative Development Plan 
+NUEW  
+National Union of Eritrean Women 
+NUYSE 
+National Union of Youth and Students of Eritrea 
+OCHA  
+Office for the Coordination of Humanitarian Affairs 
+OECD-DAC 
+Organisation for Economic Co-operation and Development's Development 
+Assistance Committee 
+PE 
+ 
+Programme Effectiveness 
+PFDJ   
+The People's Front for Democracy and Justice 
+PSN 
+ 
+Programme Strategy Note 
+SDGs   
+Sustainable Development Goals 
+SitAn   
+Situation Analysis 
+SP  
+ 
+Strategic Plan 
+SPCF  
+Strategic Partnership Cooperation Framework 
+
+ 
+6
+UNAIDS 
+United Nations Joint Programme on HIV and AIDS 
+UNDP  
+United Nations Development Programme 
+UNEG  
+United Nations Evaluation Group 
+UNEP  
+United Nations Environment Programme 
+UNFPA 
+United Nations Population Fund 
+UNHCR 
+United Nations High Commission for Refugees 
+UNICEF 
+United Nations Children’s Fund 
+UNIDO 
+United Nations Industrial Development Organization 
+UNOCHA  
+United Nations Office for the Coordination of Humanitarian Affairs 
+UNODC 
+United Nations Office on Drugs and Crime 
+WASH  
+Water, Sanitation and Hygiene 
+WHO  
+World Health Organization 
+ 
+ 
+Acknowledgements 
+ 
+This evaluation was conducted by Dr. Pamela Wridt, President of Conscious Data Inc., with 
+contributions in local data collection from the National Higher Education and Research Institute 
+of Eritrea, including: Ast. Prof. Ghirmay Ghebregziabher Beraki, MSc, Dr. Salih Mahmud Idris, 
+PhD, Senait Abraham Tesfamichael, MSc, Eyasu Habte Tesfamariam, MSc, Humed Mahmud 
+Abdela, BA, Mohammed Osman Mohammed, MSc, and Abdusemed Mohammedali Zerom, BA. 
+ 
+ 
+ 
+
+ 
+7
+Executive Summary 
+Background 
+This report represents the findings of an external evaluation of the Eritrea-UNICEF Country 
+Programme of Cooperation, 2017–2021. The situation of children and adolescents in Eritrea 
+informed the rationale for the Eritrea-UNICEF Country Programme of Cooperation, and for the 
+accompanying Country Programme Document (CPD). There were three persistent issues 
+associated with poor child well-being in Eritrea that UNICEF intended to address with the 
+Government during the Country Programme (CP) time period, including: (1) under-five child 
+stunting and ill health; (2) a lack of access to early childhood education and limits to educational 
+attainment; and (3) harmful gender and social norms. 
+ 
+The overall goal of the Country Programme during the period from 2017 to 2021 was to 
+progressively realize children’s rights in Eritrea, especially among the most disadvantaged. To 
+achieve this goal, UNICEF supported efforts of the Government in three components (as outlined 
+in the CPD): (1) Child Survival and Development; (2) Basic Education, Child Protection and 
+Participation; and (3) Program Effectiveness. The objective of the Child Survival and 
+Development (CSD) programming component was to address child stunting and health 
+deprivations and to reduce preventable child and maternal deaths, ill health and disability in 
+remote areas of the country. The objective of the Basic Education, Child Protection and 
+Participation (BECPP) programming component was to increase access to quality basic 
+education for all children, protecting them from violence, exploitation and abuse, and enabling 
+them to meaningfully participate in decision-making processes that affect their lives. The objective 
+of the Programme Effectiveness (PE) component was to lead, coordinate and manage the 
+Country Programme in a manner that delivers results for children. 
+Evaluation Purpose and Objectives 
+The purpose of this Country Programme Evaluation (CPE) was to provide valuable insights on 
+what has been achieved in Eritrea through UNICEF’s contributions, and to highlight the lessons 
+learned to strengthen the implementation of the next Country Programme. This evaluation was 
+commissioned by the UNICEF Eastern and Southern Africa Regional Office (ESARO), in 
+collaboration with the UNICEF Eritrea Country Office (ECO). This CPE aimed to strengthen 
+UNICEF’s accountability to national stakeholders, including the Government of the State of Eritrea 
+(GoSE), children and adolescents, as well as the UNICEF Executive Board.  
+ 
+There were three objectives of this CPE: 
+ 
+1. To assess the relevance, effectiveness, efficiency, coherence and sustainability of the 
+Eritrea Country Programme with particular focus on equity, gender equality and 
+convergence of programme components, as well as UNICEF’s strategic positioning in 
+relation to its child rights mandate.  
+ 
+2. To identify and document key lessons learned, good practices and innovations in 
+implementing the Country Programme that can inform and support advocacy efforts for 
+scale-up and replication.  
+ 
+
+ 
+8
+3. To provide a set of forward-looking and actionable recommendations to strengthen 
+programmatic strategies in the implementation of the next Eritrea Country Programme, 
+taking into consideration national development priorities, such as the Eritrea Development 
+Vision 2025, the next five-year development plan and the 2030 Agenda for Sustainable 
+Development in the country.  
+Evaluation Scope and Limitations 
+The CPE covered the Eritrea Country Programme from 2017 to 2021, and examined evaluative 
+evidence on UNICEF’s effectiveness in leveraging national efforts for children, as well as its direct 
+contributions in achieving results for children. The evaluation focused on the formal UNICEF CPD 
+approved by the Executive Board, but also considered any changes/revisions from the initial CPD 
+during the period under review (such as changes in strategies to address COVID-19). The scope 
+and unit of analysis of the CPE includes the entirety of UNICEF’s engagement in the country, and 
+therefore covers interventions funded by all sources. However, the evaluation did not include an 
+analysis of specific UNICEF programmes, as the intent was to examine strategic goals and 
+processes that affect all programmes at the national, zoba (regional), sub-zoba (sub-regional) 
+and community levels. Three cross-cutting themes or strategic areas of focus were examined in 
+the CPE: UNICEF Positioning and Partnerships; Equity and Gender Equality; and Programme 
+Convergence. 
+Evaluation Methodology 
+There were 5 core evaluation questions, and 13 sub-questions, as outlined below and in greater 
+detail in the Evaluation Matrix (see Annex D). 
+ 
+ EQ1 | Relevance | Is the Country Programme doing the right things? 
+ 
+1.1. What were UNICEF’s strengths in the country from 2017 to 2021, particularly in 
+comparison to other UN agencies and development partners, and how were these 
+harnessed to help achieve results? 
+1.2. Were UNICEF’s strategies to address equity and gender mainstreaming in line with local 
+needs and at an appropriate scale of implementation to reach the most marginalized? 
+1.3. To what extent has UNICEF been able to position itself as a strategic partner in the 
+country context, including adjusting to changing situations? 
+1.4. What adjustments were made to UNICEF’s strategies in response to programme 
+monitoring and/or changes in the operational context, and how effective were these 
+modifications? 
+ 
+ EQ2 | Coherence | How well does the Country Programme fit? 
+ 
+2.1. To what extent have the Core Commitments for Children in Humanitarian Action (CCCs) 
+and UNICEF’s Gender Action Plans (GAPs) (2014–2017 and 2018–2021) been 
+consistently integrated into all aspects of programming and implementation, including in 
+the Programme Strategy Notes (PSN), related theories of change and results 
+frameworks? 
+2.2. What roles and contributions did the Government, UN agencies and other national actors 
+have in UNICEF’s approach to programme convergence, and how well were these 
+activities coordinated?  
+
+ 
+9
+2.3. Did UNICEF’s approach to addressing the challenges of equity and gender equality play 
+a complementary role to that of Government, UN agencies and other development 
+actors? 
+ 
+ EQ3 | Effectiveness | Did the Country Programme achieve its objectives? 
+ 
+3.1. Did the Country Programme contribute to the reduction of inequities and exclusion and 
+progress towards the achievement of greater gender equality?  
+3.2. What results have been achieved by UNICEF through programme convergence, and at 
+what levels of change (e.g., national, zoba, sub-zoba or community)?  
+ 
+ 
+ EQ4 | Efficiency | How well were Country Programme resources managed and utilized? 
+ 
+4.1. Were UNICEF Country Office (CO) resources (funds, human resources, time, expertise, 
+etc.) allocated, tracked and utilized strategically to achieve results, including equity and 
+gender-related objectives?  
+4.2. Were the necessary management, coordination, monitoring and evaluation structures in 
+place in the UNICEF Country Office to effectively implement programme convergence?1  
+ 
+ EQ5 | Sustainability | Will the benefits of the Country Programme last? 
+ 
+5.1. 
+To what extent are the positive changes and effects of the Country Programme 
+sustainable at the relevant levels (e.g., national, zoba, sub-zoba and community)?  
+5.2. 
+To what extent have the programme strategies and approaches adopted by UNICEF 
+contributed to the sustainability of results, especially equity and gender-related results?  
+ 
+The CPE drew upon and integrated data from a variety of sources, which were triangulated to 
+draw conclusions and to make evaluative judgements about the Country Programme. The CPE 
+relied upon a mix of quantitative and qualitative methods, including: (1) document review; (2) 
+secondary data analysis of programme monitoring data; (3) key informant interviews with UNICEF 
+staff members; (4) surveys and focus groups with external implementing partners; and (5) 
+participatory data collection sessions with programme beneficiaries, including parents,2 
+adolescents and service providers.  
+ 
+Overall, the evaluation engaged 555 stakeholders, including 280 female participants (51 per cent). 
+Participants included: 5 UNICEF staff members; 3 national government representatives and 50 
+local government representatives [programme managers and representatives from the National 
+Union of Youth and Students of Eritrea (NUYSE)]  from the GoSE; and 500 programme 
+beneficiaries (including 200 adolescents, 200 parents and 100 service providers). No UN partners 
+participated in the evaluation for reasons that are not known to the evaluator. This limitation is 
+addressed in the methodology, findings and recommendations. 
+ 
+1 This evaluation question was rephrased from the Terms of Reference (ToR), because it was not possible to determine 
+if the chosen strategies and approaches were the most cost effective with the given data, or to determine if there were 
+alternatives that would have worked better. 
+2 Throughout this evaluation report, the term “parents” is inclusive of all primary caregivers of young children. 
+
+ 
+10
+Evaluation Findings 
+Relevance 
+Finding 1: UNICEF’s primary strengths or comparative advantages in the country were 
+associated with its positioning as a leader and influencer as one of the largest UN agencies 
+operating in Eritrea for decades. The organization provides financial and technical contributions 
+for policy and systems strengthening, is the lead agency in delivering multisectoral programming 
+for children and adolescents, and is considered a trusted and valued government partner. 
+ 
+Finding 2: UNICEF’s strategies for addressing equity and gender mainstreaming appropriately 
+targeted the needs of the local population. However, it was not possible to determine if an 
+appropriate scale of implementation was reached with the most marginalized due to a lack of data 
+disaggregated by age and sex on the child, adolescent and parent populations in each zoba. The 
+available data suggests Southern Red Sea requires further investments by the CO to address 
+child equity and gender equality within this region. 
+ 
+Finding 3: UNICEF was well positioned as a strategic partner with Government, but there is a 
+need for strengthened collaboration with some UN agencies, especially in the area of adolescent 
+participation. 
+ 
+Finding 4: Delays in obtaining a signed work plan, prolonged droughts and the COVID-19 
+pandemic greatly affected programme implementation and slowed progress on achieving results 
+for children during the evaluation time period. However, UNICEF did its best to work around the 
+constraints faced in the operating environment, by adjusting its strategies and programming 
+approaches. 
+Coherence 
+Finding 5: The CCCs have been marginally integrated into the PSNs, theories of change and 
+results frameworks. Thus, the overall Country Programme was not risk informed, and the 
+connection between development and humanitarian programming was weak. The Country 
+Programme has done a better job at integrating the GAP into its programming strategies, but gaps 
+remain in the theories of change and results frameworks. 
+ 
+Finding 6: UNICEF had a lead role in contributing to the Eritrea Strategic Partnership Cooperation 
+Framework (SPCF) (2017–2021) for three outcome areas associated with Water, Sanitation and 
+Hygiene (WASH), education and child/social protection. While the common agenda and 
+coordinating structures were clearly identified, the effectiveness of UNICEF’s leadership in 
+making a collective impact in these outcome areas is not currently known. The Country 
+Programme  benefited from decentralized coordination structures through the national unions, 
+which have representatives that serve on committees to implement joint programming at the 
+national, zoba, sub-zoba and community levels. 
+ 
+Finding 7: UNICEF’s programming to address equity and gender equality integrated the vision 
+of the GoSE and community members to address priority issues in the country. Mutually 
+reinforcing activities were identified and implemented through a complementary life course 
+approach by UNICEF and its UN partners. However, the conceptual framework for adolescent 
+development was not clearly developed, nor were there any synergistic measures for collective 
+impact in the Country Programme. The conceptual framework for early childhood development 
+was clear and included synergistic measures. However, these measures were not integrated into 
+
+ 
+11
+the Country Programme results structure, so there was no accountability to track collective impact 
+for CSD programming.  
+Effectiveness 
+Finding 8: Overall, there was limited recent data on the results achieved for gender equality 
+through the contributions of the Country Programme. On a national level, there was evidence that 
+the Country Programme contributed to a reduction in female genital mutilation (FGM) for girls 
+under 15, which declined from 33.2 per cent in 2010 to 3.8 per cent in 2018. On a community 
+level, consultations with programme beneficiaries on their community conditions indicated the 
+perceptions of girls and women were slightly more favourable than boys and males in the sampled 
+locations. This finding indicates progress in the achievement of gender equality on the selected 
+indicators, although additional studies should be conducted to include a wider sample of 
+beneficiaries in the analysis. 
+ 
+Finding 9: On a national level, the Country Programme has contributed to national policies, plans 
+and strategies that reflect the importance of multisectoral programming, especially in convergence 
+with WASH, education, health, nutrition and social protection interventions. On a regional level, 
+the Country Programme effectively implemented six sectoral interventions within each zoba; 
+however, gaps remain in the scale of coverage for Southern Red Sea. On a community level, the 
+Country Programme achieved stronger results for girls and women through programme 
+convergence, when compared to boys and men in the sampled communities. 
+Efficiency 
+Finding 10: There was insufficient data on innovations and resource utilization to draw 
+conclusions about the efficacy of the Country Programme. However, there was evidence of 
+decreased interest in donor support for Eritrea, as well as a substantial funding gap for 
+humanitarian response. 
+ 
+Finding 11: The CO made staff changes to ensure the required management conditions were in 
+place for collective planning, budgeting, monitoring and evaluation for programme convergence. 
+Sustainability 
+Finding 12: The positive advancements made through the Country Programme are likely to 
+continue given strong government ownership, policy and system strengthening achievements and 
+high levels of community participation and empowerment. However, there are gaps in resource 
+allocation, programming in Southern Red Sea and with WASH that need to be addressed to 
+ensure sustainability, especially given the ongoing nature of the COVID-19 pandemic. 
+ 
+Finding 13: A combination of strategies were considered the most effective for the sustainability 
+of results: (1) system strengthening; (2) community engagement; and (3) partnerships.

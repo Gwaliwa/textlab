@@ -1,0 +1,1095 @@
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+1
+Final Report
+FORMATIVE EVALUATION OF UNICEF 
+THREE STAR APPROACH FOR WASH 
+IN SCHOOLS IN THE PACIFIC
+FINAL REPORT
+PACIFIC MULTI COUNTRY OFFICE
+December 2021
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+2
+Final Report
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+© United Nations Children’s Fund, New York, 2021
+United Nations Children’s Fund
+Three United Nations Plaza
+New York, New York 10017
+December 2021
+The purpose of publishing evaluation reports produced by the UNICEF Pacific Multi Country Office is to fulfil 
+a corporate commitment to transparency through the publication of all completed evaluations. The reports 
+are designed to stimulate a free exchange of ideas among those interested in the topic and to assure those 
+supporting the work of UNICEF that it rigorously examines its strategies, results and overall effectiveness.
+The contents of the report do not necessarily reflect the policies or views of UNICEF. The views expressed 
+in this report are those of the evaluators. The text has not been edited to official publication standards and 
+UNICEF accepts no responsibility for error. The designations in this publication do not imply an opinion on the 
+legal status of any country or territory, or of its authorities, or the delimitation of frontiers.
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required to reprint/
+reproduce/photocopy or in any other way cite or quote from this report in written form. UNICEF has a formal 
+permission policy that requires a written request to be submitted. For non-commercial uses, the permission
+will normally be granted free of charge. Please write to the Pacific Multi Country Office at the address below 
+to initiate a permission request.
+For further information, please contact:
+Pacific Multi Country Office
+United Nations Children’s Fund
+3rd Floor, FDB Building
+360 Victoria Parade
+Suva, Fiji
+suva@unicef.org
+Cover photo: ©️ UNICEFPacific/2021/Stephen
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+3
+Final Report
+CONTENTS
+LIST OF TABLES	
+4
+LIST OF FIGURES	
+4
+ACKNOWLEDGEMENTS	
+5
+ABBREVIATIONS AND ACRONYMS	
+6
+EXECUTIVE SUMMARY	
+7
+1. 	INTRODUCTION	
+10
+	
+1.1	 Context	
+10
+	
+	
+1.1.1 Global and Regional Context	
+11
+	
+	
+1.1.2 WASH Bottlenecks in Evaluation Countries	
+11
+	
+	
+1.1.3 Country Contexts	
+12
+	
+1.2 	Object of the Evaluation	
+16
+	
+1.3 	Implementation in the Pacific	
+17
+2. 	PURPOSE, OBJECTIVE AND SCOPE OF EVALUATION	
+21
+	
+2.1 	Purpose of the Evaluation	
+21
+	
+2.2 	Objective of the Evaluation	
+21
+	
+2.3 	Scope of the Evaluation	
+22
+3. 	METHODOLOGY	
+23
+	
+3.1 Evaluation Approach	
+23
+	
+3.2 Sampling Criteria	
+25
+	
+3.3 Data Analysis	
+27
+	
+3.4 Ethical Considerations and Safeguards	
+27
+	
+3.5 Limitations and Mitigation Strategies of the Evaluation	
+28
+	
+3.6 Quality Assurance	
+28
+4. 	FINDINGS		
+29
+	
+4.1 Relevance	
+29
+	
+4.2 Coherence	
+41
+	
+4.3 Efficiency	
+43
+	
+4.4 Effectiveness	
+47
+	
+4.5 Sustainability	
+50
+5. 	CONCLUSIONS	
+54
+6. RECOMMENDATIONS	
+56
+REFERENCES 	
+60
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+4
+Final Report
+Annex I: Terms of Reference	
+63
+Annex II: Theories of Change	
+70
+Annex III: Draft Integrated Programme Logic	
+73
+Annex IV: Evaluation Matrix	
+74
+Annex V: Original and Revised Evaluation Questions	
+86
+Annex VI: Data Collection Tools (including consent scripts)	
+101
+Annex VII: Maps of Implementation Areas	
+119
+Annex VIII: Scripts for Institutional Clearance/Authorization	
+122
+Annex IX: Ethics Review Feedback	
+127
+Annex X: Documents Consulted	
+138
+Annex XI: List of Interviewees	
+142
+Annex XII: Extended Stakeholder List	
+143
+List of Tables 
+Table 1: Country Context - Fiji	
+13
+Table 2: Country Context - Kiribati	
+14
+Table 3: Country Context - Solomon Islands	
+14
+Table 4: Country Context - Federated States of Micronesia	
+15
+Table 5: Country Context - Vanuatu	
+15
+Table 6: Overview of Kiribati Three Star Approach for WASH in Schools	
+17
+Table 7: Overview of the Solomon Islands Three Star Approach for WASH in Schools	
+18
+Table 8: Overview of the Vanuatu Three Star Approach for WASH in Schools	
+18
+Table 9: Overview of the Fiji Three Star Approach for WASH in Schools	
+19
+Table 10: Overview of the FSM Three Star Approach for WASH in Schools	
+20
+Table 11: Evaluation Objectives	
+21
+Table 12: Overview of Evaluation Questions	
+24
+Table 13: OECD DAC Definitions and Working Definitions	
+24
+Table 14: Sampling Criteria	
+25
+Table 15: Number of key informant interviews (KIIs) and school visits carried out	
+26
+Table 16: Best Practice and Challenges within the Three Star Approach Theories of Change	
+34
+Table 17: Design of Three Star Approach and Relevance to Dimensions of WASH	
+36
+List of Figures 
+Figure 1: Oceania WASH in School Data	
+11
+Figure 2: Service Levels for WASH in Schools in Evaluation Countries	
+13
+Figure 3: Overview of the Three Star Approach for WASH in Schools	
+16
+Figure 4: Periods of Implementation of the Three Star Approach	
+17
+Figure 5: Data Collection, Analysis and Triangulation Process	
+27
+Figure 6: Sustainable Development Goals 6 and 4 	
+30
+Figure 7: Alignment of UNICEF Pacific Programme with UNICEF Strategic Plan	
+32
+Figure 8: Illustration of the ‘logic’ of the logical framework	
+33
+Figure 9: Inclusive Access to WASH 	
+40
+Figure 10: Recommendations from formative evaluation	
+56
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+5
+Final Report
+ACKNOWLEDGEMENTS
+The evaluation team would like to sincerely thank 
+all of the contributors to this synthesis evaluation 
+report for sharing information and documentation 
+by email, completing evaluation questionnaires or 
+providing insights through key informant interview 
+and for taking their time and resources to check 
+references to their work in the first drafts of the 
+reports and providing comments and suggestions. 
+Additionally, the team would like to express their 
+gratitude to the many UNICEF staff, members of 
+government, non-government organisations and 
+other stakeholders of the Solomon Islands, Fiji, 
+Federated States of Micronesia, Vanuatu, and Kiribati 
+for their generous contributions of time. Contributors 
+came from the following organizations and partners 
+are acknowledged: 
+Governments: i.e. government officials working at 
+the Ministry of Education and or Health, i.e.  Paul 
+Amao – National WASH Coordinator, Ministry of 
+Education and Franco Rodie – Permanent Secretary, 
+Ministry of Health (Solomon Islands), Christine-Anne 
+Garoleo – Provincial SIO Coordinator, Ministry of 
+Education and Training Penama Province (Vanuatu), 
+Reetina Katokita - Director, Policy, Planning and 
+Development Unit, Ministry of Education and Arboro 
+Henry - Senior Health Promotion Officer, Ministry of 
+Health and Medical Services (Kiribati), Deanne Aizawa 
+– Chief, Planning and Development Division, Dept 
+of Education MJ Martin – Mental Health Specialist, 
+Department of Health (FSM) and Serupepeli Udre – 
+Ministry of Education and Relenshni Karan - Ministry 
+of Education, Heritage and Arts and Mr Suliasi 
+Batikawai - Environmental Health officer (Fiji). 
+National / International NGOs – Fiji Teachers 
+Association and CBM Nossall (Fiji) , Save the Children, 
+Live and Learn, Engineers Without Border, Mamma’s 
+Laef, Live and Learn Vanuatu, Wan Smolbag 
+(Vanuatu), World Vision International, Live and Learn 
+Environmental Education (Solomon Islands), NZ 
+Institute for Environmental Science and Research 
+(ESR), Live and Learn Environmental Education, 
+Kiribati Women’s Federation (AMAK) (Kiribati) 
+UNICEF National Committees / Donor government – 
+Department for Foreign Affairs and Trade (DFAT), 
+Government 
+of 
+Australia, 
+UNICEF 
+National 
+Committees of Australia and New Zealand and 
+German Cooperation for International Cooperation 
+(GIZ) (FSM)
+UNICEF – which included UNICEF Country Offices: 
+Jeffery Ing – WASH Specialist, Quennie Amor - 
+WASH Consultant, Helen Piana (WinS Consultant) 
+and Cromwell Baraza – Chief of Field Office UNICEF 
+(FSM), Mamita Bora Thakkar – WASH Specialist, 
+previously Solomon Islands, Zelalem Taffesse – Chief 
+of Field Office, UNICEF Solomon Islands, Abigail 
+Tevera – WASH Specialist, Frederick Saeni – WASH 
+Officer and Tai Ring Te – WASH Specialist (Solomon 
+Islands), Emily Rand and Jake Ward – WASH 
+Specialist (Vanuatu), Waqairapoa Tikoisuva – UNICEF 
+WASH lead for Kiribati, George Quifada - Sector 
+Coordination TA, UNICEF and Brucetta Toatu - WASH 
+in Schools TA, UNICEF (Kiribati and Fiji); UNICEF New 
+York/HQ  (Irene Imongin and Silvia Gaya) and UNICEF 
+East Asia and Pacific Regional Office (EAPRO) with 
+contributions from Evariste Kouassi-Komlan, Brooke 
+Yamakoshi and HanChul Kim.
+Special note of appreciation is extended to Education 
+colleagues Iosefo Volau – Education Specialist and 
+Anna Smeby - Chief of Education for the Pacific 
+Multi-country education programme (Fiji), and to 
+Ivan Scott - Evaluation Specialist, and Koorosh Raffii 
+- Evaluation Adviser at the UNICEF EAPRO. A special 
+vote of thanks is also to the WASH team in Suva, Ro 
+Iva Namela, Milika Nabulivula and James Robertson 
+for their support throughout the evaluation. 
+The evaluation team would like to express thanks to 
+UNICEF Pacific for their help and support throughout 
+the engagement of this assignment. In particular, the 
+evaluation team would like to thank Chander Badloe 
+(Chief - Water, Sanitation & Hygiene, UNICEF Pacific 
+Multi-Country Office) and Ali Safarnejad (Multi-
+Country Evaluation Specialist, UNICEF Pacific Multi-
+Country Office) for their oversight and guidance 
+throughout the evaluation process. 
+This evaluation report was prepared by the IOD 
+Parc evaluation team, which included Jerry Adams – 
+Principal Associate and Evaluation Lead, Kate Alliott 
+– Senior Consultant and Stuart Kinsella – Consultant. 
+Many thanks go to Talanoa Consulting, without 
+whom fieldwork in a COVID-19 landscape would 
+have been extremely difficult. 
+The evaluation team thanks the parents, teachers 
+and school leadership involved in conducting 
+the fieldwork and providing their insights on the 
+Three Star Approach. The evaluation team would 
+like to thank the students and young people who 
+participated in the fieldwork, lending their voices 
+and expressing their views of how to improve water, 
+sanitation and hygiene for all children and young 
+people across the Pacific region. Particular thanks 
+is given to colleagues who gave up their valuable 
+time and expertise to undertake a comprehensive 
+review the first drafts of the country reports and the 
+overall synthesis report whom also went the extra 
+mile to share additional documents or information 
+and answer questions as part of the review process, 
+over and above what was expected.
+It is hoped that the outputs of this evaluation 
+contributes to the country, regional and global 
+knowledge base around WASH in Schools and it is 
+hoped they will provide additional motivation for the 
+continued learning and progress on WASH in Schools 
+across the Pacific region.
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+6
+Final Report
+ABBREVIATIONS AND ACRONYMS 
+AUD 	
+Australian Dollar 
+CLTS 	
+Community-led total sanitation 
+DFAT	
+Australian Department of Foreign Affairs and Trade
+DFID 	
+United Kingdom Department for International Development 
+EAPRO 	
+East Asia Pacific Regional Office 
+EMIS	
+Education management information system 
+EMT 	
+Evaluation management team 
+ESR 	
+Environmental Science and Research Limited
+FEMIS 	
+Fiji Education Management Information System
+FGDs	
+Focus group discussions
+FSM 	
+Federated States of Micronesia 
+GDP	
+Gross domestic product 
+GIZ 	
+German Corporation for International Development
+ICT	
+Information, communication and technology 
+INGO	
+International non-government organization
+KIIs 	
+Key informant interviews
+KIRIWATSAN 	
+Kiribati Water and Sanitation in Outer Islands
+KWAS 	
+Kiribati WASH from the Start 
+KWIS	
+Kiribati WASH in Schools 
+LLEE	
+Live and Learn Environmental Education 
+MCPD 	
+Multi-country programme document  
+MFAT	
+New Zealand Ministry of Foreign Affairs and Trade 
+MHM 	
+Menstrual Hygiene Management 
+NGO	
+Non-government organization 
+NZD 	
+New Zealand Dollar 
+O&M 	
+Operations & maintenance 
+OECD DAC 	
+Organisation for Economic Co-operation and Development Assistance Committee 
+SDGs	
+Sustainable Development Goals
+SIBLE	
+Solomon Islands Better Learning Environment
+SIEMIS 	
+Solomon Islands Education Management Information System 
+TC	
+Tropical Cyclone 
+ToR	
+Terms of Reference
+UN 	
+United Nations 
+UNDP	
+United Nations Development Programme 
+UNICEF 	
+United Nations Children’s Fund 
+Van-WASH in Schools	
+Vanuatu Water, Sanitation and Hygiene in Schools
+VEMIS 	
+Vanuatu Education Management Information System
+WASH	
+Water, sanitation and hygiene
+WASHBAT 	
+Water, sanitation and hygiene bottleneck analysis tool 
+WHO 	
+World Health Organisation 
+WinS	
+Water, Sanitation and Hygiene in schools
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+7
+Final Report
+EXECUTIVE SUMMARY
+Water, sanitation, and hygiene (WASH) are critical 
+dimensions of the health and safety of people in 
+the Pacific, made even more so by the impact of 
+the COVID-19 pandemic and climate change. 43% 
+of the Pacific population lacks access to basic water 
+services (World Health Organisation and UNICEF, 
+2021b) and pressing threats such as increasing 
+numbers of natural disasters are exacerbating 
+pre-existing vulnerabilities (McLeod & Bruton-
+Adams, 2019). Access to WASH services is far from 
+equitable, with women, people with disabilities 
+and rural communities suffering worse outcomes, 
+particularly 
+when 
+these 
+categories 
+intersect 
+(WaterAid, 2016). Schools across the region face a 
+lack of suitable WASH infrastructure and awareness, 
+resulting in continuing practice of open defecation, 
+spread of disease and student absenteeism during 
+menstruation, amongst other public health risks. 
+THE THREE STAR APPROACH 
+The Three Star Approach was designed to be a 
+“simple, scalable and sustainable” method to 
+address WASH issues in schools, with a particular 
+focus on hygiene and behaviour change. Schools 
+are rated from a scale of zero to three stars based 
+on the WASH infrastructure and behaviours 
+exhibited by students (UNICEF & GIZ, 2013). It is 
+an incremental approach, centred on strengthening 
+the capacity of schools to identify their own needs 
+and empower children to become agents of change 
+in their communities through their improved WASH 
+knowledge. It looks to address the bottlenecks 
+that block the effectiveness and expansion of 
+current WASH in Schools programmes. Additionally, 
+the Three Star Approach works to encourage 
+governments to create an enabling environment 
+through the commitment of policy, legislation and 
+financing for effective WASH in schools. 
+PURPOSE 
+The purpose of this evaluation is to generate 
+evidence to inform replicability and scalability 
+of the Three Star Approach for WASH in Schools. 
+It is designed to foster learning and improvement 
+of the approach, and identify priority focus areas 
+for government partners, donors and UNICEF. The 
+intended audience is UNICEF Pacific, education 
+and health ministries in host governments (along 
+with other relevant ministries), WASH programme 
+implementing partners and donors. Based on the 
+evaluation’s formative purpose, the objectives 
+were centred on assessing progress to date and 
+identifying lessons from the way in which the Three 
+Star Approach has been implemented in the five 
+target countries. These lessons are intended to 
+inform UNICEF Pacific’s WASH agenda, as well as 
+the UNICEF Pacific Multi-Country Programme. 
+SCOPE 
+This evaluation is concentrated on the Three Star 
+Approach across its countries of implementation 
+in the region, which are currently Fiji, Solomon 
+Islands, Vanuatu, Kiribati, and Federated States 
+of Micronesia (FSM). Fiji was the first country to 
+implement the Three Star Approach for WASH in 
+Schools in 2014. Kiribati was the second country 
+of implementation in the Pacific in 2015. This was 
+followed by the Solomon Islands in 2016, then larger 
+Fiji and Vanuatu implementation in 2017. Advocacy 
+work and baseline surveys began in FSM in 2018. 
+This evaluation focuses on the years between 2015 
+– 2018, however research stretched from 2011 to the 
+present day (2021).
+METHODOLOGY 
+This evaluation was centred on the principles of 
+utility and realism, ensuring that the products 
+are of use to UNICEF, national governments and 
+WASH partners. The evaluation matrix is built around 
+relevance, coherence, efficiency, effectiveness and 
+sustainability. The evaluation methods included 
+extensive 
+secondary 
+document 
+review 
+from 
+global to local resources; primary data collection 
+through key informant interviews with UNICEF, 
+government, non-government organisations and 
+other stakeholders in all five countries; and fieldwork 
+in schools and communities of implementation, 
+with interviews and transect walks with students, 
+parents, teachers and school leadership in four 
+countries (FSM was excluded by UNICEF due to 
+status of implementation).  
+The evaluation underwent some modifications 
+due to the onset and ongoing nature of the 
+COVID-19 pandemic, however this in no way 
+compromised the integrity or quality of the 
+evaluation. As a result of travel restrictions, the 
+evaluation was initially delayed, and a revised 
+inception report and methodology proposed in 
+November 2020. In the revision, the team partnered 
+with Pacific-based Talanoa Consulting. Talanoa 
+and evaluation team recruited and trained highly 
+experienced data collectors to conduct the fieldwork 
+in their local communities. The data collectors went 
+on to contribute to the analysis and development of 
+the findings. 
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+8
+Final Report
+KEY FINDINGS 
+RELEVANCE
+The objectives of the Three Star Approach for 
+WASH in Schools are aligned with and respond 
+to most of the changing policies and priorities 
+at a global level, specifically in relation to the 
+Sustainable Development Goals and UNICEF’s Global 
+WASH Strategy.  A critical weakness is the lack of 
+detail on resilience. Strong government buy-in to the 
+approach, as evidenced in evaluation countries, is 
+testament to the importance and relevance of taking 
+a demand-driven approach. Whilst the rights-based 
+element is present and progress is being made, a 
+strong inclusion focus regarding disability is not clear. 
+The primary challenge with programme relevance 
+is to ensure that alignment is sufficiently 
+detailed. The prime indicators of this lack of detail 
+are seen in the regional- and country-level Theories 
+of Change and their accompanying programme plans 
+and results frameworks. A gap exists within these 
+documents between the intermediate outcomes 
+and the assumptions, risks and mitigating strategies. 
+Additionally, they lack localised nuance which limits 
+their capacity to act as a foundation for plans that 
+promote and support effective, inclusive and 
+sustainable change.
+COHERENCE 
+There are important examples of governments 
+institutionalising WASH in schools in line with 
+the Three Star Approach which is a significant 
+achievement. Generally, this is tied into strong 
+buy-in from different ministries. This includes some 
+governments requesting roll-out nationwide, a key 
+opportunity to improve WASH for thousands of 
+children. Communities and schools broadly do not 
+have name recognition of the Three Star Approach, 
+and whilst they are eager to improve WASH 
+standards, they do not have the financial capacity to 
+do so. 
+Development partners and other actors in the 
+WASH sector have a general understanding of 
+the Three Star Approach and mostly work in line 
+with it. Strategic, capacity-informed partnerships 
+have not been witnessed, with international non-
+government organisations and other stakeholders 
+in the region used more as implementing bodies. 
+Questions around ‘why’, ‘who’, and ‘how’ seem to 
+be rarely considered when working with partners. 
+EFFICIENCY
+Whilst resources for the WASH in Schools 
+programme have been adequate for the initial 
+phase of the programme, there are serious 
+challenges to the quantity, level, quality and 
+timeliness of resourcing, implementation, and 
+management of activities to ensure that gains can 
+be sustained and built on.
+Systemic weaknesses due to limited capacities 
+and supply and resource chains seriously impact 
+the programme and both weaken and damage 
+the areas of strength in approach and buy-in from 
+government, schools and communities.  Addressing 
+these weaknesses starts with the theoretical 
+underpinning 
+of 
+the 
+programme 
+at 
+regional 
+and country levels. There is a clear challenge of 
+budgeting for operations and maintenance (O&M), 
+with a need to embed financing of school facilities 
+and infrastructure into the cost of improvements for 
+schools. Systemic and structural challenges need 
+to be considered in programme planning with due 
+attention paid to threats and challenges to efficiency.
+EFFECTIVENESS 
+There is clear evidence that pilot schools have 
+experienced improvements in their star ratings, 
+reflecting an improvement in WASH behaviours, 
+and this has also been seen within gender-related 
+WASH outcomes. Additionally, there has been 
+significant policy reform and improvements in the 
+enabling environment that bolster WASH in schools. 
+The lack of WASH infrastructure at both school and 
+community level however is a major constraint to 
+further improvement.
+There has been little progress responding to 
+the unique needs of children with disability, 
+due to many stakeholders holding a simplistic view 
+of disability - guidance notes on the Three Star 
+Approach reflect this (e.g., exclusively referring to 
+people in wheelchairs). Monitoring and reporting 
+across the Three Star Approach are not adequate, 
+which hinders data-informed decision making and 
+building intra-regional learning on what works in the 
+Pacific context. 
+SUSTAINABILITY 
+The Three Star Approach for WASH in Schools 
+in the Pacific contains sustainable elements, 
+however a more targeted strategy is required 
+in order to ensure that gains do not revert 
+back, particularly considering the pace of roll-
+out. Components that do reflect sustainability 
+are the development of ‘change makers’ in host 
+governments, progress within advocacy for improved 
+menstrual hygiene management (MHM) and the 
+simplicity inherent in the design itself. One concern 
+for sustainability is around the lack of detailed 
+strategy for wider roll-out, particularly in Vanuatu 
+and Kiribati, as vast amounts of finances, technical 
+capacity and human resources will be needed to 
+make the implementation a success.  
+Challenges are caused primarily by supply-side 
+constraints, as communities, students and schools 
+are seen as largely incapable of self-advocating 
+effectively to improve WASH infrastructure. There 
+are some good examples of U Report, UNICEF’s 
+social messaging and data collection tool, being 
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+9
+Final Report
+used to mobilise community ‘voice’, and this could 
+be strengthened further along with other community 
+reporting mechanisms. Vulnerable children, parents 
+and their communities with limited resources often 
+prioritise other needs. Whilst the approach is robust 
+and well-situated, further thinking is required to build 
+sustainability to ensure its ongoing impact. 
+RECOMMENDATIONS 
+Construct practical and robust Theories of Change 
+in which assumptions, context and partnerships 
+are well-grounded. 
+This evaluation recommends that new Theories 
+of Change should be developed that reflect best 
+practice and are based on WASH Bottleneck 
+Analyses conducted at both regional and country 
+levels. Specific focus should be paid to programme 
+risks and assumptions that are then tested in an 
+iterative manner and updated as necessary.  
+Develop 
+sufficiently 
+detailed 
+and 
+relevant 
+programme 
+indicators 
+and 
+ensure 
+timely 
+monitoring and reporting against them. 
+These should be derived from and explicitly linked to 
+the Theories of Change. Increasing the requirements 
+for formal internal monitoring and reporting in a 
+consistent manner across the Pacific will improve 
+data-informed programming and build a greater 
+evidence body on the Three Star Approach for 
+implementing Pacific Island countries and other 
+stakeholders. 
+Build research base and develop a UNICEF-
+specific approach to the ‘scale up’ process of the 
+Three Star Approach. 
+This recommendation is critical for all programming 
+but is particularly pertinent for Vanuatu and Kiribati 
+(as they aim for national roll-out). This evaluation 
+recommends 
+that 
+UNICEF 
+robust 
+outcome 
+harvesting approaches to build an understanding of 
+what works in scale up the Three Star Approach in the 
+Pacific and where possible advocate for larger pilots 
+and more rigorous testing for further refinement of 
+tools and strategies.
+Centre the importance of disability as a key 
+priority and continue progress being made on 
+gender-related WASH.  
+Develop training for Three Star Approach stakeholders 
+on the diversity of disability and accommodations 
+and adjustments that can (and should) be made to 
+further support inclusion. Continue advocacy efforts 
+for improvements to gender-related standards and 
+MHM education and infrastructure. Consider further 
+research into options for the provision of MHM 
+supplies, including school budgetary requirements 
+and culturally appropriate sustainable alternatives. 
+Share good practice on O&M and consider 
+mandatory 
+requirements 
+for 
+them 
+to 
+be 
+embedded in school management. 
+Continue to amalgamate contextualised examples 
+of strong O&M in practice and support the 
+development of alternative approaches to O&M 
+during the design phase, including consideration for 
+more expensive facilities that may have lower O&M 
+costs in the longer term. Continue to advocate to 
+government partners for either i) the provision of 
+budgetary support for O&M or ii) if not possible then 
+provide increased trainings for school management 
+committees on how to budget for O&M. 
+Build local ownership and sustainability through 
+maximising the voice of rights holders. 
+Build recognition and usage of UNICEF’s social 
+messaging and data collection tool U-Report and 
+develop analogue ways of collecting and responding 
+to feedback from children and young people. Utilise 
+teachers, parent teacher associations and other 
+school community-based groups to push initiatives 
+and collect and respond to their feedback on the 
+implementation of the Three Star Approach. 
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+10
+Final Report
+1. INTRODUCTION
+This is the final evaluation report for the 
+formative, theory-based evaluation of the Three 
+Star Approach for Water, Sanitation and Hygiene 
+(WASH) in Schools in the Pacific region. The 
+Three Star Approach was launched in 2013 with 
+the publication of a Field Guide to its application 
+(UNICEF & GIZ, 2013). The approach aims to address 
+bottlenecks that obstruct the effectiveness and 
+expansion of WASH in Schools programmes in 
+particular countries, so that all schools can meet the 
+applicable national WASH standards. In the Pacific, 
+UNICEF, with its implementing partners, has rolled 
+out the approach in Fiji, Solomon Islands, Vanuatu, 
+Kiribati and Federated States of Micronesia (FSM). It 
+is designed to be “simple, scalable and sustainable” 
+and can be tailored for implementation in different 
+contexts to advance the effectiveness of hygiene 
+behaviour change programmes (UNICEF & GIZ, 
+2013).
+This final evaluation report sets out the evaluation 
+context, purpose, scope, methodology, findings, 
+conclusions and recommendations. 
+1.1 Context 
+1.1.1 Global and Regional Context
+Five years into the Sustainable Development 
+Goals (SDGs) and the world is not on track 
+to achieve WASH-related targets 6.1 (drinking 
+water) and 6.2 (sanitation and hygiene) (WHO, 
+2021). This situation is reflected in the Pacific, as the 
+current rate of progress will be too slow to achieve 
+the targets by 2030 (World Health Organisation and 
+UNICEF, 2021c). 43% of the Pacific population lack 
+access to basic water services and large disparities 
+exist within the region (World Health Organisation 
+and UNICEF, 2021b). For example, 90% of Tonga’s 
+population has access to basic or safe water 
+services in comparison to only 45% of Papua New 
+Guinea’s population (World Health Organisation and 
+UNICEF, 2021a). Inequalities within countries are 
+also present, with significant distinctions between 
+remote, rural and urban areas and across ethnic and 
+social-economic divides (World Health Organisation 
+and UNICEF, 2021c). Women, people with disabilities 
+and indigenous groups are all more likely to face 
+barriers to adequate WASH, presenting significant 
+intersectional equity issues (WaterAid, 2016). 
+Pressing threats such as natural disasters 
+and increasing impacts of climate change are 
+exacerbating 
+pre-existing 
+vulnerabilities 
+in 
+the region. Freshwater resources are becoming 
+rarer across the Pacific (McLeod & Bruton-Adams, 
+2019), and the spread of disease such as the 
+COVID-19 has demonstrated the vital importance 
+of robust hygiene practices (Centers for Disease 
+Control and Prevention, 2020). The impact on the 
+health and education of children costs Pacific 
+Island countries dearly in foregone Gross Domestic 
+Product (GDP) and restricts their ability to achieve 
+the Sustainable Development Goals (SDGs) (World 
+Health Organisation, 2015). A range of challenges 
+are present in Pacific Island countries in relation to 
+improving WASH in schools, including geography, 
+restricted government capacity and insufficient 
+infrastructure as is further explored in Section 1.1.2 
+(Love et al., 2020). 
+UNICEF supports governments in accordance 
+with its mandate to advocate for the protection 
+of children’s rights. To strengthen WASH for 
+children, schools are a logical entry point. WASH in 
+Schools is directly linked into the SDGs, specifically 
+Targets 4.a, 6.1 and 6.2. Children spend a significant 
+portion of their day at school, where WASH services 
+can impact student health, learning and dignity. 
+Therefore, UNICEF’s support has a strong focus 
+on strengthening WASH in schools. The Three 
+Star Approach for WASH in Schools has been 
+developed to address context-specific challenges 
+and bottlenecks to strengthening WASH in schools, 
+and also empower children to be agents of change 
+in their homes and communities. The report further 
+details the framework of the approach Section 1.2.  
+The COVID-19 pandemic has severely impacted 
+the Pacific, as with the rest of the world. On the 
+11th of March 2020, the World Health Organisation 
+(WHO) declared a global pandemic due to the SARS-
+CoV-2 respiratory illness (COVID-19). At the time 
+of writing, 4.5 million people have died globally as 
+a result. Throughout 2020, thanks to its relative 
+geographic isolation, the Pacific Islands remained 
+relatively unscathed through a series of strict national 
+lockdowns and major travel restrictions (Pryke, 
+2021). This has come at significant economic cost 
+to Pacific Island countries, with tourism and exports 
+suffering greatly. 
+The COVID-19 context in the Pacific is changing 
+rapidly at the time of this report (August 2021). 
+Towards the end of 2020, Vanuatu declared its first 
+case which resulted in the main island going into 
+lockdown (The Pacific Community, 2021). In March 
+2021, Papua New Guinea reported a significant 
+surge in cases. In May 2021, a growing cluster of 
+cases on the island of Viti Levu, Fiji (where capital 
+Suva is located) pushed the Fijian Government 
+to declare a lockdown (Movono, 2021). Solomon 
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+11
+Final Report
+Drink Water
+• No service
+• Insufﬁcient data
+• Limited
+• Basic
+Sanitation
+• No service
+• Insufﬁcient data
+• Limited
+• Basic
+Hygiene
+• No service
+• Insufﬁcient data
+• Limited
+• Basic
+Drinking Water
+Coverage (%)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Sanitation
+Hygiene
+Islands, Kiribati and FSM have been impacted by 
+regional lockdowns through the loss of tourism 
+and export trade but are yet to report a death 
+from COVID-19 (The Pacific Community, 2021). 
+Economists predict the pandemic-related economic 
+recession will last several years and will invariably 
+place a squeeze on bilateral and multilateral aid to 
+the region (Brown, 2021). Public health specialists 
+predict that herd immunity through vaccination could 
+take several years to cover the diverse and dispersed 
+Pacific population (Natalegawa & Bismonte, 2021). 
+As the vaccination roll-out continues in the Pacific, 
+it remains critical to bolster hygiene practices to 
+prevent the spread COVID-19 (Centers for Disease 
+Control and Prevention, 2020).
+1.1.2 WASH Bottlenecks in Evaluation 
+Countries 
+Efforts to improve WASH in the Pacific face a 
+range of challenges, including the geography 
+of the region. The region is made up of multiple 
+groups of islands and/or atolls spread across vast 
+stretches of ocean.  Typically, the population is 
+concentrated on one or more “core” islands, which 
+usually contain the national capital and are the most 
+urbanized areas, with the highest concentration of 
+employment and educational opportunities (Levine, 
+n.d.). This creates distinct difference between urban 
+and rural populations with children growing up in 
+highly contrasted environments. Land area tends to 
+be very limited and space for school infrastructure is 
+often limited. Many Pacific Island territories exceed 
+1,000,000 square kilometres, bringing considerable 
+transport hurdles. The widely dispersed nature of 
+many Pacific Island countries makes the delivery 
+of core government services challenging, including 
+WASH. 
+As evidenced in Figure 1, basic / sufficient WASH 
+in Schools is far from widespread, with 43.84% 
+of students in Oceania1 having no access to 
+hygiene at school. Access to basic levels of drinking 
+water and sanitation at school are relatively equal, 
+with 48.34% and 47.07% respectively. Hygiene in 
+schools is comparatively behind, with 16.97% of 
+the population having basic access at school. Some 
+bottlenecks / challenges to universal WASH in schools 
+are listed below, however the list is not exhaustive. 
+Lack of access to drinking water at schools is 
+common in the Pacific region. 43.48% of schools 
+report no water service (as seen in Figure 1) (UNICEF 
+& WHO, 2021). Access to improved drinking water 
+is higher at the household-level (57.35%), however 
+the irregularity / inequity of access impacts children’s 
+health due to increased likelihood of drinking 
+contaminated water, which is linked to illness 
+and death (UNICEF Pacific, 2017c). Children at 
+schools without improved water sources are more 
+likely to get their water from surface water, rivers, 
+lakes, unprotected dug wells and ponds. This is a 
+significant issue, as evidenced by diarrheal diseases 
+being the sixth most common cause of death in 
+Solomon Islands (Asian Development Bank, 2019). 
+Water scarcity at school has been identified by World 
+Vision as a key cause for student absenteeism (due 
+to illness) as well as student dropout rates  (World 
+Vision, 2021). 
+Weather events and the increasing impacts of 
+climate change is negatively impacting WASH 
+outcomes, including in schools. Maintaining 
+progress in WASH in schools is negatively impacted 
+through extreme weather events resulting in 
+damaged and destroyed facilities (toilets and 
+Figure 1: 	 Oceania WASH in School Data (UNICEF & WHO, 2021)
+	
+School data - SDG regions - Oceania - 2019 - Service Levels
+1	 SDG regions = Oceania is the Pacific without Australia and New Zealand, which are reported on separately.
+
+Formative Evaluation of UNICEF Three Star Approach for WASH in Schools in the Pacific
+12
+Final Report
+rainwater catchment facilities). Communities have 
+limited resources to repair damage, which has 
+significant impacts in countries like Solomon Islands 
+where the majority of schools are community-built 
+and maintained. The effects of climate disasters on 
+fragile freshwater resources are especially critical. 
+Kiribati’s capital Tarawa has limited freshwater 
+resources and combining with increased climate 
+variability has resulted in increased threat of water 
+scarcity, putting pressure on schools’ ability to 
+provide water for both drinking and handwashing 
+(World Bank, 2019). Most of Vanuatu’s islands have 
+little permanent freshwater, and lower-lying islands 
+are dependent on groundwater, harvested rainwater 
+or freshwater lenses, all likely to be disrupted by 
+changing rain patterns (Future Directions, 2019). 
+Access to adequate sanitation is limited due 
+to insufficient infrastructure. Open defecation 
+is still reported to be practiced amongst 44.79% 
+of households in Solomon Islands (UNICEF & 
+WHO, 2021). A recent outbreak of cholera in 2020 
+on Pohnpei Island in FSM affected approximately 
+3,500 people and was the result of poor wastewater 
+management (Pacific Water, 2020). Significant 
+disparities exist between rural and urban populations 
+(Anderson et al., 2019). Handwashing stations with 
+soap for regular handwashing are available in only 
+26% of schools in Solomon Islands (UNICEF & WHO, 
+2021). WHO has linked poor sanitation in schools 
+with reduced well-being, social and economic 
+development and lost educational opportunities for 
+students (WHO, 2019). 
+Girls face significant challenges to manage 
+menstruation effectively with dignity at school, 
+which contributes to absenteeism. A study 
+conducted by the Burnet Institute identified pervasive 
+taboo surrounding menstruation across the Pacific, 
+including ongoing beliefs of it being ‘dirty’ which 
+creates ongoing stigma resulting in poor hygienic 
+management and feelings of humiliation from girls 
+(Mohamed et al., 2017). Schools in the region can 
+be inadequate to meet menstruating girls’ needs, 
+including lack of toilets, safe disposal options, soap 
+and water (Mohamed et al., 2017). In Fiji, girls report 
+a lack of understanding of menstruation, and report 
+that menstruation reduces their participation in class 
+and attendance at school (Francois et al., 2017). This 
+absenteeism, amongst other negative impacts of 
+stigma around menstruation, poses a threat to girls’ 
+educational attainment (Benshaul-Tolonen et al., 
+2020). 
+Supply, transport and topography are key 
+elements to improving WASH in schools in the 
+Pacific. Countries such as Fiji and Kiribati are made 
+up of a large number of small islands and navigating 
+the logistic and financial constraints to delivering 
+improved WASH infrastructure cannot be ignored. 
+Modes of transport, including inadequate road 
+connections and the need for boats, make logistics 
+difficult for critical water infrastructure across the 
+region, as transporting items such as water tanks 
+needed for schools can be extremely challenging. 
+Access to markets and supply chains in the Pacific 
+region is costly due to the geographic disparity of 
+the countries and this impacts schools’ access and 
+affordability of WASH infrastructure and maintenance 
+(Anderson et al., 2019). 
+Regional economic and governmental factors 
+are linked with lack of universal safe WASH in 
+schools. The Pacific region has small economies, 
+as evidenced by low GDPs throughout the region 
+(Worldometer, 2020). This negatively impacts on 
+available finances to improve WASH infrastructure 
+and embed operations & maintenance practices. 
+Adequate WASH in schools relies heavily on 
+government funding, policies and guidance. Funding 
+allocations for WASH from central governments 
+across the region have largely been inadequate (Asian 
+Development Bank, 2020). The Pacific region has a 
+frequent lack of (i) sector policies and regulations for 
+schools to provide WASH infrastructure and (ii) clearly 
+defined roles and responsibilities of government 
+agencies to address WASH, including WASH in 
+schools (WASH Reference Group, 2020). 
+Knowledge and information around WASH acts 
+as a limiting factor on quality WASH in schools. 
+WASH practices and menstruation have been 
+included in many Pacific Island school curriculums, yet 
+teachers report feeling ill-equipped or uncomfortable 
+around teaching these topics (Anderson et al., 2019). 
+Widespread knowledge around the importance of 
+handwashing and sanitation relating to the spread 
+diseases is an ongoing gap across Pacific Island 
+populations (MacDonald et al., 2017). Capacity 
+constraints across all levels of governance have 
+been identified by the WASH Reference Group as 
+a critical challenge to overcome to improve WASH 
+in the Pacific (WASH Reference Group, 2020) and 
+this is further exacerbated by high staff turnover 
+(Secretariat of the Pacific Regional Environment 
+Programme, 2021). 
+1.1.3 Country Contexts 
+The Three Star Approach has been implemented by 
+UNICEF in Fiji, Kiribati, Solomon Islands, Vanuatu 
+and the FSM. These are the five focus countries 
+for this evaluation. The most up-to-date information 
+regarding the country WASH contexts are included 
+in Tables 1, 2, 3, 4 and 5 (World Health Organisation 
+and UNICEF, 2021c) and their Human Development 
+Indexes (United Nations Development Programme, 
+2020). WASH in Schools data from each target 
+country is included in Figure 2.

@@ -1,0 +1,926 @@
+Multi-Country Evaluation of the UNICEF 
+Early Childhood Development response 
+to COVID-19 in Europe and Central 
+Asia region 
+ 
+Country Report: Georgia 
+Volume 1: Main report 
+January 2022 
+Client: UNICEF ECARO 
+Consultant: Ecorys Poland Sp. z o.o. 
+ 
+
+/ 2 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Note about the Author 
+Key Author: Joanna Smętek (ECORYS Polska Sp. z o.o) 
+The core evaluation team: Dr. Aleksandra Duda (ECORYS Polska Sp z o.o) and Dominika Safin (ECORYS 
+Polska Sp z o.o) 
+Country Researchers: Dr. Natia Gorgadze 
+ 
+Acknowledgements 
+The core team is grateful to the UNICEF Georgia Country Office for their continuous support. We also 
+thank all other persons who shared their experiences and views with us and staff from the UNICEF 
+ECARO Evaluation and ECD teams for their invaluable inputs, guidance, and management of the 
+evaluation. 
+ 
+This is a publication by the independent evaluation team of Ecorys Poland. The analysis and 
+recommendations of this report do not necessarily reflect the views of UNICEF. 
+ 
+ 
+
+/ 3 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Table of contents 
+Acronyms ......................................................................................................................................... 5 
+Executive Summary ........................................................................................................................ 6 
+1.0 
+Introduction ........................................................................................................................... 13 
+2.0 
+Context and purpose of the evaluation ........................................................................... 14 
+2.1 Evaluation background ........................................................................................................................................................................... 14 
+2.1.1 . Overview of UNICEF’s ECD work in Georgia ...................................................................................................... 14 
+2.1.2 Implications of the COVID-19 pandemic for ECD in Georgia .......................................................... 16 
+2.1.3 Key features of UNICEF-supported adaptations of ECD interventions in 
+Georgia 19 
+2.2 Evaluation approach ........................................................................................................................................................ 23 
+2.2.1 Evaluation purpose, objectives, and scope ................................................................................................ 23 
+2.2.2 Evaluation object in Georgia ..................................................................................................................................25 
+2.2.3 Evaluation approach, methodology and limitations ..........................................................................29 
+3.0 
+Findings ................................................................................................................................ 34 
+3.1 Relevance ........................................................................................................................................................................................................ 34 
+3.1.1 
+Relevance to the needs of young children and their families .................................................... 34 
+3.1.2 Relevance to the needs of frontline workers............................................................................................. 39 
+3.1.3 Relevance to the UNICEF’s broader ECD and COVID-19 programming .................................. 41 
+3.2 Effectiveness .......................................................................................................................................................................... 43 
+3.2.1 Effectiveness of the Child Hotline 111 ................................................................................................................ 44 
+3.2.2 Effectiveness of the SMAs ........................................................................................................................................ 49 
+3.2.3 Effectiveness of the pilot training for preschool staff in Adjara ................................................... 51 
+3.2.4 Management and monitoring ............................................................................................................................. 53 
+3.2.5 Enabling environment (policy, cooperation with government) ................................................ 56 
+3.3 Sustainability .......................................................................................................................................................................... 57 
+4.0 Conclusions.......................................................................................................................... 60 
+5.0 Main lessons learned ........................................................................................................... 63 
+6.0 
+Recommendations .............................................................................................................. 63 
+Bibliography .................................................................................................................................................................................. 66 
+
+/ 4 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+ 
+Figures and tables 
+Figure 1: Key steps within each rapid assessment cycle ..............................................................................30 
+Figure 2 % of calls classified as social and health issues and absolute number of issues 
+identified as VAC ...........................................................................................................................35 
+Figure 3 Violence against children identified as topic of helpline calls .....................................................36 
+Figure 4 Reasons provided by women for their negative replies in response to the invitation 
+to the SMA ......................................................................................................................................51 
+ 
+Table 1 Descriptions of the evaluated interventions .....................................................................................26 
+Table 2 Reasons for negative replies to the SMA invitation per region ......................................................39 
+Table 3 SMAs - outreach and attendance .....................................................................................................49 
+ 
+
+/ 5 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Acronyms 
+AAC 
+Augmentative and Alternative Communication 
+ANC 
+Antenatal care 
+ASCA 
+Agency for State Care and Assistance to the Victims of Human Trafficking 
+CO 
+Country Office 
+CP 
+Child Protection 
+CSO 
+Civil society organization 
+ECA 
+Europe and Central Asia 
+ECD 
+Early childhood development 
+ECE(C) 
+Early childhood education (and care) 
+ECI 
+Early childhood intervention 
+EI 
+Early Intervention 
+GoG 
+Government of Georgia 
+IPC 
+Infection prevention and control  
+KII 
+Key informant interview 
+MICS 
+Multiple indicator cluster survey 
+MoESCS 
+Ministry of Education, Science, Culture and Sport 
+MoH 
+Ministry of Health 
+MoIDPLHSA  
+The Ministry of the Internally Displaced Persons from the Occupied Territories, Labor, 
+Health and Social Affairs 
+NCDC 
+National Center for Disease Control 
+NCTPD 
+National Center for Teacher Professional Development 
+NGO 
+Non-governmental organization 
+PPE 
+Personal protective equipment 
+RO 
+Regional Office 
+ToR 
+Terms of Reference 
+TSA 
+Targeted social assistance 
+UNICEF  
+United Nations Children’s Fund 
+VAC 
+Violence Against Children 
+WASH 
+Water, sanitation, and hygiene 
+WHO 
+World Health Organization 
+
+/ 6 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Executive Summary 
+Evaluation purpose, objectives, and scope  
+Evaluation 
+purpose: 
+The 
+evaluation’s 
+overarching purpose was to provide UNICEF 
+Country Offices (COs), UNICEF Europe and 
+Central Asia Regional Office (ECA RO) and 
+national governments and partners with a 
+critical assessment of the key adaptations 
+made in UNICEF’s Early Childhood Development 
+(ECD) programs in the Europe and Central Asia 
+region to meet the needs of young children and 
+families in the context of COVID-19. The 
+secondary purposes were to: (i) generate 
+insight to inform further development of the 
+evaluated ECD activities and (ii) to provide 
+evidence to inform future ECD efforts in similar 
+emergencies. The evaluation was carried out in 
+four countries, including Georgia. 
+Evaluation scope: The evaluation focused on 
+interventions which were introduced directly in 
+response to COVID-19 or adapted to its realities; 
+entailed capacity building or information 
+support for frontline workers; and were viewed 
+by a given UNICEF CO as useful to have 
+feedback on for future programming.  
+In response to the UNICEF Georgia CO’s needs, 
+the evaluation mainly focused on the Child 
+Hotline 111. The service provides children and 
+parents 
+with 
+psychological 
+counseling, 
+information 
+about 
+and 
+referral 
+to 
+other 
+services. Two more interventions – Shared 
+Medical Appointments (SMAs) and the pilot 
+training for preschool staff in Adjara – were also 
+analyzed for this country report, but with less 
+depth. The former entailed providing antenatal 
+care for pregnant women through online group 
+medical appointments carried out by some of 
+the 
+best 
+doctors 
+in 
+the 
+country.  
+The latter was a training programme delivered 
+in selected kindergartens in Adjara, planned 
+already pre-COVID and moved online when the 
+pandemic hit.  
+All selected interventions were assessed with 
+the view to their relevance, effectiveness, and 
+sustainability. However, the conclusions related 
+to the SMAs and the pilot training are weaker in 
+strength as they were not part of in-depth 
+analysis and are based on limited data .  
+Evaluation methodology  
+Evaluation approach: The evaluation process 
+followed 
+a 
+developmental 
+evaluation 
+approach due the dynamically changing 
+context 
+of 
+the 
+evaluated 
+interventions.  
+The 
+approach 
+also 
+incorporated 
+some 
+elements of a formative evaluation to highlight 
+how well the adapted or new initiatives are 
+working. During the evaluation, a simplified 
+theory of change (ToC) for the Child Hotline 111 
+was developed.  
+Data collection: The methodology for this 
+evaluation was characterized by short cycles of 
+data collection and analysis, timely feedback, 
+and evaluative synthesis and reflection. A mix 
+of 
+qualitative 
+and 
+quantitative 
+research 
+methods was used to collect and analyze the 
+data. Desk research encompassed primary 
+and secondary sources concerning ECD in 
+Georgia, UNICEF’s programme and COVID-19 
+related activities in the country, as well as the 
+three evaluated interventions specifically. Two 
+cycles of data collection related to the Child 
+Hotline 111 were conducted. The first included a 
+survey with all frontline workers and key 
+informant 
+interviews 
+(KIIs) 
+with: 
+frontline 
+workers, 
+implementing 
+partners, 
+selected 
+governmental officials, local leaders of public 
+services and UNICEF CO’s staff. The second 
+cycle included  KIIs with representatives of state 
+
+/ 7 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+institutions, with representatives of the NGO 
+sector, with UNICEF CO staff and with frontline 
+workers. A reflection workshop was held in May 
+2021 from which takeaways were recorded. Two 
+additional KIIs with representatives of UNICEF 
+CO were also conducted to gather primary 
+data on the SMAs and the pilot training in 
+Adjara. 
+Context  
+UNICEF programming: UNICEF Georgia CO 
+carries out numerous activities in the country, 
+including in the ECD area. The overarching goal 
+of the UNICEF 2016-2020 country programme is 
+to support Georgia to accelerate the universal 
+realization of child rights by fostering greater 
+social inclusion of the most deprived children 
+and by reducing disparities and inequities 
+affecting children and their families. ECD falls 
+predominantly within the “young child survival 
+and development” component of the country 
+programme. 
+Over the years, UNICEF CO has been supporting 
+Georgian authorities in creating a conducive 
+and nurturing environment for children in line 
+with the Convention on the Rights of the Child. 
+This includes collaboration with the Georgian 
+Parliament on developing the Code on the 
+Rights of the Child. UNICEF CO has also been 
+working on increasing infant and maternal 
+survival by strengthening the quality of health 
+services during pregnancy, delivery, and post 
+delivery. This has entailed the implementation 
+of the Mother and Child Health Programme. 
+UNICEF CO collaborated with the government 
+of Georgia (GoG) on developing the Law on 
+Early and Preschool Education and Care and 
+has continued to work on its implementation 
+and expansion of quality early childhood 
+education (ECE). UNICEF’s programme in 
+Georgia emphasizes the needs of vulnerable 
+children, including particularly children with 
+disabilities.  
+Implications of COVID-19 for ECD in Georgia: 
+The pandemic has significantly impacted 
+children’s access to ECE and shifted much of 
+the burden onto family members, especially 
+mothers. During the pandemic, children have 
+born 
+the 
+consequences 
+of 
+increasing 
+economic struggles of their families. Financial 
+difficulties have had a negative impact on 
+household 
+spending, 
+especially 
+on 
+food 
+expenses. Additionally, limited availability of 
+social services had profound consequences 
+for children requiring assistance, especially 
+children with disabilities. The pandemic also 
+highlighted the risks for children in foster care 
+and 
+specialized 
+institutions. 
+Aside 
+from 
+children, another group that was affected by 
+the ongoing pandemic includes the ECD 
+frontline workers, such as health workers, 
+preschool 
+teachers, 
+early 
+intervention 
+practitioners, social workers, etc.  
+Key features of adaptations to COVID-19: 
+UNICEF Georgia has supported the GoG and 
+cooperated with multiple other partners in 
+responding to the immediate challenges of 
+COVID-19 pandemic for young children and 
+their families. It has provided support in the 
+form of: educational and awareness-raising 
+resources or campaigns pertaining to ECD; 
+provision of equipment, including personal 
+protective equipment, hygienic materials, as 
+well 
+as 
+other 
+supplies 
+contributing 
+to 
+strengthening the ECD services; providing 
+advice to the GoG, technical assistance and 
+information generation and sharing. Many of 
+those efforts concentrated on infant and 
+maternal healthcare, but also focused on 
+building 
+the 
+capacity 
+of 
+frontline 
+staff, 
+including those whose work included partially 
+or exclusively support to ECD. Some responses 
+to 
+COVID-19 
+are 
+more 
+systemic 
+and 
+comprehensive, creating foundations for other 
+fundamental 
+improvements 
+in 
+services 
+supporting ECD. Other responses constitute 
+
+/ 8 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+new 
+services 
+which 
+can 
+help 
+address 
+pandemic-related challenges (e.g. the need 
+for social distancing), but are not solely 
+COVID-19 adaptation. These include UNICEF-
+supported Child Hotline 111 and SMAs, both the 
+object of this evaluation. In line with its 
+programming, 
+throughout 
+its 
+pandemic-
+related activities, UNICEF has maintained a 
+strong focus on the most vulnerable children 
+and their families, such as ethnic minorities, 
+Roma 
+communities, 
+and 
+children 
+with 
+disabilities. Much of the support activities have 
+also been directed at Abkhazia. 
+Key findings 
+Relevance: By using the remote delivery mode, 
+the 
+evaluated 
+interventions 
+allowed 
+for 
+continuous provision of ECD services during 
+the 
+COVID-19 
+pandemic. 
+However, 
+the 
+collected evidence shows that the online 
+mode used for SMAs and the pilot training has 
+also imposed limitations on access and 
+content. Online SMAs excluded those pregnant 
+women without appropriate ICT infrastructure 
+and equipment. UNICEF statistics show that 421 
+negative replies were based on this reason. In 
+the case of the pilot training, the online mode 
+made 
+delivery 
+of 
+practical 
+components 
+difficult, as highlighted by the final project 
+report. 
+Fortunately, 
+when 
+possible, 
+the 
+intervention 
+also 
+incorporated 
+in-person 
+classes.  
+Both desk research and interviews showed 
+that the interventions address systemic gaps 
+in Georgia regarding the lack of: child-related 
+service integration – in the case of Child 
+Hotline 111; health education and promotion – 
+for SMAs and low preschool staff knowledge 
+and 
+competences 
+(e.g. 
+regarding 
+legal 
+standards, child-friendly play, or inclusive 
+education) – for the pilot training in selected 
+kindergartens in Adjara.  
+The survey with Child Hotline 111’s frontline 
+workers shows that the service is relevant to 
+the needs of young children and their families. 
+Available statistical data reveals that the 
+hotline is primarily a reference point for social 
+issues 
+(such 
+as 
+food 
+provision, 
+cash 
+assistance). According to the interviewed 
+stakeholders, the Child Hotline 111 could also be 
+relevant as a mechanism integrating and 
+coordinating child-related services, as well as 
+monitoring children’s needs and systemic 
+bottlenecks in service provision.  
+There are some indications that the SMAs were 
+relevant for participating pregnant women, 
+although 
+more 
+evidence 
+is 
+required 
+to 
+understand the benefits. Additionally, the 
+majority of reached women either declined the 
+invitation to participate or resigned at a later 
+stage. This could point to a lack of relevance to 
+some women, but also potentially other 
+underlying 
+mechanisms. 
+Therefore, 
+more 
+research would be beneficial to understand 
+the reasons for resignations.   
+The satisfaction survey with participants 
+shared by UNICEF showed that the pilot 
+training was relevant to the needs of frontline 
+workers, including preschool support staff (76% 
+of surveyed participants stated that the 
+coaching was very interesting, while 11% that it 
+was mostly so). Desk research showed, in turn, 
+that the component devoted to open-ended 
+resources 
+and 
+adjusting 
+the 
+physical 
+kindergarten environment was also highly 
+relevant considering dire systemic needs.   
+Finally, desk research also confirmed that all 
+evaluated interventions fit well within UNICEF’s 
+ECD priorities. 
+Effectiveness: Evidence on effectiveness was 
+more limited than on relevance, especially in 
+the case of SMAs and training for preschool 
+staff in Adjara as pilot interventions. For those 
+interventions, there is a need for more 
+documentation and research. 
+
+/ 9 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Hotline operators believe that the Child Hotline 
+111 has contributed to an improved access to 
+services for children and caregivers during the 
+pandemic. The one-stop-shop character of 
+the service was considered as its main 
+advantage. Based on the data, it is difficult to 
+assess whether all social groups in Georgia 
+have equal access to the Child Hotline 111, 
+although most surveyed operators believe this 
+has been the case. There was no targeted 
+campaign to reach the most vulnerable 
+children, while collected evidence suggests 
+that the general information campaign was 
+limited.  
+According to surveyed operators, the Child 
+Hotline 111 can largely address the callers’ 
+needs, when these can be tackled internally. 
+When external actors such as municipalities 
+need to be involved, effectiveness can be 
+lower. 
+The 
+surveyed 
+operators 
+and 
+interviewees perceive the barriers to hotline’s 
+effectiveness as mostly external, e.g. poor, or 
+lacking services in Georgia, lack of cooperation 
+from external service providers, especially 
+municipalities (both on service provision, but 
+also information sharing). However, internal 
+factors seem to play a significant role as well. 
+These 
+include 
+technical 
+and 
+procedural 
+shortcomings (e.g. lack of an internal and 
+external 
+monitoring 
+systems, 
+standard 
+operating procedures, referral pathways), staff 
+competence 
+gaps 
+and 
+lack 
+of 
+training 
+opportunities, lack of systemic links to other 
+hotlines 
+and 
+services. 
+These 
+internal 
+challenges translate particularly into the 
+hotline’s still very limited effectiveness as a 
+monitoring 
+mechanism 
+for 
+increasing 
+knowledge on the beneficiaries’ needs and 
+bottlenecks in service provision. The evaluation 
+clearly 
+shows 
+the 
+need 
+for 
+further 
+development of the Child Hotline 111 and its 
+integration with other services. This is to be 
+tackled in the work of the international and 
+local consultants hired by UNICEF.  
+Most pregnant women in Georgia were 
+effectively reached with invitations for SMAs 
+and 
+eventually 
+1,244 
+pregnant 
+women 
+participated, which can be considered as 
+promising in view of the pilot character of this 
+intervention. At the same time, 55% of women 
+reached declined participation. So, while the 
+SMAs 
+display 
+potential 
+to 
+support 
+ANC 
+provision at times of crisis, such as the COVID-
+19 pandemic, there is still much to be learned 
+about this service. The data for SMAs do not 
+allow for authoritative conclusions on how 
+effective 
+the 
+intervention 
+has 
+been 
+in 
+increasing the participants’ knowledge and 
+awareness.  
+The lack of pre- and post-assessments means 
+that definitive conclusions on the effectiveness 
+of 
+the 
+pilot 
+training 
+in 
+increasing 
+the 
+participants’ knowledge and awareness are 
+not possible either. However, the pilot training 
+was comprehensible for participants. Most of 
+the survey respondents (80%, n=46) stated 
+that everything was clear or that the content 
+was mostly understandable (15%, n=7). Some 
+evidence collected shows the potential for 
+participants to use the new knowledge and 
+skills in practice. As the final project report 
+shows, the training changed the physical 
+environment in some of the kindergartens and 
+created 
+conditions 
+for 
+further 
+positive 
+changes. Resources were also produced, such 
+as videos, which may be used for future 
+education, awareness-raising, and advocacy 
+activities. However, as desk research shows, in 
+terms of achieving systemic changes in 
+preschool 
+practices, 
+the 
+pilot 
+training’s 
+effectiveness will be challenged by systemic 
+deficiencies in the preschool sector (e.g. poor 
+infrastructure and resources, excessive staff 
+workload and group size, and extremely low 
+staff remuneration). 
+The evaluated interventions benefited from 
+various enabling factors, such as legal and 
+policy 
+framework, 
+governmental 
+support, 
+resources. Some of the hindering factors have 
+included lack of cooperation (e.g. with non-
+governmental 
+actors), 
+infrastructural 
+deficiencies, or negative attitudes.  
+
+/ 10 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+The evaluation also showed that for all 
+assessed 
+interventions 
+M&E 
+components 
+should be strengthened for better monitoring 
+of 
+results 
+and 
+potential 
+contribution 
+to 
+outcomes.  
+Sustainability: 
+Strong 
+involvement 
+of 
+governmental and/or regional actors in all 
+evaluated 
+interventions 
+creates 
+better 
+prospects 
+for 
+their 
+sustainability 
+and 
+opportunities for the interventions to have 
+deeper and wider effects.  
+The Child Hotline 111 can contribute to the 
+resilience of services for children, as its default 
+remote character allows it to withstand crises, 
+such as the COVID-19 pandemic. By serving as 
+a one-stop-shop for children and caregivers, it 
+has the potential to integrate the work of 
+diverse service providers and thus increase 
+efficiency of the system. The potential for 
+service sustainability is increased by the 
+support of various authorities (including the 
+Georgian Parliament) and implementation 
+and financing by the government.   
+The evaluation revealed that SMAs could work 
+as a service for health education and 
+promotion on subjects that are less personal in 
+nature, offering long-term efficiency and some 
+resilience 
+against 
+emergencies. 
+However, 
+phoning all pregnant women to invite them to 
+SMAs is not a sustainable recruitment option.  
+The pilot training is now being led by the TPDC, 
+a legal entity of public law of the Ministry of 
+Education, 
+Science, 
+Culture 
+and 
+Sport 
+(MoESCS), 
+which 
+increases 
+its 
+potential 
+sustainability. Given that the TPDC is the focal 
+agency for determining in-service training 
+requirements for preschool educators, the 
+intervention’s experiences have the potential 
+for 
+programming 
+regular, 
+continuing 
+education for preschool staff. The evaluation 
+showed that the online mode of training can 
+work for theoretical parts of training, but 
+cannot 
+replace 
+practical 
+classes. 
+The 
+combination of both online and offline training 
+can be an optimal solution for ensuring the 
+effectiveness and sustainability of the learning 
+outcomes from future training services, on the 
+one hand, and efficiency in service provision, 
+on the other. 
+ 
+Lessons learned 
+Lesson learned # 1 
+Identification 
+of 
+key 
+stakeholders 
+and 
+securing their participation increases the 
+effectiveness 
+and 
+sustainability 
+of 
+implemented interventions, while lack of 
+these elements constitutes a challenge. The 
+key nature of a stakeholder may result from a 
+number of attributes, such as their legal 
+mandate, specific expertise or resources. For 
+example, in the SMAs, the cooperation with the 
+NCDC and Birth Registry provided access to all 
+pregnant women in the country. By contrast, 
+the 
+challenging 
+cooperation 
+with 
+municipalities – a key stakeholder mandated 
+to deliver child protection services – continues 
+to affect the effectiveness of the Child Hotline 
+111 negatively. For the pilot training in Adjara, 
+the involvement of the TPDC, a focal agency for 
+determining in-service training requirements 
+for preschool educators, opens the door to 
+mainstreaming the results of the project.  
+Lesson learned # 2 
+In emergency contexts, in which there is a 
+need for rapid feedback coupled with limited 
+time for producing new evidence, a good 
+monitoring system is indispensable if timely 
+conclusions are to be generated and lessons 
+drawn. It is therefore advisable to resist the 
+pressure to skip this step or – if this has been 
+the case – quickly mobilize resources to 
+develop such a system, including a minimum 
+necessary indicators and data collection.   
+
+/ 11 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+Lesson learned # 3 
+Online mode of training delivery for preschool 
+staff is not fit for practical components, as it 
+does not allow for observation of in-class 
+dynamics and staff supervision. Delivering 
+capacity-building activities entirely online 
+should therefore be opted for only when face-
+to-face contact is not possible, and hybrid 
+mode should be preferred otherwise, with the 
+theory provided via online classes.  
+Recommendations 
+In line with the evaluation findings in Georgia, we recommend for UNICEF to:  
+I. 
+Continue to support the GoG and regional authorities in Georgia to build an inclusive early 
+childhood education system by developing staff competences and improving the working 
+(and learning) conditions in preschools.  
+Suggestions to operationalize this recommendation include: 
+• Ensuring proper documentation, monitoring and evaluation of the ongoing pilot training for 
+preschool staff in Adjara to use the collected evidence in advocating for systemic solutions 
+to the competency gap in the preschool sector, in particular with respect to inclusive 
+education standards; 
+• Advocating and providing technical assistance for developing and introducing a 
+programme for initial and continuing professional development of preschool staff in 
+Georgia, which would: 
+i. incorporate the experiences of the pilot training (e.g. on combining the online and 
+offline modes of training delivery) and be in line with the newly adopted standards for 
+preschool education; 
+ii. target wider personnel (including preschool support staff); 
+iii. include components devoted to inclusive early childhood education and care and 
+skills for effective communication and interaction with parents; 
+• Advocating and providing technical assistance for an analysis of the preschool staff’s 
+working conditions and needs, and based on the analysis -  development of measures for 
+their improvement, e.g. increasing child-free hours and making investments in 
+infrastructure and equipment, as well as raising staff remuneration. 
+II. 
+Continue to address the structural issues affecting women’s and children’s access to 
+quality health care, including through using and implementing the recommendations from 
+the assessment of the SMAs.  
+III. 
+Continue to support the GoG to further develop the Child Hotline 111 into a fully functional 
+one-stop shop mechanism integrating child-related services in Georgia and a monitoring 
+mechanism providing policy makers with information on those needs and systemic 
+bottlenecks.  
+Suggestions to operationalize this recommendation include advocating and providing 
+technical assistance for: 
+
+/ 12 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: GEORGIA 
+• developing recommendations on the role of the Child Hotline 111 in the overall system of 
+services for children and families, proposing clear leadership and accountabilities across 
+service providers to cooperate with the Child Hotline 111;  
+• developing cooperation mechanisms (e.g. through agreements, memoranda of 
+understanding, coordination councils or other platforms, regular meetings, working groups, 
+conferences, etc.) between the Child Hotline 111 and other child-related service providers, 
+which could foster overall coordination and improvements in child-related services in the 
+country;  
+• developing and implementing legal measures that oblige state institutions to provide 
+information about child-oriented services and their changes to the Child Hotline 111;  
+• creating technical and functional links between the Child Hotline 111 and GoG’s other hotline 
+1505;  
+• developing technical solutions (e.g. joint service databases for service providers) to 
+facilitate integration of and access to knowledge between the Child Hotline 111 and other 
+child-related services, respecting relevant privacy standards; 
+• promoting the Child Hotline 111 services among beneficiaries (children, parents and other 
+caregivers) and potential partners, in particular CSOs providing child-related services. 
+IV. 
+Support the GoG to strengthen the capacity of the Child Hotline 111 to provide quality 
+services to children and families.  
+Suggestions to operationalize this recommendation include advocating and providing 
+technical assistance for: 
+• 
+developing service quality standards and a performance monitoring system with relevant 
+indicators; establishing robust and detailed service guidelines, standard operating 
+procedures and referral pathways, including in cases of violence against children, and 
+follow-up procedures;  
+• 
+ensuring opportunities for Child Hotline 111’s staff to build working relationships with 
+representatives of different service providers (foster people-to-people contacts) to 
+facilitate (increase the effectiveness of) cross-service cooperation;  
+• 
+developing solutions for staff retention, continuous training and supervision to provide an 
+effective response to the calls. 
+V. 
+Conduct an assessment of the SMAs to understand: (i) the benefits they carry for 
+participants; (ii) pregnant women’s needs and more concrete (underlying) reasons for 
+women’s resignation from participation; and (iii) the added value the SMAs bring to the 
+existing health care services during and beyond the context of COVID-19.

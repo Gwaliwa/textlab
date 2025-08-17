@@ -1,0 +1,796 @@
+Multi-Country Evaluation of the UNICEF 
+Early Childhood Development response 
+to COVID-19 in Europe and Central Asia 
+region 
+ 
+ 
+Draft Country Report: Ukraine 
+Volume 1: Main report  
+January 2022 
+Client: UNICEF 
+Consultant: Ecorys Polska Sp. z o.o. 
+ 
+ 
+
+/ 2 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+Note about the Author 
+Key Author:  Agnieszka Makulec (ECORYS Polska Sp z o.o) 
+The core evaluation team: Dr. Aleksandra Duda (ECORYS Polska Sp z o.o) and Dominika Safin 
+(ECORYS Polska Sp z o.o) 
+Country Researcher: Dr. Olena Zaplotynska 
+ 
+This is a publication by the independent evaluation team of Ecorys Poland. The analysis and 
+recommendations of this report do not necessarily reflect the views of UNICEF. 
+ 
+ 
+ 
+
+/ 3 
+ 
+Table of contents 
+Executive Summary ........................................................................................................... 5 
+1.0 
+Introduction ................................................................................................................ 10 
+2.0 Context and purpose of the evaluation ................................................................. 11 
+2.1 Evaluation background .............................................................................................................................................................. 11 
+2.2 Evaluation purpose, scope, and methodology ....................................................................................................... 18 
+3.0 Main findings ............................................................................................................. 28 
+3.1 Relevance .......................................................................................................................................................................................... 28 
+3.2 Effectiveness .................................................................................................................................................................................... 40 
+3.3 Sustainability ....................................................................................................................................................................................52 
+4.0 Conclusions and lessons learned ......................................................................... 56 
+4.1 Main lessons learned ................................................................................................................................................................ 58 
+5.0 Recommendations ................................................................................................... 59 
+Bibliography ...................................................................................................................... 62 
+ 
+ 
+ 
+ 
+ 
+
+/ 4 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+Acronyms 
+CO 
+Country Office 
+CPD 
+Country Programme Document 
+ECA 
+Europe and Central Asia 
+ECARO 
+Europe and Central Asia Region Office 
+ECD 
+Early childhood development 
+ECE 
+Early childhood education 
+ECI 
+Early childhood intervention 
+EI 
+Early Intervention 
+ICT 
+Information and communication technology 
+IPC 
+Infection Prevention and Control 
+KII 
+Key informant interview 
+MoES 
+Ministry of Education and Science 
+MoH 
+Ministry of Health 
+NGO 
+Non-governmental organization 
+PPE 
+Personal protective equipment 
+RO 
+Regional Office 
+UPHV 
+Universal-progressive home visiting  
+WASH 
+Water, sanitation and hygiene 
+
+/ 5 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+Executive Summary 
+Evaluation purpose and scope  
+Evaluation 
+purpose: 
+The 
+evaluation’s 
+overarching purpose was to provide UNICEF 
+Country Offices (COs), UNICEF ECA Regional 
+Office, national governments and partners 
+with 
+a 
+critical 
+assessment 
+of 
+the 
+key 
+adaptations made in UNICEF’s Early Childhood 
+Development 
+(ECD) 
+programmes 
+in 
+the 
+Europe and Central Asia region to meet the 
+needs of young children and families in the 
+context of COVID-19. The secondary purposes 
+were to: (i) generate insight to inform further 
+development of the evaluated ECD activities 
+and (ii) provide evidence to inform future ECD 
+efforts in similar emergencies. The evaluation 
+was carried out in four countries, including 
+Ukraine. 
+Evaluation scope: The evaluation focused on 
+interventions that were introduced directly in 
+response to COVID-19 or adapted to its 
+realities; 
+entailed 
+capacity 
+building 
+or 
+information support for frontline workers; and 
+were viewed by a given UNICEF CO as useful to 
+have feedback on for future programming. In 
+Ukraine, interventions selected for an in-depth 
+assessment relate to mother and child 
+healthcare, inclusive education, and early 
+childhood 
+intervention. 
+They 
+include: 
+(1) 
+Trainings for pre-school teachers in Donetsk 
+and Luhansk oblasts on inclusive education; 
+(2) Developing the capacity of professionals 
+and parents for advocacy and provision of 
+early intervention (ECI) service; and (3) 
+Intervention to strengthen the mother and 
+child health care system with integrated 
+packages of services, universal-progressive 
+home visiting (UPHV) model and promotion of 
+safe health care in the conflict-affected areas 
+of Ukraine (government-controlled).  
+All selected interventions were assessed with 
+the view to their relevance, effectiveness, and 
+sustainability. They were assessed in the 
+context of broader UNICEF ECD and COVID-19 
+programming in Ukraine. 
+The evaluation took place from November 
+2020 to the end of 2021. 
+Evaluation methodology  
+Evaluation approach: The evaluation process 
+followed a twofold approach:  (i) elements of 
+developmental evaluation approach due to 
+the dynamically changing context of the 
+evaluated interventions; and (ii) elements of a 
+formative evaluation to highlight how the 
+adapted or new initiatives are working. During 
+the evaluation, simplified theories of change 
+(ToCs) for the three in-depth assessed 
+interventions were developed.  
+Data collection: The methodology for this 
+evaluation was based on rapid cycles of data 
+collection and analysis, timely feedback, and 
+evaluative synthesis and reflection. A mix of 
+qualitative and quantitative research methods 
+was used to collect and analyze the data. Desk 
+research 
+encompassed 
+primary 
+and 
+secondary sources concerning ECD in Ukraine, 
+UNICEF’s programme and COVID-19 related 
+activities in the country, as well as the three 
+evaluated interventions specifically. Three 
+cycles of data collection related to the in-
+depth assessments were conducted, each 
+including: ● a survey with frontline workers; ● 
+Key Informant interviews (KIIs) with frontline 
+workers, 
+Implementing 
+Partners, 
+selected 
+governmental officials, local leaders of public 
+services and UNICEF CO’s staff; ● two reflection 
+workshops, to discuss findings from Analytical 
+Briefs, from which takeaways were recorded.  
+Evaluation limitations: The key limitations to 
+analysis in Ukraine included limited secondary 
+and 
+primary 
+data 
+available 
+on 
+the 
+effectiveness of selected interventions. Within 
+the context of COVID-19, collecting “good 
+enough” and timely evidence outweighed 
+methodological rigor and involvement of 
+rights holders in the evaluation process. Online 
+surveys may have excluded frontline workers 
+
+/ 6 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+with few digital skills and equipment from 
+participating in the evaluation. Moreover, since 
+the UPHV intervention assessed during the 
+third rapid assessment cycle was at its initial 
+implementation stage, it was impossible to 
+measure its effects.  
+Key findings 
+Relevance 
+The evaluation assessed the relevance of 
+UNICEF-supported interventions introduced or 
+adapted to COVID-19 to the needs of young 
+children and their families and frontline 
+workers in the three areas of UNICEF service 
+provision: (i) access to quality health services, 
+(ii) access to early intervention services in the 
+case 
+of 
+developmental 
+delays 
+and/or 
+disabilities, (iii) access to a safe, inclusive 
+educational environment. 
+The 
+evaluation 
+found 
+that 
+the 
+UPHV 
+intervention for addressing the availability of 
+health care services in conflict areas of Eastern 
+Ukraine helped increase accessibility with 
+telemedicine and supported outreach to the 
+most 
+disadvantaged 
+and 
+marginalized 
+children with services based on needs. The 
+UPHV model applies a child and family-
+centered and holistic approach (including 
+socio-psychological support), which increases 
+its appropriateness to needs.  Further, the 
+intervention pays 
+increased attention to 
+supporting 
+vulnerable 
+households 
+with 
+targeted services. The interviewees anticipate 
+this 
+combination 
+of 
+home 
+visits 
+and 
+telemedicine will increase the quality of 
+services.   
+For frontline workers, the UPHV intervention is 
+perceived to relieve overburdened primary 
+healthcare personnel as it complements the 
+services of family doctors or pediatricians and 
+targets a limited number of families based on 
+an evaluation of their risks and needs. 
+The evaluation found that UNICEF interventions 
+proved to be highly relevant in responding to 
+the parental need for ECI services for children 
+with developmental delays and/or disabilities. 
+Respondents perceived the ECI training as 
+highly relevant to the needs of ECI specialists, 
+particularly for improving their communication 
+with families on specific household needs, 
+cooperating 
+with 
+other 
+specialists, 
+and 
+addressing the needs of the youngest children 
+(from 0 to 3 years). Parents are often unaware 
+of typical child development and cannot 
+recognize the signs that require attention. The 
+pandemic exacerbated this problem, as the 
+lockdown further increased families’ isolation 
+and suspended face-to-face consultations 
+with doctors who were the first specialists to 
+follow on the child after birth.  The holistic and 
+comprehensive approach to ECI services 
+extended beyond the medical approach 
+addressed the household needs to receive 
+emotional, psychological, and developmental 
+support for their child. Consequently, the ECI 
+services remained the only service that 
+families continued to receive regularly during 
+the pandemic due to the engagement of 
+parents in the support process. 
+The education interventions were relevant to 
+increasing pre-school teachers’ awareness of 
+inclusive education concepts and addressing 
+the needs of different groups of children, 
+including children with special education 
+needs, during the pandemic context. The 
+content of the training that focused on 
+establishing learning environments for all 
+children in the context of the pandemic was 
+also seen by evaluation respondents as highly 
+aligned with the current professional needs of 
+pre-school 
+teachers. 
+Moreover, 
+the 
+intervention was relevant to upgrade parents' 
+skills to support children’s learning at home 
+and more generally to support the provision of 
+pre-school services during the pandemic.  
+Some challenges that remain only partially 
+addressed by UNICEF interventions concern 
+
+/ 7 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+psychological support for families during the 
+COVID-19 pandemic. Some interviewees and 
+survey respondents indicated that the UNICEF 
+inclusive education training content did not 
+sufficiently address the young children and 
+their families’ needs related to psychological 
+support. 
+Effectiveness 
+The early stage of the implementation of UPHV 
+intervention limits the effectiveness findings 
+with regard to children and families’ needs.  
+The survey of frontline workers revealed that 
+they felt the training effectively increased their 
+knowledge on immunization, breastfeeding 
+and healthy nutrition, as well as on advising 
+parents on child development milestones. The 
+potential positive effects on bringing services 
+closer to the most vulnerable families and 
+mitigating the negative consequences of 
+COVID-19 
+lockdowns 
+are 
+expected 
+by 
+interviewed stakeholders.  As an indirect 
+benefit of the intervention, the programme has 
+the potential for setting up a system for 
+collecting household-level health data, which 
+can support better monitoring and targeting of 
+needs. 
+UNICEF-supported interventions increased ECI 
+practitioners’ 
+knowledge 
+about 
+providing 
+family-centered EI, engaging families, and 
+understanding their needs and concerns 
+regarding child development. According to the 
+respondents, 
+the 
+training 
+effectively 
+addressed the issue of parents' insufficient 
+knowledge 
+and 
+skills 
+to 
+support 
+child 
+development 
+using 
+the 
+family 
+routine 
+activities. 
+Through 
+the 
+family-centered 
+approach, the intervention contributed to 
+parents’ engagement and empowerment of 
+their parental skills regarding recognition and 
+responding to children's needs.  
+For early learning, UNICEF interventions were 
+found 
+effective 
+in 
+increasing 
+teachers’ 
+knowledge about providing education to 
+children 
+with 
+special 
+education 
+needs, 
+organization of remote learning, and raising 
+their awareness of the importance of inclusive 
+education 
+in 
+general. 
+Most 
+training 
+participants (66%) confirmed applying the 
+knowledge and skills gained during the 
+training in their daily work. Moreover, more 
+remote 
+early childhood education (ECE) 
+opportunities were created to address the 
+children's needs to receive uninterrupted ECE 
+during the pandemic. 
+Sustainability 
+The benefits of the COVID-adapted or related 
+interventions are perceived to be useful 
+beyond the pandemic. According to the 
+evaluation 
+surveys, 
+inclusive 
+education 
+training improved the participant's capacity to 
+support early learning beyond the COVID-19 
+pandemic (89.5%). Moreover, most of the 
+survey respondents (87.5%) agreed that the 
+skills and knowledge strengthened through the 
+ECI training and supervision would be helpful in 
+other public emergencies.  
+Several mechanisms have been planned to 
+increase the sustainability of the achieved 
+results after the interventions’ completion. In 
+particular, the acquired knowledge and the 
+developed 
+materials, 
+instructions, 
+and 
+recommendations could be further used for 
+training and self-study and part of the 
+continuous professional education. All the 
+interventions fostered good cooperation with 
+government partners at the national, regional, 
+and local levels to increase buy-in and 
+ownership of approaches. In the case of the ECI 
+training, 
+an 
+online 
+course 
+on 
+ECI 
+was 
+submitted 
+to 
+government 
+partners 
+for 
+integration 
+with 
+in-service 
+professional 
+development programmes.  
+The UPHV intervention included such outputs 
+contributing to its sustainability, as i) legal and 
+cost-effectiveness modeling analysis, and ii) 
+resource training center in Donetsk for primary 
+health care for doctors and nurses focusing on 
+ECD. Also, discussions are underway 
+to 
+
+/ 8 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+establish 
+a 
+permanent 
+oblast 
+training-
+resource 
+center 
+for 
+continuing 
+medical 
+education of doctors and nurses according to 
+the programme document. The planned 
+development 
+and 
+adoption 
+of 
+recommendations on ECD/UPHV for medical 
+universities and colleges is expected to 
+increase the sustainability of the UPHV in 
+Ukraine by ensuring access to continuous 
+professional medical education for the UPHV 
+staff. 
+Several 
+issues 
+in 
+the 
+regulatory 
+and 
+institutional framework concerning ECI affect 
+effective ECI service provision in Ukraine. They 
+include the need for: i) improving interagency 
+cooperation between social, medical, and 
+educational services; ii) development 
+of 
+guidelines 
+for 
+the 
+implementation 
+mechanisms of the current legislation/policy 
+on ECI services, particularly at the local level; 
+and iii) institutionalization of training to ensure 
+its quality and sustainability.  
+Lessons learned  
+Guidance 
+for 
+organizing 
+pre-school 
+education using remote technologies must 
+address the specific needs of different groups 
+of 
+pre-school 
+children 
+and 
+the 
+ECD 
+professionals working with them. Limitations 
+in access to technology and equipment, 
+particularly for families living in the proximity of 
+the contact line, limit the relevance and 
+effectiveness 
+of 
+tele-interventions 
+and 
+modules of distant learning. In this light, it is 
+vital to continue to provide ECD kits and 
+learning materials to vulnerable families.  
+Effective exchange of experiences between 
+COs and ECARO is an essential factor 
+contributing to the increased quality of 
+planned interventions. Based on lessons 
+learned 
+from 
+counterparts 
+from 
+other 
+countries, the Ukrainian approach to UPHV 
+embraced a mix of activities/outputs that 
+increases the prospects of sustainability of the 
+ECD/UPHV in Eastern Ukraine. It also involved 
+both nurses and doctors in capacity building, 
+which is a good approach for their future 
+cooperation based on a shared understanding 
+of the importance of home visiting work.  
+Emergency situations, such as the COVID-19 
+pandemic, create new needs of children and 
+families and frontline workers related to the 
+psychological 
+and 
+emotional 
+support 
+required.  There is a pressing need to provide 
+such support to young children and their 
+families to help them deal with pandemic-
+related anxieties caused by illness, financial 
+troubles, mental health issues, and other 
+substantial life challenges which added extra 
+layers of vulnerability for children and families, 
+especially to those living in Eastern Ukraine. On 
+the other side, frontline workers’ trainings can 
+also 
+address 
+these 
+issues 
+in 
+terms 
+of 
+supporting families in this aspect and self-
+care. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+/ 9 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+Recommendations 
+In order to support enabling environment, supply, demand, and quality of ECD interventions in 
+Ukraine, it is recommended that UNICEF should: 
+Enabling Environment 
+1. 
+Advocate for the development of a legal and regulatory environment in support of inclusive 
+education, with clear delineation of pre-school teachers and teacher assistants’ roles, support 
+in the implementation of the Individual Development Programme model, and availability of 
+funding for staff remuneration at the oblasts level. 
+2. Support the government in developing a comprehensive approach to ECI implementation in 
+Ukraine (legislation, guidelines, institutionalization) with the engagement of a broad range of 
+stakeholders at different levels. 
+Supply  
+3. Expand partnerships with governmental stakeholders and educational institutions for the 
+development of an educational programme for ‘community nurse’ to ensure capacity-
+building of home visitors within the UPHV model and advocate for the introduction of the 
+position of a ‘community nurse’ into the qualification framework. 
+4. Plan for a future of assessment of the effectiveness and costing of the UPHV intervention and 
+advocate for the provision of stable funding for the further institutionalization of this model. 
+5. Improve the training content and delivery on providing online/remote ECD/ECI/UPHV services 
+and to better prepare specialists to gather information on children at risk. 
+Demand  
+6. Launch an information campaign on EI as a new social service for the families targeted at 
+parents and caretakers supported with networks and coalition-building activities, as well as 
+intensify the awareness-raising activities among healthcare workers.  
+7. Invest in awareness-raising activities to promote the new ECD/UPHV, including through the 
+organization of national-level workshops with guests from other COs to promote the piloted 
+UPHV model. 
+Quality 
+8. Seek synergies between interventions in the different ECD areas in Ukraine, including inclusive 
+education, ECI, UPHV, to increase the services’ quality as well as cost-effectiveness, and 
+support the government in the development of quality standards in this field, and boost 
+intersectoral cooperation. 
+ 
+
+/ 10 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+1.0 Introduction 
+The COVID-19 pandemic is a multi-dimensional crisis that has profoundly affected the development 
+and psycho-social well-being of young children and their caregivers. Evidence from around the world 
+clearly shows that the crisis exacerbated existing vulnerabilities and brought on new immediate and 
+longer-term challenges to ensuring the well-being of all children. In addition to the pandemic’s 
+primary effects such as increased poverty, families with young children have faced an 
+unprecedented disruption of essential health, early learning, and social services.   
+United Nations Children’s Fund (UNICEF)’s early childhood development (ECD) teams across the 
+Europe and Central Asia (ECA) region have played a critical role in national responses to COVID-19. 
+Efforts were recalibrated to address the immediate needs of young children and their families. This 
+included re-purposing and strengthening available resources and workforce to provide information 
+and services in the circumstances of home confinement, reduced availability of ECD services, and an 
+ongoing public health threat.  
+Given the novelty of the situation and the imperative to introduce new interventions or adapt existing 
+interventions in a timely manner, evidence is needed on their appropriateness and efficiency. Lessons 
+learned can inform the development of longer-term recovery plans and budgets for ECD services to 
+strengthen the resilience of ECD systems across ECA.  
+For this purpose, UNICEF ECA Regional Office (ECARO) commissioned Ecorys to carry out the Multi-
+Country Evaluation of the UNICEF ECD response to COVID-19 in the ECA region. A developmental 
+evaluation approach was adapted to provide rapid evidence and enable real-time adjustment of 
+ongoing efforts. The evaluation entails an in-depth study in four ECA countries: Croatia, Georgia, 
+Moldova, and Ukraine, while recognizing lessons learned from the region as a whole. The evaluation 
+started in November 2020 and continued until the end of 2021. 
+This report presents the findings from the evaluation in Ukraine. It sets out the context of the 
+evaluation; a description of the object of the evaluation; its overall purpose, objectives, and scope; 
+the methodology; key findings; and conclusions and recommendations. It summarizes the evaluation 
+team’s assessment of the relevance, effectiveness, and sustainability of UNICEF’s ECD response to 
+COVID-19 in Ukraine.  The findings and recommendations in this report are intended to primarily serve 
+UNICEF Ukraine Country Office, UNICEF ECARO, and national governmental and non-governmental 
+stakeholders in Ukraine working with young children and families. 
+The evaluation team would like to express their gratitude to UNICEF Ukraine Country Office staff for 
+their continuous support. We also thank the government of Ukraine, Step by Step Foundation, and 
+Early Intervention Institute, and all other stakeholders and the frontline workers who shared their 
+experiences and views with us. Finally, we thank the staff from the UNICEF ECARO Evaluation and ECD 
+teams for their invaluable inputs, guidance, and management of the evaluation. 
+ 
+
+/ 11 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+2.0 Context and purpose of the evaluation 
+2.1 
+Evaluation background 
+2.1.1 
+Overview of UNICEF’s ECD programming in Ukraine 
+A wave of social, political, and economic changes has transformed Ukraine over the last decade. One 
+of the areas where significant progress has been achieved is expanding support for early 
+childhood development, through a range of reforms seeking to address critical vulnerabilities and 
+reduce inequalities for children in Ukraine. UNICEF Country Programme (CPD) 2018-2022 strives to 
+accelerate the pace of the critical reforms needed to ensure that the rights of all children1 are 
+steadily realized, and that equity gaps are reduced. As stated clearly in the CPD, “the critical role of 
+UNICEF will be to actively engage in efforts to accelerate critical systems reforms, ensuring that the 
+best interests of children are a primary consideration, and to prevent any possible reversal in 
+children’s and adolescents’ rights during a period of rapid transformations, or arising from the 
+conflict”2. 
+Six pillars of UNICEF Ukraine (Social inclusion and macro-policies for children; Child protection in all 
+settings; All children learn; Early years of healthy life and beyond; Water and Sustainable Environment; 
+Independent Child Rights for Results and Accountability) provide a multisectoral foundation for 
+achieving the main objectives of the programme. These goals include: (i) strengthening social 
+protection intervention; (ii) enhancing the social welfare and justice systems; (iii) expanding 
+access to inclusive and quality school education and early learning for all children; (iv) Improving 
+equitable access to safe drinking water in conflict-affected areas, reducing exposure to 
+environmental risks and improving hygiene; (v) addressing severe gaps in data collection and use 
+regarding the situation of children in Ukraine; strengthening independent national institutions for the 
+protection and promotion of children’s rights. Additionally, UNICEF will arrange humanitarian 
+assistance to internally displaced children in host communities. Support for early childhood 
+development is mainstreamed in all areas of the UNICEF Country Programme, rather than being 
+categorized as a separate objective. This holistic, cross-sectoral approach allows ECD objectives to 
+be pursued in all of the expected outcomes of Ukraine’s Country Programme Document (CPD), 
+mentioned above. Based on the analysis of bottlenecks and barriers, early childhood development 
+programme interventions in Ukraine put particular emphasis on: 
+(i) development of public policies and institutional frameworks serving as a mechanism for 
+delivery of ECD packages;  
+(ii) advancement of ECD service delivery platforms in terms of access and quality; and  
+(iii) promotion of positive parenting, especially as part of the broader support of nurturing care 
+and stimulating learning activities.  
+ 
+1 As enshrined in international commitments of Ukraine made under the Convention on the Elimination of All Forms of 
+Discrimination against Women, the Convention of the Rights of the Child and the Convention on the Rights of Persons with 
+disabilities are uphold. 
+2 Unicef (2017). Ukraine Country Program Document 2018-2022. 
+
+/ 12 
+ 
+ 
+ 
+ 
+MULTI-COUNTRY EVALUATION OF THE UNICEF ECD RESPONSE TO  COVID-19 IN THE ECA REGION 
+COUNTRY REPORT: UKRAINE 
+In addition, the development of inter-sectoral collaborations between health, education, social and 
+child protection, as well as support of the health system are suggested as two supplementary 
+components of ECD programming. These actions constitute essential elements of UNICEF Europe and 
+Central Asia (ECA) engagement in the region 
+Mainstreaming of ECD into existing CPD outcomes and outputs involves addressing bottlenecks 
+under priority actions targeted at different agents and institutions. Six of the priority actions include: 
+A. Supporting the Government capacity, at both national and local levels, to design and 
+implement an integrated early childhood development policy and institutional framework. 
+ECD programme component aims to, inter alia, pursue policy dialogue and advocacy to 
+ensure inclusion of ECD in national development goals; conduct sectoral data survey relevant 
+to ECD; and conduct study visits in other countries working with UNICEF in the ECA region to 
+learn from best practices advanced in diverse sectors. Under Child Rights Monitoring, the 
+programme will improve the availability of data, for example, by supporting the government 
+to enhance the quality of administrative data and provide disaggregation. 
+B. Keeping children and families together. ECD programming in Ukraine seeks to promote 
+alternative family-based solutions and transform residential care institutions for young 
+children.  
+C. Preventing and addressing violence, including gender-based violence. These actions are 
+aimed at building the capacity of the caregivers to support optimal child health and 
+development, for instance, by empowering parents for positive, non-violent parenting and 
+supporting gender equality in childcare. 
+D. Providing increased access for children aged 3-6, particularly the most disadvantaged 
+ones, to quality and inclusive Early Learning services in selected municipalities by 
+promoting quality pre-school education and positive parenting. 
+E. Ensuring access to justice for all children. Main targets under this priority action include 
+increasing coordination between child protection actors, promoting restorative and social 
+service responses in the justice system, as well as enhancing skills and knowledge of 
+legislators and law enforcement authorities about child-friendly justice.  
+F. Humanitarian response, for instance, providing psychosocial support, mine risk education, 
+mine victim assistance, and other protective services to children, as well as expanding 
+community-based services to displaced and host communities. 
+With the above priorities, UNICEF’s country programme is expected to contribute to the achievement 
+of 2030 Sustainable Development Goals of Ukraine3, in particular those leading to the achievement 
+of Outcome 2 (“By 2022, women and men, girls and boys, equitably benefit from integrated social 
+protection, universal health services, and quality education”)  and Outcome 4 (“By 2022, 
+communities, including vulnerable people and IDPs, are more resilient and equitably benefit from 
+greater social cohesion, quality services and recovery support”). The specific ECD related indicators 
+include: increase of the number of children aged 3-16 in conflict-affected areas who have access to 
+ECD and basic education (4.2), decrease the percentage of households with children living below the 
+relative poverty line (2.2), decrease in the mortality of children under 5 (2.10), an increase of 
+ 
+3 Ukraine-UN Partnership Framework 2018-2022.

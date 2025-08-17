@@ -1,0 +1,661 @@
+Evaluation of the Reading 
+and Leadership 
+Strengthening in South 
+African Schools for 
+Learning during COVID-19 
+and Beyond (REALS SA) 
+Programme (2021-2022) 
+ 
+Final Report  
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNICEF SOUTH AFRICA 
+AUGUST 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Evaluation of the Reading 
+and Leadership 
+Strengthening in South 
+African Schools for 
+Learning during COVID-19 
+and Beyond (REALS SA) 
+Programme (2021-2022) 
+ 
+Final Report  
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNICEF SOUTH AFRICA 
+AUGUST 2023 
+
+ 
+ 
+i 
+ 
+Evaluation of the Reading and Leadership Strengthening in South African Schools for 
+Learning 
+during 
+COVID-19 
+and 
+Beyond 
+(REALS 
+SA) 
+Programme 
+(2021-2022) 
+Final Report  
+ 
+© United Nations Children’s Fund, South Africa, 2022 
+United Nations Children’s Fund South Africa 
+659 Pienaar Street, Brooklyn 
+Pretoria, 0181 
+ 
+August 2023  
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Office is to fulfil a 
+corporate commitment to transparency through the publication of all completed evaluations. The reports 
+are designed to stimulate a free exchange of ideas among those interested in the topic and to assure those 
+supporting the work of UNICEF that it rigorously examines its strategies, results, and overall effectiveness.  
+ 
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for 
+error. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, 
+or of its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund.  Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF 
+has a formal permission policy that requires a written request to be submitted. For non-commercial uses, 
+the permission will normally be granted free of charge. Please write to the Evaluation Office at the address 
+below to initiate a permission request.  
+ 
+Attribution: Please cite the work as follows: UNICEF. 2023. “Evaluation of the Reading and Leadership 
+Strengthening in South Africa during COVID-199 and Beyond (REALS SA) Programme (2021-2022)”. 
+UNICEF South Africa, Pretoria. 
+ 
+For further information, please contact: 
+ 
+United Nations Children’s Fund South Africa 
+659 Pienaar Street, Brooklyn 
+Pretoria, 0181 
+pretoria@unicef.org  
+ 
+ 
+
+ 
+ 
+ii 
+ 
+Title of the action1: 
+Reading and Leadership Strengthening in South African Schools for Learning 
+During Covid-19 and Beyond (REALS SA) 
+Location(s) of the 
+action 
+South Africa: Eastern Cape, KwaZulu Natal and Limpopo Provinces 
+Total duration of the 
+action (months): 
+24 months 
+Total Budget for the 
+Action 
+USD 2 534 382 (Includes UNICEF’s contribution of USD 149 982)  
+Amount (in EUR) of 
+requested EU 
+contribution 
+EUR 2 Million (Estimated USD 2 384 400) 
+Objective of the 
+Action 
+Outcome: The Department of Basic Education, Provincial Departments and 
+Schools are supported to respond to and manage the impact of Covid-19 on 
+education for improved learning outcomes in Quintiles 1, 2 and 3 schools in 
+selected provinces, including a focus on parental involvement and support. 
+Outputs: 
+• 
+Support the Department of Basic Education (DBE) efforts on continuity of 
+learning, through traditional and innovative approaches.  
+• 
+Strengthen capacity of key stakeholders in the education sector and 
+enhance access to learning materials. The focus in this area will be 
+enhancing parental engagement, accountability, and leadership for 
+sustainability through capacity building of district officials and School 
+Management Teams on effective leadership during emergency and after 
+(Kwa Zulu Natal, Eastern Cape and Limpopo). 
+Target group(s) 
+Direct  
+Output 1 and 2: 650 Schools 
+Output 1 and 2: 292,500 learners 
+Output 1: 65,000 parents/caregivers 
+Output 1: 4,600 Teachers  
+Output 2: 975 Principals & Deputies (SMT Members) 
+Output 2: 3,250 School Governing Bodies Members (parents/caregivers) 
+Output 2: Circuit Managers & Subject Advisors: 104 officials 
+Final beneficiaries 
+(direct) 
+292,500 Learners of which at least 50% are girls 
+4,225 School Governing Body (SGBs) and SMT (3,250 SGB and 975 SMT) 
+majority of which are women 
+65,000 parents 
+Main areas of 
+intervention  
+● 
+Support the implementation of the reading recovery programme for better 
+learning outcomes 
+● 
+Support curriculum trimming as part of the overall recovery curriculum 
+programme  
+● 
+Strengthen capacity of key stakeholders in the education sector and enhance 
+access to learning materials 
+ 
+ 
+1 Figures in this table are extracted from the REALS SA Description of Action. As will become visible in the contents of this final 
+report, some figures are subject to have changed during the duration of the programme. 
+
+ 
+ 
+iii 
+ 
+PREFACE 
+South Africa spends 6.2% of its GDP on education2 - the largest allocation compared with other sectors – 
+but its learning outcomes have not been commensurate with this level of spending. The challenge is not 
+enrolment – the country has achieved near universal access to education, with gender parity, at primary 
+and secondary levels. To address historical inequalities of a highly unequal education system inherited from 
+colonialism and Apartheid, the government has prioritised education as a key area of investment and 
+implemented policies and programmes, including the promotion of gender parity in education, i.e., equal 
+access to quality education for all citizens, regardless of their gender. Despite progress, systemic 
+challenges remain, and outcomes are extremely unequal. The majority of primary schools in South Africa 
+are severely under resourced. Other serious challenges in the sector are a lack of accountability and 
+technical capacity in the system. One of the outcomes of concern are literacy: almost a third of South African 
+learners are still functionally illiterate in English by the end of Grade 6. 
+The onset of the COVID-19 pandemic threatened to make the already glaring inequalities in South Africa 
+even worse. As part of the nationwide lockdown on the economy and social activities, schools in South 
+Africa were closed, with some later shifting to online learning to compensate for the time that had been lost 
+in the school year. While this may not have been a difficult shift for higher-income (quintile 4-5) schools, 
+approximately 74% of children in South Africa attending lower-income (quintile 1, 2 and 3) schools and 
+have limited access to IT resources and internet. Thus, school closures resulted in a devastating loss in 
+teaching and learning time. 
+In spite of schools reopening, the challenge with learning losses remains and will be difficult to recover. For 
+example, learners who were in Grade 1 in 2020 and lost approximately 4-6 months of learning time. Those 
+same learners would have ideally been in Grade 2 in 2021, and again lost a significant amount of learning 
+time. These losses are already anticipated to have displaced learners and their levels of literacy, especially 
+in relation to previous generations. Even as children returned to school, the need for continued educational 
+and gap bridging support remained a major imperative. 
+Through a programme called the Reading and Leadership Strengthening in South African Schools for 
+Learning during COVID-19 and Beyond (REALS-SA) Programme, UNICEF partnered with the South 
+African Department of Basic Education (DBE) to support the continuation of learning, particularly in lower 
+quintile schools; as well as to contribute to the achievement of the DBE’s pre-existing strategic ambitions 
+around teaching capacity development and assessment. This is in alignment to UNICEF’s cooperation with 
+the DBE on achieving “quality basic education by improving the key determinants that impact the quality of 
+education and educational outcomes…to confront South Africa’s reading and numeracy challenges” 
+(UNICEF, 2022). The European Union was the main funder. The National Education Collaboration Trust 
+(NECT) and three other South African entities acted as implementing partners. The programme focused on 
+three of South Africa’s nine provinces (KwaZulu-Natal, Limpopo and the Eastern Cape) with direct support 
+to 650 schools in total. The programme consisted of four sub-programmes with mutually reinforcing 
+objectives: Leadership and Management; Recovery curriculum; Reading Recovery; and Assessment for 
+Learning. The programme was implemented from 2021 to 2023. 
+ 
+The evaluation was conducted in early 2023, i.e. towards the end of the implementation period, and focused 
+on the design and implementation of the programme. A mixed-methods approach was employed, drawing 
+on programme documentation and data; seven school case studies; and interviews and focus groups with 
+stakeholders. The report makes recommendations for the final stages of REALS-SA implementation as well 
+as future similar initiatives that may be undertaken by UNICEF, DBE, NECT or others. 
+ 
+ 
+2 The World Bank (2018) (https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=ZA).  
+
+ 
+ 
+iv 
+ 
+CONTENTS 
+1 
+Introduction ............................................................................................................................................ 1 
+1.1 
+Background and purpose of the evaluation .................................................................................. 1 
+1.2 
+Structure of the report ................................................................................................................... 1 
+2 
+Context and Description of the REALS SA programme ....................................................................... 2 
+2.1 
+Context And Problem Statement................................................................................................... 2 
+2.2 
+Policy and strategic relevance ...................................................................................................... 4 
+2.3 
+Programme description ................................................................................................................. 6 
+2.4 
+Programme stakeholders ............................................................................................................ 11 
+2.5 
+High-level Theory of Change ...................................................................................................... 12 
+3 
+Evaluation Framework and Methodology ............................................................................................ 15 
+3.1 
+Evaluation Design ....................................................................................................................... 15 
+3.2 
+Evaluation Scope ........................................................................................................................ 15 
+3.3 
+Evaluation Criteria and questions ............................................................................................... 16 
+3.4 
+Methodology ................................................................................................................................ 16 
+3.4.1 
+Evaluation planning ..................................................................................................................... 16 
+3.4.2 
+Data collection ............................................................................................................................. 17 
+3.4.3 
+Ethical considerations ................................................................................................................. 18 
+3.4.4 
+Analytical approaches ................................................................................................................. 19 
+3.5 
+Limitations ................................................................................................................................... 20 
+4 
+Findings ............................................................................................................................................... 21 
+4.1 
+Programme Design ..................................................................................................................... 21 
+4.1.1 
+Relevance ................................................................................................................................... 21 
+4.2 
+Programme Implementation ........................................................................................................ 24 
+4.2.1 
+Effectiveness ............................................................................................................................... 24 
+4.2.2 
+Efficiency ..................................................................................................................................... 32 
+4.3 
+Workstream Implementation ....................................................................................................... 34 
+4.3.1 
+Assessment for Learning (AfL).................................................................................................... 34 
+4.3.2 
+Recovery Curriculum ................................................................................................................... 38 
+4.3.3 
+Leadership and Management (L&M) .......................................................................................... 42 
+4.3.4 
+Reading Recovery ....................................................................................................................... 48 
+5 
+Conclusions ......................................................................................................................................... 54 
+6 
+Lessons Learned ................................................................................................................................. 55 
+7 
+Recommendations .............................................................................................................................. 58 
+
+ 
+ 
+v 
+ 
+7.1 
+Recommendations for an exit and sustainability plan ................................................................. 58 
+7.2 
+General recommendations for the REALS SA programme and partners ................................... 59 
+8 
+REFERENCES .................................................................................................................................... 60 
+9 
+ANNEXES ........................................................................................................................................... 61 
+9.1 
+Evaluation Terms of Reference ................................................................................................... 61 
+9.2 
+Ethical Clearance Approval Letter............................................................................................... 61 
+9.3 
+Brief Fieldwork Report ................................................................................................................. 61 
+9.4 
+Evaluation Matrix and Questions ................................................................................................ 62 
+9.4.1 
+Design: Relevance ...................................................................................................................... 62 
+9.4.2 
+Design: Sustainability .................................................................................................................. 64 
+9.4.3 
+Implementation: Effectiveness .................................................................................................... 65 
+9.4.4 
+Implementation: Relevance ......................................................................................................... 67 
+9.4.5 
+Implementation: Efficiency .......................................................................................................... 68 
+9.5 
+Equity Analysis Framework ......................................................................................................... 70 
+9.6 
+Evaluation Data Collection Instruments ...................................................................................... 72 
+9.6.1 
+Circuit Manager Focus Group Guide .......................................................................................... 72 
+9.6.2 
+Implementing Partner interview guide ......................................................................................... 74 
+9.6.3 
+Parent/caregiver interview and SGB focus group guide ............................................................. 76 
+9.6.4 
+Subject Advisors Focus Group Guide ......................................................................................... 78 
+9.6.5 
+Teacher interview Guide ............................................................................................................. 79 
+9.6.6 
+Technical Team Focus Group ..................................................................................................... 80 
+9.7 
+Informed Consent for Data Collection ......................................................................................... 82 
+9.8 
+Document List ............................................................................................................................. 84 
+ 
+ 
+ 
+
+ 
+ 
+vi 
+ 
+LIST OF FIGURES 
+Figure 1: Programme and Sub-programme Structure .................................................................................. 7 
+Figure 2: REALS SA Stakeholder Map ....................................................................................................... 11 
+Figure 3: Implementation Arrangements ..................................................................................................... 12 
+Figure 4: REALS SA High-level ToC .......................................................................................................... 13 
+Figure 5: Theory of Change for Assessment for Learning workstream ...................................................... 35 
+Figure 6: Theory of Change for Recovery Curriculum workstream ............................................................ 39 
+Figure 7: SMT Survey Results for Recovery Curriculum ............................................................................ 40 
+Figure 8: Theory of Change for Leadership and Management ................................................................... 42 
+Figure 9: SMT Survey Results: L&M Specific ............................................................................................. 45 
+Figure 10: Theory of Change for Reading Recovery .................................................................................. 48 
+Figure 11: SMT Survey Responses: Reading Recovery Specific .............................................................. 52 
+ 
+LIST OF TABLES 
+Table 1: Summary of REALS SA workstreams ............................................................................................. 9 
+Table 2: Evaluation Criteria and Questions ................................................................................................ 16 
+Table 3: Provincial Attendance Rate of Advocacy Sessions ...................................................................... 25 
+Table 4: Evaluation Sample School Contextual Observations ................................................................... 27 
+Table 5: Summary of overall REALS SA implementation progress ............................................................ 29 
+Table 6: Summary of programme budget status and issues ...................................................................... 33 
+Table 7: AfL specific case-study observations ............................................................................................ 37 
+Table 8: AfL Benefits beyond REALS SA ................................................................................................... 38 
+Table 9: Recovery Curriculum Benefits Beyond REALS SA ...................................................................... 41 
+Table 10: L&M Perceived Risks and Mitigation Strategies ......................................................................... 44 
+Table 11: L&M Specific case study observations and data ........................................................................ 46 
+Table 12: Leadership and Management Benefits Beyond REALS SA ....................................................... 47 
+Table 13: Reading Recovery Storybook Sources ....................................................................................... 51 
+Table 14: Reading Recovery specific case study observations and data .................................................. 52 
+Table 15: Reading Recovery Benefits Beyond REALS SA ........................................................................ 53 
+ 
+ 
+
+ 
+ 
+  
+ 
+ACKNOWLEDGEMENTS  
+This evaluation was conducted by PDG and Dr Mark Abrahams. The PDG team consisted of Ms Cara 
+Hartley, Dr Mark Abrahams, Ms Nazreen Kola, Ms Anele Msomi, Ms Lelethu Bodlani, and (up to December 
+2022) Ms Ntina Reiersgord. They were supported by Sophiya Gabier and Dr David Karpul. 
+ 
+The team would like to thank Ms Margaret Mokhuane and Mr Thomas Tiedemann of the EU, Dr Andile 
+Dube of UNICEF, Ms Simone Geyer and Dr Stephen Taylor of DBE for their readiness to discuss 
+programme and evaluation design, and for their efforts to ensure that the emerging evaluation insights feed 
+into strengthening their respective institutions’ work going forward. Thank you to Mr Allister Pillay of 
+UNICEF, Mr Gaza Mbhalati and Ms Phumzile Dlamini of NECT and Ms Mpume Shamase of Performance 
+Solutions Africa (PSA) for their constant engagement and support to the evaluation process. We are also 
+grateful towards the implementing partner teams from NECT, Performance Solutions Africa, Tshwane 
+University of Technology (TUT) and the University of KwaZulu-Natal (UKZN) and the officials in the national 
+and provincial departments of education, for participating in shaping our team’s understanding of the 
+programme and its goals, as well as their experiences of implementation. Finally, thank you to the subject 
+advisors, school leaders, teachers and parents for participating in our data collection; your commitment to 
+education was clear in our engagements. 
+ 
+The evaluation is dedicated to those who are committed to improving education, including educators and 
+funders; may this report provide insight and courage in navigating the complexities of education 
+programmes. 
+ 
+  
+ 
+ 
+ 
+
+ 
+ 
+i 
+ 
+ACRONYMS  
+AFL 
+: Assessment for Learning 
+ATP 
+: Annual Teaching Plan 
+CAPS 
+: Curriculum Assessment Policy Statements 
+CM 
+: Circuit Managers 
+COGTA 
+: Department of Cooperative Governance and Traditional Affairs 
+COVID-19 
+: Coronavirus Disease 
+CSO 
+: Civil Society Organisation 
+DAC 
+: Development Assistance Committee 
+DBE 
+: Department of Basic Education 
+DH 
+: Department Head 
+DPME 
+: Department of Planning, Monitoring and Evaluation 
+EC 
+: Eastern Cape 
+EFAL 
+: English First Additional Language 
+ESC 
+: Evaluation Steering Committee 
+EU 
+: European Union 
+GDP 
+: Gross Domestic Product 
+GET 
+: General Education and Training 
+KZN 
+: KwaZulu-Natal 
+L&M 
+: Leadership and Management 
+LMS 
+: Learner Management System 
+LP 
+: Limpopo Province 
+MP 
+: Mpumalanga Province 
+MTSF 
+: Medium Term Strategic Framework  
+NDP 
+: National Development Plan 
+NECT 
+: National Education Collaboration Trust  
+NNSSF 
+: National Norms and Standards for School Funding  
+NRC 
+: National Research Council 
+NW 
+: North West Province 
+OECD 
+: Organisation for Economic Cooperation and Development 
+PEDS 
+: Provincial Education Departments  
+PIRLS 
+: Progress in International Reading Literacy Study 
+PM 
+: Project Management 
+PMT 
+: Project Management Team 
+PSA 
+: Performance Solutions Africa 
+PSC 
+: Programme Steering Committee 
+PSRIP 
+: Primary School Reading Improvement Programme  
+QAF 
+: Quality Assurance Framework 
+RC 
+: Recovery Curriculum 
+REALS SA 
+: Reading and Leadership Strengthening in South Africa 
+SA 
+: Subject Advisor 
+SABC 
+: South African Broadcasting Commission 
+SADTU 
+: South African Democratic Teachers Union 
+
+ 
+ 
+ii 
+ 
+SGB 
+: School Governing Body 
+SLA 
+: Service Level Agreement 
+SMT 
+: Senior Management Team 
+TOC 
+: Theory of Change 
+TOR 
+: Terms of Reference 
+TT 
+: Technical Team 
+TUT 
+: Tshwane University of Technology 
+UKZN 
+: University of KwaZulu-Natal 
+UNEG 
+: United Nations Evaluation Guidelines 
+UNICEF 
+: United Nations Children's Fund 
+ 
+ 
+
+ 
+ 
+iii 
+ 
+EXECUTIVE SUMMARY  
+Background 
+The Reading and Leadership Strengthening in South Africa (REALS SA) Programme was conceptualised 
+and implemented in response to the effects of the COVID-19 pandemic on the education system and 
+learners. The South African education system was already struggling with underperformance and inequality 
+when Covid-19 crisis and school closures hit, exacerbating the challenges. The loss of learning time, 
+combined with systemic factors and the unprecedented nature of the situation, highlighted the urgent need 
+for support interventions to ensure continued learning. Informed by, and in an attempt to correct this, the 
+REALS SA programme was launched in 2021 in collaboration with the Department of Basic Education 
+(DBE), the National Education Collaboration Trust (NECT) and the European Union (EU), with the aim of 
+improving literacy rates and strengthening leadership in the education sector, particularly during times of 
+crises. 
+ 
+The programme focused on quintiles 1, 2, and 3 schools in South Africa, and had several objectives. First, 
+it aimed to support the DBE’s efforts to continue learning through both traditional and innovative 
+approaches. Second, it sought to support curriculum trimming as part of a larger curriculum recovery 
+programme, with a focus on developing a quality assurance framework and capacity building. Third, the 
+programme aimed to develop training and coaching programmes for school leadership, governance, and 
+districts, with a focus on accountability, emergency response and parental involvement. Given that this 
+programme was intended as a recovery programme, it did not exclusively work with education officials, but 
+instead focused on building the capacity of caregivers and stakeholders involved in teaching and learning 
+such as principals, teachers, SMT members and education officials. The 4 main workstreams or pillars of 
+the programme were: Reading Recovery; Recovery Curriculum; Assessment for Learning (AfL); and 
+Leadership and Management. 
+ 
+Evaluation objectives 
+The evaluation focused on the design and implementation of the REALS SA programme, with an aim to 
+understand whether the programme was designed and implemented in a way that would contribute 
+meaningfully to achieving its intended outcomes and inform future educational programmes of a similar 
+nature. The evaluation did not assess the impact of the programme as this is not feasible given the timing 
+of the evaluation and the design of the programme.  
+ 
+Methodology 
+This was a theory-based evaluation which applied participatory, utilisation-focused and equity approaches. 
+A Theory of Change (ToC) and logical framework were employed to construct the evaluation matrix, which 
+facilitated the tracking of implementation results. A subset of OECD-DAC evaluation criteria (relevance, 
+effectiveness, efficiency, sustainability) were applied with a gender and equity analysis framework to 
+capture and report on both dimensions.  
+ 
+The evaluation employed a mixed method approach of both primary and secondary data collection. The 
+evaluation conducted desk reviews of programme documents and wider literature, and conducted focus 
+groups and interviews conducted at both programme and school case study levels, and an online survey. 
+The biggest challenges faced were limited programme monitoring data and documentation, and poor 
+engagement from education officials.

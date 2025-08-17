@@ -1,0 +1,627 @@
+EXTERNAL EVALUATION 
+KOICA SUPPORTED ACTIVITIES  
+“Better Life for Girls: Full Realization of Vulnerable Girls 
+and Boys Rights to Health, Protection and Education in Jordan” 
+2017-2021 
+ 
+LRPS-2021-9164785 
+UNICEF Jordan Country Office 
+MENA Region 
+2021 
+ 
+FINAL EVALUATION REPORT 
+ 
+ 
+Submission date 
+06/12/2021 
+ 
+ 
+ Evaluation Team 
+Vincent Mudry, Chief Programme Officer / Senior Consultant / Team Leader 
+Marie Lefevre Saadoun, Senior Consultant / Team Member 
+Marwa Ershaidat, Consultant / Team Member 
+Abdulsalam Amoush, Consultant / Team member 
+
+ 
+1 
+ 
+DISCLAIMER  
+The views presented in this report are those of the authors and do not necessarily represent the views 
+of UNICEF. 
+ 
+ 
+
+ 
+2 
+ 
+ACKNOWLEDGMENTS 
+ 
+The evaluation team would like to express their gratitude to those who participated in the evaluation 
+process. We would firstly like to thank UNICEF Jordan, the Government of Jordan, the Ministry of 
+Education, the Ministry of Health, the Royal Health Awareness Society and the Jordan River Foundation 
+for their support and availability during the evaluation and for taking the time to hold discussions with 
+Philanthropy Advisors. 
+ 
+A special thank you to the other key respondents, parents and caregivers, school and health staff, for 
+sharing their very good insights and overview of the KOICA supported activities. They patiently 
+answered our questions and made themselves available for in-person discussions to help us grasp the 
+core findings for the purpose of this evaluation. 
+ 
+ 
+يود فريق التقييم أن يعرب عن امتنانه ألولئك الذين شاركوا في عملية 
+ التقييم. نود أوالً أن نشكر منظمة اليونيسف 
+ في األردن ، والحكومة 
+ األردنية
+، ووزارة التربية والتعليم ، ووزارة الصحة ، والجمعية الملكية للتوعية الصحية ومؤسسة نهر األردن على دعمهم و
+تواجدهم 
+ أثناء التقييم وعلى 
+تخصيص الوقت إلجراء المقابالت. 
+ 
+ 
+شكر خاص للمشاركين الرئيسيين اآلخرين ، أولياء األمور ومقدمي الرعاية ، والعاملين 
+ في 
+ المدارس والصحة ، لمشاركتهم أفكارهم الجيدة 
+واعطائهم نظرة 
+ عامة على األنشطة التي تدعمها KOICA. 
+ لقد أجابوا بصبر على أسئلتنا  وساعدونا على إبراز النتائج 
+ األساس
+ية لغرض هذا 
+التقييم.
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3 
+ 
+ACRONYMS 
+ 
+CP 
+ 
+Child Protection   
+CHC 
+ 
+Comprehensive Health Centers 
+ESC 
+ 
+Evaluation Steering Committee 
+ET 
+ 
+Evaluation Team 
+FGD 
+ 
+Focus Group Discussion 
+FPD 
+ 
+Family Protection Department 
+GoJ 
+ 
+Government of Jordan 
+KII 
+ 
+Key Informant Interview 
+KOICA  
+Korea International Cooperation Agency 
+IP 
+ 
+Implementing Partners 
+JHF 
+ 
+Jordan Humanitarian Fund 
+JRF 
+ 
+Jordan River Foundation  
+JRP   
+ 
+Jordan Response Plan  
+M&E  
+ 
+Monitoring and Evaluation 
+MoE 
+ 
+Ministry of Education 
+MoH 
+ 
+Ministry of Health 
+MoWI  
+Ministry of Water and Irrigation  
+NGO 
+ 
+Non-Governmental Organisations 
+OECD  
+Organisation for Economic Cooperation and Development 
+PCA 
+ 
+Programme Cooperation Agreement 
+RHAS  
+Royal Health Awareness Society 
+SGBV  
+Sexual and Gender Based Violence 
+ToC 
+ 
+Theory of Change 
+ToR 
+ 
+Terms of Reference 
+UNEG  
+United Nations Evaluation Group  
+UNHCR 
+ 
+United Nations High Commissioner for Refugees 
+UNICEF  
+United Nations’ Children Fund 
+UNOCHA 
+United Nations Office for the Coordination of Humanitarian Affairs 
+ 
+ 
+
+ 
+4 
+ 
+Table of contents 
+1 
+Executive Summary 
+6 
+2 
+Introduction to the evaluation 
+12 
+2.1 
+Overview of the Context 
+12 
+3 
+Object of the evaluation 
+14 
+3.1 
+Overview of KOICA supported activities 
+14 
+4 
+Purpose and objectives of the evaluation 
+16 
+4.1 
+Scope of the evaluation 
+16 
+4.2 
+Stakeholders and audience of the evaluation 
+16 
+4.3 
+Governance and management of the evaluation 
+17 
+5 
+Framework of the Evaluation 
+17 
+5.1 
+Logic Model and Theory of Change 
+17 
+5.2 
+Conceptual framework and approach 
+18 
+5.3 
+Evaluation criteria and evaluation matrix 
+18 
+6 
+Methodology of the Evaluation 
+20 
+6.1 
+Phases of the Evaluation 
+20 
+6.2 
+Analysis and Quality Assurance 
+23 
+6.3 
+Ethical Considerations 
+24 
+6.4 
+Risks and Limitations of the Evaluation 
+25 
+7 
+Evaluation Findings 
+26 
+7.1 
+Key findings and rating System 
+26 
+7.2 
+Relevance 
+26 
+7.3 
+Coverage 
+30 
+7.4 
+Effectiveness 
+34 
+7.5 
+Efficiency 
+42 
+7.6 
+Impact 
+47 
+7.7 
+Sustainability 
+49 
+8 
+Conclusions and Lessons Learned 
+52 
+8.1 
+Relevance 
+52 
+8.2 
+Coverage 
+52 
+8.3 
+Effectiveness 
+52 
+8.4 
+Efficiency 
+53 
+8.5 
+Impact 
+53 
+8.6 
+Sustainability 
+54 
+9 
+Recommendations 
+54 
+10 
+List of Annexes 
+56 
+10.1 
+Annex 1: Terms of References 
+56 
+10.2 
+Annex 2: Phases of the evaluation 
+56 
+10.3 
+Annex 3: Stakeholder Matrix 
+56 
+
+ 
+5 
+ 
+10.4 
+Annex 4: Evaluation Matrix 
+56 
+10.5 
+Annex 5: Data Collection Tools 
+56 
+10.6 
+Annex 6: Field Mission Agenda 
+56 
+10.7 
+Annex 7: Field Mission PPT presentation 
+56 
+10.8 
+Annex 8: List of respondents 
+56 
+10.9 
+Annex 9: Bibliography 
+56 
+10.10 
+Annex 10: Evaluation Team 
+56 
+ 
+ 
+ 
+
+ 
+6 
+ 
+ 
+1 Executive Summary 
+Context 
+Jordan has suffered from the spillover of the conflict in Syria which resulted into a prolonged regional 
+crisis and is acknowledged by the United Nations (UN) as the worst displacement crisis of this century. 
+The Government of Jordan is confronted with the pressure of maintaining the same quality of services 
+for both Syrian refugees and vulnerable Jordanians impacted by the Syria crisis. As of today, Jordan is 
+hosting 664,4141 Syrian refugees who are registered with UNHCR and constitute a large community in 
+the Jordanian demographics. According to the 2019 Vulnerability Assessment Framework, needs in the 
+Health, WASH, Education and Child Protection sectors remain extremely high. With children making up 
+a high proportion of refugees2 and being at high risk, they suffer from early marriage, Sexual and Gender 
+Based Violence3 (SGBV), dropping out of school, child labor, and this has led to high protection 
+concerns. In addition, access to health facilities and services and WASH have also been identified as 
+key concerns. Jordan still relies on international funding to respond to the protracted refugee crisis, and 
+a large number of actors are involved in the response. For this, the Jordan Response Plan (JRP) which 
+is led by the Government of Jordan (GoJ), serves as the main guide providing key principles of a 
+coordinated response with a high emphasis on the coordination and partnership between international 
+donors, international Non-Governmental Organisations (NGO), Jordanian NGOs and Jordanian 
+institutions. The Government of Jordan has developed several plans and programs to address the 
+health and socioeconomic impacts of the COVID-19 pandemic, including the launch of the COVID-19 
+vaccination program in January 2021. Prior to the pandemic, Jordan made notable improvements in 
+narrowing its current account deficit, however the slowing down of the world’s economy following the 
+pandemic, seems to have reversed this trend. On the social level, the pandemic had a disproportionate 
+impact on women and girls, with the increase of domestic violence4. Those amongst the most deprived 
+communities are at greater risk of sexual and gender-based violence (SGBV), with a hindered access 
+to sexual and reproductive health services as well. 
+ 
+Object and Scope of the Evaluation 
+The Korea International Cooperation Agency (KOICA) invested USD 4.5 million in 2017 to support 
+programmes to fulfill the rights of girls and boys in Jordan. Under the KOICA supported activities, 
+UNICEF engaged in three core sectors, Health, WASH and Child Protection.5 The following 
+interventions were the focus of this evaluation: 
+Box 1: KOICA supported activities per sector 
+SECTOR 
+HEALTH 
+WASH 
+CHILD PROTECTION 
+KOICA supported 
+activities 
+● 
+Integrated School 
+Health (ISH) 
+Programme; 
+● 
+Support to Primary 
+Health Care Centers 
+● 
+National Standards for 
+WASH in Schools; 
+● 
+Three Star Approach; 
+● 
+Environment Action 
+Clubs 
+● 
+Helpline services: 
+Counseling & Case 
+Management 
+ 
+The key stakeholders of the evaluation were UNICEF, KOICA, the Ministry of Education (MoE), the 
+Ministry of Health (MoH), the Family Protection Department (FPD), the Jordan River Foundation (JRF), 
+ 
+1 UNHCR. UNHCR Fact Sheet Jordan, Feb. 2021      
+2 46,7% of refugees are children, UNHCR Operational Update October 2021 
+3 UNFPA Study on child marriage rising among most vulnerable Syrian refugees, 2017 http://www.unfpa.org/news/new-study-
+finds-child-marriage-rising-among-most-vulnerable-syrian-refugees# 
+4  Increase in domestic violence, poor access to family planning, Plan International, May 20, 2020, 
+https://plan-international.org/news/2020-05-20-covid-19-jordan-domestic-violence-poor-access-family-
+planning 
+5 Outcome 2 of the project is not covered by this evaluation 
+
+ 
+7 
+ 
+the Royal Health Awareness Society (RHAS), school directors, teachers, children and their 
+parents/caregivers. 
+ 
+Purpose and Objective of the Evaluation  
+The main purpose of the assignment was a summative evaluation of KOICA supported interventions 
+and activities focused on Health, WASH and Child Protection in Jordan. More specifically, the evaluation 
+aimed at understanding (1) how funds were managed, (2) gain knowledge on the programmatic 
+achievements to fulfill the needs of children and women providing them with appropriate assistance, 
+and (3) how the capacities of government and national actors were strengthened. 
+ 
+In addition, the objectives of the summative evaluation were as follow:  
+- 
+Accountability: Assess the relevance, coverage, effectiveness, efficiency, sustainability, and 
+impact of KOICA supported interventions. 
+- 
+Lessons learned: Identify good practices and lessons learned from KOICA supported 
+interventions (including intended and unintended outcomes) in order to build on general 
+knowledge;  
+- 
+Forward-looking: Inform strategic thinking and provide concrete recommendations that will be 
+considered for future UNICEF interventions and its implementing partners as UNICEF moves 
+into the new country programme document starting in 2023. 
+ 
+Framework of the Evaluation  
+The main approach to the evaluation of the KOICA supported activities was based on the result 
+framework “Better life for Girls: Full realization of Vulnerable girls’ and boys’ rights to health, protection 
+and education in Jordan” provided by UNICEF to the evaluation team (ET) at the start of the evaluation. 
+Based on the revised result framework above and the desk review conducted by the team, the logic 
+model implied is a response to the overall protracted refugee crisis and the realization of girls 
+and boys rights to health, protection and education in Jordan. According to the original Problem 
+and Solution Tree Diagram6, the intervention sought to provide better conditions for girls and women in 
+terms of health, WASH and protection, with a strong focus on children with disabilities7 as well as girls 
+and women who are at risk of violence and suffering from protection issues. Based on the terms of 
+reference for this evaluation focusing on specific KOICA supported activities, the team was able to 
+reconstruct the implicit Theory of Change (ToC) that was used as a tool to support the evaluation 
+process. The ToC is based on an in-depth review of the programmes and sections’ documents, 
+especially the result framework, the logical framework and the Problem and Solution Tree Diagram. 
+The implicit ToC was revised and refined by the evaluation team (ET) to create a useful tool to fine-tune 
+the assignment and more specifically to assess the sustainability and impact of the intervention. 
+ 
+ 
+6 KOICA-UNICEF Project Document 2017 Jordan 
+7 Outcome 2 of the result framework is not part of this evaluation 
+
+ 
+8 
+ 
+ 
+Conceptual framework and approach to the analysis of the relevance  
+ 
+In order to better assess the relevance of the programme against a solid conceptual framework, in 
+complementarity with the logic model, the team for the evaluation defined the hereunder a framework 
+applicable to the KOICA supported activities. Throughout the evaluation, the ET provided an 
+assessment of the relevance of the activities against the indicators and the core principles of the 
+framework in the graph below     .  However, this framework does not necessarily prove useful to the 
+assessment against the other OECD criteria. The team focused on the extent to which the 
+intervention has worked towards achieving an integrated approach that fits with regional and 
+international standards. In addition, this approach helped the team contextualise the activities 
+implemented and their relevance towards a human rights-based approach. 
+ 
+ 
+ 
+ 
+
+ 
+9 
+ 
+Methodology of the Evaluation  
+The evaluation of the KOICA supported activities was guided by the purpose, the objectives, the ToC 
+and the key evaluation questions to inform what has been achieved, lessons learned and provide 
+recommendations. PA’s team used the OECD/DAC evaluation criteria in addition to the UNEG Norms 
+and Standards for Evaluation to support the methodology and the process of the evaluation. Throughout 
+the assignment, PA ensured the assessment of the relevance, coverage, effectiveness, efficiency, 
+impact, and sustainability of the KOICA supported activities. 
+ 
+➢ Relevance: to analyze how the programme was designed in light of the problems it intends to 
+respond to then, 
+➢ Coverage: to understand if it targets the right beneficiaries. 
+➢ Effectiveness: to understand what was effectively delivered. 
+➢ Efficiency: to understand how these achievements were made in terms of resource use. 
+➢ Impact: to understand the effect it had on the beneficiaries and beyond. 
+➢ Sustainability: to understand how these changes are likely to be maintained over time. 
+ 
+PA suggested that the principal and overarching research question of the evaluation is the extent to 
+which the KOICA supported activities have contributed to the realization of children’s rights to 
+health, protection and adequate school environment. 
+ 
+Findings 
+ 
+Relevance 
+The KOICA supported activities benefited from a strong situation analysis supported by UNICEF’s 
+presence in Jordan and understanding of the challenges triggered by the Syrian refugee crisis. The 
+intervention was relevant to the dire needs of boys and girls but also their families and provided them 
+with adequate services in terms of health and child protection, notably in regard to the consequences 
+of the COVID-19 crisis. The WASH component enhanced the possibility for children to access a healthy 
+school environment and acquire better      hygienic behaviors. Additionally, the intervention was well 
+integrated in the national priorities and UNICEF worked towards supporting the Government of Jordan 
+in strengthening its strategies and developing policies.  
+ 
+In the midst of the COVID-19 context, UNICEF adapted the intervention with the support to the helpline 
+to provide help to isolated mothers and children at risk. However, for health and WASH, the activities 
+were for most interrupted. 
+ 
+Coverage 
+Despite the high relevance of the activities, gaps were identified in targeting areas and locations that 
+were the most vulnerable and left-out. Some supported schools had already been integrated in previous 
+similar interventions; and others appeared as being in a fairly favorable environment in comparison to 
+other areas in Jordan. The vulnerability of the target location remains debatable and a lack of efforts 
+was noted in reaching out to remote areas and schools that did not receive support in the past for the 
+Health and WASH interventions. 
+ 
+The KOICA supported activities were fairly compliant with a human rights-based approach (international 
+standards, equity, gender equality & participatory approach) and responded adequately to the priorities 
+of the Sustainable Development Goals. Efforts were made by UNICEF in mainstreaming gender 
+equality,     , and equity through the programme and implementation of the activities. Nonetheless, the 
+evaluation showed gaps in “leaving no one behind”, children with disabilities (CWD) hardly benefited 
+from the activities, with only a few cases reported. This finding can largely be explained by the 
+unfavorable context in public schools in Jordan for the integration of CwD, however this gap was not 
+placed at the heart of this specific intervention when working with schools and national authorities. 
+Additionally, while the helpline enabled access to remote support for vulnerable children and mothers, 
+
+ 
+10 
+ 
+it was not designed, from the onset of the programme, to be made available for refugees living in camps. 
+This design choice, supposedly addressed by other protection mechanisms within camps, proved 
+problematic with the covid-19 related halt of such protection mechanisms. Therefore, refugees in camps 
+faced           lack of information, leaving them with important protection concerns, especially during the 
+lockdowns     . 
+ 
+Effectiveness 
+Based on the programme documents and review, UNICEF effectively worked towards supporting a 
+quality health system to meet the needs of the most vulnerable, especially children and supporting a 
+protective environment that prevents vulnerable girls, boys and women from exploitation, violence, 
+abuse and neglect and responded to their needs. For this, UNICEF and its partners provided services 
+to the most vulnerable and bolstered national capacities and pre-existing systems. 
+ 
+Nevertheless, the evaluation showed a lack of clarity in the implementation timeline leading to 
+uncertainties on what was achieved in which period. Complementing this, gaps were identified in the 
+reports of data on the level of achievement, and results could not be triangulated. Moreover, the  ET 
+lacked the possibility to consult a comprehensive results framework based on the actual activities 
+implemented. If such tools were designed and used during the lifetime of the programme, their quality 
+or granularity failed in informing the ET with a full picture of output and outcome generation. T     his      
+le     d to the inability to understand what was effectively delivered.  
+ 
+The effectiveness of the activities was largely impacted by the Covid-19 lockdowns; activities for health  
+and WASH implemented in schools were on hold while the ‘project’ was still on-going.  
+ 
+Efficiency 
+The results of the intervention were largely made possible with UNICEF’s partnership with national civil 
+society organisations, responsible for the direct implementation of the activities. Additionally, UNICEF 
+was able to leverage internal inputs and invest in additional human resources when required. 
+ 
+The evaluation showed that the efficiency of the activities were affected by the lack of an      ‘overall 
+project manager’ assigned to the KOICA activities or fund. Indeed, the intervention rather functioned as 
+a set of different activities undertaken by different programme sections and was not able to mutualise 
+or articulate some of the activities (for instance school interventions for WASH and Health) to enhance 
+its coherence and thus its efficiency. This has led to considerable gaps in assessing how funds were 
+used against the generation of outputs, as the necessary information was not all made available.  
+ 
+Impact 
+The evaluation showed that the intervention had a direct impact on children: providing them with health 
+services, enhancing their well-being, contributing to a safer and hygienic school environment. Parents 
+and caregivers largely reported that their children have a better awareness of the school environment, 
+coupled with hygiene knowledge and new hygiene habits. However, the evaluation highlighted  
+weaknesses in the monitoring system regarding the choice and design of relevant and measurable      
+qualitative indicators able to inform on and capture the outcomes. Therefore the monitoring system 
+failed at measuring the real       impact of the provided services. 
+ 
+Sustainability 
+The sustainability of the intervention is supported by the engagement of national partners, civil society 
+and authorities that were  fully engaged in the activities. Both have built strong ownership over the three 
+sectors supported by KOICA, i.e. health, WASH and child protection. UNICEF supported the national 
+strategies and policies, now adopted by the relevant ministries, but also the technical capacities of its 
+partners, creating a stronger system in place that will lead future national priorities and responses 
+ 
+While Jordan is well-equipped to maintain the strategy of the KOICA supported activities at a larger 
+scale, the limited financial resources at national level may hinder the capacity of GoJ to pursue the 
+
+ 
+11 
+ 
+intervention. Jordan still relies largely on international funding and this raises concerns over the 
+sustainability of an intervention, funded by international donors or agencies. 
+ 
+Conclusion 
+The KOICA supported activities were strongly in line with UNICEF’s strategy in Jordan, providing 
+services to the most vulnerable children and bolstering national capacities. The intervention provided 
+children with the necessary means and opportunities to enhance their rights to health and protection in 
+response to long existing needs in Jordan. The activities have also worked towards reinforcing the 
+national existing system for access to health and hygiene in schools, and the national child protection 
+system. The intervention benefited from partnering with strong national NGOs that are well established 
+among the communities with strong ties to the Government of Jordan that could be leveraged in the 
+future to pursue the work in favor of children’s rights and well-being.  
+ 
+The evaluation showed that large targets can be achieved reaching vulnerable children and their 
+families, however the intervention would have benefited from a stronger centralized programme 
+management team, to better inform on the activities implemented, strengthen accountability, and 
+measure the impact. 
+ 
+Recommendations 
+PA’s team developed a detailed set of recommendations that are strategic, programmatic and 
+operational. These are provided in the evaluation report and include the assigned entity as well as 
+priority of the action. The overarching strategic recommendations are proposed here:  
+ 
+1. KOICA and UNICEF  should sustain financial support to nationally owned and 
+implemented programmes  (by the GoJ through relevant Ministries) and, for sustainability 
+purposes, all stakeholders should be involved in the identification of future long-term 
+funding through diversifying the financing landscape including development banks, the 
+Jordanian private sector  and other philanthropic actors. 
+ 
+2. KOICA and UNICEF should continue to technically support the GoJ in fully owning and 
+implementing programmes that are aligned and supported by national policies for full 
+realization of intended results.  
+ 
+3. For the programmes features fully embedded into the routine activities of the MoE and 
+MoH within schools, KOICA should consider, with careful monitoring and accountability 
+mechanisms, transitioning the funding of operational activities to bilateral support  to 
+reinforce ownership and sustainability on national strategies.  
+ 
+4. The donor community  and the implementing actors should align and enhance synergies      
+in the Health and WASH sectors for better  coherency and coverage, to avoid duplication 
+of activities (and efforts), transparency and accountability and thus allowing for 
+comprehensive school interventions rather than siloed sectoral interventions.

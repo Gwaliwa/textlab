@@ -1,0 +1,750 @@
+EVALUATION REPORT 
+December 2021 
+ 
+ 
+ 
+ 
+Evaluation of Southeast Asia- 
+Primary Learning Metrics 
+  
+ 
+SEA PLM  Evaluation 
+
+ 
+ 
+ 
+EVALUATION REPORT 
+December 2021 
+ 
+ 
+ 
+ 
+Evaluation of Southeast Asia- 
+Primary Learning Metrics 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+SEA PLM  Evaluation 
+
+ 
+ 
+ 
+Issue and Revision Record 
+Revision 
+Date 
+Originator 
+Checker 
+Approver 
+Description 
+1 
+12 Nov 
+2021 
+Fergal Turner 
+and Rachel 
+Outhred 
+Zeynep Ozcan 
+and Jeffrey 
+Marshall 
+Emma Mba 
+Draft evaluation report 
+2 
+6 Dec 
+2021 
+Fergal Turner 
+and Rachel 
+Outhred 
+Zeynep Ozcan 
+and Jeffrey 
+Marshall 
+Emma Mba 
+Final evaluation report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document reference: R67 - UNICEF TP LTA1 43315402 | D4 | 2 
+ 
+Information class: 
+Standard 
+ 
+ 
+Cambridge Education 
+22 Station Road 
+Cambridge CB1 2JD 
+United Kingdom 
+ 
+T +44 (0)1223 463500 
+camb-ed.com 
+Mott MacDonald Limited trading as Cambridge 
+Education. Registered in England and Wales 
+no. 1243967.  
+ 
+ 
+Registered office: Mott MacDonald House, 8-10 
+Sydenham Road, Croydon CR0 2EE, United 
+Kingdom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document is issued for the party which commissioned it and for specific purposes connected with the above-captioned 
+project only. It should not be relied upon by any other party or used for any other purpose. 
+We accept no responsibility for the consequences of this document being relied upon by any other party, or being used for 
+any other purpose, or containing any error or omission which is due to an error or omission in data supplied to us by other 
+parties. 
+This document contains confidential information and proprietary intellectual property. It should not be shown to other parties 
+without consent from us and from the party which commissioned it. 
+This report has been pr epared sol ely for use by the party which commissi oned it (the ‘Client’) i n connecti on with the capti oned proj ect. It should not be used for any other purpose. N o person other than the Client or any party who has expressly agreed terms of r eliance with us (the ‘Reci pient(s)’) may rely on the content, i nformati on or any vi ews expressed i n the repor t. W e accept no duty of care, responsi bility or liability to any other r eci pient of thi s document. This r eport is confi denti al and contains pr opri etary intell ectual property.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Function is to fulfil a 
+corporate commitment to transparency through the publication of all completed evaluations. The reports are 
+designed to stimulate a free exchange of ideas amongst those interested in the topic and to assure those 
+supporting the work of UNICEF that it rigorously examines it strengths, results, and overall effectiveness. 
+The content of the report does not necessarily reflect the policies or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for error. 
+ 
+Designations in this publication do not imply an opinion on the legal status of any country or territory, 
+or of its authorities, or the delimitation of frontiers. 
+ 
+The copyright for the support is held by the United Nations Children’s Fund.  Permission is required 
+to reprint/reproduce/photocopy or any other way to cite or quote from this report written form. 
+UNICEF has a formal permission policy that requires a written request to be submitted. For non-commercial 
+uses, the permission will normally be granted free of charge. Please write to the UNICEF-EAPRO at the address 
+below (or email) to initiate a permission request. 
+ 
+Copyright:  
+ 
+United Nations Children’s Fund (UNICEF) 
+East Asia and the Pacific Regional Office 
+Evaluation Section 
+ 
+Date of Final Version:  
+10 December 2021 
+ 
+Published by:  
+ 
+UNICEF East Asia and Pacific Regional Office 
+19 Phra Atit Road Bangkok 10200 Thailand 
+Tel: (66 2) 356-9499 Fax: (66 2) 280-3563 
+E-mail: eapro@unicef.org or asia.pacific.evaluate@unicef.org 
+www.unicef.org/eapro 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+i 
+ 
+Executive Summary 
+Background 
+The Southeast Asian Primary Learning Metrics Programme (SEA-PLM) focuses on supporting 
+the Association of Southeast Asian Nations (ASEAN) and the Southeast Asian Ministers of 
+Education Organisation (SEAMEO) member countries to better understand the status of student 
+learning achievement, in order to improve the quality of their education systems (UNICEF, 
+2019). The programme assesses reading, writing, Mathematics and global citizenship, and 
+administers questionnaires contextualised to the regional context (UNICEF, 2019, p. 9).  
+The overall goal of SEA-PLM is that by 2025, all Southeast Asia countries have regional 
+standardised quality measures to assess learning outcomes for Grade 5 students, and 
+consistently use these to inform improvement within the education sector (SEA-PLM SEAMEO 
+UNICEF, 2019b, p. 16).  
+Evaluation purpose and objectives 
+In 2020, an evaluation of SEA-PLM was commissioned by UNICEF. UNICEF has been a key 
+participant and funder of SEA-PLM. Prior to investing in the longer-term expansion and 
+institutionalisation of the survey, UNICEF at the present juncture wishes to take stock of the 
+experience to date. The main purpose of this independent evaluation is to draw lessons learned 
+and account for results to inform the next phase of the SEA-PLM Programme. The evaluation is 
+retrospective (summative), but it is also forward-looking (formative) in providing conclusions and 
+recommendations for regional- and country-level programming. The evaluation objectives 
+include reviewing the relevance, effectiveness, efficiency, likely impact and sustainability of the 
+SEA-PLM programme and identifying strategic approaches that can help better position 
+UNICEF and collaborators for the SEA-PLM programme in achieving the Sustainable 
+Development Goal agenda.  
+The primary audience for the evaluation is UNICEF, EAPRO, SEAMEO, the SEA-PLM 
+Secretariat, UNICEF Country Office Management teams and Education teams. The secondary 
+audience includes governments, UN agencies, development partners, donors, non-
+governmental organisations, and civil society organisations working in education, as well as 
+external stakeholders such as contractors and other collaborators. 
+Methodology 
+The evaluation has assessed the validity of the results chain, as described in the Theory of 
+Change (ToC). This included the identification of barriers to delivery, uptake, individual change 
+and institutional reform, reviewing how delivery is achieved, identifying the likely mechanisms of 
+impact1, and identifying any contextual issues that shape theories of how the intervention works. 
+This was done by empirically verifying activities, outputs, and outcomes and assumptions posited 
+along the causal chains in the ToC and drawing conclusions about what is working and what is 
+not working in SEA-PLM and likely impact. 
+The data sources include a desk review of SEA-PLM documentation, a literature review of large-
+scale learning assessments, qualitative data collection with stakeholders in three SEA-PLM 
+participating countries and with a wide range of regional stakeholders, secondary quantitative 
+analysis of education data across Southeast Asia and a survey of stakeholders in SEA-PLM 
+participating countries.  
+ 
+1 It is recognised that as the programme has not completed a full cycle yet, impact of student learning cannot be assessed. However, the 
+likely mechanisms for impact can be explored by testing the assumptions that exist along the results chain. 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+ii 
+ 
+Findings 
+The findings for each evaluation question are listed by Development Assistance Committee 
+evaluation criteria. 
+Relevance 
+SEA-PLM alignment to i) the national development policies and priorities of national education 
+stakeholders and ii) UNICEF’s national, regional and global objectives and intended impacts 
+SEA-PLM objectives align significantly with national development policies and priorities and 
+reflects a trend across countries in the region to prioritise learning data.  
+SEA-PLM objectives align with UNICEF national, regional and global objectives, but are 
+narrower than UNICEF’s broad focus on holistic child development. UNICEF national priorities 
+within the area of education focus on, among other priorities, strengthening government 
+capacity to improve the quality and relevance of teaching and the learning environment. At the 
+regional level, UNICEF focuses on inequity in terms of access to education and learning, which 
+aligns with SEA-PLM's stated objectives to improve capacity to analyze learning assessment 
+data towards more equitable learning outcomes. 
+Programming gaps or unaddressed needs - What could be done better? 
+The activities related to the development of the assessment framework and delivery of the first 
+round of data collection have been largely successful. However, SEA-PLM has so far missed a 
+valuable opportunity to provide tailored technical capacity strengthening to support participating 
+countries. The level of capacity and ambition varies significantly across countries in the region, 
+a fact that was not well reflected in the approach to training. 
+Communication planning and implementation can be improved. A communications plan was 
+developed in part and is currently a working document. However, several of the priorities of SEA-
+PLM outlined in the plan have not yet been reflected in programme activities.  
+Related to this, there is a widely recognised need for a more structured approach to political 
+advocacy, both for attracting new countries, as well as for supporting the use of data. A more 
+structured forward-looking approach is missing. Ministries of education should be involved in 
+setting key questions that they would like SEA-PLM data to answer.  
+Regional endorsement activities took place during SEA-PLM’s emergence, however there 
+is a need for a longer-term strategy. In addition, while fundraising activities with donors and 
+countries have taken place, a long-term funding strategy is missing.  
+Effectiveness  
+The extent to which objectives and expected outcomes of SEA-PLM have been achieved or are 
+likely to be achieved  
+There is clear evidence that changes in national assessments are being informed by SEA-PLM. 
+There is also unambiguous evidence that SEA-PLM data is supporting increased dialogue 
+around learning data, but it is not yet clear how this will inform decision making. 
+Participation in SEA-PLM is strengthening capacity of partner institutions but is largely limited to 
+the development of tools and the collection of data. While capacity of individuals and units is 
+growing, it is not clear whether or how this will translate into systemic change in capacity for 
+assessments or the utilisation of data from assessments.  
+Major factors influencing the achievement or non-achievement of SEA-PLM objectives and 
+activities - Enabling factors, barriers and bottlenecks 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+iii 
+ 
+The level of engagement in large-scale assessments (LSAs) has been a key enabling factor for 
+participating countries, as has the work of UNICEF at the regional and country levels that has 
+enabled the successes seen so far on SEA-PLM. The lack of long-term funding is a barrier to 
+success in limiting the ability of the programme to attract and maintain long-term human 
+resources. 
+UNICEF and partners actions to ensure the objectives of SEA-PLM are met in the future – 
+Country and regional level initiatives. 
+Flexible, locally rooted support and advice and technical support proved to be a particularly 
+effective mechanism for maximising SEA-PLM impact. Collaboration with academia and the 
+private sector can help to multiply the amount of analysis of SEA-PLM data. Integration of SEA-
+PLM into a broader assessment strategy has benefits both in use of data and in capacity building.  
+Efficiency  
+Strengths and weaknesses of SEA-PLM management processes - How could management of 
+SEA-PLM activities be improved?  
+The management structure of the SEA-PLM programme has become stronger over the course 
+of the programme so far. Regional ownership of the programme is a key strength for SEA-PLM, 
+but the balance between technical and political participation should be considered. More 
+engagement from political or planning departments within ministries of education would support 
+a stronger link between SEA-PLM data and policy throughout the programme cycle.  
+In addition to political participation, ministries of education need greater support in packaging and 
+messaging the results of SEA-PLM. Ministries of education in SEA-PLM participating countries 
+are struggling to form a common and understandable language around SEA-PLM results, tie the 
+results to an intended action and communicate with citizens.  
+While the technical support arrangement has allowed for the delivery of the first round of SEA-
+PLM data, it presents challenges for future rounds of the programme. Country and regional 
+stakeholders do not view the technical support component of the work as value for money. 
+Likely impact 
+SEA-PLM’s contribution to national education systems and assessment practices and policies 
+and discourses thus far - And positive and negative changes SEA-PLM has brought about at 
+the regional level 
+There are several tentative examples of where SEA-PLM has influenced education dialogue at 
+the national level and there are concrete examples of how SEA-PLM is informing decisions for 
+national assessments. There is wide ranging vocal commitment to use SEA-PLM data for a range 
+of different policy issues across participating countries, however it is important to differentiate 
+these conversations from concrete discussions around policy change. The impact of SEA-PLM 
+hinges on the ability of the programme to build systemic change in the capacity to use SEA-PLM 
+data and engage in the political aspects of policy change and education reform. 
+Sustainability  
+To what extent SEA-PLM activities, plans and strategies are fully integrated and implemented 
+by the government (s), both technically and financially and to what extent are they likely to 
+continue  
+It is the view of many stakeholders that the SEA-PLM model has room for more cost efficiency, 
+and for developing a clearer articulation of purpose. The question of sustainability for SEA-PLM 
+is tied to SEA-PLM’s long-term vision for assessment in the region and the affordability of future 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+iv 
+ 
+rounds. Funding availability is uncertain for future rounds and is dependent on a more cohesive 
+articulation of what it is that SEA-PLM offers.  
+Key barriers and bottlenecks towards achieving sustainability of SEA-PLM activities  
+The continued existence of SEA-PLM is dependent on maintaining existing engagement, 
+expanding to other countries in the region and establishing a clear narrative on what it provides, 
+what differentiates it from other International Large-Scale Assessments (ILSAs), and/or how it can 
+leverage participation in other ILSAs.  
+For technical sustainability, the capacity of SEAMEO to provide technical and political support on 
+assessment is a limiting factor.  
+How SEA-PLM can attract other countries in Southeast Asia and better link other international 
+and regional initiatives 
+While the cost of participating is the most obvious barrier to entry, it is only one of the reasons 
+identified through this evaluation. The second is technical. It is felt that countries were reluctant 
+to participate until they had seen the quality of data and outputs produced from the first round. 
+The third is political, worsened by the COVID-19 pandemic. Currently, it is not clear that the SEA-
+PLM secretariat has the dedicated human resources to address all these questions. Support to 
+political narrative building at the national levels is vital, so it is important to ensure that the team 
+has the necessary level of political influence and understanding. 
+Equity and Gender Equality 
+The extent to which SEA-PLM is conducive to supporting the most marginalised populations 
+and genders (including those furthest left-behind) 
+Beyond the inclusion of contextual questionnaires for learners, teachers and parents, there is little 
+evidence of equity being formally mainstreamed within SEA-PLM programme activities. There is 
+evidence that countries are intending to use SEA-PLM learning data to answer equity questions. 
+At the regional level, there are ongoing efforts to use SEA-PLM data to answer equity questions, 
+including secondary reporting on gender differences in learning across the region, and the World 
+Bank’s use of SEA-PLM data for looking at learning poverty.  
+Conclusion 
+The SEA-PLM Secretariat and partners have delivered a successful first cycle. This has taken 
+place despite human and material resource constraints and is a commendable achievement for 
+all the stakeholders involved. This has also been achieved despite the significant disruptions 
+caused by the COVID-19 pandemic.  
+There is evidence that SEA-PLM is relevant to the needs of participating countries. Increasing the 
+amount of data available on learning is a priority in most of the countries that participated in SEA-
+PLM. What is less clear is what exactly the relevance of SEA-PLM is, whether as a uniquely 
+regional learning assessment, or as a compliment to other ILSAs operating in the region.  
+The validity of the SEA-PLM Theory of Change from inputs to outputs is strong but can be 
+improved. The strong delivery of technical outputs is necessary but not sufficient to deliver on 
+SEA-PLM intended outcomes and impact. Overall, the success of SEA-PLM hinges on the ability 
+of the programme to move from data delivery to planning for and supporting the uptake of 
+evidence to inform decision-making. In addition, a more sustainable delivery model for SEA-PLM 
+is needed to ensure the programme remains affordable for countries and attracts additional 
+regional funding to support the programme in the future.  
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+v 
+ 
+SEA-PLM is entering a pivotal phase in 2022. Moving into the second round of data collection, 
+SEA-PLM has left the “proof of concept” phase and the programme has proved that it can 
+generate data that is robust and trusted by participating and observing governments. Now it must 
+build on this and present a long-term strategic vision. 
+Recommendations 
+Based on the conclusions of this evaluation we propose a number of recommendations 
+to be considered for the next round and beyond. Recommendations are divided between 
+three strategic areas related to; i) building of regional assessment capacity; ii) strengthening the 
+link between data and policy formation and; iii) establishing SEA-PLM’s regional presence. 
+Strategic area one: Building Long Term Sustainable Capacity for Assessment in 
+Participating Countries 
+Recommendation 1.1: Work with countries to develop long term capacity objectives and 
+needs. For the next round, SEA-PLM should work individually with countries to define roles and 
+responsibilities and capacity gaps. This will also feed into a long-term sustainability plan.  
+Recommendation 1.2: Develop a bank of sustainable and transferrable capacity 
+development materials. While the first round of SEA-PLM has established a strong and valuable 
+dataset, it produced little in the way of transferrable training or capacity building materials. SEA-
+PLM should take the opportunity to build a library of resources that can be applied beyond those 
+involved directly in training.  
+Strategic area two: Strengthening the links between SEA-PLM data and policy decisions 
+Recommendation 2.1: Plan strategically for the communication, uptake and use of data by 
+policy makers. In the first round of SEA-PLM, data has resulted in countries recognising 
+challenges with learning. However, assessment data on its own cannot necessarily influence are 
+the policy and politics streams. The theory of change for the next round of SEA-PLM should 
+include activities which address the political aspects of policy change.  
+Recommendation 2.2: Mainstream equity considerations into SEA-PLM design decisions. 
+Equity considerations should be tailored to each country and driven by (1) an education sector 
+analysis concerning equity (usually available for GPE member countries) and (2) the research 
+questions that Ministries of Education have regarding inequity.  
+Strategic Area three: Building SEA-PLM as a sustainable regional body  
+Recommendation 3.1: Establish network of technical assistance individuals and 
+agencies to support technical teams. In addition to, or as an eventual replacement for, a sole 
+technical assistance supplier, SEA-PLM should see itself as having a coordinating and 
+networking function for technical assistance. This would potentially be a more cost-effective 
+approach to technical assistance, as well as promoting and supporting technical resources 
+within the region. 
+Recommendation 3.2: Develop a collaboration and networking strategy. In addition to an 
+external communications strategy, the strategy for the next round of SEA-PLM should explicitly 
+focus on networking and collaboration.  
+Recommendation 3.3: Plan strategically for the establishment of SEA-PLM as a regional 
+technical hub on learning assessment and education quality. In the long-term, SEA-PLM 
+should consider the development of a regional technical agency, housed within SEAMEO. This 
+agency would provide technical inputs for SEA-PLM but would also support other assessment 
+activities across the region for participating and non-participating countries.  
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+vi 
+ 
+Contents 
+Executive Summary 
+i 
+Background 
+i 
+Evaluation purpose and objectives 
+i 
+Methodology 
+i 
+Findings 
+ii 
+Relevance 
+ii 
+Effectiveness 
+ii 
+Efficiency iii 
+Likely impact 
+iii 
+Sustainability 
+iii 
+Equity and Gender Equality 
+iv 
+Conclusion 
+iv 
+Recommendations 
+v 
+List of abbreviations 
+xi 
+1 
+Introduction 
+1 
+1.1 
+Background 
+1 
+1.2 
+Report structure 
+1 
+1.3 
+Colour-Coding scheme used throughout the report 
+1 
+2 
+The Evaluation SEA-PLM Programme in Southeast Asia 
+3 
+2.1 
+Regional and country context 
+3 
+2.2 
+Timeline of intervention and implementation status 
+3 
+2.2.1 
+Emergence of SEA-PLM 
+3 
+2.2.2 
+Institutional arrangements 
+4 
+2.2.3 
+Assessment framework 
+5 
+2.3 
+Reconstructed Theory of Change (ToC) 
+6 
+3 
+Evaluation purpose 
+8 
+3.1 
+Type of evaluation (why being done at this time) 
+8 
+3.2 
+Primary and secondary audiences 
+8 
+3.3 
+Duty bearers and rights holders (and their involvement) 
+8 
+3.4 
+Evaluation objectives 
+9 
+3.5 
+Scope of the evaluation 
+9 
+3.6 
+Any adaptations from the initial ToR 
+9 
+4 
+Methodology 
+10 
+4.1 
+Evaluation criteria and questions 
+10 
+4.2 
+Evaluation framework 
+11 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+vii 
+ 
+4.3 
+Evaluation design and methods 
+11 
+4.3.1 
+Data collection methods 
+11 
+4.3.2 
+Data collection instruments 
+12 
+4.3.3 
+Data collection consistency and quality 
+13 
+4.4 
+Data analysis 
+13 
+4.4.1 
+Qualitative Comparative Analysis 
+13 
+4.4.2 
+Synthesis 
+13 
+4.4.3 
+Triangulation, bias and informed judgements 
+13 
+4.5 
+Equity and gender 
+13 
+4.6 
+Ethics 
+13 
+4.7 
+Gaps and limitations 
+14 
+5 
+Findings 
+15 
+5.1 
+Relevance 
+15 
+5.1.1 
+To what extent is SEA-PLM aligned to i) the national development 
+policies and priorities of national education stakeholders and ii) 
+UNICEF’s national, regional and global objectives and intended 
+impacts? 
+15 
+5.1.2 
+What are the programming gaps or unaddressed needs? What 
+could be done better? 
+16 
+5.2 
+Effectiveness and Efficiency 
+19 
+5.2.1 
+What were the strengths and weaknesses of SEA-PLM 
+management processes? How could management of SEA-PLM 
+activities be improved? 
+19 
+5.2.2 
+To what extent have the objectives and expected outcomes of 
+SEA-PLM been achieved or are likely to be achieved? 
+22 
+5.2.3 
+What have been the major factors influencing the achievement or 
+non-achievement of SEA-PLM objectives and activities? What 
+were the enabling factors, barriers and bottlenecks? 
+24 
+5.2.4 
+What can UNICEF and its partners do to ensure the objectives of 
+SEA-PLM are met in the future? What kind of initiatives should 
+UNICEF prioritize at the country and regional levels? 
+24 
+5.3 
+Likely Impact 
+25 
+5.3.1 
+How has SEA-PLM contributed to national education systems and 
+assessment practices and policies and discourses thus far? And at 
+the regional level, what positive and negative changes has SEA-
+PLM brought about? 
+25 
+5.4 
+Sustainability 
+27 
+5.4.1 
+To what extent can SEA-PLM activities, plans and strategies be 
+fully integrated and implemented by the government (s), both 
+technically and financially? To what extent are they likely to 
+continue? 
+27 
+5.4.2 
+What are the key barriers and bottlenecks towards achieving 
+sustainability of SEA-PLM activities? 
+28 
+5.4.3 
+How can SEA-PLM attract other countries in Southeast Asia and 
+better link other international and regional initiatives? 
+29 
+5.5 
+Equity and gender equality 
+30 
+
+Cambridge Education | Evaluation of Southeast Asia-Primary Learning Metrics 
+Evaluation Report 
+ 
+viii 
+ 
+5.5.1 
+To what extent is SEA-PLM conducive to supporting the most 
+marginalized populations and genders (including those furthest 
+left-behind)? 
+30 
+6 
+Conclusions and lessons learned 
+32 
+7 
+Recommendations 
+34 
+7.1 
+Building Long Term Sustainable Capacity for Assessment in Participating 
+Countries 
+35 
+Unmissable opportunities 
+35 
+Long term visions 
+35 
+7.2 
+Strengthening the links between SEA-PLM data and policy decisions 
+35 
+Quick Wins 
+35 
+Unmissable opportunities 
+36 
+7.3 
+Building SEA-PLM as a sustainable regional body 
+36 
+Unmissable opportunities 
+36 
+Long-term visions 
+37 
+8 
+Bibliography 
+38 
+Annex A Terms of Reference 
+40 
+Annex B Access, quality and equity of education in SEA 
+51 
+B.1 
+Access and equity across the region 
+51 
+B.2 
+Learning assessment programmes and Southeast Asia 
+53 
+B.3 
+Education System Quality Indicators in SEA-PLM participating countries 
+54 
+B.4 
+Access, retention, survival and equity in SEA-PLM participating countries 
+56 
+Annex C SEA-PLM logframe 
+59 
+Annex D Reconstructed ToC evidence 
+62 
+D.1 
+Impact 
+62 
+D.2 
+Longer term and intermediate Outcomes 
+62 
+D.3 
+Outputs 
+63 
+D.4 
+Activities 
+64 
+D.5 
+Inputs 
+67 
+D.6 
+Assumptions to be tested 
+67 
+Annex E Evaluation matrix 
+69 
+Annex F Evaluation Framework and Methodology 
+75 
+F.1 
+Conceptual framework 
+75 
+F.2 
+Evaluation approach 
+76

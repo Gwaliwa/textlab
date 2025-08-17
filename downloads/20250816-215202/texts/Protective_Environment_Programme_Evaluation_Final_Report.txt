@@ -1,0 +1,658 @@
+Disclaimer 
+The information and views presented in this report are the responsibility of the author and do not necessarily reflect 
+the official opinion of UNICEF. Neither the institutions and bodies of the United Nations nor any person acting on their 
+behalf may be held responsible for the use that may be made of the information presented here. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2022 
+ 
+Implemented by Dr. rer. pol. Eduardo Wirthmann Ferreira with support of movimentar GmbH – Project Management and Data Science 
+ 
+E-mail: support@movimentar.eu  
+Tel: +49 421 67 32 52 99  
+Web: https://www.movimentar.eu 
+ 
+ 
+movimentar GmbH – Project Management & Data Science  
+ 
+Technology Bremen 
+Anne-Conway-Str. 1 
+28359 Bremen, Germany 
+ 
+Commercial Register at Bremen Local Court 
+Commercial register no.: HRB 34102 HB 
+
+ 
+ 
+ 
+iii 
+Acknowledgements 
+This evaluation was implemented by the international consultant Dr. rer. pol. Eduardo Wirthmann Ferreira with 
+support of German research and consultancy firm movimentar GmbH, involving local senior evaluators, a team 
+of trained phone interviewers based in Tajikistan, and the movimentar staff in Germany. Youth representatives 
+were involved at all stages of the evaluation including the design of the inception report and data-collection 
+tools; some of them also took part in field visits.  
+This report was only possible through the dedicated work of the programme team, youth reference group, and 
+partners both in the design of the study and the collection and analysis. The involved team included staff from 
+the youth reference group (Farahnoz Lafizova, Javohir Mirmastov, Jonibek Arabov, Madamin Ochilboev, Manzura 
+Mirzoxonzoda, Quvvatbek Zkuvat, and Shahrom Azimov), UNICEF Tajikistan (Farida Karimova, Ruslana Sirman, 
+Saidahmad Ikromov, Salohiddin Shamsiddinov, Saltanat Rasulova, Shukufa Ibodova, Stephen Grant, Tetyana 
+Nikitina, and Zamira Komilova) and movimentar GmbH (Ajeeb Almamari, Annalena Oeffner Ferreira, Carolina 
+Clemens, Eduardo W. Ferreira, Ilkhom Makhkambaev, Jailson Fulgencio de Moura, Lola Babakhanova, Saúl 
+Gámez, and Usman Ahmed). Local interviews were conducted by Naimova Sharifamo, Murodova Markhabo, and 
+Khursheda Kurbonalieva. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+iv 
+List of abbreviations and acronyms 
+C4D 
+Communication for development 
+CAE 
+Centres for Additional Education 
+CBR 
+Community-based rehabilitation 
+CFCI 
+Child-Friendly Cities Initiative 
+CO 
+Country office 
+Covid 
+Coronavirus disease 
+CP 
+Child protection 
+CRC 
+Committee on the Rights of the Child 
+CRIA 
+Child-Rights Impact Assessment 
+CRPD 
+Convention on the Rights of Persons with Disabilities 
+CRU 
+Child Rights Units 
+CSO 
+Civil society organisation 
+DAC 
+Development Assistance Committee 
+EQ 
+Evaluation questions 
+ERG 
+Evaluation’s Reference Group 
+FCSC 
+Family and Child Support Centres 
+GBV 
+Gender-based violence 
+GDPR 
+General Data Protection Regulation 
+GEROS 
+UNICEF’s Global Evaluation and Research Oversight System 
+GIS 
+Georeferenced information systems 
+GmbH 
+Gesellschaft mit beschränkter Haftung (Limited Liability Company, in German) 
+hCTP 
+Humanitarian Cash Transfer Programme 
+IM 
+Inception mission 
+IR 
+Inception report 
+J4C 
+Justice for Children 
+JS 
+Juvenile support 
+LNOB 
+Leave no one behind 
+M&E 
+Monitoring and evaluation 
+MOES 
+Ministry of Education and Science 
+MOHSPP 
+Ministry of Health and Social Protection of Population 
+MoJ 
+Ministry of Justice 
+MoIA 
+Ministry of Internal Affairs 
+MoH 
+Ministry of Health 
+NGO 
+Non-governmental organisation 
+O4CR 
+Ombudsman for Child Rights 
+
+ 
+ 
+ 
+v 
+OECD 
+Organisation for Economic Co-operation and Development 
+OPD 
+Organisation of People with Disabilities 
+OSCE 
+Organisation for Security and Co-operation in Europe 
+PE 
+Protective environment 
+PPSW 
+Paraprofessional social worker 
+QA 
+Quality assurance 
+RBA 
+Rights-based approach 
+RCI 
+Residential care institutions 
+ROM 
+Results-oriented monitoring 
+SAHU 
+Social Assistance at Home Units 
+SGBV 
+Sexual and gender-based violence 
+SMR 
+Strategic moment of reflection 
+SWOT 
+Strengths, weaknesses, opportunities, and threats 
+ToC 
+Theory of change 
+ToR 
+Terms of reference 
+UNCRC 
+The United Nations Convention on the Rights of the Child 
+UNEG 
+United Nations Evaluation Group 
+ 
+ 
+ 
+
+ 
+ 
+ 
+vi 
+Table of contents 
+Acknowledgements 
+iii 
+List of abbreviations and acronyms 
+iv 
+Table of contents 
+vi 
+List of figures 
+vii 
+List of tables 
+vii 
+Executive summary 
+viii 
+1 
+Introduction 
+1 
+1.1 
+Context and intervention 
+1 
+1.1.1 
+Intervention logic 
+3 
+1.1.2 
+Purpose of the evaluation 
+5 
+1.2 
+Evaluation scope 
+5 
+1.2.1 
+Evaluation use and audience 
+6 
+1.2.2 
+Evaluation Objectives 
+6 
+1.2.3 
+Key questions 
+7 
+2 
+Methodology 
+9 
+2.1 
+Data sources, methods, and sampling strategies 
+9 
+2.2 
+Limitations 
+11 
+2.3 
+Ethical considerations and confidentiality 
+12 
+3 
+Evaluation findings 
+12 
+3.1 
+Relevance 
+14 
+3.2 
+Coherence 
+21 
+3.3 
+Effectiveness 
+27 
+3.4 
+Efficiency 
+32 
+3.5 
+Impact 
+36 
+3.6 
+Sustainability 
+42 
+4 
+Conclusions 
+49 
+5 
+Lessons learnt and best practices 
+53 
+6 
+Recommendations 
+55 
+7 
+Annexes 
+57 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+vii 
+List of figures 
+ 
+Figure 1: Children’s safety and protection issues (phone interviews). ................................................................. 15 
+Figure 2: Relevance and appropriateness of the programme to the needs of the target group (online survey). 16 
+Figure 3: Text network plot of relevance to the needs of vulnerable children (KIIs and FGDs). ........................... 21 
+Figure 4: Opinions about the capacity of the programme to adapt to major factors (online survey). ................. 30 
+Figure 5: Text network of factors influencing the achievement of objectives and results (KIIs and FGDs). ......... 30 
+Figure 6: The level of implementing earlier evaluations into the programme. .................................................... 31 
+Figure 7: Utilised budget by PE programme component. ..................................................................................... 33 
+Figure 8: Assessment of the extent outputs were delivered on time (phone interviews).................................... 34 
+Figure 9: Participant opinions on extent to which programme objectives and results have been achieved. ...... 38 
+Figure 10: Text network plot of impacts achieved by the PE programme (KIIs and FGDs). .................................. 38 
+Figure 11: Text network plot of contribution to child rights and a protective environment (KIIs and FGDs). ...... 41 
+Figure 12: Satisfaction of beneficiaries (phone survey). ....................................................................................... 43 
+Figure 13: Extent in which the changes are lasting in the beneficiaries’ lives (phone survey). ............................ 44 
+Figure 14: Opinions about the ownership of partners (online survey). ................................................................ 45 
+Figure 15: Text network plot of continuation of benefits after the implementation (KIIs and FGDs). ................. 46 
+Figure 16: Text network plot of main suggestions for improvement (KIIs and FGDs). ......................................... 46 
+Figure 17: Text network plot of main lessons learnt (KIIs and FGDs). .................................................................. 48 
+ 
+ 
+List of tables 
+Table 1: Assessment criteria and scoring for the evaluation................................................................................... 9 
+Table 2:  Overall scores by evaluation criteria and source. ................................................................................... 13 
+Table 3: Score for the criterion ‘relevance’ by the evaluation team...................................................................... 14 
+Table 4: Protective Environment outcome and changes to outputs. .................................................................... 17 
+Table 5: Score for the criterion ‘coherence’ by the evaluation team..................................................................... 22 
+Table 6: Score for the criterion ‘effectiveness’ by the evaluation team. ............................................................... 27 
+Table 7: Score for the criterion ‘efficiency’ by the evaluation team. ..................................................................... 32 
+Table 8: Score for the criterion ‘impact’ by the evaluation team. ......................................................................... 37 
+Table 9: Score for the criterion ‘sustainability’ by the evaluation team. ............................................................... 42 
+ 
+ 
+
+ 
+ 
+ 
+viii 
+ 
+Executive summary 
+This report presents the results of the formative and summative evaluation of UNICEF’s Protective Environment 
+(PE) programme in Tajikistan over six years from 2016 to 2022. The PE programme had a total planned budget 
+of USD 7.7 million (USD 6.4 million allocated, USD 5.6 million [88%] of which were utilised by April 2022). The 
+programme was designed around three main outputs: O1) Social protection and social work [48% of the utilised 
+budget]; O2) Alternative care [25% of the utilised budget]; and O3) Justice for children and preventing VAC 
+(violence against children) [27% of the utilised budget]. The programme aimed to create necessary mechanisms 
+to enable policy, legal, and operational environments to ensure that the rights of all children, with a focus on the 
+most marginalised, are upheld. For that, it supported systems to ensure that child victims of violence, children in 
+contact with the law, children affected by migration, children with disabilities, and children living in institutions 
+are protected, have access to social and rehabilitation services, are not discriminated against, and live in a safe 
+and supportive family setting1. 
+The purposes of this evaluation were to 1) generate sound and credible evidence with a focus on whether the 
+PE programme is contributing effectively and efficiently to ensuring sustainable protective environments for the 
+most vulnerable and marginalised children and on reasons for success or failure (accountability), 2) best 
+practices, gaps, and barriers in the applied approaches and programmatic and strategic choices made in its design 
+and implementation, and 3) lessons to be considered for shaping the future engagement of UNICEF in Tajikistan. 
+In this sense, the evaluation analysed not only the PE programme’s success achievements (expected and 
+unexpected) and good practices but also its gaps and challenges faced, identifying lessons learnt and providing 
+recommendations for future programming. The evaluation’s specific objectives were to: 1) provide an 
+independent assessment of approaches, strategies, and interventions within UNICEF’s Protective Environment 
+programme, 2) assess UNICEF’s strategic positioning and programmatic choices made, given the government’s 
+priorities, the changing socio-economic and political context, and the Covid-19 challenge, 3) identify good 
+practices which contributed to the achievement of intended results and draw lessons on challenges, gaps, and 
+barriers that hindered the progress, 4) provide forward-looking recommendations on how to accelerate actions 
+towards reaching the child-protection related targets. The evaluation audience includes primary stakeholders 
+(e.g., state bodies, civil society organisations, and UNICEF) and secondary ones (e.g., multilateral and bilateral 
+donors as well as other UN agencies).  
+The evaluation was conducted from October 2021 to May 2022 and used a mixed-methods approach, including 
+quantitative and qualitative data, both for its collection and analysis, allowing methodological triangulation from 
+the use of different data-collection methods. To provide a quick overview of the results, the evaluation used a 
+simple scoring system2 for each of the key questions which ranged from very good (score 5, grade A) to very poor 
+(score 1, grade E). The evaluation used a theory-based approach to assessing the PE programme and its three 
+core strategic outputs and activities based on its theory of change (ToC) as well as complementary documentary 
+evidence such as yearly output and outcome statements and country reports. In addition, the evaluation included 
+a primary data collection, aimed at understanding and assessing the contribution of the programme to the 
+expected short-term outputs and medium-term outcomes as well as towards longer-term impacts and 
+sustainability. The evaluation followed the UNEG ethical standards3, and the inception report and questionnaires 
+as well as informed consent/assent forms and protection protocols went through an external ethical review 
+commissioned by UNICEF from an independent contractor.  
+Data collection took place in January and April 2022 and included the following sources: a) document review, 
+including programme documents (e.g., PE work plans, programmatic reviews, ToC, annual reports, and other 
+reference documents); b) phone survey with 203 participants from school staff, beneficiaries (children, youths, 
+and young adults), parents, community representatives, local authority representatives, and NGO 
+representatives; c) 24 key-informant interviews and 8 focus-group discussions (a total of 63 people) that took 
+place remotely and in two selected regions (Panjakent, Sughd province and Kulob, Khatlon region) and included 
+the following stakeholders: ministry representatives (11)4, local authority representatives (4), NGO 
+representatives (4), UNICEF staff (5), youths aged 14-17 years (12), parents/guardians of minors aged 17 and 
+younger (23), school staff (2), and children aged 13 years and younger (2); d) an online survey involving 15 
+ 
+1 UNICEF Country Office Annual Report 2018. 
+2 This scoring system and key evaluation questions are based on EuropeAid’s methodology of Results Oriented Monitoring. EuropeAid (2012) 
+ROM Handbook. Available at: https://europa.eu/capacity4dev/rom/. 
+3 UNEG (2020) Ethical Guidelines for Evaluation. Available at http://www.unevaluation.org. 
+4 As from UNICEF feedback, According to UNICEF's feedback on the draft report, in the list of interviewees none of the interviewed persons 
+can be categorised as a "representative" of a ministry. They are either representatives of ministry sub-structures or local authorities. 
+Additional information is available in the section 2.2 (limitations). 
+
+ 
+ 
+ 
+ix 
+ 
+participants, among them UNICEF staff (6), NGO representatives (5), local authority representatives (2), ministry 
+representatives (1), and other public international/regional organisations (1).  
+The summary of the main findings is presented below by evaluation criterion. The scores were calculated from 
+the evaluative scale-based questions in the phone interviews and online surveys. The evaluation scores by the 
+evaluation team were based on the assessment of the overall quantitative and qualitative findings, considering 
+all primary and secondary sources: 
+Relevance and design (4.3 – ‘good’): The programme was highly relevant due to its sound intervention logic and 
+theory of change, which have been informed by an analysis of the needs of vulnerable children and youths, 
+including the geographical distribution of vulnerabilities. The programme addressed explicitly the most 
+vulnerable, including children in contact and conflict with the law, children at risk of institutionalisation, children 
+from war-affected zones, and children and women with disabilities. The programme’s implementation strategy 
+was relevant due to its focus on an evidence-based approach supporting changes at system level by 
+strengthening policy and legal frameworks for child protection and providing technical assistance for the revision 
+and development of policies. The 2018 revision of the ToC helped the programme to stay relevant, according to 
+the progress made at that time and changes in the context. The reviewed key programme documents and annual 
+reports suggest that the programme design followed a Right-Based Approach (RBA) and Leave-No-One-Behind 
+(LNOB) principles. Gender aspects seem to have been mainstreamed, and there are activities focused on 
+girl/women empowerment. In line with the recommendation 2, A specific gender action plan for the PE 
+programme, coordinated by the Gender Focal Point, can help to guide the programme in developing specific 
+activities to track and address specific gender-related protection issues, in line with the recommendations of the 
+Country Programme Evaluation (2020) and the Gender Programmatic Review (2019). The results of the 
+multivariate regression analysis5 model indicate that additional focus on the specific needs of girls and young 
+women6 could help to improve the future performance of the programme. Improvements could also take place 
+to address the issues of child labour related to housekeeping among female children and adolescents as well as 
+hooliganism (e.g., prevention of violence at community level). Additional cross-sectoral work can help to address 
+some of the most-frequently mentioned needs, which suggest synergy opportunities with health and education 
+sectors. Addressing emerging topics which have been identified among the key protection needs such as 
+guidance on digital protection, including the appropriate and safe use of mobile phones and internet, could 
+contribute to increased outcomes and impact. Healthy use of technology is becoming a key source of 
+intergenerational conflict, which is highly relevant for child protection and prevention of violence against 
+children7, and helps children to be safe online and make the most of new media and technology8.  
+Coherence (4.4 – ‘good’): The programme successfully generated significant policy and system level changes that 
+helped to improve policies at national and local levels and support a better protective environment for children. 
+UNICEF’s evidence-driven advocacy of policy revision resulted in concrete contributions to national and 
+institutional policies based on a strong partnership with the Government of Tajikistan (e.g., revision of two 
+important provisions in the Criminal Procedure Code and amendment to the Code of Administrative Offences to 
+introduce administrative punishment for parents and/or caregivers for using or threatening to use violence 
+against children). There is evidence of synergy with other child protection-related interventions (e.g., work with 
+migrants with the Ministry of Labour as well as issuance of legal documents with the Ministry of Justice) that 
+support the PE programme, and vice versa. Internal coherence is high with evidence of synergies and 
+interlinkages between the PE programme and other interventions carried out. There is a high consistency of the 
+PE programme with the relevant national and international policies, norms and standards (e.g., National 
+Development Strategy 2030, Mid-term Development Programme, draft National Programme for Children 20309). 
+The evaluation results suggest a very high external coherence. The programme’s cross-sectoral and integrated 
+approach offers concrete examples of the benefits, which were critically important to ensure that vulnerable and 
+marginalised groups had better access to services that respond to their needs. While the programme took 
+ 
+5 Multivariate regressions explore the relationship between multiple variables in datasets (see: https://movimentar.co/3FYt4Se). 
+6 This can include additional efforts around monitoring differences based on violence against girls and boys; their domestic and paid work 
+roles; access to services; activities promoting equal and peaceful relations between boys and girls; negotiation of gender promotion with 
+family and community; steps to reduce the risk of sexual violence and exploitation in public and private settings; strengthening of protection 
+complaints mechanisms (see more at https://movimentar.co/genderinchildprotection).  
+7 
+See: PEW 
+Research 
+Centre 
+(2020) 
+Parenting 
+approaches 
+and 
+concerns 
+related 
+to 
+digital 
+devices. 
+Available 
+at: 
+https://www.pewresearch.org/internet/2020/07/28/parenting-approaches-and-concerns-related-to-digital-devices/  
+8 
+See: 
+Harvard 
+University 
+(2020) 
+Experts 
+offer 
+advice 
+on 
+how 
+to 
+become 
+a 
+‘connected 
+parent’. 
+Available 
+at: 
+https://news.harvard.edu/gazette/story/2020/12/how-parents-can-manage-children-and-their-technology-use/  
+9 The programme contributed to SDGs 1 (end poverty in all its forms everywhere), 4 (ensure inclusive and equitable quality education and 
+promote lifelong learning opportunities for all), 5 (achieve gender equality and empower all women and girls), and 16 (promote peaceful and 
+inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions 
+at all levels). 
+
+ 
+ 
+ 
+x 
+ 
+sufficiently into account vulnerability assessments in its design and implementation, the use of objective 
+consistent vulnerability criteria is not fully in place due to data-access issues. A methodology note exists 
+describing an office-wide child-vulnerability index, which attempts to answer the recommendations from the 
+CPE 2020 and uses a composite approach without weights with indicators including on PE at district level, while 
+violence against children and nutrition indicators exist at a provincial level. The PE programme had a good 
+alignment with the SDGs 1, 5, and 16, with important synergies with other programmatic areas of the CO (e.g., 
+education sector as well as with the programme on data and evidence for children. The results suggest that the 
+PE programme had sufficient complementarity, harmonisation and coordination with development partners and 
+other UN agencies, adding value while avoiding duplication. For example, under the UNICEF-UNHCR Coalition on 
+Every Child’s Right to a Nationality, in 2021 over 1,250 children at risk of statelessness and affected by migration 
+from 26 districts and cities received birth certificates. In coordination with the World Bank, the PE programme 
+and the UNICEF CO supported inclusion of low-income families with children under 7 years of age into the 
+emergency COVID-19 hCTP cash-transfer programme, which is another example of coordination of support and 
+synergies between development partners. 
+Effectiveness (4.4 – ‘good’): Considering the challenge related to COVID-19, the programme demonstrated a 
+good achievement of its objectives and results. From its 14 indicators, nine have been met or exceeded, while 
+the rest were considered as partially achieved. For two of the achieved indicators, the programme delivered two 
+to three times higher figures than the initial targets (indicator 1.1 with 271% of the target and indicator 3.1 with 
+251%). From the five indicators which had not met targets, two demonstrated progress of at least 70% of their 
+targets. The results suggest that the programme integrated well the three main programmatic areas (alternative 
+care of children, justice for children, and preventing violence against children) with other components of 
+children’s rights, for example, education and nutrition. There is strong evidence that the PE programme 
+successfully adapted to major factors influencing the implementation during the evaluation period. UNICEF’s 
+liaison with the government offered examples of best practices, which led to a strong partnership from 2019 
+onwards. UNICEF recognised and reacted to the new context posed by the COVID-19 pandemic, showing very 
+good capacity of the PE programme to adapt the context while leveraging resources for the achievement of its 
+objectives and results. A narrative analysis of the data related to internal and external factors that influenced the 
+implementation of the programme suggests a very good cooperation between all parties involved, including with 
+the governmental institutions. There are examples of concrete new partnerships (e.g., work with migrants with 
+the Ministry of Labour; facilitation of issuance of legal documents by the Ministry of Justice; and dialogue with 
+key development partners for raising USD 5.4 million, which benefited the PE programme and other country 
+office programmes), which are consistent with the answers from both UNICEF and government respondents. 
+Since 2019, the RAM reports have started to include a specific section on ‘Evaluations’, which was a very good 
+decision and places emphasis on UNICEF’s evidence-driven approach. Documentary evidence indicates that 
+UNICEF has implemented recommendations from earlier evaluations. In the 2021 RAM report, the 
+implementation of 8 of the 16 actions from the 2020 CPE recommendations had been reported to be completed. 
+From the response matrix, it is difficult to assess its current implementation as it is relatively recent and focuses 
+on the whole country programme. However, in the online survey (institutional stakeholders), the 
+implementation of the recommendations of earlier evaluations was among the aspects that received the lowest 
+scores (3.4 – regular). The overall results suggest that this is an area for improvement. There is strong evidence 
+that the PE programme has been making progress towards its objectives, considering the results and progress as 
+from the narrative annual reports and evidence from the primary data collection. For instance, in the online 
+survey and phone interviews, most of the participants (67%, 15 participants) rated positively the extent to which 
+the programme objectives had been achieved (see Annex 10 for details). It is clear from the responses to the 
+KIIs/FGDs with beneficiaries that the support received was helpful to their lives. 
+Efficiency (4.4 – ‘good’): The evaluation did not include a cost analysis (how costs compare to similar 
+interventions or standards). However, it asked questions around efficiency, which help to assess the programme 
+performance in this regard. The PE programme had a very good management quality and efficiency, considering 
+the challenges of the COVID-19 pandemic. By April 2022, the PE programme had utilised 88% of the USD 6.4 
+million planned since 2016. Output 1 (Social protection and social work) was the largest one throughout the 
+period, with the exception of 2018, when Output 2 (Alternative childcare) saw a higher allocation in support of 
+the conversion of baby homes to family and child-support centres. The largest budget allocation and utilisation 
+was in 2019, when also Output 3 (J4C and VAC) reached its peak, at higher values than Output 2. This budget 
+allocation remained similar between 2019 and 2022, following a reduction in the budget allocation for alternative 
+childcare considering the successful transformation from baby homes to family and child-support centres as from 
+2019. Despite the low budget compared to other country programme components, PE programme successfully 
+achieved its planned outcomes. The programme had sufficiently detailed two-year work plans. However, it is 
+unclear since when this started. The joint work planning with government partners added value and is a good 
+
+ 
+ 
+ 
+xi 
+ 
+practice, especially considering that the PE programme had diverse and broad range of partners. The work plan 
+for 2021-2022 included activities, sub-activities, geographical coverage by sub-activity, implementing partners, 
+timeline by quarter, and budget information such as amount funded and funds to be mobilised. However, the 
+work plan did not contain information on outputs for all sub-activities, which can be improved to ease results-
+oriented management. The evaluation team did not have access to the internal corporate systems (e.g., Etools). 
+The results indicate that The programme has a highly functional, sufficient, and goal-oriented management 
+system, grounded on UNICEF’s procedures. Improvements may include the use of a more granular, specific 
+commercial digital/cloud project-management information system to coordinate the PE programme intervention 
+tasks internally and with external implementation partners and for improved tracking and visibility of results in 
+terms of short-term outputs beyond intermediate and long-term changes highlighted in the ToC and RAM 
+reports. More systematic use of the RBA (rights-based approach), namely building stakeholder interest groups 
+to define representatives to participate in yearly planning and review workshops, particularly involving 
+beneficiary and government representatives, can help to improve the opinions about transparency and 
+accountability, while supporting increased local ownership. 
+Impact (4.3 – ‘good’): There is strong evidence that the PE programme had a good performance against its pre-
+defined indicator targets, considering the COVID-19 challenges. Primary data show positive opinions among 
+beneficiaries and other key stakeholders about impact performance. By April 2022, four out of nine outcome-
+level indicators (44%) had been fully achieved. Among the five outcome indicators that had been partially 
+achieved, three had achieved at least 70%. At the output level, the best performance in indicator achievement 
+was seen in the alternative care component, followed by social protection and social work. Component 3 (J4C 
+and VAC) showed the most areas for improvement in achieving output targets. The PE programme’s advocacy of 
+policy revision and cooperation with the government resulted in important policy and institutional changes that 
+advanced children’s rights in Tajikistan. Such changes include various policy revisions in the J4C system, the 
+transformation of baby homes to child and family support centres, improved focus on children with disabilities, 
+and capacity-development actions that concretely improve institutional responses to violence against children 
+and emergencies. Opinions from key stakeholders about the programme’s contribution to children’s rights are 
+very positive and contained requests for the continuation of the support. Key impact areas from the multiple 
+evaluation sources include: 1) development of capacities of social service staff to improve assistance to 
+beneficiaries including home visits, psychological and legal support; 2) increased awareness (also among 
+children) and support related to children’s rights, gender issues, and special needs of children with disabilities in 
+the centres; 3) production of documented knowledge about the situation of the most vulnerable families; 4) 
+equipment and training support to FCSCs. A government representative mentioned a “real change” in terms of 
+“regular involvement and support of children with special needs in the centres that were not [present] in the 
+past”. Some responses from multiple stakeholder categories to this and other questions above suggest that the 
+programme can contribute to reducing criminality and violence (e.g., reduced bullying), which could be assessed 
+in future impact assessments. Answers from parents suggest an integrated and comprehensive approach, 
+including improved knowledge of legal processes (e.g., steps to obtain documents) and cross-sectoral support in 
+terms of job skills and professional orientation (e.g., car repair and electricians) delivered by other interventions. 
+The results show awareness of UNICEF staff that impact assessment requires further analysis after some time 
+(e.g., 2-4 years) after the support has been delivered to beneficiaries. Responses from local authorities 
+mentioned that the programme helped the government to do its job better and faster and made certain local 
+institutions focus on the rights of CWDs. NGO representatives pointed out that the local culture and parents’ 
+attitudes limit the advancement of gender issues and children rights. According to UNICEF staff, gender 
+mainstreaming needs improvement. The analysis of the answers suggests some areas for improvement  such as 
+1) increased duration of programme support and 2) increased focus on gender issues. 
+Sustainability (4.3 – ‘good’): The programme has successfully influenced local, regional, and national policies and 
+public services. Considering evidence from primary data, public representatives and families clearly identify child 
+protection policies as a public responsibility. The opinions of beneficiaries are very positive, with 97% of the 203 
+beneficiaries in phone interviews highly satisfied with the programme and over 87% considering that the 
+programme delivered long-lasting results. Views from institutional stakeholders contrast with the positive views 
+from the beneficiaries in the phone survey. There are concerns about the sustainability of the support, also in 
+terms of dependency on the support for the continuation of some benefits. Considering the primary evidence, 
+the results suggest that implementing partners (institutional stakeholders) assessed the ownership of the 
+programme as ‘regular’, and this is one of the main areas for improvement. Although there is evidence of a very 
+good relationship with the state institutions, the evaluation did not identify documentary evidence of kick-off, 
+planning or review meetings during the implementation with the participation of key stakeholders such as 
+representatives of beneficiaries. As mentioned in the key finding 4.i (see section 3.2.4 on efficiency), building 
+stakeholder interest groups to define representatives to participate in yearly planning and review workshops, 
+
+ 
+ 
+ 
+xii 
+ 
+particularly involving beneficiaries (e.g., children, youths, parents, community leaders, PWDs, and implementing 
+partners) and government representatives, can help to improve the opinions about local ownership, 
+transparency, and accountability. It is clear from the phone survey and FGDs that beneficiaries and their families 
+identify a sustainable effect on their lives (see also answers to EQ20). There is enough documentary evidence 
+that government structures (local, regional, national) will continue to benefit based on outputs such as system 
+and policy changes (see EQ5 and Annex 12), studies/assessments, capacity building, and material support (see 
+EQ20) provided by the PE programme, particularly in the justice system, SAHUs (Social Assistance at Home Units), 
+FCSCs (Family and Child Support Centres), and schools. The opinions from key stakeholders indicate a high 
+likelihood of continuation of the generated benefits but raise concerns about the resources and technical 
+capacity to maintain such benefits in the long term. The programme strengthened the structures and capacities 
+of its partners from a long-terms perspective. Opinions from institutional stakeholders about the programme 
+contribution to building local capacities show a high level of satisfaction but also areas for improvements. The 
+programme has no formal exit strategy prepared with the involvement of representatives of beneficiaries and 
+other key stakeholders. The participatory development of an exit strategy is a good practice for sustainability 
+and can contribute to improving the programme performance in this sense. 
+For concision, the key recommendations of high priority are presented below. A full list is available in chapter 
+5. lessons learnt and best practices are presented following the conclusions in chapter 6. 
+• Recommendation 1 (Responsible: UNICEF / Priority: High) – Develop narrative descriptions to complement 
+current programme documents where objectives, intervention logic, planned activities, cross-cutting 
+approaches, related SDGs and monitoring mechanisms (targets and indicators) are mentioned and explained. 
+• Recommendation 2 (Responsible: UNICEF and National Government / Priority: High) – Develop a specific 
+gender-action plan for the programme including specific activities and targets/indicators to track progress. We 
+recommend explicit reference to the specific cross-cutting issues in the theory of changes of future 
+programmes, to clarify which aspects they intend to address, including specific activities (inputs). 
+• Recommendation 3 (Responsible: UNICEF and Government at all levels / Priority: High) – There is an emerging 
+need for introducing a proper case-management system at the ground level, which the programme can 
+contribute to. We recommend seizing this opportunity to introduce more detailed beneficiary registration 
+forms, in line with the recommendations of the CRC concluding observations of 2017 around data collection.  
+• Recommendation 4 (Responsible: UNICEF / Priority: High) – Consider using administrative data or 
+commissioning primary data collection at household and district level to independently build composite 
+vulnerability indexes (specific related to protection indicator and ideally including also standard development 
+indicators such as the poverty probability index, life-satisfaction index or coping strategy index). Data collection 
+can be eased with tools such as RapidPro, which UNICEF has been successfully using worldwide to build 
+nationally scalable mobile applications. This can help to build capacities of government partners while 
+validating/triangulating official data, helping to improve vulnerability targeting and disaggregation of data by 
+multiple demographic and geospatial variables (e.g., village, jamoat, district and province levels).  
+• Recommendation 5 (Responsible: UNICEF / Priority: High) – We recommend to improve / scale up the 
+programme outreach to remote villages compared to urban areas. Adaptations to the needs of those 
+participants in rural areas (e.g., additional focus on households whose livelihoods depend on cattle raising, 
+which may be more vulnerable to child labour), can help to improve the programme performance.  
+• Recommendation 6 (Responsible: UNICEF / Priority: High) – We recommend additional focus on the needs of 
+primary-grade participants (e.g., age specific materials and contents) as it could help to improve the 
+programme performance, particularly considering that this group represents most of the respondents, and 
+lower educational levels are usually correlated with higher vulnerability. 
+• Recommendation 7 (Responsible: UNICEF / Priority: High) – We recommend scaling up activities related to 
+building capacities and raising awareness for prevention of violence against children. The output 3 (Justice for 
+children and preventing VAC) was the programme component with the lowest budget share [27% of utilised 
+budget]). In addition, the outcome indicator 5 (“Percentage of parents who consider physical punishment of 
+their children acceptable under given circumstances”) saw an increase from 16% in 2017 to 16.4% in 2021 as 
+from the RAM reports.  
+• Recommendation 8 (Responsible: UNICEF / Priority: High) – Develop an explicit exit strategy in a participatory 
+way that describes how the programme intends to end its support, ensuring that the achievement of 
+programme goals (assistance or development) is not compromised and that progress towards these goals 
+continues. The participatory development of an exit strategy is a good practice for sustainability, and can 
+contribute to improve the programme performance in this sense.

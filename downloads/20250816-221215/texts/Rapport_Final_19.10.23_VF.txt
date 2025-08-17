@@ -1,0 +1,612 @@
+Evaluation du préscolaire  
+UNICEF Tunisie 
+RAPPORT FINAL 
+Rédigé par 
+Dr Yolaine Glèlè Ahanhanzo – Hessou 
+Spécialiste en Santé publique, Consultant indépendant 
+BP 03-3349, Abomey-Calavi, Bénin – 
+nyglele@yahoo.fr  
+ 
+M. Soltani Abdellatif 
+Inspecteur Général de l’Education, Enseignant des 
+Sciences de l’Education à l’Université de Jendouba 
+Consultant en éducation préscolaire – 
+abdelltifsoltani@gmail.com  
+28 Juillet 2023 
+
+ 
+ 
+ 
+
+ 
+A 
+Table des matières 
+TABLE DES MATIERES .................................................................................................................................................................................. A 
+LISTE DES TABLEAUX ................................................................................................................................................................................... C 
+LISTE DES FIGURES ....................................................................................................................................................................................... C 
+LISTE DES ABREVIATIONS ET ACRONYMES .......................................................................................................................................... D 
+REMERCIEMENTS...........................................................................................................................................................................................F 
+RESUME EXECUTIF ........................................................................................................................................................................................ 1 
+INTRODUCTION ............................................................................................................................................................................................ 6 
+1. 
+OBJET ET ASPECTS CONTEXTUELS DE L’EVALUATION ........................................................................................................ 6 
+1.1. 
+OFFRE DU PRESCOLAIRE ............................................................................................................................................................................................. 6 
+1.1.1. 
+Description succincte de l’offre ................................................................................................................................................................... 6 
+1.1.2. 
+Rôles et responsabilités des parties prenantes ....................................................................................................................................... 8 
+1.1.3. 
+Théorie de changement ................................................................................................................................................................................ 8 
+1.2. 
+ANALYSE DU CONTEXTE ............................................................................................................................................................................................. 8 
+1.2.1. 
+Contexte géographique et démographique ........................................................................................................................................... 8 
+1.2.2. 
+Contexte socio-économique ....................................................................................................................................................................... 10 
+1.2.3. 
+Contexte politique ......................................................................................................................................................................................... 11 
+1.2.4. 
+Le préscolaire, au cœur des enjeux de développement pour la Tunisie ........................................................................................ 11 
+1.2.5. 
+Orientations stratégiques au niveau national pour le développement de la petite enfance et le préscolaire .................... 12 
+2. 
+BUT, OBJECTIFS ET PORTEE DE L’EVALUATION .................................................................................................................... 14 
+2.1. 
+BUT ET OBJECTIFS .......................................................................................................................................................................................................14 
+2.2. 
+PORTEE .......................................................................................................................................................................................................................14 
+2.2.1. 
+Champs d’investigation ................................................................................................................................................................................14 
+2.2.2. 
+Portée territoriale ...........................................................................................................................................................................................14 
+2.2.3. 
+Portée temporelle .......................................................................................................................................................................................... 15 
+2.3. 
+UTILISATION DE L’EVALUATION ................................................................................................................................................................................. 15 
+3. 
+CADRE DE L’EVALUATION ET METHODES ............................................................................................................................. 16 
+3.1. 
+CADRE DE L’EVALUATION .......................................................................................................................................................................................... 16 
+3.1.1. 
+Critères et questions d’évaluation ............................................................................................................................................................. 16 
+3.1.2. 
+Matrice d’évaluation ...................................................................................................................................................................................... 16 
+3.2. 
+METHODES................................................................................................................................................................................................................. 16 
+3.2.1. 
+Approches d’évaluation................................................................................................................................................................................ 16 
+3.2.2. 
+Méthodes, techniques et outils de collecte de données ..................................................................................................................... 17 
+3.2.2.1. Revue documentaire 
+17 
+3.2.2.2. Entretiens individuels avec les informateurs clés (EIC) 
+17 
+3.2.2.3. Discussions de groupe 
+17 
+3.2.2.4. Entretiens avec les élèves et bilan de compétences 
+18 
+3.2.2.5. Outils de collecte des données de terrain 
+18 
+3.2.3. 
+Stratégies d’échantillonnage des structures et des cibles .................................................................................................................. 19 
+3.2.4. 
+Analyse et assurance qualité des données ............................................................................................................................................. 19 
+3.2.5. 
+Considérations éthiques et principes d’évaluation ............................................................................................................................... 19 
+3.2.6. 
+Limites et stratégies d’atténuation idoines ............................................................................................................................................ 20 
+3.3. 
+DEROULEMENT DE L’EVALUATION ............................................................................................................................................................................ 20 
+4. 
+CONSTATS ET CONCLUSIONS PRELIMINAIRES ................................................................................................................... 20 
+4.1. 
+PERTINENCE ET COHERENCE ...................................................................................................................................................................................... 21 
+4.1.1. 
+Alignement avec les besoins de toutes les cibles dans le contexte national ................................................................................. 21 
+4.1.2. 
+Alignement avec les priorités nationales et les priorités globales ................................................................................................... 24 
+4.1.3. 
+Cohérence de l’offre avec les autres interventions au niveau national .......................................................................................... 26 
+4.2. 
+EFFICACITE................................................................................................................................................................................................................. 27 
+4.2.1. 
+Atteinte des résultats attendus : disponibilité des services, bilan de compétences et variations selon les formules ....... 27 
+4.2.1.1. De la disponibilité des services préscolaires 
+27 
+
+ 
+B 
+4.2.1.2. Du bilan des compétences et des variations selon les caractéristiques socio démographiques 
+29 
+4.2.1.3. Du bilan des compétences et des variations selon la préscolarisation globale et le type de formule de 
+préscolarisation 
+31 
+4.2.2. 
+Adéquation des prestations délivrées et déterminants des acquisitions....................................................................................... 34 
+4.2.2.1. Adéquation des prestations délivrées 
+34 
+4.2.2.2. Facteurs d’influence et déterminants des acquisitions 
+36 
+4.2.3. 
+Analyse contextuelle : autres facteurs limitants l’accès aux services préscolaires de qualité et opportunités .................... 37 
+4.2.3.1. Autres facteurs limitants 
+37 
+4.3.2.2. Opportunités 
+39 
+4.3. 
+EFFICIENCE ................................................................................................................................................................................................................ 40 
+4.3.1. 
+Coût moyen pour les services du préscolaire pour un enfant.......................................................................................................... 40 
+4.3.2. 
+Financement et mobilisation des ressources pour les prestations préscolaires ...........................................................................41 
+4.3.2. 
+Existence d’alternatives pour une meilleure efficience ....................................................................................................................... 42 
+4.4. 
+ÉQUITE, EGALITE DE GENRE ET DROITS HUMAINS .................................................................................................................................................... 43 
+4.4.1. 
+L’équité et l’égalité de genre dans les offres du préscolaire tunisien............................................................................................. 43 
+4.4.2. 
+La programmation basée sur les droits humains ................................................................................................................................. 44 
+4.5. 
+COORDINATION ........................................................................................................................................................................................................ 45 
+5. 
+CONCLUSIONS, LEÇONS APPRISES ET RECOMMANDATIONS ....................................................................................... 46 
+5.1. 
+CONCLUSIONS .......................................................................................................................................................................................................... 46 
+5.2. 
+LEÇONS APPRISES ..................................................................................................................................................................................................... 48 
+5.3. 
+RECOMMANDATIONS ............................................................................................................................................................................................... 49 
+5.3.1. 
+Au niveau stratégique .................................................................................................................................................................................. 49 
+5.3.2. 
+Au niveau opérationnel ............................................................................................................................................................................... 49 
+6. 
+ANNEXES ............................................................................................................................................................................................I 
+ANNEXE 1 : CARTE ADMINISTRATIVE DE LA REPUBLIQUE DE TUNISIE ..................................................................................................................................... II 
+ANNEXE 2 : TERMES DE REFERENCE ET CRITERES AVEC QUESTIONS D’EVALUATIONS ........................................................................................................... IV 
+ANNEXE 3 : CARTOGRAPHIE DES PARTIES PRENANTES ...................................................................................................................................................... XVIII 
+ANNEXE 4 : THEORIE DE CHANGEMENT .............................................................................................................................................................................. XXI 
+ANNEXE 5 : MATRICE D’EVALUATION ................................................................................................................................................................................ XXIII 
+ANNEXE 6 : LISTE DES DOCUMENTS CONSULTES .............................................................................................................................................................. XXXI 
+ANNEXE 7 : LISTE DES PERSONNES RENCONTREES ET DES SITES VISITES. ...................................................................................................................... XXXVI 
+ANNEXE 8 : STRATEGIE D’ECHANTILLONNAGE ............................................................................................................................................................... XXXIX 
+ANNEXE 9 : OUTILS DE COLLECTE DE DONNEES ................................................................................................................................................................. XLIII 
+ANNEXE 10 : APPLICATION DES PRINCIPES ETHIQUES ET NORMATIFS POUR L’EVALUATION DU GROUPE DES NATIONS UNIES POUR L’ÉVALUATION .. XCII 
+ANNEXE 11 : PROTOCOLE ETHIQUE, DROITS DE PARTICIPANTS ET SECURITE DE DONNEES ..............................................................................................XCIV 
+ANNEXE 12 : RAPPORT COMPLET DU BILAN DES COMPETENCES DES ELEVES TUNISIENS A LEUR ENTREE AU CYCLE PRIMAIRE ......................................CXIV 
+ 
+ 
+ 
+
+ 
+C 
+Liste des tableaux 
+ 
+Tableau 1. 
+Informations synoptiques sur les différentes offres de l’éducation préscolaire en Tunisie ................................ 7 
+Tableau 2. 
+Quelques indicateurs sociaux de la République de Tunisie.......................................................................................... 10 
+Tableau 3. 
+Environnement normatif national de développement de l’éducation préscolaire .............................................. 13 
+Tableau 4. Acteurs de l’éducation du préscolaire en Tunisie et leur utilisation des résultats de l’évaluation ................. 15 
+Tableau 5. 
+Caractéristiques socio-démographiques des enfants enquêtés ................................................................................. 29 
+Tableau 6. 
+Distribution brute des compétences individuelles selon quelques variables sociales ........................................ 30 
+Tableau 7. 
+Composition sociale des types de structures préscolaires et durée moyenne de préscolarisation des 
+élèves de ces structures ............................................................................................................................................................. 32 
+Tableau 8. 
+Score global moyen selon le type de préscolaire fréquenté l’année précédente ................................................ 33 
+Tableau 9. 
+Volume horaire de fonctionnement des services préscolaires selon la formule .................................................. 34 
+Tableau 10. Poids des facteurs affectant le coût unitaire des différentes formules préscolaires............................................ 41 
+Tableau 11. Situation des frais de scolarité dans les différentes formules préscolaires, 2020-21 ........................................... 42 
+Tableau 12. Alignement de la SNM-DPE sur les critères de programmation basée sur les droits de l’homme’ .............. 45 
+Tableau 13. Critères et questions d’évaluation ....................................................................................................................................... XVII 
+Tableau 14. Cartographie des parties prenantes .................................................................................................................................... XIX 
+Tableau 15. Matrice de l’évaluation .......................................................................................................................................................... XXIV 
+Tableau 16. Listes des personnes rencontrées pour les entretiens et les focus group ..................................................... XXXVII 
+Tableau 17. Liste des participants aux discussions de groupes (non exhaustive) .............................................................. XXXVIII 
+Tableau 18. Listes des discussions de groupe ................................................................................................................................. XXXVIII 
+Tableau 19 : Échantillon des structures préscolaires................................................................................................................................. XL 
+Tableau 20. Échantillon des informateurs-clés pour les entretiens individuels par strate géographique .......................... XLI 
+Tableau 21. Échantillon pour les discussions de groupe par strate géographique ...................................................................XLII 
+ 
+Liste des figures 
+ 
+Figure 1. 
+Structure de l’offre éducative du préscolaire (2020-2021) .............................................................................................. 7 
+Figure 2. 
+Projections de l’évolution de la pyramide des âges en Tunisie entre 2023 et 2030 ............................................. 9 
+Figure 3. 
+Couverture pour l’offre préscolaire et facteurs de disparité, MICS 2018 ................................................................. 12 
+Figure 4. 
+Cadre global de développement de l’éducation préscolaire ....................................................................................... 14 
+Figure 5. 
+Répartition des structures échantillonnées (primaires/préscolaires) sur le territoire national – Bilan des 
+compétences des enfants à l’entrée du primaire, Tunisie 2023 .................................................................................. 18 
+Figure 6. 
+Phases de l’évaluation résultats et livrables ........................................................................................................................ 20 
+Figure 7. 
+Illustrations de l’alignement entre les priorités sectorielles de l’Education et quelques interventions du 
+préscolaire proposées par les institutions de tutelle ....................................................................................................... 25 
+Figure 8. 
+Disponibilité de la classe préparatoire dans les écoles primaires par région ........................................................ 28 
+Figure 9. 
+Disponibilité des jardins d’enfants par région ................................................................................................................... 28 
+Figure 10. 
+Distribution globale des élèves de l’échantillon selon leur parcours préscolaire ................................................. 30 
+Figure 11. 
+Impact de la durée de préscolarisation sur le score de compétence à l’entrée au primaire ........................... 33 
+Figure 12. 
+Carte administrative de la République de Tunisie ............................................................................................................. III 
+Figure 13. 
+Théorie de changement des offres du préscolaire en Tunisie .................................................................................. XXII 
+ 
+ 
+
+ 
+D 
+Liste des abréviations et acronymes 
+ 
+ATFP 
+Agence Tunisienne de la Formation Professionnelle 
+BTP 
+Brevet de Technicien Professionnel 
+BTS 
+Brevet de Technicien Supérieur  
+ConECT 
+Confédération des Entreprises Citoyennes de Tunisie 
+CP 
+Classe Préparatoire 
+DAC 
+Development Assistance Committee (en français, Comité d’Aide au Développement) 
+DPE 
+Développement de la Petite Enfance 
+DT 
+Dinar tunisien 
+ECD 
+Early Childhood Development 
+EIC 
+Entretiens individuels avec les informateurs Clés 
+GEROS 
+Global Evaluation Reports Oversight System 
+GNUE 
+Groupe des Nations Unies pour l’Evaluation 
+IDH 
+Indice de Développement Humain 
+INS 
+Institut National de la Statistique 
+JE 
+Jardin(s) d’enfants 
+M&E 
+Monitoring and Evaluation 
+MAR 
+Ministère des Affaires Religieuses 
+MDN 
+Ministère de la Défense Nationale 
+ME 
+Ministère de l’Education 
+MENA 
+Middle East and North Africa (en français, Moyen-Orient et Afrique du nord) 
+MFFEPA 
+Ministère de la Famille, de la Femme, de l’Enfance et des Personnes Âgées 
+MICS 
+Multiple Indicator Cluster Surveys (en français, Enquête par Grappes à Indicateurs Multiples) 
+OCDE 
+Organisation de Coopération et de Développement Economiques 
+ODD 
+Objectif(s) du Développement Durable 
+OMD 
+Objectif(s) du Millénaire pour le Développement 
+ONG 
+Organisation Non Gouvernementale 
+OOSCI 
+Out-of-School Children Initiative 
+PIB  
+Produit Intérieur Brut 
+PNA 
+Plans Nationaux d’Action 
+PNUAD 
+Plan-cadre des Nations Unies pour l'Aide au Développement 
+RD 
+Rapport de démarrage 
+RDC  
+République Démocratique du Congo 
+RGPH 
+Recensement Général de la Population et de l'Habitation 
+SABER 
+System Approaches for Better Education Results 
+SNM-DPE 
+Stratégie Nationale Multisectorielle de Développement de la Petite Enfance 
+SNU 
+Système des Nations Unies 
+SPSS 
+Statistical Package for the Social Sciences 
+TC 
+Théorie du changement 
+TdR 
+Termes de référence 
+UNEG 
+United Nations Evaluation Group (en français, Groupe des Nations Unies pour l'évaluation) 
+
+ 
+E 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization (en français, Organisation 
+des Nations Unies pour l'Education, la Science et la Culture) 
+UNICEF 
+United Nations Children's Fund (en français, Fonds des Nations Unies pour l'Enfance) 
+UNODC 
+United Nations Office on Drugs and Crime (en français, Office des Nations Unies contre la 
+drogue et le crime) 
+US 
+United States 
+UTICA 
+Union Tunisienne de l'industrie, du commerce et de l'artisanat 
+UTSS 
+Union Tunisienne de Solidarité Sociale 
+
+ 
+F 
+Remerciements 
+Ce rapport est le fruit d’un travail collaboratif réalisé grâce à l’appui permanent du bureau de l’UNICEF –
+Tunisie et à la participation des responsables centraux et régionaux des ministères de l’Education, de La 
+Femme, de la Famille, de l’Enfance et des Personnes Agées, des Affaires Religieuses et des représentants 
+de l’UTSS et de l’UTICA. 
+Nous tenons à remercier vivement toutes les personnes et les institutions qui nous ont soutenus durant le 
+processus d’évaluation et collecte de données, et plus particulièrement : 
+• 
+Tous les acteurs de terrain : éducatrices, directrices de jardins d’enfants, parents d’enfants… ; 
+• 
+Les responsables centraux des ministères de l’Education, de la Femme, de la Famille, de l’enfance 
+et des Personnes Agées, les responsables de l’UTSS et de l’UTICA ; 
+• 
+Les responsables régionaux des ministères de l’Education et des Affaires religieuses de Kairouan ; 
+• 
+Les cadres du bureau de l’UNICEF-Tunisie. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La présente évaluation a mobilisé 3 experts internationaux et 2 experts nationaux répartis sur 2 volets : Un volet quantitatif qui a abouti au 
+rapport quantitatif intitulé : « bilan de compétences des enfants tunisiens à l’entrée du cycle primaire » et un volet qualitatif. Le présent rapport 
+a été rédigé par les auteurs, Y.G & A.S, sur la base d’une collecte de données qualitatives et d’une analyse du rapport quantitatif du bilan de 
+compétences des enfants tunisiens à l’entrée du cycle primaire qui est annexé dans sa version complète. Bien que, des graphiques, tableaux 
+aient été extraits du rapport quantitatif du bilan de compétences des enfants tunisiens à l’entrée du cycle primaire, pour refléter au mieux les 
+données, les avis qui sont exprimés dans le présent rapport n'engagent que les auteurs et ne reflètent pas nécessairement les opinions des 
+autres experts et parties prenantes. 
+.
+
+ 
+1 
+Résumé exécutif 
+Contexte et objet de l’évaluation 
+La Tunisie est un pays d’Afrique du nord, dont la population, en 2022, a été estimée à 11 803 588 habitants. 
+La population en Tunisie vit majoritairement en milieu urbain, et est relativement jeune. Avec un indice de 
+Développement Humain élevé, la Tunisie est classée au 95e rang mondial. La dynamique démographique 
+du pays est caractérisée par un flux d’immigrés en provenance de l’Europe, du Maghreb et des autres pays 
+d’Afrique. L'éducation préscolaire (3-5 ans), le point faible du système éducatif tunisien, souffre de graves 
+inégalités entre l'urbain et le rural, mais aussi en fonction du niveau socioéconomique et des perceptions 
+culturelles de la famille. Malgré les efforts du gouvernement pour assurer l'accès aux services essentiels 
+d’éducation préscolaire, les niveaux de couverture restent faibles, en particulier pour les enfants issus de 
+familles défavorisées. En ce qui concerne l’offre des services du préscolaire, elle est très fragmentée, et est 
+assurée par plusieurs entités sous la forme de différentes formules. La grande majorité est délivrée par le 
+secteur privé. 
+Dans l’optique d’atteindre, à moyen terme, l’universalisation de l’éducation préscolaire de qualité, l’UNICEF 
+Tunisie envisage travailler à appuyer le Gouvernement dans la création d’un environnement favorable pour 
+fournir des services préscolaires équitables et de qualité. Pour y parvenir, la connaissance factuelle de l’effet 
+des différentes formules préscolaires existantes constitue une base référentielle incontournable et suppose 
+de réaliser une évaluation des services en relation avec leur qualité pour la préparation des enfants à l’école 
+primaire. Dans ce contexte, et afin de déterminer les mesures à prendre pour réduire l’écart par rapport 
+aux standards internationaux, le bureau de l’UNICEF Tunisie a décidé de faire mener, par des experts, une 
+évaluation pour conduire l’évaluation des compétences de l’enfant à l’entrée au primaire. 
+Objectifs de l’évaluation, portée et utilisation 
+L’évaluation a été menée d’août 2022 à mars 2023, et visait, d’une part, à analyser l’impact des différentes 
+formules de prestation de services de préscolaire sur les compétences des enfants à l’entrée du primaire 
+et, d’autre part, à évaluer l’impact de la non-préscolarisation sur les compétences des enfants l’entrée du 
+primaire. Elle s’est intéressée au bilan des compétences des enfants à l’entrée au primaire et aux 
+caractéristiques organisationnelles des différentes offres, ainsi qu’aux facteurs limitants et aux facteurs de 
+succès. Elle s’est déroulée sur l’ensemble du pays, et a concerné les enfants qui sont entrés en primaire au 
+titre de l’année scolaire 2022-2023, y compris ceux qui ont fréquenté ou non le préscolaire les trois derniers 
+années scolaires (2019-2020 à 2021-2022). 
+Les résultats et les recommandations de l’évaluation sont destinés à renforcer les programmes et politiques 
+de l’éducation préscolaire en Tunisie, et à informer sur l’expansion et l’amélioration de la qualité des services 
+du préscolaire. 
+Critères et questions d’évaluation 
+L’évaluation a été structurée autour des questions d’évaluation mis à la disposition par le bureau-pays de 
+l’UNICEF et affinés à partir des données de la littérature et des entretiens préliminaires avec les responsables 
+de l’évaluation de l’UNICEF et les parties prenantes de la mise en œuvre du programme. Elle s’est 
+principalement basée sur quatre parmi les cinq critères généraux révisés du Comité d’aide au 
+développement de l’Organisation de coopération et de développement économique (CAD/OCDE) et du 
+Groupe des Nations Unies pour l’évaluation (GNUE) : la pertinence, la cohérence, l’efficacité et l’efficience, 
+auxquels s’est ajouté le critère de coordination. Le critère additionnel « Genre, équité et droits humains » a 
+été aussi pris en compte, tels que le recommandent les normes et standards d’évaluation de l’UNICEF, 
+quoique la question du genre et de l’équité ait été évaluée de manière transversale aux critères. 
+ 
+ 
+
+ 
+2 
+Approche, méthodologie et limites de l’évaluation 
+Le processus et la méthodologie de l’évaluation se sont alignés sur les directives et standards en matière 
+d’évaluation du Groupe d’Évaluation des Nations unies et les normes éthiques et de conduite en matière 
+de recherche de l’UNICEF, avec une attention particulière pour les recommandations relatives aux normes 
+pour les recherches impliquant les enfants. Le principe de la combinaison des approches et méthodes a 
+été de mise pour permettre la triangulation des données afin d’optimiser leur fiabilité. 
+Pour que les résultats soient plus aisément utilisables par les parties prenantes, l’évaluation s’est déroulée 
+dans un modèle d’apprentissage mutuel en facilitant la pleine participation des parties prenantes et 
+l’inclusion de tous les acteurs tout au long des différentes phases. Trois techniques de collecte ont été 
+utilisées : la revue documentaire, les entretiens individuels et les discussions de groupe, dans une approche 
+mixte qualitative et quantitative. L’approche d’échantillonnage utilisée a été essentiellement non 
+probabiliste, avec l’utilisation de la technique de choix raisonné pour l’ensemble du travail. L’enquête 
+quantitative était centrée sur l’évaluation des acquis des enfants à l’entrée du primaire. La sélection des 
+structures préscolaires a été faite par choix raisonné en vue d’une représentativité de toutes les régions et 
+de toutes les formules qui seront évaluées. La sélection des élèves a été aléatoire à l’intérieur des structures, 
+colligeant des enfants qui ont été préscolarisés et des enfants qui ne l’ont pas été. Par ailleurs, une grande 
+partie du test de compétences, administré sous forme de questionnaire, a été réalisé de façon collective 
+sur un nombre réduit d’enfants pour en assurer une administration homogène pour des enfants de cet 
+âge ; seuls certains items (qui concernent principalement le langage) ont été administrés de façon 
+individuelle. Au total, 1 613 enfants répartis dans 155 structures ont été enquêtés, de même que les 
+directeurs des structures visitées. Pour le volet qualitatif, avec la même approche d’échantillonnage, 26 
+entretiens individuels et 07 discussions de groupe ont été réalisés dans les régions rurales et urbaines de 
+la Tunisie. 
+Les limites ont été la non-disponibilité de certaines données du fait de l’absence de cadre unifié de l’offre 
+et la non-disponibilité de certains profils d’acteurs pour certaines discussions de groupe. Les spécificités 
+concernant ces acteurs ont été abordées dans les autres discussions de groupe et au cours des entretiens 
+avec les informateurs clés. 
+Constats et conclusions préliminaires 
+Pertinence et cohérence 
+1. 
+Bien qu’il y ait globalement un alignement aux orientations stratégiques internationales, les 
+interventions telles que proposées par les différentes formules sont extrêmement différentes, et, 
+prises par formule, elles n’ont pas le potentiel de répondre de façon optimale aux besoins de tous 
+les enfants. 
+2. 
+L’inclusivité de l’offre est inscrite au rang des priorités, et les stratégies intègrent certes la nécessité 
+qu’elle soit prise en compte ; toutefois, les interventions proposées en elles-mêmes restent 
+insuffisantes pour couvrir les besoins des populations vulnérables en général, et ceux des enfants 
+à besoins spécifiques en particulier. 
+3. 
+Bien que la gratuité des interventions et leur caractère obligatoire ne soient pas encore effectifs 
+dans les cadres réglementaires, l’alignement sur les priorités sectorielles, nationales et 
+internationales est globalement satisfaisant. 
+4. 
+L’offre du préscolaire s’inscrit en parfaite cohérence au cœur des interventions de la stratégie 
+nationale de développement de la petite enfance, et contribue à l’ambition nationale d’un 
+développement plus harmonieux et plus durable de l’être humain pour le renforcement du capital 
+humain national. 
+ 
+ 
+ 
+
+ 
+3 
+Efficacité 
+5. 
+La politique de mutualisation des secteurs établie par l’Etat a contribué à améliorer la disponibilité 
+de l’offre au niveau national. Toutefois, il persiste des gaps sur des régions défavorisées et à faible 
+densité populationnelle, pour lesquels le potentiel étendu de couverture des kouttebs à travers les 
+mosquées constitue une opportunité à considérer. 
+6. 
+Tandis que les résultats montrent l’impact significatif de la préscolarisation (et par extension de la 
+non-préscolarisation) sur les acquis des enfants à l’entrée du primaire, ainsi que l’influence de la 
+situation socio-économique de la famille et celle de l’âge de l’enfant, ils mettent également en 
+exergue l’influence potentielle des pratiques et comportements familiaux sur l’acquisition des 
+compétences. 
+7. 
+Les acquis des élèves devraient vraisemblablement être plus influencés par l’ensemble de leur 
+parcours préscolaire (durée et pratiques) que par la fréquentation d’une formule particulière au 
+cours de l’année précédant l’entrée en primaire, justifiant les nuances à porter sur les résultats des 
+comparaison des acquis selon les formules fréquentées. 
+8. 
+L’impact marginal de la durée de préscolarisation sur le score de compétence à l’entrée au primaire 
+au-delà de 2 ans, où le niveau d’acquisition atteint déjà 95%, est une confirmation des 
+recommandations internationales qui incite à un arbitrage entre la généralisation de la CP d’un an 
+pour tous garantissant l’accès pour tous et d’autres schémas alternatifs garantissant la qualité pour 
+tous. 
+9. 
+S’il fallait absolument considérer une performance reliée aux acquis selon les formules, les éléments 
+marquants à considérer sont que le peloton de tête inclut les CP privées et les JE privés chics alors 
+que les kouttebs se positionnent dans les performances moyennes, évoquant une certaine 
+efficience de cette dernière formule. 
+10. Les disparités sont certes nombreuses, et elles concernent tous les aspects qui ont été décrits allant 
+de l’organisation des services préscolaires aux aspects qualitatifs des prestations. Néanmoins, elles 
+constituent une réelle opportunité de capitalisation et de pratique par l’exemple dans la mise en 
+place des modèles unifiés les plus pertinents et les plus efficaces. 
+11. 
+Les facteurs qui influencent de manière significative les acquis sont plus d’ordre organisationnel et 
+dynamique que de nature institutionnelle, où ils seraient figés dans une posture liée à un type de 
+formule. Ils sont de plusieurs types, incluant la durée de la préscolarisation, les aspects quantitatifs 
+et qualitatifs de l’encadrement ainsi que les services additionnels tels que la cantine. Ils orientent 
+les choix stratégiques et opérationnels à faire pour la mise en place de la politique du préscolaire 
+en Tunisie. 
+12. Il existe, outre les facteurs organisationnels identifiés, des facteurs systémiques contextuels qu’il 
+faut intégrer dans l’analyse globale, à cause de leur influence significative, que ce soit positivement 
+ou négativement, sur la disponibilité, l’accès et l’efficacité des interventions du préscolaire. 
+Efficience 
+13. Dans un contexte où la contribution du secteur étatique est encore bien en deçà des 
+recommandations internationales, le système reste globalement peu efficient, avec un déséquilibre 
+marqué de la balance fonctionnement/investissements essentiellement dû au poids des coûts de 
+rémunération du personnel d’encadrement. 
+Prise en compte de l’équité, l’égalité de genre et des droits humains 
+14. Malgré que les principes d’équité et d’égalité du genre soient suffisamment intégrés dans les 
+différents documents lors de la conception, il y a un manque de données qui ne facilite pas 
+l’identification des cibles pour une bonne planification ; la mise en œuvre est par ailleurs impactée 
+par la disponibilité insuffisante de ressources dans un contexte de système de rapportage 
+fragmenté. 
+
+ 
+4 
+15. Il existe, certes, des améliorations à envisager sur certains critères ; mais il faut quand même noter 
+que l’élaboration de la SNM-DPE a veillé à intégrer le respect des principes de droits humains. 
+L’élaboration de cette stratégie constitue aussi un bon exemple d’approche participative dans un 
+secteur particulièrement morcelé, exemple qui devrait être capitalisé pour l’amélioration de la 
+gouvernance dans le secteur. 
+Coordination 
+16. La coordination reste le maillon faible le plus important de l’offre du préscolaire. Toutefois, 
+l’extrême fragmentation du système et la multiplicité des acteurs devraient être plutôt considérées 
+comme un atout que comme un défaut, atout dont l’unique moyen de tirer parti est une meilleure 
+coordination et un renforcement de la gouvernance et du leadership du secteur du préscolaire. 
+Leçons apprises 
+Collaborer et agir en synergie pour des intérêts communs 
+L’élaboration de la SNM-DPE a démontré que la collaboration intersectorielle était possible et que fédérer 
+le sous-secteur du préscolaire et plus en Tunisie pouvait être une réalité. Il est essentiel que le sous-secteur 
+dispose de son modèle de gouvernance afin d’établir des pistes formelles et fonctionnelles de concertation 
+et de collaboration pour plus d’efficacité et d’efficience. 
+Les centres de référence d’éducation préscolaire 
+Ces centres constituent un exemple réussi de collaboration entre les différentes structures d’éducation 
+préscolaire et de travail commun sur les standards de qualité : « Référentiel architecture et équipements », 
+« Référentiel gestion administrative, financière et ressources humaines », « Référentiel pédagogique » et 
+« Référentiel santé et nutrition des enfants ». Ces centres de référence ont été conçus pour servir de modèle 
+expérimental et montrer qu’il est possible de proposer une offre pertinente et de qualité en matière de 
+préscolaire dans un modèle totalement inclusif et intégrateur de la famille et des communautés. Quatre 
+centres ont été mis en place en appui à une structure sous la tutelle de chacun des 3 ministères clés et 
+d’une structure de l’UTSS. Il serait intéressant d’évaluer ces structures pour déterminer leurs performances 
+afin de proposer des modèles expérimentaux pour la mise en place de la future politique du préscolaire. 
+Une attention particulière devrait être accordée aux kouttebs qui, d’après les résultats de cette évaluation, 
+semblent disposer à la fois d’un bon potentiel de couverture, d’efficacité et d’efficience. 
+Le programme de parentalité positive 
+Le programme de parentalité positive semble réussir à améliorer les interactions parents-structures en 
+amenant plus les parents vers les structures préscolaires. Il peut jouer un rôle avant-gardiste pour apporter 
+aux familles les principes d’éducation positive, une éducation basée sur le respect des droits et besoins de 
+l’enfant. Ce programme pourrait ainsi contribuer auprès des structures préscolaires à une meilleure 
+préparation des enfants à la vie scolaire ainsi qu’à la vie active. Il vient à point nommé pour apporter des 
+réponses aux évidences établies par le présent bilan des compétences des élèves à l’entrée du primaire, 
+évidences en lien avec l’importance des parents dans les processus d’acquisition des enfants. 
+Recommandations 
+Recommandations stratégiques 
+En vue de relever : 
+L’efficacité et l’efficience 
+1) 
+Disposant désormais de données probantes sur le bilan des compétences des enfants à 
+l’entrée du primaire et ses relations avec les différentes formules, de même que des éléments 
+de coûts, la définition de la nouvelle politique du préscolaire devrait intégrer les résultats des 
+études mais également une analyse du contexte, abordée du point de vue de la faisabilité des

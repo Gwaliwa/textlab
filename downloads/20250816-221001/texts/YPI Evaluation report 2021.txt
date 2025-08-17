@@ -1,0 +1,497 @@
+FINAL REPORT
+Evaluation of UNICEF, UNFPA, UNDP project
+“Promoting Kyrgyzstan’s youth cohesion 
+and interaction towards Uzbekistan”
+(2019-2020)
+© UNFPA/Kyrgyzstan
+
+Final report
+March 2021
+The purpose of publishing evaluation reports produced by the UNICEF is to fulfil 
+a corporate commitment to transparency through the publication of all completed 
+evaluations. The reports are designed to stimulate a free exchange of ideas among 
+those interested in the topic and to assure those supporting the work of UNICEF that it 
+rigorously examines its strategies, results, and overall effectiveness.
+The contents of the report do not necessarily reflect the policies or views of UNICEF.
+The text has not been edited to official publication standards and UNICEF accepts no 
+responsibility for error.
+The designations in this publication do not imply an opinion on the legal status of any 
+country or territory, or of its authorities, or the delimitation of frontiers.
+The copyright for this report is held by the United Nations Children’s Fund. 
+Attribution: Please cite the work as follows: UNICEF (2021) “Evaluation of UNICEF / 
+UNFPA / UNDP project ‘Promoting Kyrgyzstan’s youth cohesion and interaction towards 
+Uzbekistan’ (2019-2020)”. 
+For further information, please contact:
+United Nations Children’s Fund 
+Chui Avenue 160, 720040
+Bishkek, Kyrgyzstan
+bishkek@unicef.org 
+
+PROMOTING KYRGYZSTAN’S YOUTH COHESION AND INTERACTION TOWARDS UZBEKISTAN
+3
+CONTENTS 
+CONTENTS
+3
+TABLES AND FIGURES
+4
+ACKNOWLEDGEMENTS
+5
+ACRONYMS
+6
+EXECUTIVE SUMMARY
+7
+1. INTRODUCTION
+13
+2. BACKGROUND
+16
+2.1 Context and Conflict Analysis
+16
+2.2  The Youth-Promotion Initiative Project in Support of Peacebuilding on the 
+Kyrgyz-Uzbek Border
+18
+2.3  Theory of Change
+20
+2.4 Stakeholders
+24
+3. EVALUATION PURPOSE, OBJECTIVES AND SCOPE
+25
+3.1 Purpose and Use of the Evaluation
+26
+3.2 Objectives of Evaluation
+26
+3.3 Scope of the Evaluation
+27
+4. EVALUATION METHODOLOGY
+28
+4.1 Evaluation Criteria
+29
+4.2 Methods for Data Collection, Analysis, and Sampling
+31
+4.3 Ethical Issues and Considerations
+35
+5. EVALUATION FINDINGS
+38
+5.1 Relevance and Coherence
+39
+5.2 Effectiveness
+55
+5.3 Efficiency
+71
+5.4 Impact
+79
+5.5 Sustainability
+86
+
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+4
+6. EVALUATION CONCLUSIONS & LESSONS LEARNED
+92
+6.1 Conclusions
+93
+6.2 Lessons Learned
+95
+7. RECOMMENDATIONS
+97
+8. REFERENCES
+105
+9. ANNEXES
+109
+ANNEX 1: Evaluation Matrix
+109
+ANNEX 2: Stakeholder Analysis
+115
+ANNEX 3: Social Media Analysis
+122
+ANNEX 4: Sampling
+124
+ANNEX 5: List of Interviewee categories
+125
+ANNEX 6: Inception Report
+126
+ANNEX 7: List of Project Documents
+127
+ANNEX 8: Information about the Evaluators
+137
+TABLES AND FIGURES
+Figure 1:  Visual reconstruction of the theory of change
+21
+Table 1: Observance of the UNEG ethical standards by the evaluation team
+35
+
+PROMOTING KYRGYZSTAN’S YOUTH COHESION AND INTERACTION TOWARDS UZBEKISTAN
+5
+ACKNOWLEDGEMENTS 
+This report was written by Camille Massey (team leader), Gulnara Asilbekova and Aiganysh 
+Isaeva. 
+The authors would like to thank UNICEF, UNDP and UNFPA in Kyrgyzstan, both management 
+and programme team, as well as Mr. Ozonnia Ojielo, United Nations Resident Coordinator 
+in Kyrgyzstan, for their guidance, support and contribution to this evaluation. The evaluation 
+team extends its heartfelt thanks to Tolgonai Berdikeyeva for her contributions and for the 
+coordination of the evaluation process. 
+The authors would further like to thank the State Agency for Youth and Sports of 
+Kyrgyzstan, the Municipalities of Kashkar-Kyshtak, Aidarken, Kok-Serek and Kerben, and 
+the implementing partners of the project, for their assistance in the evaluation, as well as 
+all those who participated in interviews and focus groups. 
+Special gratitude goes to the members of the evaluation’s reference group: Mirlan Parkhanov, 
+Ulan Shabynov, Aigul Mambetakunova, Christine Jaulmes, Tolgonai Berdikeyeva, Gulnara 
+Zhenishbekova, Erkina Urazbaeva, Artur Bukalaev, Nargiza Tashtemirova, Azamat Baialinov, 
+Sanzhar Alimzhanov, Akmaral Satinbaeva, Beksultan Rustamov, Nargiza Jenisheva and 
+Zhanyshbek kyzy Takhmina, who accompanied the entire process of evaluation.
+
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+6
+ACRONYMS
+CRM
+Child Rights Monitoring
+CSO
+Civil Society Organisation
+ERG
+Evaluation Reference Group
+EQ
+Evaluation question
+EU
+European Union
+GoK
+Government of Kyrgyzstan
+HIS
+Human interest stories
+IP
+Implementing Partner
+JSC
+Joint Steering Committee
+KII
+Key Informant Interview
+KR
+Kyrgyz Republic
+LIA
+Leadership and Innovation Academy
+LSG
+Local Self-Government
+MDG
+United Nations Millennium Development Goals
+MoF
+Ministry of Finance
+MoJ
+Ministry of Justice
+MOU
+Memorandum of Understanding
+NGO
+Non-Governmental Organisation
+NHRI
+National Human Rights Institution
+PBF
+UN Peacebuilding Fund
+PBSO
+United Nations Peacebuilding Support Office
+PDA
+Peace and Development Advisor (UNDP)
+PPP
+UN Peacebuilding Priority Plans 2017-2020 (or 2013-2016 if specified)
+PSG
+Project Steering Group
+PVE
+Prevention of violent extremism
+RUNOs
+Recipient UN Organizations
+SDGs
+Sustainable Development Goals
+SMEs
+Small and medium-sized enterprises
+ToC
+Theory of Change
+ToR
+Terms of Reference
+UN
+United Nations
+UNDP
+United Nations Development Programme
+UNFPA
+United Nations Population Fund 
+UNICEF
+United Nations Children’s Fund
+UNICEF ECARO
+United Nations Children’s Fund, Europe and Central Asia Regional 
+Office
+YoO
+Association “Youth of Osh”
+YPI
+Youth Promotion Initiative 
+
+PROMOTING KYRGYZSTAN’S YOUTH COHESION AND INTERACTION TOWARDS UZBEKISTAN
+7
+EXECUTIVE SUMMARY
+This report presents the evaluation of the project “Promoting Kyrgyzstan’s Youth Cohesion 
+and Interaction towards Uzbekistan”. The report outlines the evaluation’s background and 
+approach, its findings, conclusions, lessons learned and recommendations. The evaluation 
+was conducted from October 2020 to March 2021.
+OVERVIEW OF INTERVENTION
+The fertile Ferghana valley, now split between Kyrgyzstan, Uzbekistan and Tajikistan, has 
+long crystallized tensions over access to, and share of, natural resources. After the fall of 
+the Soviet Union, the unresolved border delineation has plagued inter-State relations. The 
+areas of Kyrgyzstan which border with Uzbekistan feature communities of varied cultural 
+background, which rely on resources that are spread across disputed borders. They are 
+economically deprived, remote from the country’s capital, and marred by unemployment 
+and labour migration. In these areas, cross-border and domestic conflicts among 
+communities have erupted regularly since the 1990s.
+The United Nations Country Office in Kyrgyzstan and the United Nations Peacebuilding 
+Support Office have conducted conflict analysis, materialized in the Peacebuilding Priority 
+Plans 2013-2016 and 2017-2020. This analysis acknowledges the importance of social 
+cohesion, economic opportunities, civic participation, and the inclusion of all categories 
+especially the youth, towards sustainable peacebuilding in these regions. The analysis 
+further highlights the mutually reinforcing role of inter-State relations on the one hand, 
+and interactions among people on the other hand. 
+The project “Promoting Kyrgyzstan’s Youth Cohesion and Interaction towards Uzbekistan” 
+echoed this analysis and aimed to support social cohesion in the border areas of Kyrgyzstan, 
+and beyond, nationally. To this end, the project built on the National Youth Agency’s strategic 
+documents, the existing national strategic documents for rapprochement with Uzbekistan, 
+and a favourable diplomatic context, to foster positive interaction of Kyrgyz youth, their 
+communities and relevant public authorities, both within multi-cultural communities in 
+the country, and towards their counterparts in Uzbekistan. This was done through outputs:
+1.	 Young people have improved critical/design thinking and demonstrate support for 
+diversity and equal rights by initiating projects that contribute to the implementation of 
+plans for local development and positive cooperation of youth between Kyrgyzstan and 
+Uzbekistan.
+2.	 Parents of young people, community members improve their understanding of 
+diversity, have enhanced knowledge and tools to support and participate in youth-led 
+initiatives.
+3.	 Government representatives have strengthened capacity to provide services in 
+cross-border communities and commit to support youth-driven initiatives aiming at 
+improving the cross-border cooperation.
+The project was implemented jointly by UNICEF, UNFPA and UNDP in Kyrgyzstan, from 
+January 2019 to November 2020 for a total budget of 1.5 million USD. The Peacebuilding 
+Fund financed this entire budget, as the project was closely based on the conflict analysis 
+conducted by the United Nations Country Office and the Peacebuilding Fund and 
+corresponded to the Fund’s guidance and Peacebuilding Priorities. 
+
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+8
+The project consisted of a series of small-scale local initiatives mobilizing tried and 
+tested youth empowerment tools such as the UPSHIFT and LIA programmes, focused 
+respectively on youth participation and on youth leadership through capacity building, 
+mentoring and engagement; legal aid initiatives involving youth in local communities; 
+mini-grants supporting local projects led by the youth; support to access to local services 
+including one-stop-shop in local administration; capacity building for a variety of duty 
+bearers in the border areas; and a series of cross-border events involving the youth and 
+the representatives of national and local administration. 
+With these activities, the project engaged the youth (from 14 to 28 years old) in the border 
+areas of Kyrgyzstan, their parents and teachers, local communities, as well as local and 
+national duty bearers at central, province and municipal levels. The project selected seven 
+implementing partners, including six civil society organisations and one company, who 
+conducted the bulk of these activities. Due to the COVID-19 pandemic, from early 2020, the 
+project activities moved online. All activities took place on the territory of Kyrgyzstan, with 
+a focus on the provinces of Osh, Batken and Jalal-Abad, which border with Uzbekistan.
+EVALUATION PURPOSE, OBJECTIVES AND INTENDED AUDIENCE
+The purpose of the evaluation is to inform the evaluation users for evidence-based decision 
+making on peacebuilding interventions in Kyrgyzstan, based on the learnings from the 
+project “Promoting Kyrgyzstan Youth’s Cohesion and Interaction towards Uzbekistan”.
+The evaluation objectives are as follows:
+•	
+Understand the effects of the project on the immediate, and when possible, final 
+beneficiaries;
+•	
+Ensure accountability towards the donor, the UN governance bodies, strategic goals and 
+UN system values, and towards the beneficiaries (rights holders and duty bearers) in light 
+of the project’s objectives, indicators and targets, and with regard to invested assets;
+•	
+Provide opportunities for organizational learning;
+•	
+Inform decision-making about the project’s follow-up with regards to youth and 
+peacebuilding.
+The primary intended users of the evaluation results are:
+•	
+the decision-makers from the government, 
+•	
+implementing partners, 
+•	
+implementing agencies UNICEF, UNDP, UNFPA, and the Peacebuilding Fund. 
+The secondary intended users are:
+•	
+local self-government staff in project communities, and 
+•	
+project beneficiaries.
+Finally, the evaluation report may be of interest to the public at large, including inhabitants 
+of Kyrgyzstan, academics worldwide, and any actor interested in peacebuilding 
+intervention designs. 
+EVALUATION METHODOLOGY
+The evaluation is mostly summative (as relates to understanding the effects of the 
+projects and ensuring accountability), but also to some extent formative (as relates to 
+
+PROMOTING KYRGYZSTAN’S YOUTH COHESION AND INTERACTION TOWARDS UZBEKISTAN
+9
+organisational learning and informed decision making). The evaluation followed a theory 
+of change-based methodology: 
+•	
+The evaluation first examines the chain of changes which the project intended to elicit, 
+and the assumptions which the project relied upon for the realization of these changes: 
+this constitutes the theory of change of the project;
+•	
+Then, the evaluation determines what changes actually happened for the project 
+beneficiaries and stakeholders. It compares these with the initial theory of change, 
+and checks whether the assumptions of the project were realized; 
+•	
+Finally, the evaluation analyses the actual contribution of the project to these changes, 
+with the understanding that other factors have likely played a role in these changes. 
+In order to draw findings on these three points, the evaluation team collected data from 
+complementary sources, including:
+•	
+A broad range of documents, both internal (such as project reports, proceeds of project 
+events, strategic documents and standards of the United Nations) to the project and 
+online (such as academic research, as well as reports and strategic documents of 
+public authorities and civil society organisations);
+•	
+Over 100 semi-structured interviews with project stakeholders representing varied 
+points of view, including United Nations officials, implementing partners, duty bearers 
+at national, province and local level, young participants and their mentors, parents, 
+teachers and other community members;
+•	
+Focus groups with implementing partners and United Nations officials;
+•	
+Social media analysis on the project itself as well as on cross-border and interethnic 
+relations in the targeted regions. 
+The evaluation was conducted by a team of three independent consultants – one international 
+and two national, supported by UNICEF Kyrgyzstan Child Rights Monitoring Specialist. 
+An Evaluation Reference Group including representatives of implementing partners, of 
+UNICEF, UNFPA and UNDP in Kyrgyzstan, and of the Peacebuilding Support Office of the 
+Peacebuilding Fund, oversaw the evaluation process and provided comments and advice 
+at all stages. 
+KEY FINDINGS AND CONCLUSIONS 
+The project approach chose the empowerment of the youth and their communities as the 
+key vehicle to elicit positive interactions at grassroot level, leading to improved social 
+cohesion. It assumed that social cohesion, along with improved inter-State relations, were 
+essential to peacebuilding. The project design corresponded to the priorities of the United 
+Nations Peacebuilding Priority Plan and its in-depth and agreed-upon conflict analysis. 
+The project further sought to match this robust conceptual framework to the local 
+realities, particularly the local drivers of conflict. To this end, the project implementers 
+analysed the needs and aspirations of its beneficiaries in a participative manner, which 
+enabled to adequately capture the needs and expectations of the targeted communities: 
+empowerment of the youth through novel interactions and capacity building, participation 
+in local decision making, employability, and creation of social and economic avenues 
+locally. Gender equality and empowerment of women were an integral part of the project 
+approach, because the theory of change, with social cohesion among its core intended 
+impacts, was equity-focused. However, the project did not fully integrate the prominent 
+phenomenon of labour migration, especially among the youth beyond school age. During 
+
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+10
+implementation, the project adequately retargeted some activities towards the younger 
+share of its intended beneficiaries, who were more present in the selected provinces. 
+During the project design phase, and throughout implementation, UNICEF, UNFPA 
+and UNDP, along with their implementing partners, analysed the nexus between three 
+phenomena: interethnic relations as the pivotal aspect of the conflict; unresolved border 
+issues as a key factor fuelling tensions; and the most urgent and unfulfilled needs expressed 
+by the beneficiaries, which acts as a catalyst of these tensions. Although the beneficiaries 
+themselves did not clearly perceive this nexus, this analysis proved particularly relevant 
+and instrumental to the coherence of the project and its theory of change.
+The project further engaged the national authorities, particularly the Youth Agency of 
+Kyrgyzstan who actively contributed to the project’s strategic approach. This effort secured 
+commitment and enabled the activities to dovetail on political will. At the same time, the 
+position of Kyrgyzstan’s Executive somewhat disregards the prominence of interethnic 
+relations within the country, and the project documents had to find a diplomatic compromise: 
+the documents defined the project as a cross-border initiative complemented with local 
+community support, but concrete activities mostly aimed at interethnic and social cohesion 
+within Kyrgyzstan. Therefore, while the theory of change behind the project was internally 
+coherent, its formal expression in the project documents was incomplete. This situation 
+demanded adjustments throughout implementation, which materialized in the adaptation 
+of the activities and of the project’s monitoring framework.
+The United Nations agencies made the most of their assets within the country, particularly 
+local offices and their network of CSOs, to reach out to underserved regions with a large 
+panel of activities, within a modest budget. There was a good alignment of strategic objectives 
+between the project and implementing partners. While the conceptual frameworks of the 
+United Nations agencies and the Government were not perfectly aligned, their strategy 
+in terms of target groups and actions to be taken were fully compatible. Federated by a 
+common peacebuilding approach, UNICEF, UNFPA and UNDP in Kyrgyzstan achieved deep 
+cooperation. They pioneered genuine joint implementation, from procurement to monitoring. 
+They translated the “delivering as one” approach into concrete processes and procedures. 
+While these took lengthy negotiations and slowed down the first phase of the project, 
+they constitute worthy precedents that now need to be perfected and reproduced. The 
+COVID-19 crisis amplified these delays and created obstacles to the implementation of 
+key activities, leading to a final rush, but UNICEF, UNFPA, UNDP and their implementing 
+partners proved particularly flexible, committed and creative, and successfully completed 
+the project within a reasonable timeframe and with limited resources. Cross-border 
+activities proved particularly challenging to organise administratively. The project design 
+overlooked valuable synergies with sister projects across the borders of Kyrgyzstan, which 
+could have alleviated these difficulties. 
+The integration of the local needs and expectation, the robustness of the theory of change, 
+and the ability to adapt project design to the circumstances resulted in a relevant and 
+efficient project met by the overwhelmingly positive perception of stakeholders. What 
+is more, the shift to online activities due to COVID-19-related prevention measures was 
+handled swiftly, presenting constraints but also unexpected opportunities.
+There is conclusive evidence that the project effectively resulted in increased youth 
+empowerment. The share of girls who participated is high, and the transformative results 
+of the activities are particularly visible for them. Many participants perceived this project 
+as a passage to adulthood, or a self-revealing experience. This happened because the 
+project activities created unexpected and new experiences for the participants: travel 
+and exposure to high quality training products and venues, new forms of interactions, 
+recognition of the leadership role that the youth can play within their community, as well 
+
+PROMOTING KYRGYZSTAN’S YOUTH COHESION AND INTERACTION TOWARDS UZBEKISTAN
+11
+as mutually respectful relations among peers and with local self-governance bodies. The 
+results of the project are therefore very apparent among the direct participants in terms 
+of personal and professional development within their community. Beside teachers and 
+other coaches, the project remarkably engaged the parents of the participants, which 
+proved instrumental to success: they acted as facilitators for the project results to expand 
+beyond the youth and to the rest of the community. 
+The individual and community-level empowerment efforts of the project were particularly 
+effective, and the youth proved a good catalyst for impact. Youth interaction and initiatives 
+have outlasted the closure of the project, even though their frequency and intensity have 
+diminished. However, there is no guarantee that their broader effects will be sustainable: 
+the most significant changes happened at individual level. This is particularly true of 
+interethnic relations. There is anecdotal evidence of progress: many participants reported 
+new perceptions of their peers across the border or in culturally different communities. 
+Social media and interviews showed that the attitudes of the youth and their immediate 
+social circles towards cultural diversity may have evolved. However, self-censorship is 
+still very prevalent among rights holders and duty bearers alike, which is symptomatic of 
+a latent conflict. To overcome these barriers and address the root causes of the conflict, 
+the United Nations will need to continue addressing both interethnic and cross-border 
+relations – from the national to the community levels.
+With its legal aid component and capacity building for local duty bearers, the project 
+further created new local venues for peaceful and effective pressing of claims for 
+access to services, settlement of disputes and recourse mechanisms. Enhanced service 
+delivery in municipalities, as well as enhanced consultation and cooperation with the 
+youth, were well received. Success stories emerged from the project activities where 
+municipalities supported youth initiatives. National level duty bearers and their province-
+level representations became better connected with the final beneficiaries’ aspirations 
+and realities. Youth agencies on both sides of the border increased their cooperation. 
+However, these components of the project still qualify as pilots: their systematisation 
+would require broader reform strategies. Local self-governance units are supportive of 
+youth-led initiatives and ready to carry on, but they will require continued support from 
+national authorities and from international cooperation partners to sustainably reap the 
+benefits of these experiments. With a wide variety of fields and methods, the project was 
+exploratory: it will require follow up and prioritization. 
+KEY RECOMMENDATIONS
+1.	 In order to capitalize on the opportunities created by this project, the peacebuilding fund 
+should continue supporting youth empowerment projects as vehicles for peacebuilding 
+in Kyrgyzstan along with neighbouring countries. 
+2.	 The peacebuilding fund should consider setting up an online community of practice 
+on peacebuilding projects accessible to its recipients.
+3.	 The United Nations Country Team in Kyrgyzstan (UNICEF, UNFPA, UNDP and any other 
+relevant agency such as UN Women) should initiate a regional, modular follow up youth 
+empowerment and peacebuilding programme with its peers in Uzbekistan and Tajikistan. 
+4.	 The United Nations Country Team in Kyrgyzstan should streamline pilot initiatives into 
+systemic, peacebuilding partnerships with key duty bearers.
+5.	 The United Nations Country Team in Kyrgyzstan should introduce gender transformative 
+results to the successor project, based on gender analysis and in consultation or 
+cooperation with UN Women.
+
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+EVALUATION OF THE UNICEF / UNFPA / UNDP PROJECT
+12
+6.	 The United Nations Country Team in Kyrgyzstan should re-define target age groups 
+of youth empowerment programmes in border areas towards adolescents and very 
+young adults (up to 20 years) in addition to the original target group (up to 28 years), 
+with emphasis on women/girls and vulnerable groups, and tailor activities accordingly.
+7.	 The United Nations Country Team in Kyrgyzstan should maintain selected activities online 
+beyond the COVID-19 crisis.
+8.	 The United Nations Country Team in Kyrgyzstan should anticipate and accelerate joint 
+procurement and other administrative processes linked to joint implementation.
+9.	 The Government of the Kyrgyz Republic, in particular the State Agency for Regional 
+Development should support the decentralisation efforts of the State Registry Service 
+of Kyrgyzstan and Ombudsperson’s office. 
+10.	The Government of Kyrgyzstan, the Presidential Office, and Ministry of Education 
+should facilitate and support systematic involvement of educational institutions in 
+peacebuilding initiatives and youth empowerment, especially in border areas. 
+11.	 The Government of Kyrgyzstan should consider the creation of a peacebuilding 
+national platform.
+12.	Implementing partners should continue to develop their capacity to reach out to 
+remote, vulnerable groups in border areas.

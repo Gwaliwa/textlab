@@ -1,0 +1,995 @@
+Evaluation of 
+UNICEF Syria  
+Social and 
+Behaviour Change 
+(SBC) 
+14 November 2023 
+Dr. Tristi Nichols, 
+Team Leader
+
+pg. 2 
+ 
+© United Nations Children’s Fund, New York, 2023 
+United Nations Children’s Fund 
+Three United Nations Plaza 
+New York, New York 10017 
+ 
+November 2023 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Function is to fulfill 
+a corporate commitment to transparency through the publication of all completed evaluations. The 
+reports are designed to stimulate a free exchange of ideas amongst those interested in the topic and 
+to assure those supporting the work of UNICEF that it rigorously examines it strengths, results, and 
+overall effectiveness. 
+ 
+The content of the report does not necessarily reflect the policies or views of UNICEF. The text has 
+not been edited to official publication standards and UNICEF accepts no responsibility for error. 
+Designations in this publication do not imply an opinion on the legal status of any country or territory, 
+or of its authorities, or the delimitation of frontiers. 
+ 
+The copyright for the support is held by the United Nations Children’s Fund. Permission is required 
+to reprint/reproduce/photocopy or any other way to cite or quote from this report written form. 
+UNICEF has a formal permission policy that requires a written request to be submitted. For 
+noncommercial uses, permission will normally be granted free of charge. Please write to the UNICEF 
+Syria Country Office at the address below to initiate a permission request. 
+ 
+ 
+For further information, please contact: 
+ 
+Syria Country Office 
+United Nations Children’s Fund 
+East Mazzeh, 
+Al Shafiee Street 
+Building 2 
+POB 9413 
+Damascus, Syria 
+ 
+Suggested Citation of the Report: 
+Nichols, T. (2023). Evaluation of the Social Behaviour Change (SBC) Programme in Syria Country 
+Office, UNICEF. 
+ 
+Cover photo: © UNICEF/Syria/2022 
+Ruba, facilitating an ice-breaking session among her students. 
+https://www.unicef.org/mena/stories/deeply-moved-teach-displaced-syrian-children  
+ 
+ 
+
+pg. 3 
+ 
+Table of Contents 
+ACKNOWLEDGEMENTS................................ 5 
+1. 
+Executive Summary ......................... 6 
+List of Abbreviations .......................... 12 
+2. 
+Background.................................. 16 
+2.1 
+Introduction ................................ 16 
+2.2 
+Context ....................................... 16 
+2.3 
+Country Economic Development 
+Strategies and Priorities............. 22 
+2.4 
+Object of Evaluation ................... 22 
+2.5 
+UNICEF Syria SBC programme 
+Results Framework .................... 27 
+2.6 
+Stakeholders ............................... 32 
+3. 
+Evaluation Purpose, Objectives, and 
+Scope ................................................. 34 
+3.1 
+Purpose ...................................... 34 
+3.2 
+Objectives ................................... 34 
+3.3 
+Scope .......................................... 35 
+4. 
+Methodology ................................ 39 
+4.1 
+Data Sources .............................. 39 
+4.2 
+Stakeholders Analysis ................ 40 
+4.3 
+Sampling Strategies ................... 40 
+4.4 
+Data Collection ........................... 42 
+4.5 
+Analysis ...................................... 44 
+4.6 
+Limitations .................................. 44 
+5. 
+Findings....................................... 47 
+5.1 
+Relevance ................................... 47 
+5.2 
+Effectiveness/Impact ................. 52 
+5.3 
+Efficiency .................................... 73 
+5.4 
+Coherence/Coordination ............ 77 
+5.5 
+Sustainability .............................. 80 
+5.6 
+Child Rights, Gender, and Equity . 81 
+6. 
+Conclusions ................................. 84 
+7. 
+Recommendations ......................... 85 
+8. 
+Annexes ....................................... 88 
+8.1 
+Terms of Reference .................... 88 
+8.2 
+Evaluation Matrix ........................ 97 
+8.3 
+Analytical Framework from C4D 
+Programme Note...................... 103 
+8.4 
+Bibliography .............................. 104 
+8.5 
+List of Persons Consulted ........ 108 
+8.6 
+Data Collection Instruments .... 110 
+8.7 
+Ethical Clearence Letter ........... 121 
+ 
+ 
+ 
+
+pg. 4 
+ 
+LIST OF FIGURES 
+Figure 1: Structure of evaluation report. ......................................................................................... 16 
+Figure 2: SBC/CE Indicators since 2018. .........................................................................................26 
+Figure 3: SBC Team and Field Offices. ............................................................................................ 33 
+Figure 4: Map of stakeholders. ....................................................................................................... 40 
+Figure 5: Knowledge about routine immunisations is clear. ............................................................59 
+Figure 7: Outreach for rights holders - COVID-19 ............................................................................. 61 
+Figure 8: SBC interventions for cholera. ......................................................................................... 63 
+Figure 9: Outreach data for cholera in 2022 ................................................................................... 64 
+Figure 10:  Rights holder knowledge about cholera. ....................................................................... 64 
+Figure 11: UNICEF focused IYCF efforts on women, followed by men, boys, and girls. ...................... 66 
+Figure 12: The knowledge about breastfeeding is evident. .............................................................. 66 
+Figure 13:  UNICEF prioritised children to promote messages about explosive ordinances. ............ 67 
+Figure 14: Outreach for SBC BTL interventions ...............................................................................68 
+Figure 15: Social factors inhibiting children from returning to school. ............................................69 
+Figure 15: Funding spike for SBC budget in 2019. ............................................................................ 74 
+Figure 16: Allocation of SBC within each sector's budget. ............................................................... 75 
+ 
+LIST OF TABLES 
+Table 1: UNHCR Response for Syrian refugees. ............................................................................... 17 
+Table 2: Relevant National Legislation and Ratified International Instruments ............................... 18 
+Table 3: Select Indicators for Health, Nutrition, and Immunisations. ............................................. 20 
+Table 4: List of SBC activities. ....................................................................................................... 24 
+Table 5: Budget allocations for SBC relative to each sector: 2018-2022..........................................25 
+Table 6: Budget allocations for SBC in programme effectiveness budget: 2018-2022. ....................25 
+Table 7: Results Framework from the UNICEF Syria SBC Programme Strategy Note. .................... 28 
+Table 8: Assumptions and Risks. ..................................................................................................... 31 
+Table 9: Programme stakeholders. .................................................................................................32 
+Table 10: List of the revised KEQs. .................................................................................................. 36 
+Table 11: Sample of remote KIIs with UNICEF staff. ......................................................................... 41 
+Table 12: Sample of in person KIIs with Service Providers. .............................................................. 41 
+Table 13: Indicators #1 and #2 - targets versus reached. ................................................................. 53 
+Table 14: Indicators #3, #4, and #5 - targets versus reached. ........................................................ 54 
+Table 15: Indicators #6, #7, #8, and #9 - targets versus reached. ................................................... 55 
+Table 16: Evaluation Matrix ..............................................................................................................98 
+Table 17: Survey sample of rights holders from govornarates. ....................................................... 101 
+Table 18: Service providers sampled from governorates. .............................................................. 102 
+Table 19: UNICEF Staff Consulted by Field and Regional Offices ................................................... 108 
+ 
+ 
+ 
+ 
+
+pg. 5 
+ 
+ACKNOWLEDGEMENTS 
+ 
+A heartfelt thanks goes to Olivia Roberts, 
+Evaluation Specialist 
+and 
+Aya 
+Elbizem, 
+Monitoring 
+and 
+Evaluation 
+Specialist, 
+Planning Monitoring, and Evaluation (PME) for 
+their excellent substantive contributions to 
+the evaluation and for coordination assistance 
+and also to the key members of the UNICEF 
+Syria 
+Social 
+Behaviour 
+Change 
+(SBC) 
+Programme Section, namely Sahar Hegazi, 
+Chief, Social and Behavior Change, Dina 
+Kayyal, SBC Officer, and Etienne Kilian 
+Reussner, SBC Specialist for their valuable, 
+substantive support and input throughout the 
+evaluation process.  
+Additionally, I would like to thank the Third-
+Party Monitors who provided in-country 
+assistance and conducted the data collection 
+for the evaluation as well as to Dr. Reema 
+AlHakim for translation services.  
+My deepest gratitude also goes to the many 
+UNICEF Syria and MENARO staff members 
+who set aside the time to meet with me and to 
+answer my questions.  
+I am also thankful to all the health care 
+providers, education professionals, child 
+protection services providers, and NGO 
+partners at the governorate and district levels 
+for sharing their experiences of integrating 
+SBC into their daily work.  
+Finally, I would like to thank the parents and 
+caregivers who took part in the individual 
+interviews as well as focus group discussions. 
+Thank you for the valuable insight you all 
+provided which contributed to this report and 
+to the recommendations made. 
+Sincerely, 
+Tristi Nichols, Ph.D. 
+Evaluation Team Leader 
+ 
+ 
+
+pg. 6 
+1. Executive Summary
+BACKGROUND
+As stipulated in the UNICEF Strategic Plan 
+2022-2025 (E/ICEF/2021/25), there are several 
+“change strategies” designed to accelerate 
+medium-term results, and Social Behavior 
+Change (SBC) and Community Engagement are 
+considered one of those change strategies.  
+SBC and CE are the means through which to 
+contribute to positive social transformation and 
+address challenges that cut across and go 
+beyond sectoral programming.  The UNICEF 
+Syria SBC programme started in 2015 mainly to 
+respond to the polio outbreak and has evolved 
+considerably over the years.  Currently, the 
+UNICEF Syria Country Programme Document 
+2022-2024 
+(E/ICEF/2022/P/L.18) 
+highlights 
+how SBC is a social and behaviour change 
+communication strategy that addresses the 
+interrelated causes of social norms and 
+practices that are harmful to children’s health, 
+education, development and participation.”  
+This report presents the formative evaluation of 
+the SBC programme in the UNICEF Syria 
+Country Office (CO).   
+EVALUATION 
+PURPOSE, 
+OBJECTIVES, 
+& 
+SCOPE  
+The purpose of the evaluation is to conduct an 
+evaluation of UNICEF SBC programming 
+focused on key strategic priorities (see below) 
+for UNICEF Syria.  The evaluation is also 
+designed to support: (1) oversight and 
+accountability; 
+and 
+(2) 
+organisational 
+learning.   The objectives of the evaluation are 
+to: 
+1.
+Review 
+the 
+design 
+evolution 
+and
+achievements 
+of 
+UNICEF 
+Syria 
+SBC
+programming by assessing the relevance,
+effectiveness, and efficiency of specific
+approaches, and materials, in particular
+community 
+engagement 
+system, 
+and
+system strengthening;
+2.
+Assess the main enablers and drivers for
+SBC in Syria as well as bottlenecks and
+barriers for behaviour and attitudinal
+changes at household and community
+levels and identify recommendations for
+programming approaches that are most
+effective in this context;
+3.
+Identify 
+opportunities 
+for/adjustments
+needed by programmes and corresponding
+SBC material to support the achievement of
+key results for children in alignment with the
+UNICEF 
+Syria 
+Country 
+Programme
+Document 
+2022-2024, 
+Programme
+Strategy 
+Note 
+Communication 
+for
+Development (C4D) 2022-2024 and UNICEF 
+Middle East and North Africa SBC-CE
+Regional 
+Strategy 
+and 
+Programme
+Guidance for 2022-2025, including an
+assessment of the Results Framework (in
+particular challenges of measurability and
+attribution of results);
+4.
+Assess the common understanding of SBC
+across 
+UNICEF 
+Syria 
+programming,
+including how UNICEF teams understand
+and utilise SBC approaches to achieve
+results and the added value of any
+integrated approaches to date, with a view
+to identifying areas of good practice and
+scope for improvements; and
+5.
+As appropriate, provide real-time reflection
+on any emergency SBC activities and
+identify transferable learning and success
+factors from recent responses.
+The scope of the evaluation covers the 
+period from 2018 to 2022 across the 14 
+governorates in Syria and focuses on the 
+following specific thematic areas:  
+(1) Routine Immunisation (RI) of children;
+(2) COVID-19 awareness and vaccination;
+
+pg. 7 
+ 
+(3) Cholera response; 
+(4) Integrated SBC/WASH programming;  
+(5) Child Protection;  
+(6) Education; and  
+(7) Infant and Young Child Feeding (IYCF).  
+ 
+LIMITATIONS 
+The evaluation’s key limitations include: 
+• 
+Limited perspectives from government 
+stakeholders, as there have not been 
+government partners who have engaged 
+with SBC programming in a sustained way;  
+• 
+Staff absence and high staff turnover, 
+which contributed to the lack of data 
+regarding themes requiring institutional 
+memory;   
+• 
+Skewed survey sample representing mainly 
+women in spite of the intent to include half 
+female and male; and 
+• 
+Limited 
+data 
+on 
+partnerships 
+which 
+prevented a comprehensive analysis of the 
+sub-question under KEQ #1.  
+METHODOLOGY 
+To understand how the achievement of the 
+outputs contributes to behavioral objectives 
+and, in turn, leads to corresponding outcomes, 
+the evaluation is theory-based, using a 
+theoretical framework as a guide.  In addition, 
+the evaluation used a Process Evaluation 
+approach to uncover the degree to which 
+expected results have been achieved since 
+2018.  The approach of utilisation-evaluation 
+helped 
+to 
+generate 
+forward-looking 
+and 
+actionable recommendations.  
+The 
+evaluation 
+applied 
+Organization 
+for 
+Economic 
+Cooperation 
+and 
+Development/Development 
+Assistance 
+Committee 
+evaluation 
+criteria: 
+relevance, 
+effectiveness/impact, 
+efficiency, 
+coherence/coordination, and sustainability.  In 
+addition to these criteria, the evaluation 
+examined child rights, gender equality, and 
+equity as separate standalone criteria. The 
+evaluation used a mixed-method approach 
+involving document review, interviews with 
+duty bearers, and a survey and focus groups 
+with rights holders.  Quantitative data were 
+analysed using descriptive statistics, and 
+thematic coding was used to analyse qualitative 
+data. The findings from the qualitative and 
+quantitative 
+data 
+analysis 
+were 
+thus 
+triangulated by the source before concluding. 
+The primary users of the evaluation are UNICEF 
+and others interested in programming SBC in 
+the Middle East and North Africa region. 
+ 
+KEY EVALUATION QUESTIONS 
+RELEVANCE 
+KEQ 1: How appropriate were the 
+designs, approaches and targeting 
+of the SBC strategies to address the 
+needs and priorities of the targeted 
+population(s) 
+and 
+address 
+the 
+desired social/behaviour change? 
+KEQ: 1.1:  How did partnerships 
+contribute 
+to 
+the 
+design/appropriateness 
+of 
+SBC 
+activities? 
+KEQ 2: How have SBC strategies 
+been adapted and changed over time 
+to different contexts within Syria?
+ 
+ 
+KEQ 3: Going forward, what are the 
+key approaches and enabling factors 
+for UNICEF SBC to ensure relevance?  
+ 
+ 
+EFFECTIVENESS/IMPACT 
+KEQ 4: To what extent did SBC 
+activities achieve the set targets? 
+KEQ: 4.1:  How effectively do these 
+targets 
+function 
+in 
+terms 
+of 
+reflecting SBC achievements?  
+KEQ: 4.2:  What adjustments can be 
+made to M&E to better support 
+future contribution?  
+KEQ 5: To what extent did the SBC 
+strategy 
+contribute 
+to 
+the 
+achievements 
+of 
+country 
+programme results? 
+ 
+KEQ 6: What can be learned about 
+the most effective SBC interventions 
+for the achievement of results in 
+terms of design, implementation, 
+targeting; 
+what 
+are 
+the 
+most 
+
+pg. 8 
+effective 
+activities 
+for 
+driving 
+change?  
+KEQ 7: What were the major/critical 
+factors that contributed to or 
+hindered 
+achievement 
+of 
+SBC 
+results?   
+EFFICIENCY 
+KEQ 
+8: 
+How 
+efficiently 
+were 
+resources (funds, expertise, time) 
+used to achieve the objectives of 
+SBC strategies in a timely way? 
+KEQ 9: Were the resources allocated 
+to the programme implementation 
+team 
+and 
+IPs 
+appropriate 
+to 
+implement the activities and achieve 
+change 
+either 
+in 
+terms 
+of 
+behavioural or social change as part 
+of 
+programme 
+effectiveness?
+KEQ 10: What examples of cost-
+effectiveness 
+of 
+specific 
+SBC 
+activities or strategies can be 
+identified for replication and / or 
+scale up?  
+COHERENCE/COORDINATION 
+KEQ 11: What are some examples of 
+SBC 
+activities 
+where 
+there 
+is 
+integration 
+between 
+sectors?
+SUSTAINABILITY 
+KEQ 12: What factors need to be in 
+place for sustainability of key SBC 
+messages/interventions 
+in 
+Syria 
+context? 
+RIGHTS, GENDER, AND EQUITY 
+KEQ 13: To what extent did SBC 
+messages 
+and 
+engagement 
+modalities address the challenges of 
+the 
+targeted 
+groups, 
+including 
+marginalised and vulnerable groups?
+FINDINGS 
+RELEVANCE 
+Since 2018, the UNICEF Syria SBC programme 
+activities have been adapted to increase the 
+effectiveness of multiple sectors within the CO 
+programme, and as seen, SBC is endorsed 
+institutionally from the strategic plan as well as 
+the Country Programme Document.  The data 
+confirms that the design(s) and implementation 
+of UNICEF Syria SBC programme activities are 
+adequately embedded into sectors at the 
+strategic level, outlining exactly the role of SBC 
+within 
+UNICEF 
+programming 
+documents. 
+Qualitative data from duty bearers and rights 
+holders also shows positive perceptions about 
+SBC activities. 
+Moreover, stakeholder data indicates that there 
+are clear steps undertaken to embed SBC into 
+the sectors, including assessment, producing 
+the 
+Project 
+Document 
+(PD), 
+coordinating 
+activities, and collecting data for follow up.  
+However, few documents have descriptions of 
+operational models, staffing, resourcing, and 
+partnerships involved in SBC programming in 
+spite of conscientious steps to embed SBC 
+activities 
+in 
+sector-specific 
+programmes. 
+There is subsequently mixed data regarding 
+how SBC activities are carried out (linked 
+to 
+multiple 
+interpretations 
+about implementation).  For example, data 
+indicates that there is no set schedule for 
+SBC sessions, the duration of sessions varies, 
+and there is uneven programme integration 
+within the sectors. Such 
+mixed 
+data 
+in 
+SBC 
+priorities 
+and 
+implementation 
+created 
+difficulties 
+in 
+identifying 
+promising 
+practices 
+that 
+reinforce 
+programme relevance. 
+EFFECTIVENESS/IMPACT 
+The 
+evaluation 
+reviewed 
+targets 
+used 
+to monitor progress from 2018 to 2022, and 
+most indicators (six out of ten) included 
+targets that were most likely used as 
+management tools. A small 
+number 
+of 
+indicators 
+(three 
+out 
+of 
+ten) remained 
+relatively unchanged over the years.    
+Another finding was that while the UNICEF 
+Syria SBC 
+programme 
+has 
+a 
+Results 
+Framework which 
+includes 
+qualitative 
+indicators 
+for expected knowledge and 
+behaviour change for rights 
+holders 
+and 
+duty 
+bearers, 
+these indicators are not 
+used to track progress in a comprehensive 
+manner.  Moreover, there is no Theory of 
+Change (ToC) which connects SBC strategies 
+to expected changes in knowledge, attitudes, 
+
+pg. 9 
+self-efficacy, and expected behaviour change.   
+Nonetheless, not only would having a ToC 
+better 
+support 
+the 
+UNICEF 
+Syria 
+SBC 
+programme’s future contribution to the CO’s 
+programme portfolio, but a participatory 
+process, involving the UNICEF sector staff in 
+the development of the ToC, would support 
+progress 
+monitoring, 
+management 
+of 
+expenditures, and evaluative efforts.   
+Generally, the evaluation’s trend analyses 
+from 2018 
+to 
+2022 
+revealed 
+that 
+SBC 
+programming 
+has acquired strong gains in all sectors.  The 
+results for each strategic priority are fully 
+examined in the report, drawing from an 
+analytical framework based on identified 
+changes in rights holder’s: (1) knowledge about 
+messages in a given sector; and (2) positive 
+behaviours practiced as a result of engaging in 
+programme activities.  The table below 
+presents a short description of the overall 
+results. 
+SECTORS 
+SBC’s CONTRIBUTIONS TO SECTOR RESULTS 
+RI 
+(including 
+polio) 
+There is some awareness about the need for RI, but polio ranks as the highest in 
+increased awareness.
+Knowledge: 
+Behaviour 
+change: 
+SBC information and messages supported rightsholder’s decision-making regarding 
+seeking RI for their child/ren. 100% of those sampled reported having immunised their 
+child/ren. 
+COVID-19 
+prevention 
+awareness 
+and 
+COVAX rollout 
+Most (97%) of the evaluation sample had heard messages about COVID-19. 
+Sixty-six percent (or 49 out of 74) of the evaluation sample had not been vaccinated 
+against COVID-19. 
+The response to COVID-19 and the rollout of COVAX is an excellent example of how the 
+UNICEF Syria SBC programme activities were designed and implemented based on real-
+time analyses of vaccine access, process, and supply. 
+Cholera 
+response 
+Forty percent of sampled rights holders had heard about cholera from a health 
+professional.   
+Most (97%) of those surveyed who were aware of cholera understand the key ways to 
+prevent it.   
+SBC had a foundational role in UNICEF’s response to Syria’s cholera outbreak, which 
+included engaging rights holders in awareness sessions about how to prevent cholera 
+combined with the supply of water, soap, and hand sanitiser.   
+WASH 
+programming 
+The programme ’s contributions to WASH could not be tracked due to limited data. 
+Mine 
+Risk 
+Education-MRE  
+The programme ’s contributions to MRE are inconclusive due to limited data. 
+Back 
+to 
+Learning-BTL 
+The report presents significant evidence about the extent to which the BTL raised 
+awareness among caregivers about the importance of education.  However, the 
+economic situation, child labour, and early marriage present significant barriers that 
+prevent children from returning to school. 
+
+pg. 10 
+SECTORS 
+SBC’s CONTRIBUTIONS TO SECTOR RESULTS 
+IYCF 
+The majority (73%) of rightsholders sampled know that a baby is exclusively 
+breastfed for the first 6 months, (the correct answer), but approximately 17% do not 
+have knowledge about breastfeeding, including its benefits.    
+The majority (92%) of those surveyed “Strongly agreed” or “Agreed” with the statement 
+“I used information (that I heard about breastfeeding) to decide to breastfeed my 
+child/children”. 
+UNICEF IYCF programme is a human rights-based programme and is relevant to the 
+context of Syria.  However, the data is somewhat mixed about how much knowledge 
+lactating mothers actually have about breastfeeding as a result of UNICEF SBC efforts. 
+EFFICIENCY/COORDINATION 
+There are two levels of funding which finance 
+the overall UNICEF Syria SBC programme, 
+including the programme effectiveness budget 
+and inside each sector’s budget.  From 2018 to 
+2022, the overall programme funding from both 
+funding sources appears to be less predictable 
+with strong annual fluctuations, especially in 
+education, H&N, and WASH, thereby making 
+planning (and budgeting) for longer-term SBC 
+interventions very challenging.  Therefore, 
+there ought to be a minimum amount of 
+investment made available for SBC within each 
+sector, when mobilising future funding from 
+donors.   
+Data indicated that there was also a continuum 
+of staff perspectives about how well SBC is 
+understood.   For example, on the one hand, 
+there is a clear understanding of the role of the 
+SBC Unit, the expertise that the unit brings to 
+the sector’s work, and the need to monitor SBC’s 
+efforts, 
+separate 
+from 
+the 
+sector’s 
+achievements (although there is some overlap). 
+On the other hand, however, there is a need for 
+clarity in how the SBC and sectors’ activities 
+ought to work together, and there are UNICEF 
+staff member perceptions that some sector’s 
+SBC budget should not be shared with the SBC 
+Unit. In an SBC Unit meeting on 11 September 
+2023, this theme was confirmed and also 
+labeled a “blurred line” of operating.   
+Moreover, apart from guidance, stakeholders 
+recommended a form of basic training to 
+address the conceptual and operational gaps 
+identified, and that this training ought to be 
+extended 
+to 
+UNICEF 
+stakeholders, 
+implementing 
+partners, 
+and 
+government 
+stakeholders. 
+SUSTAINABILITY 
+The UNICEF Syria SBC programme is already 
+programmatically and financially integrated 
+into the CO Programme portfolio, which in turn, 
+enhances 
+its 
+operational 
+sustainability. 
+However, one main factor which ought to be in 
+place to ensure programme sustainability is the 
+resolution or reduction of the “blurred lines” 
+between SBC and the sectors (Finding noted 
+above). 
+RIGHTS, GENDER EQUALITY, & EQUITY 
+This report has also presented how SBC 
+messages 
+and 
+activities 
+addressed 
+the 
+challenges of those marginalised and the most 
+vulnerable. The programme design has logic 
+which fully considers child rights, gender 
+equality, 
+and 
+equity 
+concerns; 
+The 
+implementation of the COVID-19 and cholera 
+responses and other programmes (i.e., BTL and 
+IYCF) are just a few examples demonstrating 
+the extent to which SBC has made positive 
+contributions to specific vulnerable groups, 
+
+pg. 11 
+ 
+such as out of school children (BTL), pregnant 
+and lactating women. 
+ 
+RECOMMENDATIONS 
+Three recommendations are presented in this report. 
+RECOMMENDATION #1:  To broaden synchronised participation and clarify the different roles that each 
+staff member needs to play within each programme to achieve synergies, it is recommended for the 
+UNICEF Syria SBC Section to: a)  Provide training to increase understanding about SBC for sector-
+level stakeholders and to support operations; b) Engage in a process of co-creating guidelines with 
+a focus on sharing resources for SBC programming; and c) Develop a detailed articulation for how 
+SBC programming specifically contributes to each sector’s results, thereby reinforcing the 
+programme’s validity and added value to the CO programme portfolio.   
+RECOMMENDATION #2:  The UNICEF Syria SBC Section should contract a research institution or firm to 
+undertake broader FGDs with implementing partners to: a) Outline the current inconsistencies in 
+implementation; and b) Determine the critical levels of human and financial resources required to 
+deliver systematic approaches over the long-term. 
+RECOMMENDATION #3:  The UNICEF Syria SBC Section should co-create the development of a multi-
+sectoral ToC that includes: a) SBC Strategies; b) Outcome statements for each sector; and c) A list 
+of indicators, linked to and aligned with guidance issued by UNICEF HQ, that could be used to 
+measure the above and ensure regular follow up. 
+ 
+ 
+ 
+
+pg. 12 
+ 
+List of Abbreviations 
+ 
+ADAP 
+Adolescent Development and 
+Participation 
+AWPs 
+Annual Work Plans 
+BTL 
+Back to Learning 
+C4D 
+Communication for 
+Development 
+CE 
+Community Engagement 
+CCS 
+Child Care Society 
+CO 
+Country Office 
+COARs 
+Country Office Annual Reports 
+CPD 
+Country Programme 
+Document  
+CSOs 
+Civil society organisations  
+CSS 
+Central and South Syria 
+CWD 
+Children With Disabilities 
+DAM 
+Damascus Rural 
+DoE 
+Directorate of Education 
+DEZ 
+Deir-Ez-Zor 
+ECD 
+Early Childhood Development 
+ECE 
+Early Childhood Education 
+FGDs 
+Focus Group Discussions 
+FOUDI 
+Foundation for Advancing 
+Development Integration 
+FT 
+Fixed Term 
+GEROS 
+Global Evaluation Reports 
+Oversight System 
+GDP 
+Gross Domestic Product 
+GOPA 
+Greek Orthodox Patriarchate 
+of Antioch 
+H&N 
+Health and Nutrition 
+HNAP 
+Humanitarian Needs 
+Assessment Programme 
+HPM 
+Humanitarian Performance 
+Monitoring 
+IDPs 
+Internally Displaced Peoples 
+IEC 
+Information, Education and 
+Communication (ICE) 
+materials 
+IPC 
+Inter Personal Communication 
+IYCF 
+Infant and Young Child 
+Feeding 
+KAP 
+Knowledge, Atttitude, 
+Practices 
+KEQs 
+Key Evaluaiton Questions 
+KIIs 
+Key Informant Interviews 
+MENA 
+Middle East and North Africa 
+MENARO 
+Middle East and North Africa 
+Regional Office 
+MICS 
+Multiple Indicator Cluster 
+Surveys 
+MoH 
+Ministry of Health 
+MoLAE 
+Ministry of Local 
+Administration 
+MOSAL 
+Ministry of Social Affairs and 
+Labour 
+MoWR 
+Ministry of Water Resources 
+NES 
+North East Syria

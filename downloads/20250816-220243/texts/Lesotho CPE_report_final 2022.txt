@@ -1,0 +1,659 @@
+1 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OF LESOTHO 
+COUNTRY PROGRAMME 
+2019–2023  
+ 
+FINAL REPORT  
+1 December 2022 
+ 
+ 
+ 
+ 
+ 
+Prepared by Angela Bester 
+Evaluation Consultant 
+ 
+EVALUATION REPORT 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+  
+EVALUATION OF LESOTHO 
+COUNTRY PROGRAMME 
+2019–2023 
+ 
+ 
+FINAL REPORT  
+1 December 2022 
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ii
+CONTENTS 
+CONTENTS ........................................................................................................................................ II 
+TABLES AND FIGURES ....................................................................................................................... III 
+ACKNOWLEDGEMENTS .................................................................................................................... IV 
+ACRONYMS ....................................................................................................................................... V 
+EXECUTIVE SUMMARY .................................................................................................................... VII 
+1 
+CONTEXT OF THE EVALUATION ....................................................................................................1 
+1.1 
+DEVELOPMENT CONTEXT ....................................................................................................................... 1 
+1.2 
+SITUATION OF CHILDREN AND ADOLESCENTS ............................................................................................. 3 
+1.3 
+THE COVID-19 PANDEMIC .................................................................................................................... 7 
+2 
+OBJECT OF THE EVALUATION .......................................................................................................9 
+2.1 
+OVERVIEW OF THE COUNTRY PROGRAMME .............................................................................................. 9 
+2.2 
+RESULTS FRAMEWORK OF THE COUNTRY PROGRAMME ............................................................................ 10 
+2.3 
+RIGHTS HOLDERS ................................................................................................................................ 12 
+2.4 
+GEOGRAPHIC COVERAGE ..................................................................................................................... 12 
+2.5 
+THEORY OF CHANGE ........................................................................................................................... 13 
+2.6 
+STAKEHOLDERS AND PARTNERS ............................................................................................................. 16 
+2.7 
+RESOURCES ....................................................................................................................................... 19 
+3 
+PURPOSE, OBJECTIVES AND SCOPE OF THE EVALUATION ............................................................ 21 
+3.1 
+EVALUATION PURPOSE ........................................................................................................................ 21 
+3.2 
+EVALUATION OBJECTIVES ..................................................................................................................... 22 
+3.3 
+EVALUATION SCOPE ............................................................................................................................ 23 
+3.4 
+METHODOLOGY ................................................................................................................................. 24 
+4 
+FINDINGS................................................................................................................................... 32 
+4.1 
+RELEVANCE ....................................................................................................................................... 32 
+4.2 
+COHERENCE ...................................................................................................................................... 37 
+4.3 
+EFFECTIVENESS .................................................................................................................................. 40 
+4.4 
+EFFICIENCY ........................................................................................................................................ 59 
+4.5 
+SUSTAINABILITY ................................................................................................................................. 62 
+5 
+CONCLUSIONS AND LESSONS LEARNT ......................................................................................... 65 
+5.1 
+CONCLUSIONS ................................................................................................................................... 65 
+5.2 
+LESSONS LEARNT ................................................................................................................................ 66 
+6 
+RECOMMENDATIONS................................................................................................................. 68 
+6.1 
+RECOMMENDATIONS FOR THE NEXT COUNTRY PROGRAMME .................................................................... 68 
+6.2 
+RECOMMENDATIONS FOR THE CURRENT COUNTRY PROGRAMME ............................................................... 70 
+
+ 
+ 
+ 
+ 
+iii
+ANNEX A: TERMS OF REFERENCE ...................................................................................................... 73 
+ANNEX B: EVALUATION MATRIX .........................................................................................................1 
+ANNEX C: DOCUMENTS CONSULTED ...................................................................................................5 
+ANNEX D: PERSONS CONSULTED ........................................................................................................8 
+ANNEX E: INTERVIEW PROTOCOLS .................................................................................................... 11 
+ANNEX F: COUNTRY OFFICE ORGANIZATION CHART .......................................................................... 17 
+ANNEX G: THEORIES OF CHANGE ...................................................................................................... 19 
+ 
+ 
+TABLES AND FIGURES  
+Table 1: Selected human development indicators for Lesotho ..................................................................... 2 
+Table 3: Comparison of progress on selected SDGs – Pre-COVID-19 and during COVID-19 ............ Error! 
+Bookmark not defined. 
+Table 4: UNICEF Lesotho Country Programme 2019–2023 ........................ Error! Bookmark not defined. 
+Table 7: Evaluation audiences ...................................................................... Error! Bookmark not defined. 
+Table 8: Evaluation criteria and questions .................................................... Error! Bookmark not defined. 
+Table 10 Stakeholders interviewed ............................................................... Error! Bookmark not defined. 
+Table 11: Project site visits ........................................................................... Error! Bookmark not defined. 
+Table 13: UNICEF support of education response to COVID-19 ............................................................... 47 
+Table 14: Outcome indicators progress against targets 2021 .................................................................... 53 
+ 
+Figure 1: Children in Lesotho headcount poverty rate (%) ........................................................................... 4 
+Figure 2: High-level theory of change of the Country Programme ............................................................. 16 
+Figure 3: Funds allocated and utilized by resource type 2019–2022 ......................................................... 20 
+Figure 4: Funds allocated and utilized by programme outcome 2019–2022 .............................................. 20 
+Figure 5: Allocation of funds by Country Programme output ...................................................................... 60 
+Figure 6: Resource allocation by Country Programme output by resource type ........................................ 60 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+iv
+ACKNOWLEDGEMENTS  
+This Country Programme Evaluation (CPE) report was produced with the support of UNICEF Lesotho and 
+the participation of officials of the Government of the Kingdom of Lesotho, civil society organizations and 
+the United Nations in Lesotho. Angela Bester, an international evaluation consultant, conducted the 
+evaluation, assisted by Celine Sieu, Research and Evaluation Specialist in the Lesotho Country Office 
+(LCO), in the accessing of secondary data. Bikul Tulachan and Penjani Kamudoni, both from the 
+evaluation office of the UNICEF Eastern and Southern Africa Regional Office (ESARO), provided 
+valuable guidance and oversight of the evaluation process. The support of the Deputy Representative, 
+Kimanzi Muthengi, is acknowledged with great appreciation. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+v
+ACRONYMS  
+ART 
+ 
+ 
+ 
+Antiretroviral Therapy 
+AWPs   
+ 
+ 
+Annual work plans 
+CCA  
+ 
+ 
+ 
+Common Country Analysis 
+CEDAW 
+Convention on the Elimination of All Forms of Discrimination Against 
+Women  
+CGP  
+Child Grants Programme 
+CPD 
+ 
+ 
+ 
+Country Programme Document 
+CPE 
+ 
+ 
+ 
+Country Programme Evaluation 
+CRC 
+ 
+ 
+ 
+Convention on the Rights of the Child 
+CSD  
+ 
+ 
+ 
+Child Survival and Development 
+DHS 
+ 
+ 
+ 
+Demographic and Health Survey 
+ECCD  
+ 
+ 
+Early Childhood Care and Development 
+ECD 
+ 
+ 
+ 
+Early Childhood Development 
+ECE  
+ 
+ 
+ 
+Early childhood education 
+EMIS   
+ 
+ 
+Education Management Information System 
+EPI 
+ 
+ 
+ 
+Expanded Programme on Immunization 
+ERG  
+ 
+ 
+ 
+Evaluation Reference Group 
+ESARO  
+ 
+ 
+Eastern and Southern Africa Regional Office 
+FAO 
+ 
+ 
+ 
+Food and Agriculture Organization of the United Nations 
+GAP  
+ 
+ 
+ 
+Gender Action Plan 
+GAVI 
+ 
+ 
+ 
+Global Vaccine Alliance 
+HDI  
+ 
+ 
+ 
+Human Development Index 
+IOM  
+ 
+ 
+ 
+International Organization for Migration 
+IYCF   
+ 
+ 
+Infant and young child feeding 
+LCO 
+ 
+ 
+ 
+Lesotho Country Office 
+LCP  
+ 
+ 
+ 
+Lesotho Country Programme 
+LDC 
+ 
+ 
+ 
+Least Developed Country 
+LNFOD  
+ 
+ 
+Lesotho National Federation of Organisations of the Disabled 
+
+ 
+ 
+ 
+ 
+vi
+MICS   
+ 
+ 
+Multiple Indicator Cluster Survey 
+MNCH  
+ 
+ 
+Maternal, newborn and child health 
+NECC   
+ 
+ 
+National Emergency Command Centre 
+NECDOL  
+ 
+ 
+Network of Early Childhood Development of Lesotho 
+NISSA   
+ 
+ 
+National Information System for Social Assistance 
+NSDP   
+ 
+ 
+National Strategic Development Plan 
+PEPFAR  
+ 
+ 
+President’s Emergency Plan for AIDS Relief 
+PMTCT  
+ 
+ 
+Prevention of mother-to-child transmission 
+PPIP   
+ 
+ 
+Perinatal Problem Identification Programme 
+RAM  
+ 
+ 
+ 
+Results Assessment Module 
+SACU  
+ 
+ 
+Southern African Customs Union 
+SBCC   
+ 
+ 
+Social and Behaviour Change Communications 
+SDGs  
+ 
+ 
+Sustainable Development Goals 
+SMR 
+ 
+ 
+ 
+Strategic Moments of Reflection 
+SRH 
+ 
+ 
+ 
+Sexual and Reproductive Health 
+SRHR  
+ 
+ 
+Sexual and reproductive health rights 
+UNAIDS 
+ 
+ 
+Joint United Nations Programme on HIV and AIDS 
+UNDAF  
+ 
+ 
+United Nations Development Assistance Framework 
+UNDP  
+ 
+ 
+United Nations Development Programme 
+UNEG   
+ 
+ 
+United Nations Evaluation Group 
+UNESCO 
+ 
+ 
+United Nations Educational, Scientific and Cultural Organization 
+UNFPA  
+ 
+ 
+United Nations Population Fund 
+UNICEF 
+ 
+ 
+United Nations Children’s Fund 
+UNRCO 
+ 
+ 
+United Nations Resident Coordinator’s Office 
+UNSDCF 
+ 
+ 
+United Nations Sustainable Development Cooperation Framework 
+USAID   
+ 
+ 
+United States Agency for International Development 
+VNR  
+ 
+ 
+ 
+Voluntary National Review 
+WASH  
+ 
+ 
+Water, Sanitation and Hygiene 
+WFP 
+ 
+ 
+ 
+World Food Programme 
+WHO 
+ 
+ 
+ 
+World Health Organization 
+
+ 
+ 
+ 
+ 
+vii
+ 
+EXECUTIVE SUMMARY  
+The Kingdom of Lesotho is a small, landlocked country in Southern Africa, with a population of 2.1 million 
+people of which 38 per cent are children and adolescents. The United Nations classifies Lesotho as a 
+Least Developed Country (LDC) – defined as having low income levels and facing severe structural 
+impediments to sustainable development. Lesotho is vulnerable to the impact of climate change, and over 
+the past decade it has experienced successive climate shocks in the form of recurrent droughts and 
+floods. Lesotho falls within the low human development category, with a Human Development Index 
+(HDI) value of 0.514 in 2021, placing it at 168 out of 191 countries in 2021.  
+Almost all children in Lesotho experience at least one deprivation, and nearly half of Lesotho’s children 
+aged 0–17 years are multi-dimensionally poor. Child mortality, though declining since 2017, remains high. 
+There are geographic and socio-economic disparities in vaccination rates of children under 24 months, 
+with lower coverage for children in rural areas and from poor households. Nearly one-third of children 
+under 5 years are stunted and malnutrition is reported to have increased as a result of the COVID-19 
+pandemic. Lesotho has made significant progress in its HIV response, achieving the Joint United Nations 
+Programme on HIV and AIDS (UNAIDS) 90-90-90 targets, but progress has been made fragile by the 
+onset of COVID-19. Achieving quality education outcomes is a persistent challenge for the country. With 
+free and compulsory education, primary school enrolment is high, but drops at secondary level. 
+Enrolment levels at pre-primary facilities are low, with only one-third of children accessing any form of 
+pre-primary education. Violence against children persists, with girls experiencing sexual violence from 
+partners and schoolmates. Girls and boys experience overlapping emotional and physical violence. 
+The UNICEF Lesotho Country Programme 2019–2023 seeks to support the Government of Lesotho in 
+addressing the multiple challenges experienced by children, and attain progress against national targets 
+for the Sustainable Development Goals (SDGs). The Country Programme has the vision "to reach every 
+child, everywhere, with opportunities to survive, develop and reach her or his full potential."  
+UNICEF implements the country programme through three programme components, namely:  
+a) Component I: Young children survive, thrive and attain learning outcomes.  
+b) Component II: Children and adolescents are protected from violence and HIV and have improved 
+learning outcomes.  
+c) Component III: Reducing child poverty and enhancing equity and social protection.  
+These components are underpinned by programme effectiveness measures, including programme 
+performance monitoring and evaluation; the application of results-based management to ensure rigour in 
+planning and monitoring; evidence-based advocacy and partnerships; and the use of communication for 
+development.   
+Evaluation purpose, objectives and scope 
+UNICEF commissioned the evaluation of the 2019–2023 Country Programme between UNICEF and the 
+Government of the Kingdom of Lesotho. The evaluation was conducted between February and 
+September 2022 and serves the dual purpose of learning and accountability. Specifically, the purpose of 
+the evaluation is to identify best practices, results and lessons from the design and implementation of the 
+
+ 
+ 
+ 
+ 
+viii
+Country Programme, and so inform the development of the UNICEF Country Programme Document 
+(CPD) 2024–2028. The evaluation is also expected to contribute to the development of the United 
+Nations Sustainable Development Cooperation Framework (UNSDCF) 2024–2028. The evaluation also 
+serves to establish accountability to national and international stakeholders and the Executive Board for 
+the results achieved with the resources that have been invested in implementing the Country Programme. 
+The objectives for the evaluation as set out in the Terms of Reference were: 
+(a) To assess the relevance, effectiveness, efficiency, coherence and sustainability of the Lesotho 
+Country Programme from its inception to the present, with particular attention on equity, gender 
+equality, behavioural and social change for development, risk-informed programming, convergence of 
+programme components and achieving results at scale, as well as UNICEF's strategic positioning in 
+relation to its child rights mandate. 
+(b) To identify and document key lessons learned, good practices and innovations in implementing the 
+current 2019–2023 Country Programme, which can inform and support advocacy efforts for scale-up 
+and replication. 
+(c) To provide a set of forward-looking and actionable recommendations to strengthen programmatic 
+strategies in the design of the next Lesotho Country Programme, taking into consideration national 
+development priorities and plans and the 2030 Agenda for Sustainable Development in the country. 
+The scope of the evaluation included all UNICEF activities implemented under the Country Programme, 
+including emergency and humanitarian activities. The period covered by the evaluation is from January 
+2019 to August 2022. The formal Country Programme Document approved by the Executive Board was 
+used as the basis for the evaluation. It took into consideration changes the Country Office made to the 
+outputs, indicators and targets of the Country Programme at its Strategic Moment of Reflection (2021). 
+Evaluation methodology 
+The evaluation followed a theory-based approach, assessing the results of the interventions against the 
+theories of change developed for each of the programme components and the targets set for the outputs 
+of each programme component. The evaluation also considered the assumptions and risks underpinning 
+the theories of change to explain the factors that may have influenced the results. To ensure that the 
+evaluation would be useful to the Country Office, staff was consulted at all critical stages of the 
+evaluation. The evaluation observed the norms and standards of the United Nations Evaluation Group 
+(UNEG) and the Ethical Guidelines for Evaluation.1 Informed consent was obtained from key informants 
+prior to the start of each interview, and confidentiality was observed. 
+The evaluation followed a phased approach – inception, data collection, data analysis and reporting. 
+During the inception phase, the evaluation consultant conducted stakeholder mapping and document 
+review, and consulted the Country Office to refine the draft evaluation questions. The primary data 
+collection entailed conducting remote interviews from June to August, and carrying out a field mission in 
+ 
+1 United Nations Evaluation Group, ‘Norms and Standards for Evaluation’, UNEG, New York, 2016, 
+<www.uneval.org/document/detail/1914> and United Nations Evaluation Group, ‘UNEG Ethical Guidelines for 
+Evaluation’, New York, 2008, <www.unevaluation.org/document/detail/102>. 
+ 
+
+ 
+ 
+ 
+ 
+ix
+August 2022. The evaluation interviewed or consulted a total of 57 persons, 55 per cent female and 45 
+per cent male. 
+In addition to interviewing UNICEF staff, the evaluation interviewed persons from the following 
+organizations: 
+(a) Government: Ministry of Development Planning, Ministry of Education and Training, Ministry of 
+Finance, Ministry of Health, Ministry of Home Affairs, Ministry of Justice and Law and Ministry of 
+Social Development.  
+(b) Civil society organizations: Help Lesotho, Lesotho National Federation of Organisations for the 
+Disabled, Lesotho Red Cross Society and Lesotho Schoolnet Camara. 
+(c) United Nations in Lesotho: UN Resident Coordinator’s Office, United Nations Development 
+Programme (UNDP), United Nations Population Fund (UNFPA), World Food Programme (WFP) and 
+World Health Organization (WHO). 
+(d) European Union Delegation to Lesotho. 
+The evaluation consultant shared the emerging findings and areas of recommendation with the Country 
+Office at a workshop that provided an opportunity for the Country Office to interrogate these findings and 
+potential recommendations. In addition to presentations made at the workshop, the Country Office 
+provided written inputs on the emerging findings. The feedback from the Country Office was taken into 
+consideration in preparing the draft evaluation report. The draft report was circulated to the Country Office 
+for comment, and the report was finalized, taking these comments into account. 
+The evaluation has the following limitations: 
+(a) The evaluation was unable to secure interviews with all the intended stakeholders listed in the 
+inception report, even though the data collection period was kept open for three months, and the 
+Country Office and evaluation consultant made several follow-ups. The data collection period 
+coincided with a busy period for government officials.   
+(b) The evaluation comprised 10 key evaluation questions, which had been reduced from the larger 
+number of questions in the Terms of Reference. Even though the number of questions was reduced, 
+each question was made up of two or three sub questions. The evaluation did not seek to answer all 
+the sub questions, as this would make the analysis and reporting unwieldy. Instead, the findings 
+reflect the main thrust of the evaluation questions. 
+(c) The lack of updated national data is a major limitation to assessing progress at the outcome level. 
+Most outcome indicators require statistics from government sources, and in many instances, the 
+latest data is 2018. The Demographic and Health Survey (DHS) was scheduled to be conducted 
+during the current country programme cycle, but was postponed as a result of the COVID-19 
+pandemic.  
+Main findings 
+Relevance 
+The evaluation found that the Country Programme was well aligned with national priorities as set out in 
+Lesotho’s National Strategic Development Plan II (NSDP II) and in sector plans of the relevant ministries. 
+The key components of the Country Programme fall mainly within the NSDP II Key Priority Area II: 
+Strengthening Human Capital and the NSDP II crosscutting issues of children, youth and gender. The 
+
+ 
+ 
+ 
+ 
+x
+Country Programme is also aligned with Key Priority Area IV: Strengthening national governance and 
+accountability systems; the strategic objectives of which are as follows: (i) enhancing the efficiency of the 
+justice system; and (ii) strengthening national monitoring and evaluation systems. Other national priorities 
+reflected in the Country Programme include NSDP II strategic objectives to improve the efficiency of the 
+social protection system and increase access to sustainable water, sanitation and hygiene.  
+UNICEF Lesotho responded rapidly and effectively to the changing context of the COVID-19 pandemic, 
+mobilizing additional resources to support the national response, and adapting programme interventions. 
+It adjusted its mix of strategies to respond to the needs of the changing context, and also adjusted its 
+internal operations. Although the COVID-19 pandemic was a disruption, UNICEF also used the 
+opportunity to do things differently and use the COVID-19 response interventions as a foundation for 
+building long-term resilience. 
+The evaluation found that UNICEF Lesotho made good use of its comparative strengths to influence 
+policies and implementation. Examples include the support UNICEF provided in the procurement and 
+cold chain storage of vaccines; its use of its convening power in the UN Nutrition network to influence 
+nutrition policy process through the development of an investment case for nutrition; its support in the 
+development of new guidelines for the elimination of mother-to-child transmission of HIV; the 
+development of the Inclusive Education Policy; and the development of the National Social Protection 
+Strategy. 
+Coherence 
+The evaluation found that the Country Programme is aligned with UNICEF’s Gender Action Plan (2018–
+2021) and NSDP II priorities to address gender inequality. Examples of UNICEF interventions addressing 
+gender inequality include support to the Ministry of Education and Training to strengthen the gender-
+responsiveness of national education sector plans and policies; capacity strengthening of law 
+enforcement officials to identify and respond to cases of gender-based violence; and the Joint UN 
+programme 2gether 4 SRHR (sexual and reproductive health rights) empowering adolescent girls and 
+young women. The Country Office, however, lacks an overarching gender strategy, and so interventions 
+addressing gender inequality lack coherence. The evaluation identified the need for gender technical 
+capacity in the Country Office. 
+UNICEF collaborated with other UN agencies in the response to COVID-19, and plays an important role 
+in UN coordination. Other UN agencies commented positively on UNICEF’s collaboration, but also 
+pointed to the need for more effective collaboration and coordination among UN agencies in the next UN 
+Sustainable Development Cooperation Framework. 
+Effectiveness 
+Programme component I: Young children survive, thrive and attain learning outcomes 
+UNICEF supported the Ministry of Health and health care workers to deliver quality, integrated services to 
+strengthen the survival of mothers and newborns. This capacity strengthening contributed to an 
+expansion in facilities providing primary emergency obstetric and newborn care and health facilities 
+implementing newborn care packages, as well as enabling hospitals to implement the Perinatal Problem 
+Identification Programme system (PPIP). UNICEF support to the Expanded Programme on Immunization 
+continued during the period under review, helping to sustain good immunization coverage. Prevention of 
+mother-to-child transmission (PMTCT) was further strengthened with the adoption of new guidelines and 
+training of health care workers to implement these.

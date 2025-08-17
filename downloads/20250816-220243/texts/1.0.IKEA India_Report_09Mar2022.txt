@@ -1,0 +1,427 @@
+Center for Evaluation and Development, C4ED
+Alexandra Avdeenko, Markus Frölich and Atika Pasha
+Improving Adolescent Lives
+in India (2015-2019)
+An Impact Evaluation
+March 2022
+
+Improving Adolescent Lives in India
+An Impact Evaluation
+This evaluation is conducted
+at
+the Center for Evaluation and Development
+by
+Alexandra Avdeenko, Markus Frölich and Atika Pasha
+(principal investigators and authors).
+The evaluation has been commissioned by
+United Nations Children’s Fund (UNICEF) Regional Office for South Asia
+This version is from:
+March 10, 2022.
+Please do not cite or circulate without permission.
+
+2
+Executive Summary
+Objective of the Adolescent Empowerment Program (AEP)
+The AEP operated in four districts
+of four states (Sibsagar in Assam, Visakhapatanam in Andhra Pradesh, Purulia in West Bengal
+and East Singbhum in Jharkhand) and set out to cover 50% of the adolescent population in each
+of these districts. The program’s goal was to empower adolescents and make them “agents of
+change” for themselves and their communities, simultaneously making their surrounding aware of
+and responsive to their rights and needs. For the same, the program worked along three pillars.
+The goal of Pillar I was to empower adolescents through activities, including the formation of
+adolescent groups, that increased their knowledge and encouraged dialogue with their peers to
+enable an understanding of issues particular to their age group, and to remove barriers to their
+agency and confidence. Depending on the activity, male and female adolescents within the ages of
+10 to 19 were to be reached, both in and out of school. Pillar II was targeted more broadly towards
+communities, especially influential community members and leaders, and parents of adolescents.
+These adults were understood as the foundation that frames the knowledge, agency and confidence
+of these adolescents, and targeting them would ensure a modification in the social norms and
+traditions that hold adolescents back. Lastly, measures under Pillar III, focused on public services
+and authorities. The knowledge of and access to services would enhance adolescents’ physical
+and mental well-being, and help them overcome any external barriers to their empowerment. The
+program was active from 2015 to 2019, with activities intensively implemented from 2017 to 2019,
+by one or several UNICEF implementing partners in each district.
+Objective of the Evaluation
+In order to assess the impact of the AEP, an independent mixed-
+methods evaluation of the program was undertaken. The evaluation aimed to answer questions
+related to implementation fidelity, as well as relevance, effectiveness, and impact of the program
+on adolescents’ lives in India. It assessed whether or not the program improved adolescent lives,
+eventually increasing school retention or enrollment, prompting later marriages and delaying early
+pregnancy. Of particular interest for the impact evaluation were the intermediate outcomes which
+outlined the potential channels through which the desired changes were to occur. These were
+developed following the Theory of Change (ToC), according to which, the program was to raise
+awareness and knowledge on adolescents’ rights and strengthen supportive community structures to
+facilitate their empowerment. The program’s effectiveness for key stakeholders such as adolescents,
+
+3
+parents and communities as a whole was to be tested through its effects on attitudes towards
+adolescent’ empowerment and gender norms, changes in social norms and practices within the
+community, as well as improved provision, access to, and enforcement of services and rights.
+With this being a flagship program, with the eventual aim to scale up the intervention, the lessons
+learned from this evaluation are to inform future programming, and to alleviate the barriers that the
+implementation of future programs might face.
+Evaluation Methodology
+The evaluation followed a mixed-methods design, leveraging and com-
+bining quantitative and qualitative data to answer evaluation questions. The quantitative component
+was designed as a randomized control trial. Out of 82 program-eligible blocks in the sample, 42
+(treatment) blocks were allocated to receive a set of foundational interventions, including adoles-
+cent girls groups, or the Basic Package. The remaining 40 blocks served as a comparison (or
+control) group, that received no intervention. In a second-stage of randomization, 480 villages
+in the program blocks were equally divided into 4 groups, and assigned into the Plus Package,
+which included additional activities on top of the Basic Package. As part of the Plus Package,
+villages where assigned to (a) additional parents groups, (b) additional adolescent boys groups, or
+(c) additional parents and adolescents boys groups. The last set of group of villages were assigned
+to no additional activities besides the Basic Package, to serve as a comparison point to the villages
+with additional boys and parents groups.
+This evaluation relied on census data as a baseline, and on data collected between March and
+October 2021 in 72 sampling blocks as the endline. While the program included 82 blocks, the
+endline sample dropped 7 blocks because of their small relative size and 3 blocks because they were
+entirely urban. All of these 10 blocks were from Andhra Pradesh. The data for the analysis were
+acquired with the help of face-to-face surveys with adolescents, parents and community leaders. A
+total of 6,787 interviews were conducted with the three actors mentioned above, in 699 villages.
+The respondents stemmed from 419 villages in program areas and 280 villages in control areas.
+Within the mixed-method set up of the AEP endline evaluation, the qualitative component com-
+plemented the larger quantitative component, providing additional in-depth qualitative insights to
+answer particular evaluation questions. In this line, the qualitative component focused on questions
+related to implementation fidelity, relevance, and effectiveness, while the quantitative component
+largely addressed the questions on effectiveness and impact. The qualitative component used a
+detailed desk review of primary documents, in addition to key informant interviews, in-depth in-
+
+4
+terviews, and focus group discussions with key stakeholders, as well as with intended beneficiaries
+(e.g., adolescents and parents) to answer the key evaluation questions. It followed a dual approach
+for collecting data, where 32 implementing partners, United Nations Children’s Fund (UNICEF) staff
+at state and country level, district officials and other key informants were interviewed remotely (via
+Phone, Microsoft Teams and Skype), while 56 adolescent boys and girls aged 16 to 21, 45 frontline
+workers and 29 parents were interviewed face-to-face, in four villages per state.
+Findings and Implications
+Implementation fidelity: The AEP evaluation leveraged endline survey
+data, project monitoring data and project documentation to assess the reach and scope of activities
+implemented as part of the AEP.
+Based on the endline survey data, implementation reach in
+treatment areas was modest: in 46% of villages none of the respondents reported awareness of
+the implementation of any AEP activities within their villages. However, triangulating information
+from both project monitoring data and endline survey data, the AEP reached a much larger share of
+treatment villages (94%). Project monitoring data also reveals that the reach and scope of program
+implementation varied considerably by state.
+All in all, program awareness among respondents was low. Only 16% of respondents (including
+adolescent, parents and community leaders) were aware of any AEP activity, and remember the
+name of the implementing organization, within their villages. Low levels of awareness among
+respondents also hint that the intensity of program implementation was modest, although recall
+bias could have reduced reported levels of program awareness if respondents forgot about specific
+activities implemented in their villages in the past four years. Among those who were aware of the
+implementation of AEP activities in their village, a majority participated in these activities (86%)
+and all (100%) participants reported they were satisfied with the activities.
+Overall impact and final outcomes: The evaluation results show that at the aggregate program
+level, the AEP had very limited impact on all final outcomes. At the state-level, however, program
+effects present an assorted picture.
+For the program on the whole, there is no evidence that the AEP led to a reduction in the incidence
+of child marriage or early pregnancy. The small sample size for early pregnancy might explain the
+absence of findings in this outcome. Qualitative evidence points in the same direction. Respondents
+in qualitative interviews reported a general decrease in child marriage rates over the past decade.
+However, in line with quantitative evidence, they mentioned this may not have been necessarily
+
+5
+associated with the AEP. Despite these declines in child marriages, participants felt that a longer
+program duration - particularly in Assam’s tea gardens - could have yielded additional decreases
+in child marriage rates. A few participants stated that the government’s (Kanyashree) scheme also
+helped motivate and encourage parents to delay arranging marriages for their daughters. Financial
+reasons emerged as an important factor driving child marriage in both qualitative and quantitative
+evidence.
+For education outcomes, the AEP led to a small increase in current school attendance for adolescent
+girls aged 10 to 19 (90%), when compared to adolescent girls aged 10 to 19 in the control group
+(88.3%). Likewise, the AEP is associated with a 2.1 percentage point (pp) increase in current
+school attendance among older adolescent boys and girls (aged 15 to 23) (81.2%), when compared
+to adolescent boys and girls of the same age in control areas (79.1%). The share of adolescent
+girls aged 10 to 14 who reported to attend secondary education was also 3.1pp higher in treatment
+areas, when compared to the share of adolescent girls of the same age in control areas. Finally,
+the program also had positive effects when considering formal years of education. An increase in
+0.3 years of formal education is found among adolescent boys and girls in treatment areas, when
+considering results from all states combined. This increase is statistically significant for both girls
+and boys. At the state level, more significant results are found:
+Final outcomes at state level: The AEP adopted differing program modalities to fit the context in
+which it was operating. Therefore, it is useful to examine the impact of the AEP on each state
+separately. The program led to positive effects in several outcomes for the states of Andhra Pradesh
+and Jharkhand. Given low levels of reported early pregnancies, results for early pregnancies at the
+state level are not reported because of small sample sizes.
+In treatment areas of Andhra Pradesh, the AEP is associated with a statistically significant reduction
+in child marriage rates among adolescent girls and boys aged 10 to 19(2.9pp lower). This reduction
+was stronger for adolescent girls aged 10 to 19 than for adolescent boys, at 4.2pp and 1.6pp,
+respectively. In terms of education effects, no statistically significant effects on school attendance
+rates were found for adolescent girls in any age group within treatment areas of the state. It is
+important to consider these results with caution since Andhra Pradesh was the state with the largest
+deviations from evaluation design.
+In Assam, the AEP is associated with a higher incidence of child marriage among adolescent girls
+aged 10 to 19, when compared to adolescent girls of the same age in control areas. On average,
+
+6
+4.3% girls in program areas reported being married of early, compared to 1.5% in non-program
+(a difference of 2.8pp). Among adolescent girls aged 18 to 21 in treatment areas, the program is
+also associated with higher child marriage rates (7.2pp). The overall low rates of reported child
+marriage in Assam, in both treatment and control areas, may have influenced these results. In terms
+of schooling, the AEP had a positive impact on school attendance rates among adolescent boys
+and girls in treatment areas. Attendance was 3.8pp higher in program areas, compared to school
+attendance rates of adolescent boys and girls of the same age in control areas (∼88%). Focusing
+only on adolescent girls aged 10 to 19, the increase in school attendance is smaller (3.2pp) and only
+weakly significant.
+In Jharkhand, the AEP is associated with a 2.5pp lower incidence of child marriage rates among
+adolescent boys and girls aged 10 to 19 (2.7%), when compared to adolescent boys and girls of
+the same age in non-program areas (5.2%). This reduction is not statistically significant when
+considering program effects on adolescent girls alone. The program is also associated with a
+considerable, statistically significant, increase in schooling rates for adolescent girls aged 10 to
+19 (6.2pp). That is, while 81.9% of adolescent girls in non-program areas reported they attended
+primary or secondary education, 88.1% did so in program areas.
+West Bengal was the state where the AEP presented a lower impact. Overall the AEP is not associated
+with any impact in terms of reduced child marriage and early pregnancy or in terms of improved
+schooling.
+“Basic” versus “Plus” program activities At an aggregate level, increasing program intensity
+through Plus package activities did not have any additional impact on child marriage, early preg-
+nancy and school enrollment. However, when disaggregating the results by the three treatment
+arms (boy group, parents group or boys and parent groups), villages with parents group in addition
+to the Basic package showed positive effects on reduced marriage for adolescent girls (reduction of
+1.7pp).
+Intermediate outcomes: Adolescent empowerment, social norms, communication, and service
+provision Intermediate outcomes were envisioned in the Theory of Change of the AEP as impact
+pathways to shape final outcomes. All in all, the evaluation finds the AEP increased awareness of
+child rights among respondents in treatment areas, while the impact on other intermediate outcomes
+was more limited.
+In relation to adolescent empowerment, the AEP shows positive effects in terms of supporting
+
+7
+awareness of child rights among adolescents, parents and community service providers. The share
+of respondents in program areas that were aware of child rights was 25.1%, relative to 17.7%
+in comparison areas - a 7.4pp improvement.
+This improvement was even more notable when
+comparing very poor respondents in program versus non-program blocks (+9.7%).
+However,
+improvements in other areas of adolescent empowerment were very limited or non-existent. In this
+sense, improvements in terms of confidence were only observed among adolescent girls in Andhra
+Pradesh. In the state program areas, 59.3% of adolescent girls reported they felt confident in doing
+daily activities by themselves, while 46.7% did so in non-program areas. No impact is observed
+in terms of improved well-being, self-efficacy or active support when comparing adolescents in
+treatment and control areas.
+Overall, the AEP had a limited effect in supporting communication outcomes. The program had
+a small, positive effect (2.2pp) on the share of situations involving intergenerational dialogue that
+adolescent boys and girls engaged in. This positive effect was stronger when focusing on adolescent
+girls alone (2.8pp) and on older adolescent girls in particular (4.2pp). Likewise, intragenerational
+dialogue increased among older adolescent girls (2.2pp). Qualitative evidence supports positive
+program effects in terms of improved communication among adolescents and parents that partici-
+pated in them.
+At the aggregate level, evidence from quantitative data hints that the program did not significantly
+shape social norms surrounding child marriage or equal opportunities for girls and boys. Only
+when looking at program effects on male respondents, a small decrease in agreement with child
+marriage is observed (2pp). In qualitative interviews, respondents who took part in the program
+noted positive changes in regards to their attitudes about equality. This includes learning about
+treating girls and boys equally in relation to their educational pursuits and becoming more aware
+of the importance of providing girls the opportunity to attend school for the same length of time as
+boys. However, respondents felt equality between girls and boys was something “people just say”
+and that, “in real life, it’s not true”. All in all, it seems like increase awareness of adolescent rights
+and equality principles were not enough to shape social norms.
+Impacts for service provision reflect changes under the Pillar III of the program. Considering
+results from all states, community leaders in program villages were slightly more likely to report
+an improvement in access to community services (4.7pp). Likewise, access to Child Protection
+Committees (CPCs) was improved in program areas (8.4pp). However results differ by state and
+a large majority, namely 78.7% of community leaders, reported that CPCs were not present in
+
+8
+their village. Finally, the AEP is associated with a small increase in the government services that
+adolescent girls were aware of (2.0pp) and could access (+2.1pp), when compared to adolescent
+girls in comparison areas. This increase was higher when considering adolescent girls in Andhra
+Pradesh, who showed an increase of 6.4pp in the share of government services they knew and of
+5.0pp in the share of services they could access.
+The change in some of the intermediate outcomes, especially at the community level, suggest that
+the program activities did push adolescents towards the path of becoming “agents of change”,
+although this effort did not translate at the last mile, within the impact level outcomes.
+Relevance, key informants frequently reported a strong integration and explicit alignment of AEP
+programming with existing government goals, schemes and initiatives. In addition to ensuring
+the AEP’s alignment with international frameworks such as the United Nations Convention on the
+Rights of the Child (UNCRC), they emphasized that the AEP had been well integrated with existing
+government activities. However, in spite of the apparently close integration and ownership by the
+government, many study participants felt they were incapable of continuing program activities in
+the absence of Non-Governmental Organisations (NGOs) and/or UNICEF support and guidance.
+According to them, this was due to lacking financial support, lack of knowledge and training as
+well as limited motivation among facilitators and group members. Together with this, the wide
+variety of contexts and conditions that the intervention needed to adapt to may have lowered
+its impact. In many cases, the adaptations eventually undertaken were dependent on individual
+initiative and responsiveness to feedback and good monitoring. As discussed below, this was not
+always optimal. The local factors that required adaptation related to language, culture, religion,
+security situation, need for inclusiveness and much more. This means that apart from increased
+responsiveness, greater participation in program design and flexibility of intervention may help
+provide the necessary adaptability to account for the immense diversity of local contexts.Finally,
+despite generally positive assessments of the monitoring mechanisms in place throughout the AEP,
+one District Officer requested stronger coordination and more regular meetings between AEP and
+other service providers in order to ensure transparency in data sharing, for instance in relation to
+adolescent healthcare seeking behavior, in the absence of which service providers “are missing the
+opportunity of giving the service to those adolescents who are actually referred or who actually
+need the service” (District Officer 2, West Bengal).
+
+9
+Recommendations
+The recommendations in the report are based on the main lessons learned the
+evaluation process, the implementation data, and finally, the quantitative and qualitative findings.
+All recommendations are targeted at UNICEF country and regional office, but also can be directed
+at a more general audience that plan to conduct a similar evaluation or roll out a program similar
+to the AEP.
+The recommendations are as follows:
+• Create a communication strategy for child marriage and education programs that includes
+a variety of methods for outreach, e.g., engaging with digital media outreach as well as
+collaboration with the private sector.
+• Create a strategy for the effective engagement of parents and adolescent boys in child marriage
+prevention programs.
+This should include strategies and recommendations to overcome
+gender and availability barriers for the participation of boys and parents in child prevention
+programs.
+• To avoid variation in reporting, the evaluation team recommends the development of a
+toolkit for programs targeting child marriage of (qualitative and) quantitative research tools,
+techniques and standardized indicators for monitoring changes in knowledge, practices and
+gender equitable attitudes.
+• Embedding sustainability of programs as a key aspect of future programming is important, for
+instance, by embedding programmatic approaches into existing government schemes based
+on representative and rigorous evidence. It is also important to develop and implement an
+exit strategy to be rolled out at least a year before the end of the program.
+• A workshop targeted a building capacity of UNICEF program staff at country and regional
+level, and potentially key Implementing Partner (IP) would ensure the understanding and
+use of highly rigorous evaluation approaches, such as randomized control trial and quasi-
+experimental methods.
+Limitations
+It is worth noting that the evaluation of the program started right before the COVID-
+19 worldwide outbreak at the end of 2019, and experienced several hardships due the prolonged
+lockdowns that followed. Even though the evaluation process successfully adapted to the new
+
+10
+conditions, data was collected a significant time after the end of the program. COVID-19 could
+thus have diluted some of the effects between the end of program implementation and September
+2021, particularly due to recall bias. This is particularly relevant for the implementation reporting
+from respondents. Likewise, the pandemic has been shown to have significant adverse impacts
+on the schooling, health and well-being of adolescents, affecting the intended outcomes of the
+program. As a mitigation strategy, the evaluation has assessed impact on education outcomes from
+different angles, including changes in current and past school attendance or in attitudes towards
+education
+Another deviation is that program implementation focused on a small subset of treatment blocks
+in Andhra Pradesh. In this state, adolescent and parent groups, and mid-media activities were only
+implemented in five states, two of which are included in the sample. Since implementation in these
+blocks was decided for strategic reasons, it is hard to disentangle the reasons for this selection into
+treatment. Moreover, seven blocks were dropped from the endline during sampling, because of
+their relative small size. Since these blocks represent 0.5% of the overall number of villages in
+Andhra Pradesh, results for the state are likely to be unaffected by this change. However, given
+the deviations in the sample on top of the significant changes in program implementation, results
+in Andhra Pradesh should thus be considered with caution. It is difficult to measure the extent of
+bias in the results, and if it leads to lower or higher effects for the outcomes. To account for the
+implications of these changes on results at the aggregate level, main outcomes were also calculated
+excluding Andhra Pradesh, as a robustness checks. All in all, evaluation results for final outcomes
+hold when excluding from the analysis treatment and control areas of Andhra Pradesh.
+Finally, the program was implemented by several local implementing partners across and within
+states, with differing approaches. Together with this, implementation intensity varied during the
+time the program was implemented. In this line, program intensity varied between and within states,
+and over time. The multiplicity of implementation approaches pose complications to accurately
+assess the aspects of the AEP that ,ay have led to changes, or lack thereof, in outcomes of interest
+of the evaluation.
+
+11
+List of Acronyms
+𝑇0 Treatment arm 0
+A adolescent
+AEP Adolescent Empowerment Program
+ag. against
+agr. agrees
+AQ adolescent questionnaires
+ASHA Accredited Health Activist
+AWW Anganwadi Worker
+B boy
+AGG Adolescent Girls Group
+ABG Adolescent Boys Group
+BPL Below Poverty Line
+bro. brother
+C4ED Center for Evaluation and Development
+CCT Conditional Cash Transfer
+CL community leader
+CLQ community leader questionnaire
+CM child marriage
+comm. community
+conf. confident
+corp. corporal
+pn. punishment
+CP Child Protection
+CPC Child Protection Committee
+CR child right
+dau. daughter
+DCPO District Child Protection Officer
+dec. decision
+DHS Demographic and Health Surveys
+disc. discussed
+educ. education
+FGD Focus Group Discussion
+G girl
+GG Adolescent Girls Group
+gov. government
+GP Gram Panchayat
+HH household
+i.l.3m. in the last 3 months
+i.l.y. in the last year
+ICC Interpersonal Communication Compe-
+tence
+IDA Intensity Data on Activities
+IDI In-Depth Interview
+IKEAF IKEA Foundation
+imp. important
+INR Indian rupee
+intergen. intergenerational
+intragen. intragenerational
+IP Implementing Partner
+IPC Inter-Personal Communication
+IRB Institutional Review Board
+ITT Intention-to-Treat Effect
+KII Key Informant Interview
+KK Kishoree Kontha
+KP Kanyashree Prakalpa
+KPI Key Performance Indicator
+LASSO Least Absolute Shrinkage and Selec-
+tion Operator
+LATE Local Average Treatment Effect
+m.c. multiple choice
+mar. marriage
+MDES Minimum Detectable Effect Size
+mem. members
+MIS Monitoring Information System
+NFHS-5 National Family and Health Survey
+NGO Non-Governmental Organisation
+no. number of
+NSS National Service Scheme
+o.l.2w. over the last 2 weeks
+o.l.4y. over the last 4 years
+OLS Ordinarly Least Squares
+P parent
+PAP Pre-analysis Plan
+PG Parents Group
+PHFI Public Health Foundation of India
+pp percentage point
+ppl. people
+PQ parent questionnaire
+PRI Panchayati Raj Institution
+QPMS Quarterly Progress Monitoring System
+RBSK Rashtriya Bal Swasthya Karyakram
+RCT Randomized Control Trial
+rea. reason
+rgd. regarding
+RKSK Rashtriya Kishor Swasthya Karyakram
+RKSK Rashtriya Kishor Swasthya Karyakram
+SAG Scheme for Adolescent Girls
+SDG Sustainable Development Goal
+SED Secondary Education
+SHG Self Help Group
+SI summary indicator
+sis. sister
+SMC School Management Committee
+STI Sexually Transmitted Infection
+ToC Theory of Change
+UN United Nations
+UNCRC United Nations Convention on the
+Rights of the Child
+UNFPA United Nations Population’s Fund
+UNICEF United Nations Children’s Fund
+viol. violence
+W women
+w/o without
+WDCW Women Development and Child Wel-
+fare
+WHO World Health Organization

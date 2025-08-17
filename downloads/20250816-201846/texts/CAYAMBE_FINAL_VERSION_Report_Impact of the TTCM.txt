@@ -1,0 +1,613 @@
+FINAL REPORT 
+ 
+Evaluation of the Teacher Training 
+Curriculum Model (TTCM) project 
+(2017-2021) and its impact on the 
+quality of teacher learning and 
+practice in public schools  
+Submission of the 1st version: January 27th, 2022 
+Submission of the 2nd version: February 21st, 2022 
+Submission of the 3rd version: March 18th, 2022 
+ 
+Authors: Nizar Hariri, Wafa Berry, Nesrine Gourine, Lorène Prigent 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+2
+Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and practice in 
+public schools  
+ 
+© UNICEF Lebanon Country Office, 2022    
+Ashrafieh, Sodeco Area, Sama Beirut, 4th Floor 
+Beirut, Lebanon 
+ 
+March 2022   
+ 
+ 
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF has 
+a formal permission policy that requires a written request to be submitted. For non-commercial uses, the 
+permission will normally be granted free of charge. Please write to the UNICEF Lebanon Country Office at the 
+address below to initiate a permission request.  
+ 
+Attribution: Please cite the work as follows: UNICEF. 2022. “Evaluation of the TTCM project (2017-2021) and its 
+impact on the quality of teacher learning and practice in public schools”. UNICEF Lebanon Country Office, 
+Lebanon. 
+ 
+UNICEF Lebanon 
+Ashrafieh, Sodeco Area, Sama Beirut, 4th Floor 
+Beirut, Lebanon 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+3
+ACKNOWLEDGEMENTS  
+This report provides an independent formative evaluation of the Teacher Training Curriculum Model (TTCM) 
+project conducted by CERD and UNICEF from 2017 to 2021 in order to transform in-service training for public 
+school teachers.  
+The evaluation was commissioned by UNICEF Lebanon Country Office in consultation with CERD, produced by 
+CAYAMBE and relied upon consultation and input from a wide range of stakeholders. The evaluation team 
+wishes to thank every contributor for their valued input and support. 
+Appreciation goes first to the CERD at the central, regional and local level, with particular thanks to the PITB for 
+their time and commitment.  
+Throughout the assignment, the CAYAMBE team benefitted from the continuous support and guidance of 
+UNICEF and its implementation partners; in particular, MEHE officials, DOPS and other field stakeholders as well 
+as other donor organizations. Their input was instrumental for the overall fieldwork organization and access to 
+information.  
+We would like to give a special thanks to the following individuals who allocated a significant amount of time 
+and support to the organization and follow-up of this evaluation: Dr Ghinwa Itani, Education specialist; Mr. 
+Justus Kawesigye, Evaluation specialist and Dr Tamara Nassereddine, Evaluation officer; Mr George Haddad, 
+Planning, Research, Innovation, Monitoring & Evaluation specialist at UNICEF Lebanon; Mrs Rania Ghouassoub, 
+Head of Pre-service and In-service Training Bureau (PITB); Mrs Farha Wehbe, training coordinator; Mrs Rima 
+Gedeon, Financial manager at CERD; and Mrs Hilda Khoury, Director of DOPS at MEHE. 
+Our gratitude also goes to all school directors in the surveyed governorates for having largely facilitated the 
+organization of site visits and class observations at the sub-national level in the difficult context of the COVID-
+19 pandemic and fuel crisis. 
+Finally, we would like to recognise all other Development Organizations who also committed part of their busy 
+schedule for this evaluation, for their valuable input concerning competency-based teaching and learning in the 
+RACE II context. 
+The CAYAMBE team as a whole, including the evaluators, offers its most sincere thanks to all those who 
+contributed in varying degrees to this evaluation. In the context of ongoing education reforms, we hope that 
+this report can offer an objective picture of the significant work carried out to allow every child in Lebanese 
+schools to fully enact their right to quality education and open new perspectives for future improvements. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+4
+TABLE OF CONTENT 
+TABLES, GRAPHS & FIGURES ................................................................................................................................. 7 
+EXECUTIVE SUMMARY .......................................................................................................................................... 9 
+1. OBJECT OF THE EVALUATION ......................................................................................................................... 14 
+1.1. TTCM project data sheet ......................................................................................................................... 14 
+1.2. Brief socio-economic and political context ............................................................................................. 15 
+1.2.1. 
+A Challenging Socio-economic context ........................................................................................ 15 
+1.2.2. 
+Key institutional players in teacher training ................................................................................ 16 
+1.2.3. 
+The unfinished Lebanese reform towards competency-based education .................................. 17 
+1.3. The TTCM project ..................................................................................................................................... 18 
+1.3.1 
+Rationale for a Teacher Training Curriculum Model .................................................................... 18 
+1.3.2. 
+Key stakeholders involved ............................................................................................................ 19 
+1.3.3 
+TTCM Theory of Change ................................................................................................................ 20 
+1.3.4 
+TTCM project timeline .................................................................................................................. 22 
+2. OBJECTIVES AND USERS OF THE EVALUATION .............................................................................................. 23 
+2.1. 
+Objectives of the evaluation ............................................................................................................. 23 
+2.2. 
+Users and uses of the evaluation ...................................................................................................... 23 
+3. SCOPE OF THE EVALUATION ........................................................................................................................... 24 
+3.1. 
+Thematic Scope .................................................................................................................................. 24 
+3.2. 
+Geographical scope ........................................................................................................................... 25 
+3.3. 
+Chronological scope........................................................................................................................... 25 
+4. APPROACH AND METHODOLOGY .................................................................................................................. 26 
+4.1. Evaluation criteria .................................................................................................................................... 26 
+4.2. Evaluation questions ............................................................................................................................... 26 
+4.3. General Approach .................................................................................................................................... 27 
+4.4. Data collection methods .......................................................................................................................... 29 
+4.4.1. 
+Secondary data .............................................................................................................................. 29 
+4.4.2. 
+Primary data .................................................................................................................................. 29 
+4.4.3 
+Sampling strategy .......................................................................................................................... 30 
+4.5. 
+Data analysis and triangulation strategy .......................................................................................... 31 
+4.6 
+Limitations and mitigation measures ............................................................................................... 32 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+5
+ 
+5. FINDINGS AND PRELIMINARY CONCLUSIONS ................................................................................................ 34 
+ 
+5.1. Relevance ................................................................................................................................................. 34 
+5.1.1. Relevance of TTCM framework and modules to the needs ............................................................ 34 
+5.1.2. Relevance of TTCM design to Lebanese context and standards ..................................................... 38 
+5.1.3. Relevance of TTCM framework and modules with national competency framework .................. 40 
+5.2. Effectiveness ............................................................................................................................................ 42 
+5.2.1. Extent to which the TTCM enhanced trainers’ competencies ........................................................ 42 
+5.2.2. Adequacy of assessment framework and tools in assessing the level of competency building and 
+attitude change of teachers ........................................................................................................................ 44 
+ ..................................................................................................................................................................... 44 
+5.2.3. Effectiveness of the TMS in monitoring the quality of teacher training ........................................ 47 
+5.3. Efficiency .................................................................................................................................................. 49 
+5.4. Impact....................................................................................................................................................... 55 
+5.4.1. Improvement of teacher learning online and face to face .............................................................. 55 
+5.4.2. Transfer of acquired competencies into classroom practice .......................................................... 56 
+5.5. Sustainability ............................................................................................................................................ 58 
+5.5.1. Potential for scaling-up for teachers with no additional donor funding ........................................ 58 
+5.5.2. Potential for scaling up for trainers ................................................................................................. 61 
+5.5.3. Change of role and place on INSETT ................................................................................................. 62 
+5.6. Human rights and gender equality .......................................................................................................... 63 
+6. LESSONS LEARNED AND FINAL CONCLUSIONS .............................................................................................. 65 
+6.1. The TTCM allowed deep progress towards a modernized and competency-based teacher training 
+system ............................................................................................................................................................. 66 
+6.2. The project adopts the socio-constructivist paradigm as “unique” reference ...................................... 67 
+6.3. The adaptation of UbD to adult learning leads to increased complexity and generates confusion .... 68 
+6.4. The TTCM triggers renovated debates about impact analysis of in-service training on teacher learning 
+and practices ................................................................................................................................................... 69 
+7. RECOMMENDATIONS ..................................................................................................................................... 71 
+7.2. Strategic recommendations .................................................................................................................... 71 
+7.3. Operational recommendations ............................................................................................................... 74 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+6
+ 
+ANNEXES 
+Annex 1. Terms of Reference of the assignment 
+Annex 2. Updated Evaluation matrix 
+Annex 3. Evaluation Team composition 
+Annex 4: Detailed Methodology  
+Annnex 5: List of key informants interviewed and site visits 
+Annex 6. Data collection checklists/protocols/tools 
+Annex 7. List of documents consulted 
+Annex 8. Detailed analysis of training modules 
+Annex 9: Detailed analysis of site visits 
+Annex 10. Detailed efficiency analysis 
+Annex 11. Details of director interviews analysis 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+7
+TABLES, GRAPHS & FIGURES 
+Table 1: Users and use of the evaluation 
+Table 2: Data collection Methods 
+Table 3: Number of trained staff from 2017 to 2021 
+Table 4: Evolution of Unit costs from 2017 to 2021 (online training) 
+ 
+ 
+Figure 1- Evolution of operational and development costs (2017-2021) 
+Figure 2: skills in need of improvement according to the class observations carried out 
+ 
+ 
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+8
+ACRONYMS 
+ 
+CAS 
+ 
+Central Administration of Statistics 
+CBE 
+ 
+Competency-based education 
+CERD 
+ 
+Centre for Educational Research and  
+ 
+Development (CRDP in French) 
+CRDP 
+ 
+Centre de Recherche et de  
+ 
+ 
+ 
+Développement Pédagogique 
+CP 
+ 
+Child Protection 
+CTP  
+ 
+Continuous Training Project  
+DAC 
+ 
+Development Assistance Committee 
+DIFA 
+Differentiated 
+instruction 
+and 
+formative 
+assessment 
+DOPS 
+Direction de l’Orientation Pédagogique et 
+Scolaire (Guidance and Counselling Directorate) 
+DGE 
+Directorate General of Education 
+EM 
+ 
+Evaluation Matrix 
+EMIS  
+ 
+Education Management Information System 
+FGD 
+ 
+Focus Group Discussion 
+GEROS 
+ 
+Global Evaluation Reports Oversight System  
+GPE 
+ 
+Global Partnership for Education 
+GRASPS 
+Goal, Role, Audience, Situation, Product or 
+Performance, Standards 
+IMPI 
+ 
+Inclusion: MTSS Policy and Implementation 
+IP 
+ 
+Implementing Partners 
+IRB 
+ 
+Institutional Review Board 
+IST 
+ 
+Inclusion Screening Tools  
+KEQ 
+ 
+Key Evaluation Question 
+KII 
+ 
+Key Informant Interview 
+LAC 
+ 
+Literacy Across Content 
+LCRP 
+ 
+Lebanon Crisis Response Plan 
+MICS 
+ 
+Multiple Indicators Cluster Survey 
+MEHE 
+ 
+Ministry of Education and Higher Education 
+MEAL 
+Monitoring, Evaluation, Accountability and 
+Learning 
+MTSS 
+ 
+Multi-Tiered System of Support 
+NGOs 
+ 
+Non-Governmental Organizations 
+NLG 
+ 
+No Lost Generation 
+OECD 
+Organization for Economic Co-operation and 
+Development 
+ 
+PRIME  
+Planning, Research, Innovation, Monitoring 
+ 
+ 
+and Evaluation 
+PME 
+ 
+Planning, Monitoring and Evaluation 
+PITB 
+ Pre-service and In-service Training  
+ Bureau 
+QA 
+ 
+Quality Assurance 
+QITABI 
+Quality Instruction towards Access and Basic 
+education Improvement 
+RACE 
+ 
+Reaching All Children with Education 
+RC 
+ 
+Resource Centre (Centre de  
+ 
+ 
+ 
+Ressources) 
+RCR 
+ Responsables du Centre de Ressources 
+(Managers of the Resource Centre) 
+RITS 
+ 
+Reinforcing Inclusion Through Simulation 
+SDGs 
+ 
+Sustainable Development Goals 
+SOPs 
+ 
+Standard Operating Procedures 
+TMS 
+ 
+Training Management System 
+ToC 
+ 
+Theory of Change 
+ToR  
+ 
+Terms of Reference 
+ToT  
+ 
+Training of Trainers 
+TTCM 
+ 
+Teacher Training Curriculum Model 
+TwT 
+ 
+Teaching with Technology 
+UbD 
+ 
+Understanding by Design 
+UDHR 
+ 
+Universal Declaration of Human Rights 
+UIS 
+ 
+UNESCO’s Institute for Statistics 
+UNICEF 
+United Nations Children Emergency Fund 
+UNESCO 
+United Nations Educational, Scientific and 
+Cultural Organization 
+USAID 
+United States Agency for International 
+Development 
+WB 
+World Bank 
+WHERETO 
+Where and Why, Hook and Hold, Equip, 
+Rethink, Reflect and Revise, Evaluate, Tailor, 
+Organize 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+9
+ 
+EXECUTIVE SUMMARY 
+The context of the Teacher Training Curriculum Model (TTCM) and its objectives 
+The multi-layered crises facing Lebanon (Syrian refugee crisis, political unrest, economic collapse, COVID-19 
+pandemic, Port of Beirut explosion) have further challenged the capacity of the Ministry of Education and Higher 
+Education (MEHE) to maintain a highly qualified and well-trained teacher corps. 
+In 2017, CERD partnered with UNICEF to re-design the national teacher training curriculum in accordance with 
+the recently adopted competency frameworks for teachers, trainers and other education staff. Given the 
+fragmented teacher education system, and the lack of clear understanding of the competency-based teaching 
+and learning approach among main education stakeholders, the rationale of this partnership was to adopt a 
+global curriculum approach to teacher professional development.  
+The TTCM was meant to provide a national theoretical backbone and a common framework for the planning of 
+training modules in all training centres under the Pre-service and In-service Training Bureau (PITB) in Lebanon. 
+The design process allowed to clearly link each module, face-to-face on online and self-paced, to a teacher 
+competency or competency component of the 2017 framework. A Training Management System (TMS) was 
+also developed for data-sharing among relevant education stakeholders (inspectors, coaches, administrators) 
+that supports efforts to build a coherent and uniform teachers’ professional development structure at the 
+national level.  
+In its preface, the TTCM Teacher Training Handbook, describes the objectives of the TTCM project as follows: i) 
+to Improve the quality of the training design to target the competency framework for teachers and transfer to 
+classroom practices, to respond to the specific needs of teachers and address attitude towards cross-cutting 
+themes in education; ii) to improve the capacity of the PITB to track and disseminate attainment of competency 
+building per teacher and attitude change towards cross cutting educational themes; iii) to improve the quality 
+of teacher training to address the specific needs of new teachers in the public schools system; iv) to improve 
+the competencies of trainers; and v) to improve the quality of training within the training centres. 
+Maximized transfer of acquired competencies into teachers’ routine professional practice was targeted 
+through the adoption of a specific instructional planning approach called “Understanding by Design (UbD)”. As 
+teacher training takes place outside of the school environment in Lebanon, the expert committee set-up for the 
+project adapted this school-based approach to national teacher training institutions practices and culture. 
+Objectives of the evaluation 
+The evaluation of the joint CERD-UNICEF Teacher Training Curriculum Model (TTCM) project was entrusted to 
+CAYAMBE in June 2021 and took place over a seven-month period between July 2021 and January 2022. The 
+purpose of this evaluation is contributing to the evidence generation around the -based adaptation of the TTCM 
+in order to increase its use and effectiveness within Lebanon’s new competency-based teacher training vision. 
+This evaluation is expected to generate recommendations that will help the Government of Lebanon and its 
+partners to build upon the major achievements and successes of TTCM while identifying necessary 
+improvements and further actions needed to maximize its impact on teacher quality.  
+Evaluation scope  
+The evaluation covered activities and developments of the TTCM project since its adoption in 2017 to 2021 
+leading to an overall cost of 3,074,357 USD, with activities still ongoing after this date. Its scope included existing 
+TTCM methods, materials and measurable outcomes, namely:  
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+10
+/ 
+The Process adopted for TTCM design, training delivery and co-construction; 
+/ 
+The Content of the TTCM materials1 and their adaptation into self-paced modules; and 
+/ 
+The Results of the implemented training. No Monitoring, Evaluation, Accountability and Learning 
+(MEAL) guidelines, indicators and an agenda of activities were however initially set out in a logical 
+framework, so results could not be assessed according to fixed targets. 
+The general approach used in this evaluation 
+This evaluation was formative and process-based. It was conducted using a human rights and gender approach 
+with focus on the right of every child to quality education, with unequivocal regard to gender equality, equity 
+and inclusion in public schools. It adopted a mixed method approach, using qualitative and quantitative data 
+collected at national and sub-national levels in cooperation with a wide range of education sector stakeholders, 
+including MEHE, CERD, education experts, school teachers and staff, UNICEF staff and donor agencies. The 
+evaluation’s field visits took place between mid-June 2021 and the end of January 2022.  
+Two complementary evaluation approaches were used: The Beneficiary Assessment and Outcome Harvesting. 
+These approaches helped the evaluation team find their way within the relatively complex set of TTCM 
+documentation, addressing the main challenges of the evaluation and overcoming the limitations of the context 
+(pandemic and social crises, fuel crisis, strikes, etc.). The pandemic and social crises made it impossible to 
+perform randomized controlled trials (RCT) based on an experimental group in order to estimate the net impact 
+of TTCM training on teachers or students. Therefore, the team focused on retrospectively identifying emergent 
+impacts of these trainings by collecting evidence on what teaching practices have changed (step1) and then, by 
+working backwards, determining if and how an intervention has contributed or not to these changes. 
+Main findings 
+• 
+Relevance 
+The evaluation team concludes that the TTCM project was relevant, with general objectives established based 
+on a preliminary identification of stakeholders’ needs, including teachers, trainers and indirectly students. This 
+preliminary identification of needs, although conducted informally, singled out areas of focus that broadly 
+respond to recognized transversal teachers’ needs such as differentiated instruction, blended learning, 
+classroom management and competency-based teaching and learning. The roll out of training modules on 
+Teaching with Technology (TwT) and remote/online training approach played an important role in overcoming 
+the challenges caused by the COVID-19 pandemic, yet a limited number of teachers enrolled and completed 
+the self-paced modules. The study reveals an overall positive perception by various stakeholders (teachers, 
+principals, trainers, Guidance and Counselling Directorate (DOPS), experts) over the relevance of TTCM training. 
+The TTCM project established a twofold innovation: a new competency-based approach to training on the one 
+hand addressing the competency framework, a “new instructional framework” (UbD) on the other hand, 
+targeting improved transfer. This double change rendered the training design process more complex and 
+somehow less relevant for the trainers and training development and implementation more difficult with 
+several confusing misalignment of teachers vs trainers tools and approaches.  
+• 
+Effectiveness  
+The TTCM project was effective, achieving most of its expected general objectives. The proposed modules and 
+content successfully addressed the national competency frameworks adopted in 2017, as recognized by more 
+ 
+1 As per ToR, the content includes 5 Core training modules (TWT, LAC, CP, Inclusion and Gender), Teacher Training Induction Curriculum design 
+and theory, Trainer’s competency building and curriculum development  
+ 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+11
+than 86% of trainers. The Training Management System (TMS) was designed to be a purposeful and modern 
+tool for monitoring teachers’ professional development from a lifelong learning perspective. The TMS provided 
+the trainers with a holistic view of attendee profiles, the prerequisites for attending the training, the content 
+material, and successfully supported the design and implementation of training sessions. However, it was not 
+fully operational over the project implementation period due to power cuts and the inability to turn on the 
+servers. Among the challenges that emerged were the time needed for trainers to plan performance tasks (key 
+evaluation tool according to the TTCM), the inability of the trainers to follow up on attendees in their classrooms 
+as well as the limits of the TMS for archiving lessons for future reference. Approximately 20% of trainers 
+considered that the allocated time for the training was not sufficient. Most of the trainers stated that the five 
+core modules developed were clear, helpful to improve the quality of education and valuable for tackling 
+important challenges in Lebanon (forced shift to online teaching as a result of the COVID-19 pandemic, Syrian 
+refugee crisis). The Teacher Induction Curriculum (TIC) for novice teachers was not tested, making it impossible 
+to perform an effectiveness analysis.  
+• 
+Efficiency  
+The average unit cost of training one person under the TTCM over the five years of the project is 96 USD per 
+person (USD 3.07 million / 32,162 trainees). However, this average is to be interpreted with precaution as it 
+combines both the average cost of the online training (during 2020 and 2021) and the in-person training (during 
+2017-2019). The unit cost for 2017 was approximately 645 USD, but this high unit cost is mainly explained by 
+the inclusion of the development costs associated with the TTCM framework and training modules that meant 
+only the trainers were attending training sessions during this first year. Moreover, the sessions mainly consisted 
+of Training of Trainers (ToT) and coaching workshops, which are usually considered as relatively more expensive 
+than teacher training. The unit costs in 2018 and 2019 are more representative of the average cost of teacher 
+training (112 USD and 93 USD respectively) and the teachers accounted for more than 96% of the training 
+population. In comparison to other international in-service teacher training initiatives, this cost is reasonable 
+and close to the expected cost of 100 USD per teacher foreseen in the RACEII logical framework. 
+• 
+Impact 
+No formal macro- or meso-level impact assessment was conducted between 2017 and 2020, so the evaluation 
+focused on micro-level impact of the DIFA module and interpretation of meso-impact level on teaching 
+practices. The team observed lasting impact of the training on teacher behaviours and practices to varying 
+degrees. Significant change was observed in teacher behaviour towards inclusion and child protection issues. 
+For example, trained teachers implemented the key concepts of the child protection module in all the classes 
+observed. The modules concerning inclusion and differentiation were observed as being generally applied in 
+classes containing learners with academic difficulties or special needs. Regarding teaching with technology 
+(TwT), certain teachers attributed their weak use of ICT to the lack of technological tools in their schools and 
+others mentioned power cuts as a major barrier to teaching with technology. 76% of trainers asserted that the 
+TTCM improved the quality of the training but stated that refresher training is essential to ensure a long-lasting 
+impact. Concerning the most important hallmarks of the TTCM design, the UbD tools (performance tasks, 
+rubrics, backward design) seemed to be considered more impactful by the trainers than the competency-based 
+approach.  
+• 
+Sustainability 
+In terms of sustainability, the TTCM proved notably adaptable to considerable unforeseen circumstances 
+including health, political, and socio-economic crises. However, the vital role of external technical experts holds 
+potential for concern, considering the highly theoretical and conceptual complexity of most methodological 
+documents. The project triggered promising partnerships between CERD-PITB and MEHE-DOPS since some of 
+
+ 
+ 
+18/03/2022 –Evaluation of the TTCM project (2017-2021) and its impact on the quality of teacher learning and 
+practice in public schools 
+12
+the DOPS were also trainers with the PITB. However, coordination and alignment issues were perceived among 
+donor-supported initiatives targeting education quality. Better understanding and coordination of pre-service 
+teacher training is also recommended. The TTCM team purposefully studied the potential for coordination 
+between TTCM and pre-service training offered in universities, but unfortunately this aspect of the study was 
+not used for action. Two concerns were regularly raised by the beneficiaries of the project: the need to carry 
+out post-training follow-up and the need for a system of recognition or motivation for the trainees. 
+ 
+Conclusion 
+Undoubtedly, the TTCM project was pioneering in the implementation of a new vision for teacher continuous 
+training in Lebanon, following-up on the modernization process triggered by the adoption of the teacher 
+competency framework. It fostered new tools and new approaches for teacher training quality with an explicit 
+aim to ensure a real shift from teacher training quality into efficient teaching practices in the classroom. This is 
+a highly important step to advocate for improved and more frequent impact assessment practices in teacher 
+training. In order to ensure sustainability of the results and further improve the process, four key points should 
+be kept in mind, and these four key points were used to frame the strategic and operational recommendations: 
+1) The successful teacher training modernization process confirmed by the TTCM leads to a better 
+understanding of the teacher competency framework as key leverage to foster quality education. However, 
+teachers’ classroom practices cannot be deeply and sustainably changed if the different components of the 
+school curriculum are not coherent and competency-based (curriculum, teacher pre-service and in-training, 
+evaluation guidelines); 2) Such a reform process should seek to preserve diversity among teachers’ classroom 
+practices, therefore training approaches ought not to be limited to the socio-constructivist paradigm. Teachers 
+remain free to choose the best teaching methods and approaches, including transmissive pedagogies, to adapt 
+to the needs of a specific class or pupil. Irrespective of the benefits of direct transmission, constructivism, active 
+and passive teaching strategies, the effectiveness of any teaching practice depends on how teachers implement 
+it in the classroom; 3) The adaptation of the UbD model to adult learning and teacher training institutions raised 
+several methodological and pedagogical issues to be addressed before further development; and 4) The present 
+evaluation paved the way to anchoring impact assessment as a key feature of training design and development 
+at CERD learning from existing evidence. 
+Overall, the collected evidence is suggestive of the TTCM project being a factor associated to inclusive 
+Education. Therefore, the project contributes to the fulfilment to children rights to education reflected in the 
+United Nations Convention on the Rights of the Child. The DIFA module particularly addressed the needs of 
+marginalized children through a rights-based approach. It succeeded in providing teachers with new tools and 
+approaches to differentiate their teaching and better address children’s heterogeneity. 
+Strategic recommendations: 
+REC #1: The Government should seek permanent coherence and generalized reference to competency-based 
+teaching and learning, especially in a context of revising the Lebanese curricula, targeting increased coherence 
+in education (teacher training (both initial and in-service), curriculum, assessment methods for teachers, 
+exams).  
+REC #2: CERD and UNICEF should revise and simplify the TTCM framework and tools and extend the present 
+tools to teaching practices outside of the socio-constructivist paradigm. Teachers to remain free to choose their 
+pedagogies, including transmissive ones. Unnecessary complexity should be avoided in professional and 
+methodological documents. Assessment tools should not be limited to project-based approach.  
+REC#3: PITB and UNICEF should consider referring to a Lebanese backward design approach based on 
+performance tasks rather than to an international registered trademark and make sure that intellectual

@@ -1,0 +1,661 @@
+Real-Time Evaluation (RTE) of the COVID-19 Response in Sao 
+Tome and Principe (February-November 2020) 
+Country Report  
+ 
+ 
+ 
+ 
+ 
+December 2020: A doctor looks at her notes before examining a pregnant woman Health 
+Center in Praia Gamboa (@UNICEF/2020) 
+ 
+ 
+ 
+Evaluation Commissioned by the UNICEF Country Office in Sao Tome 
+and Principe  
+ 
+Evaluator: Patricia Carvalho 
+January 2021 
+ 
+ 
+ 
+
+1 
+ 
+Foreword  
+ 
+ 
+This real-time evaluation (RTE) covers the response of UNICEF and other national partners to COVID-19 
+in Sao Tome e Principe. It is part of a regional evaluation exercise involving several countries in all 
+UNICEF regions. The five other Country Offices (COs) involved include Côte d'Ivoire, Gabon, Democratic 
+Republic of Congo, Chad and Mauritania. 
+ 
+The rationale for this exercise is twofold: (i) to take stock and initiate joint reflection by development 
+partners on the prospects for adapting approaches and interventions on the ground to the evolving 
+crisis and (ii) to use the lessons learned and good practices thus identified to inform the response to the 
+pandemic in the future as outlined in the HAC cycle and multi-sectoral work plans.) The UNICEF West 
+and Central Africa Regional Office (WCARO) has legitimate expectations to better fulfill its role in 
+overseeing the implementation of the PB response to COVID-19. 
+ 
+This evaluation was conducted by a national consultant, Ms. Patricia Carvalho. The evaluator would like 
+to thank all those who supported them during their data collection and questionnaire administration 
+activities in a particularly difficult context, marked by the early stages of the second wave of the 
+pandemic. 
+ 
+The consultants would like to make special mention of the UNICEF Representative and Country Office 
+colleagues who provided essential support to the mission by supplying all the necessary documentation 
+and answering all their questions clearly and promptly.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+ 
+List of acronyms  
+AFD - Agence Française de Développement  
+CNES - Centro Nacional de Educação para a Saúde  
+CO – Country Office 
+CPD - Country Programme Document 
+EMOPS - Office of Emergency Programmes 
+GBV - Gender Based Violence  
+GPE - Global Partnership for Education  
+IMF - International Monetary Fund 
+INE – Instituto Nacional de Estatistica  
+IPC - Infection Prevention and Control  
+PPE - Personal Protective Equipment  
+RRCCE - Risk Communication and Community Engagement 
+RTE - Real Time Evaluation 
+SEIA - Socioeconomic Impact Assessment 
+SERP - Socioeconomic Response Plan  
+SRP  - Strategic Response Plan  
+TVS - Televisão Santomense  
+UN -  United Nations 
+UN - United Nations 
+UNDP - United Nations Development Programme 
+UNFPA - United Nations Population Fund 
+WASH - Water, Sanitation and Hygiene 
+WCARO - UNICEF Regional Office for West and Central Africa  
+WFP - World Food Program   
+WHO  - World Health Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3 
+ 
+Table of Contents 
+1. Introduction .............................................................................................................. 8 
+2. Evaluation Purpose .................................................................................................... 9 
+3. Evaluation Objectives ................................................................................................ 9 
+4. Evaluation Scope ..................................................................................................... 10 
+5. Evaluation Criteria and Questions ............................................................................ 10 
+6. Evaluation Methodology .......................................................................................... 12 
+7. Key Findings (by criterion) ....................................................................................... 12 
+7.1 Adaptability .................................................................................................................. 12 
+7.2 
+Effectiveness of the UNICEF Response ................................................................... 16 
+7.3 
+Quality ...................................................................................................................... 21 
+8 Emerging Themes/Conclusions ................................................................................ 25 
+9 Gender Equality and Women’s Empowerment .......................................................... 27 
+10  Lessons Learned ..................................................................................................... 29 
+11 Recommendations .................................................................................................. 30 
+12 Annexes .................................................................................................................. 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4 
+ 
+Executive Summary  
+ 
+1. Evaluation Object  
+This report presents the findings, conclusions and recommendations of the real-time evaluation (RTE) 
+focusing on the COVID-19 response mounted by UNICEF and its country partners in Sao Tome e Principe. 
+During the last nine months of the year 2020, Sao Tome e Principe, like the rest of the world, was 
+confronted with the COVID-19 pandemic with peaks of cases in June and December. Since then, it has 
+been facing the negative repercussions of this situation on socio-economic life, especially for the most 
+affected groups: women and children. In response, the Government and its partners have implemented 
+a multisectoral response plan. UNICEF-supported interventions focused on the areas of 
+health/nutrition, infection prevention/control/WASH, child protection, education/distance learning and 
+risk communication/community engagement. In order to better understand the achievements of the 
+response to this date and as a way to identify strategically and operationally relevant lessons learned 
+that could help improve the response in the coming months, UNICEF – in collaboration with the 
+Government of Sao Tome- commissioned an independent evaluation of the strategies and interventions 
+rolled out to curb the egregious effects of the pandemic. The evaluation was conducted by a Lusophone 
+evaluation consultant between November 2020 and January 2021.   
+2. Evaluation Purpose and Objectives   
+The RTE aims to promote a forward-looking reflection and generate strategically and operationally 
+relevant learning on the current implementation of the UNICEF response to COVID-19, specifically in 
+Sao Tome and Principe in this case. This is expected, among others, to: (i) improve the adaptations of 
+the response based on both the populations’ emerging needs and changes in context; and (ii) increase 
+the quality and effectiveness of the response on the ground 
+The main RTE objectives are to identify:  
+• 
+“The effects that the COVID-19 pandemic had on basic services, particularly for the most 
+vulnerable population and of activity initiated as a response to COVID-19; 
+• 
+The implications of the COVID-19 response on UNICEF’s regular/pre-COVID programme 
+delivery; and  the quality of the related delivery; while also providing early insights on the 
+outcomes achieved”1. 
+ 
+3. Evaluation Scope  
+In terms of the thematic scope, the RTE mainly focused on the UNICEF’s public health response and the 
+early stages of the socio-economic response. Geographically, this evaluation looked at the COVID-19 
+response implemented at the national level. While the program document review and the interviews 
+with the key actors of the response at the central level focused on the whole country, the field data 
+collection took place in the two purposefully selected districts of Água Grande and Caué2. 
+Chronologically, the evaluation focused on all the response activities implemented between February 
+and November 2020. 
+4. Evaluation Criteria  
+ 
+1 Terms of Reference, RTA COVID19, Sao Tome and Principe, September 2020. 
+2 The selection of the districts was supported by the country office and based on the fact that Água Grande is the most central and wealthiest 
+district, while Caué is one of the most remote districts and with the highest levels of poverty in the country.   
+
+5 
+ 
+In line with its learning purpose and the evaluation strategy of the response to COVID-19 in the rest of 
+the region, the evaluation was guided by the three following criteria: adaptability, effectiveness and 
+efficiency of implementation; and quality. Although these criteria are not the OECD-DAC criteria, their 
+content de facto overlaps with that of some OCED-DAC criteria.  The relevance of the selected 
+evaluation criteria is all the greater as they were agreed upon in a participatory manner by UNICEF and 
+the other evaluation’s expected users, namely the Ministry of Health and other line ministries with a 
+vested interest in the COVID-19 response, as well as the other development partners.  
+5.Methodology 
+The RTE relied on a mixed-methods approach consisting in a simultaneous and converging use of 
+qualitative and quantitative data collection and analysis methods. The data collection methods included 
+a short survey monkey questionnaire aimed at all UNICEF Country Offices in the region, including the 
+one in STP; semi-structured interviews at the national level with UNICEF CO staff members, and other 
+key informants, namely governmental partners and media and communication partners; semi-
+structured interviews and focus groups discussions at the sub-national level with frontline workers, 
+professors, school directors, health staff members and health community agents, and community 
+members based in the districts of Água Grande and Caué. WASH infrastructures were also observed in 
+the visited schools in Água Grande and Caué. Furthermore, a child-focused method (Body Mapping) was 
+used with small groups adolescents and youth people in some of the schools visited during the field 
+work, in order to explore their experiences with COVID-19 and understand what changes (if any) the 
+pandemic had on their lives and those of other children in their respective communities (see annex 5.1 
+for complete list of interviews and focus groups carried out). 
+ 
+5. Findings and Conclusions 
+In response to the COVID-19 outbreak, the UNICEF Country Office (CO) in STP implemented a host of 
+interventions, both at the national and local level, that aimed at curbing the negative socio-economic 
+impacts that the epidemic was observed to be producing on the lives of many children and caregivers 
+in STP. In the education sector, for instance, 
+UNICEF made a specific effort to ensure the 
+continuity of education services, by also 
+adapting its strategies to the evolving COVID-
+19  context, be through  the production of 
+distance learning programs on radio and TV or 
+the reopening of schools at the conditions 
+that 
+hand-washing 
+points 
+as 
+well 
+as 
+psychosocial support for school teachers and 
+directors be made available. Likewise, in the 
+health sector, the response focused on 
+ensuring the continued provision of  essential 
+health services, especially for women and 
+children, through the supply of vaccines, 
+medicines, 
+HIV 
+tests 
+and 
+nutritional 
+supplements for pre- and post-natal care.  On 
+the Risk Communication and Community Engagement (RCCE) front, the STP government developed a 
+communication plan and led the dissemination of key COVID prevention messages amongst all families 
+and communities nationwide through different communication channels, such as radio, TV, social 
+Figure 1. A doctor is a about to examine a pregnant woman to 
+follow up with her pregnancy in the Health Centre of Praia 
+Gamboa.(@UNICEF/2020) 
+
+6 
+ 
+media, and door-to-door sensitization sessions, in partnership with Centro Nacional de Educação para 
+a Saúde (CNES).  
+ 
+While the UNICEF Sitrep data shows that the RCCE-
+related targets were fully achieved, those of the 
+Water, Sanitation and Hygiene (WASH) and Infection 
+Prevention and Control (IPC) pillars were not. 
+Likewise, targets were only partially achieved in 
+relation to the continuity of provision of health care 
+for women and children;  the  access to continuous 
+education and, lastly, the provision of child protection 
+and Gender Based Violence (GBV) services.  
+Beyond the varying degree of achievements of the 
+response depending on the sector, one thing is clear: 
+UNICEF worked profusely with a variety of response 
+implementing partners across the country to ensure 
+the equity of  their interventions. In particular, UNICEF worked hard to focus the response on the 
+prevention and mitigation of the secondary impacts of the pandemic amongst the most vulnerable 
+population groups (boys, girls, adolescents and their caregivers), mainly in the areas of education, WASH 
+and social protection.   
+The design of UNICEF-supported activities  implemented as part of the COVID-19 response responded 
+to the country’s needs. The UNICEF response plan, for instance, was based on the orientations received 
+from the UN and the information collected during its consultations with the governmental partners, 
+mainly the Ministry of Health. The response was also aligned with the 2020 WHO Global Strategic 
+Response Plan (SRP) and the 2020 UNICEF COVID-2019 Humanitarian Action for Children (HAC) appeal,  
+which identified a list of key pillars for the response. That said, no contingency plan was developed by 
+the Country Office or the UN office in the country at any point. Moreover, the lack of prior  experience 
+amongst the Country Office staff in dealing with a humanitarian crisis and the lack of training on 
+emergency response procedures represented a challenge during the response planning process.  
+Although no specific studies were conducted on the national impact of COVID-19 at the onset of the 
+crisis, the CO worked closely with national partners to ensure that their interventions be based on an 
+adequate needs and risk assessment. The signalling of street children and adolescents in Sao Tome is a 
+good illustration of that.  
+The UNICEF response to COVID-19 allowed the country to learn more about how to respond to a crisis 
+response and led to capacity development in this area. Learning opportunities included the piloting of 
+new emergency response models and approaches, especially in new areas that were not a priority 
+before, such as distance learning. 
+However, two key challenges  were observed during the implementation of the response: the lack of 
+monitoring capacity, which would have been useful to track the effectiveness of the response 
+interventions over time (mostly in schools); and the excessive time required to procure essential 
+supplies during both the preparedness and response phases. The lack of specialized technical support 
+to strengthen some of the sectoral response programs; and the lower-than-expected NGOs capacity in 
+Figure 1.. A young girl collects water on a public tap in 
+Roça Diogo Vaz (@UNICEF/2020) 
+
+7 
+ 
+the field to respond to the emergency, were some additional  factors hindering the successful 
+attainment of the response envisaged results. 
+One of the evaluation conclusions is that the positive impact of the COVID-19 response on the lives of 
+children and their communities can be enhanced through a closer field monitoring of the health sector 
+and schools’ needs. In this vein,  the provision of protective gears and sanitation materials and 
+equipment for health professionals; as well as the organization of COVID-19 awareness programmes in 
+schools, is particularly desirable. Likewise, the identification of other relevant negative impacts of the 
+epidemic (such as  increased violence against children, sexual abuse, early pregnancy) and the 
+implementation of mitigation measures are particularly important.  
+6. Lessons Learned  
+The main lessons learned by the CO include the following: (i) having a contingency plan developed  in 
+timely manner proves to be a pre-condition for mounting an effective emergency response; (ii) 
+disposing of resources to monitor the progress of the response against its envisaged targets is key to 
+adjusting the course of action and enhancing the impact on the ground; (iii) good relationships and 
+constant dialogue with the national partners facilitate both planning and implementation of an 
+emergency response; (iv) prepositioning critical supplies allows a more effective and timely response to 
+emergency and yet predictable needs;  (v) the diversification of implementing partners in an emergency  
+can hugely affect the timeliness of an emergency response; (vi) evaluating the communication strategy 
+and its reach of an emergency response is relevant to combat misinformation and its harmful effects, 
+and promote behaviour change; (vii) promoting ongoing data collection and digitization of information 
+is very important to be able to take informed decisions for the emergency response; (viii) close field 
+monitoring of response interventions ensures that prevention measures are being implemented and 
+correctly enforced at the local level. 
+7. Recommendations  
+The main action points for the strengthening of the COVID-19 in the future at the CO level, which were 
+discussed by the UNICEF CO in Sao Tome and its relevant in-country partners and which will serve as 
+the basis for the development of the management response,  include the following: (i) To improve data 
+collection in the different health, education and social protection sectors to inform response; (ii) To 
+scale up the prevention measures and sensitization already put in place in the education sector; (iii) To 
+introduce an emergency preparedness and a contingency plan into Country Program Documents (CDPs) 
+and workplans; (iv) To strengthen the CO’s internal capacity in emergency management; (v) To 
+strengthen the social protection work, through better identification of the most vulnerable children, 
+that are especially affected during the pandemic; (vii) To conduct more rapid evaluations of each 
+sectoral program (with a focus on results and process) in order to better understand what the next steps 
+of the response should be; (viii) To find alternatives for supplies that comes from abroad, through the 
+procurement of  local goods and the recruitment of in-country consultants/resource persons.  
+Some action points for both the CO and the country and the Regional Offices include: (i) To increase CO 
+capacity for monitoring of COVID indicators through the provision of further tools and training that 
+would allow for better sectoral monitoring ; and (ii) To support the CO in identifying  mechanisms for 
+pre-positioning of supplies to facilitate the emergency response. 
+A more detailed description of the recommendations could be found in the corresponding section 
+included in the main body of the report.  
+ 
+
+8 
+ 
+1.   Introduction  
+ 
+After the outbreak of COVID-19 in Sao Tome and Principe in early 2020, the UNICEF Country Office 
+committed to contributing to the national response to prevent the pandemic, in alignment with the UN joint 
+multi-sectoral COVID-19 response strategy and the national Ministry of Health contingency plan. The 
+objective of such support was to minimize the humanitarian consequences of the pandemic, by 
+implementing a two-pronged strategy: 
+1. Addressing the emerging health care needs, implementing a new risk communication strategy and 
+providing the affected population groups with better access to WASH services in the immediate 
+term. Overall, against a total  population of approximately 200,000 people, STP  has recorded 1142 
+confirmed cases of COVID-19 with 17 deaths3 and 995 recovered cases between March 2020 and 
+January 2021.  
+2. Mitigate the socio-economic impacts of the pandemic in the medium and long term. With respect 
+to this last point, it is worth noting that, according to the International Monetary Fund (IMF), the 
+COVID-19 pandemic had a severe impact on the economy of São Tomé and Príncipe, with GDP 
+dropping 6% in 2020 due to weak external demand and containment measures4. It is worth noting 
+that the island is highly dependent on external aid and is currently experiencing disruption of 
+economic and social activities, such as tourism.   
+More specifically, the UNICEF contribution to the COVID-19 response in Sao Tome and Principe included the 
+following  interventions in different sectors: (i) supporting the Ministry of Health with the provision of 
+protective equipment; (ii) supporting the Ministry of Education in the installation of handwashing facilities 
+in schools; (iii) providing technical and financial assistance to enhance the effectiveness and coverage of the 
+response; (iv) contributing to the development and dissemination of a national communication strategy 
+focusing on COVID-19 prevention messages aimed at all families and communities within the country.  
+ 
+UNICEF was not the only UN agency to response to the pandemic. The United Nations System as a whole, 
+through the UN Joint Multi-Sectoral Response to COVID-19 Strategy, has been rather instrumental in 
+supporting the government to better face  this crisis. The UN agencies, namely the United Nations 
+Development Programme (UNDP), the United Nations Population Fund (UNFPA) and UNICEF, with the 
+coordination of the World Health Organization (WHO), led interventions in the field of health and 
+contributed to limiting transmission and reduce morbidity and mortality. In addition, the UN system 
+supported the mobilization of resources to ensure the implementation of the planned activities to mitigate 
+socio-economic impact, in partnership with the government. 
+In order to understand how STP managed to respond to the pandemic, the UNICEF Regional Office for West 
+and Central Africa (WCARO) commissioned a Real Time Evaluation (RTE) on  the UNICEF ongoing COVID-19 
+response. The RTE, funded by UNICEF’s Office of Emergency Programmes (EMOPS), was launched 
+simultaneously in 5 other countries in the region (Ivory Coast, Gabon, Mauritania, Democratic Republic of 
+Congo and Chad) in October 2020. 
+ 
+Not long after the onset of the COVID-19 in STP  in March 2020, a state of emergency was declared by the 
+government on 17th March 2020, enabling the government to take restrictive measures to prevent and 
+combat the pandemic. The government then prepared a contingency plan that aimed to “(i) reduce the 
+transmission, mortality, and socio-economic impact of COVID-19 nationwide; and (ii) ensure adequate 
+protection of both the country’s population and environment5.” The first measures adopted were of  
+sanitary and preventive nature and aimed at preventing the virus from entering the country. Subsequently,  
+ 
+3 Source: https://covid19.who.int/region/afro/country/st  
+4Source:https://www.lusa.pt/article/LBs1j_HJCybqlv76YYvSAjMSZM5iuSI1/covid-19-pandemia-atrasou-reformas-em-s%C3%A3o-tom%C3%A9-e-
+pr%C3%ADncipe-mas-programa-de-ajuda-%C3%A9-est%C3%A1vel-fmi    
+5 Terms of Reference, RTA COVID19, Sao Tome and Principe, September 2020. 
+
+9 
+ 
+after confirming the existence of the first few positive cases in the country, the focus shifted towards fighting 
+and controlling the spread of the virus within the country’s population.  
+ 
+Testing capacity and technical skills amongst Ministry of Health staff gradually increased, thanks to the roll 
+out of ad hoc capacity building activities, the distribution of protection  gears for medical teams and, finally, 
+the installation of a field hospital and PCR tests laboratory in the country’s capital.  
+ 
+Such interventions were all the more needed given the country’s health system is rather weak, with 
+shortages in both health professionals, and hospital beds6.  Furthermore, structural deficiencies in other 
+response key sectors affected the rapidity and effectiveness of the response (e.g., on the WASH front,  the 
+majority of schools lacked access to water and basic hygiene conditions, just like the majority of the 
+country’s population7).  In addition, some of the other constraints that were identified during the first 
+months of pandemic  and that affected the response included the following: the limited capacity of suppliers 
+to respond to the increasing demand for medical equipment, testing and prevention and individual 
+protection materials, as well as the difficulties in transporting the equipment due to border closures.  
+ 
+As of January 2021, low incidence of COVID-19 has been recorded in the country for several months. 
+ 
+2. Evaluation Purpose    
+ 
+The RTE has a distinct purpose: to promote a forward-looking reflection and generate strategically and 
+operationally relevant learning on the current implementation of the UNICEF response to COVID-19, 
+specifically in Sao Tome and Principe in this case. This is expected, among others, to: (i) improve the 
+adaptations of the response based on both the populations’ emerging needs and changes in context; and 
+(ii) increase the quality and effectiveness of the response on the ground. The learning that this evaluation 
+is expected to generate aims to inform the decision-making of a variety of users: not only the UNICEF 
+Country Office (CO) in Sao Tome and Principe (STP) but also the country’s Ministry of Health and other line 
+ministries with a vested interest in the COVID-19 response, as well as other development partners.  
+ 
+3. Evaluation Objectives 
+ 
+The objectives of the RTE include a rapid assessment of the following: 
+- 
+“The effects that the COVID-19 pandemic had on basic services, particularly for the most vulnerable 
+population and of activity initiated as a response to COVID-19; 
+- 
+The implications of the COVID-19 response on UNICEF’s regular/pre-COVID programme delivery; and  
+- 
+The quality of the related delivery; while also providing early insights on the outcomes achieved”8. 
+ 
+The RTE identified a few lessons learned during the response, which could also be of benefit to other 
+countries in the region. Furthermore, the RTE put forward some action points for the UNICEF CO 
+consideration so as to enhance its contribution to the national COVID-19 response in the short- and 
+medium-term.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 UNICEF Sao Tome and Principe Covid-2019 2020 Response Plan.  
+7 UNICEF Sao Tome and Principe Covid-2019 2020 Response Plan. 
+8 Terms of Reference, RTA COVID19, Sao Tome and Principe, September 2020. 
+
+10 
+ 
+4. Evaluation Scope   
+ 
+4.1. Thematic scope 
+The RTE mainly focused on the UNICEF’s public health response and the early stages of the socio-economic 
+response.  
+ 
+4.2. Geographic scope 
+The RTE looked at the COVID-19 response implemented at the national level. While the program document 
+review and the interviews with the key actors of the response at the central level focused on the whole 
+country, the field work concentrated on the two purposefully selected districts of Água Grande and Caué9.  
+ 
+4.3 Chronological scope 
+The RTE focused on all the response activities implemented between February and November 2020. 
+ 
+5. Evaluation Criteria and Questions   
+ 
+In line with its learning purpose and the evaluation strategy of the response to COVID-19 in the rest of the 
+region, the evaluation was guided by the three following criteria: adaptability, effectiveness and efficiency 
+of implementation; and quality. Although these criteria are not the OECD-DAC criteria, their content de 
+facto overlaps with that of some OCED-DAC criteria (it is the case of the section overarching evaluation 
+question that ended up covering, among others relevance and equity questions).  The relevance of the 
+selected evaluation criteria is all the greater as they were agreed upon in a participatory manner by UNICEF 
+and the other evaluation’s expected users, namely the Ministry of Health and other line ministries with a 
+vested interest in the COVID-19 response, as well as the other development partners.  
+The evaluation also tried to address four overarching questions spelled out in the ToR (see Annex) that were 
+jointly developed by the Evaluation Office and the Regional Office as part of the multi-country evaluation of 
+the COVID-19 response in the West and Central African region (WCAR).  Each one of the 4 questions served 
+as the basis for the development of other specific evaluation sub-questions. 
+ 
+As a result of all the data collection and analysis, evaluation was also tasked with the identification of 
+emerging conclusions/lessons learned and the formulation of tailored recommendations geared towards 
+the strengthening of the in-country response to the COVID-19 pandemic.  
+ 
+Three overarching questions 
+ 
+Overarching questions 
+Evaluation Criterion 
+formally retained  
+Sub-questions 
+How well is the CO adapting 
+to 
+the 
+needs 
+of 
+the 
+population, 
+including 
+the 
+socio-economic impact of 
+the pandemic? How have 
+these 
+needs 
+been 
+determined in each country?  
+Adaptability 
+▪ 
+How did the STP CO adapt to the COVID-19 epidemic, 
+lockdown and remote working? 
+▪ 
+How did it adapt to the needs of the population over 
+time, including the socio-economic impact of the 
+pandemic?  
+▪ 
+To what extent did it adopt new and different 
+approaches, by filling gaps, and seeking local 
+solutions? 
+How effectively is the CO 
+implementing the response 
+to COVID-19 so far? How is 
+Effectiveness and 
+Efficiency of 
+Implementation 
+▪ 
+Effectiveness of the UNICEF response to COVID-19 in 
+the country. 
+ 
+9 The selection of the districts was supported by the country office and based on the fact that Água Grande is the most central and wealthiest 
+district, while Caué is one of the most remote districts and with the highest levels of poverty in the country.   
+
+11 
+ 
+the quality of the response to 
+COVID-19 being affected by 
+remote working modalities 
+and 
+the 
+generally 
+constrained 
+operating 
+environment?  
+ 
+o 
+Extent to which UNICEF has been able to 
+contribute to offsetting the negative effects 
+of the pandemic on access to basic services 
+[ensuring coverage and scale-up]. 
+o 
+UNICEF’s success in reaching the most 
+vulnerable segments of the population and 
+ensuring equity. 
+o 
+How has UNICEF been able to meet 
+programming standards and protocols? 
+o 
+To what extent has UNICEF been able to 
+ensure/sustain 
+community 
+engagement/AAP mechanisms? 
+▪ 
+How has the CO utilized preparedness and 
+contingency planning during COVID-19 response? 
+▪ 
+To what extent has the CO revised COVID-19 response 
+plan been based on the population’s  evolving needs? 
+▪ 
+What is known about the needs in the country and 
+how did UNICEF CO determine and verify these needs? 
+ 
+Quality 
+▪ 
+What we know about the quality of the UNICEF 
+response to COVID-19 in the country. 
+o 
+The effects of the crisis and related 
+constraints on lockdown and movement 
+upon UNICEF’s ability to deliver quality. 
+o 
+How has the UNICEF CO ensured the quality 
+of the response and put in place processes 
+and  monitoring systems used to ensure 
+quality? 
+ 
+ 
+Two Additional Questions 
+ 
+What are the early lessons (for 
+CO/RO/HQ) that are emerging 
+from the implementation of 
+the response? What are the 
+emerging positives from the 
+response? and what have been 
+the greatest challenges in 
+responding to COVID-19 so far? 
+Are there discernable trends 
+that are applicable to different 
+settings (i.e. urban/rural; low-
+resource/high-resource 
+settings etc.)? 
+Emerging 
+Themes/Conclusions 
+▪ 
+The emerging positives on UNICEF’s performance in 
+the COVID-19 response in the country. 
+▪ 
+The challenges encountered in the country from 
+UNICEF’s 
+implementation 
+of 
+the 
+COVID-19 
+response. 
+▪ 
+Medium to long-term implications for vulnerable 
+children and their communities in focal countries, 
+and implications for UNICEF’s strategy and action in 
+the medium to long term. 
+▪ 
+(Re)focusing UNICEF’s programming to reach 
+vulnerable children in the medium to long term [e.g. 
+to include additional/new opportunities; need to act 
+differently or transform, etc).   
+ 
+What more should be done? 
+What 
+should 
+be 
+done 
+differently to enhance COVID-
+19 response programming for 
+children 
+and 
+their 
+communities?  
+ 
+Lessons/Suggested 
+Action Points 
+ 
+N/A

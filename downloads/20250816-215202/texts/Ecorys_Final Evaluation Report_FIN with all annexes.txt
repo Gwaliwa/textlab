@@ -1,0 +1,520 @@
+Evaluation of UNICEF Lebanon 
+Education Programme (2016-2022) 
+ 
+Final evaluation report submitted by Ecorys Polska Sp. z o.o. 
+12 November 2023 
+
+/ 2 
+THIS IS A RUNNING HEADER 
+Authors 
+Joanna Smętek, Magdalena Kolczyńska, Paweł Hess, Aleksandra Skoczylas, Anna Sekuła, 
+Katarzyna Forska-d’Hondt 
+Quality Assurance 
+Agnieszka Makulec  
+Core evaluation team 
+Agnieszka Makulec (Team Leader), Joanna Smętek (Deputy Team Leader), Paweł Hess 
+(Evaluation Expert) 
+Country experts 
+Hiba Daher, Farah Barakat  
+Acknowledgements 
+The core team is grateful to the UNICEF Lebanon Country Office for their continuous support, 
+especially Justus Kamwesigye and Tamara Nassereddine for their management of this 
+evaluation and the Education Section staff for generously sharing their views with us. We would 
+like to thank the Lebanese Ministry of Education and Higher Education for supporting the 
+team’s access to Lebanese public schools. We thank all those who participated in interviews 
+and focus group discussions providing invaluable inputs and guidance. This includes 
+representatives of donor institutions, international organizations, international non-
+governmental organizations, Lebanese non-governmental organizations and local authorities. 
+We are particularly grateful to school principals, teachers and parents for giving us their time 
+and contributing to this evaluation during school visits conducted by country experts.  
+ 
+This is a publication by the independent evaluation team of Ecorys Poland. The analysis and 
+recommendations of this report do not necessarily reflect the views of UNICEF. 
+ 
+
+/ 3 
+ 
+Table of Contents 
+List of abbreviations ............................................................................................. 6 
+List of tables and figures ..................................................................................... 7 
+Executive Summary .............................................................................................. 8 
+1.0 Introduction ................................................................................................ 19 
+1.1 
+Background ........................................................................................................... 19 
+1.1.1 Syrian war ........................................................................................................ 19 
+1.1.2 Economic downturn ......................................................................................... 19 
+1.1.3 Beirut blast ....................................................................................................... 20 
+1.1.4 COVID-19 ........................................................................................................ 21 
+1.1.5 Characteristics of the Lebanese education system .......................................... 22 
+1.2 
+Description of the intervention .............................................................................. 23 
+1.2.1 Rationale behind the Education Programme implementation ......................... 23 
+1.2.2 UNICEF Lebanon Education Programme ....................................................... 24 
+1.2.3 Evolution of the Education Programme over the years ................................... 26 
+1.2.4. Transition Resilience Education Fund (TREF) ................................................ 27 
+1.3 
+Purpose, scope and objectives of the evaluation ................................................. 30 
+1.3.1 Purpose 30 
+1.3.2 Specific objectives ........................................................................................... 30 
+1.3.3 Equality and inclusion lens .............................................................................. 30 
+1.3.4 Phases, tasks and core deliverables ............................................................... 31 
+1.3.5 Temporal and geographical scope .................................................................. 31 
+1.3.6 Evaluation users .............................................................................................. 31 
+2.0 Methodology and approach ....................................................................... 32 
+2.1 
+Overview of the methodology ............................................................................... 32 
+2.2 
+Limitations ............................................................................................................. 33 
+3.0 Findings ...................................................................................................... 35 
+3.1 
+Relevance ............................................................................................................. 35 
+3.1.1 How aligned is UNICEF’s education programme with global priorities? ......... 35 
+3.1.2 How relevant is the UNICEF education programme and its interventions to the 
+country context? .............................................................................................. 36 
+
+/ 4 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021
+3.1.3 How relevant is the UNICEF education programme to government priorities?
+ 
+42 
+3.1.4 Were the mechanisms and approaches applied in the programme relevant for 
+achievements of the objectives? What other mechanisms and approaches 
+could UNICEF have used to achieve its programme objectives, i.e., working 
+differently and working on different things? ..................................................... 43 
+3.1.5 How relevant is UNICEF’s programme in addressing inherent equity gaps – 
+taking into consideration any disparities? ....................................................... 44 
+3.1.6 To what extent has UNICEF been able to adapt its programme to changes in 
+needs and priorities caused by changing in country context, Covid-19, and 
+socio economic and financial crisis? ............................................................... 46 
+3.2 
+Effectiveness ......................................................................................................... 47 
+3.2.1 To what extent was UNICEF support effective in achieving its intended results, 
+on the following levels: the overall expected outcome of UNICEF Education 
+programme; the contribution to the broader education goals; results at national 
+and regional levels, in all areas of focus? ....................................................... 47 
+3.2.2 Was the UNICEF programme implemented as originally planned in the 
+Programme Strategy Notes (PSN)? To what extent the initial assumptions 
+were followed? ................................................................................................. 60 
+3.2.3 What unintended consequences or effects did UNICEF support to the 
+education programme have, both positive and negative? .............................. 65 
+3.2.4 In what ways and to what extent has the UNICEF education programming 
+integrated an equity-based approach into the design and implementation 
+during the implementation? ............................................................................. 68 
+3.2.5 Does the UNICEF education programming actively contribute to the promotion 
+of the right to education, especially for the most vulnerable? ......................... 69 
+3.2.6 In what ways and to what extent has the UNICEF education programme been 
+gender responsive or transformative? ............................................................. 71 
+3.3 
+Efficiency ............................................................................................................... 72 
+3.3.1 To what extent were UNICEF activities delivered in a timely manner, within the 
+planned monetary resources allocated? ......................................................... 72 
+3.3.2 Did UNICEF have appropriate structures, and adequate resources (technical 
+and financial) to deliver its education programme? If there were any 
+lack/problem in resources/capacity, how was this addressed? ...................... 75 
+3.3.3 To what extent was UNICEF able to effectively collaborate and coordinate 
+externally with key stakeholders, and leverage existing partnerships? .......... 76 
+3.3.4 Were there any inefficiencies because UNICEF did not work with certain 
+partners (or if UNICEF only worked with the same set of partners)? .............. 77 
+3.3.5 Were appropriate monitoring and financial accountability mechanisms in 
+place? 
+77 
+3.3.6 To what extent are social and gender disaggregated data collected and 
+monitored during the programming? How efficiently did UNICEF respond to 
+equity-based challenges? ................................................................................ 78 
+3.4 
+Coherence ............................................................................................................. 79 
+3.4.1 How does UNICEF’s work fit with the work of external partners (global 
+partners, regional partners, government, partner programs/interventions)?... 79 
+3.4.2 How does UNICEF Education programme align with/fit with other interventions 
+being carried out by UNICEF? ........................................................................ 83 
+
+/ 5 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021  
+3.4.3 How does UNICEF Education programme support coordination at MEHE to 
+ensure complementarity and reduce duplication? ........................................... 84 
+3.5 
+Impact.................................................................................................................... 85 
+3.5.1 What has been so far the impact of the UNICEF Education to the overall 
+education sector in Lebanon? Has UNICEF been able to leverage its impact 
+e.g., by attracting other partners (private, public, or other donors)? ............... 85 
+3.5.2 What approaches have the potential for further upscaling through work of 
+UNICEF and its partners? ............................................................................... 86 
+3.6 
+Sustainability ......................................................................................................... 86 
+3.6.1 What are the key barriers and bottlenecks towards achieving sustainability of 
+UNICEF education programming? What are contributing factors and 
+constraints that require attention to improve prospects of sustainability of 
+results? 86 
+3.6.2 To what extent have UNICEF support programs been embedded in 
+government programs? What are the interventions which were costed and 
+advocated with the government? .................................................................... 89 
+4.0 Lessons learned, conclusions and recommendations ........................... 91 
+4.1 
+Lessons learned .................................................................................................... 91 
+4.2 
+Conclusions ........................................................................................................... 91 
+4.2.1 Overarching conclusions ................................................................................. 91 
+4.2.2 Conclusions on access to education ............................................................... 92 
+4.2.3 Conclusions on the quality of education .......................................................... 93 
+4.2.4 Conclusions on system-strengthening ............................................................ 94 
+4.3 
+Recommendations ................................................................................................ 95 
+4.3.1 System-level recommendations ...................................................................... 95 
+4.3.2 Program-level recommendations .................................................................... 96 
+5.0 Annexes .................................................................................................... 100 
+Annex 1: Evaluation Matrix ........................................................................................................ 100 
+Annex 2: Bibliography ................................................................................................................ 105 
+Annex 3: Observation report ...................................................................................................... 108 
+Annex 4: Site visits .................................................................................................................... 109 
+Annex 5: Terms of reference ......................................................... Error! Bookmark not defined. 
+Annex 6: Ethical protocol ............................................................... Error! Bookmark not defined. 
+Annex 7: Data collection tools ....................................................... Error! Bookmark not defined. 
+ 
+ 
+
+/ 6 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021
+List of abbreviations 
+ALP  
+Accelerated Learning Programme 
+BLN 
+Basic Literacy and Numeracy 
+CERD 
+Center for Education Research and Development 
+CWD 
+Children With Disabilities 
+CWD 
+Children With Disabilities 
+DOPS 
+Department d’Orientation Pédagogique et Scolaire 
+ECW 
+Education Cannot Wait 
+EMIS 
+Education Management Information System 
+FE 
+Formal Education 
+GDP 
+Gross Domestic Product 
+GoL 
+Government of Lebanon 
+HRW 
+Human Rights Watch 
+IE 
+Inclusive Education 
+KfW 
+German Development Bank 
+LBP 
+Lebanese Pound 
+LCO 
+UNICEF Lebanon Country Office 
+LCO-EP 
+UNICEF Lebanon Education Programme 
+LD 
+learning difficulties 
+MEHE 
+Ministry of Education and Higher Education 
+MSCC 
+Multi-Service Community Center 
+NFE 
+Non-Formal Education 
+NGO 
+Non-Governmental Organization 
+PITB 
+Pre-service and In-service Training Bureau 
+PMU 
+Project Management Unit 
+PMU 
+Project Management Unit 
+PSN 
+Programme Strategy Notes 
+PSS 
+Psychological support 
+QITABI 
+Quality Instruction Towards Access and Basic Education Improvement 
+RACE 
+Reaching All Children with Education 
+REM 
+Ripple Effects Mapping 
+S2R2 
+Support to Race II 
+SDG 
+Sustainable Development Goal 
+SEND 
+special educational needs or disabilities 
+SIMS 
+School Information Management System 
+SMB 
+Strategic Management Board 
+TMS 
+Training Management System 
+TREF 
+Transition Resilience Education Fund 
+TTCM 
+Teacher Training Curriculum Model 
+UNCRPD 
+United Nations Convention on the Rights of Persons with Disabilities 
+UNESCO 
+United Nations Educational, Scientific and Cultural Organization 
+UNHCR 
+Office of the United Nations High Commissioner for Refugees 
+USD 
+United States Dollar  
+VASyR 
+Vulnerability Assessment of Syrian Refugees 
+ 
+ 
+
+/ 7 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021  
+List of tables and figures 
+Table 1 UNICEF’s interventions in response to the Beirut blast and COVID-19 ............................................. 26 
+Table 2 Number of non-Lebanese students (aged 03-18) enrolled in formal education (Gross 
+Enrolment Rate) Green indicates target achieved and red – target not achieved. .................. 49 
+Table 3 Number of Lebanese students (aged 03-18) enrolled in formal education (Gross Enrolment 
+Rate).......................................................................................................................................... 50 
+Table 4 Trends in enrolment in MEHE public schools 2016-2021 .................................................................. 50 
+Table 5 Assessment of programme implementation against the Programme Strategy Note ......................... 60 
+Table 6 Change in funding from 2018 to 2022, funded amount, % year-on-year ........................................... 74 
+Table 7 Example of UNHCR interventions ...................................................................................................... 81 
+Table 8 Basic information about QITABI ......................................................................................................... 81 
+ 
+Figure 1 Dimensions for data collection and analysis ..................................................................................... 30 
+Figure 2 Overall evaluation implementation approach .................................................................................... 33 
+Figure 3 TREF timeline .................................................................................................................................... 41 
+Figure 4 Pillar I: Improved access to education opportunities funding from 2018 to 2022, USD .................... 73 
+Figure 5 Pillar II: Improved quality of education services funding from 2018 to 2022, USD ........................... 73 
+Figure 6 Pillar III: Improved education systems funding from 2018 to 2022, USD.......................................... 74 
+ 
+ 
+
+/ 8 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021
+Executive Summary 
+About the evaluated programme 
+UNICEF Lebanon Education Programme consists of three pillars, equivalent to those of RACE II. It aims at 
+supporting education services that respond to the needs of the most vulnerable children and adolescents in 
+Lebanon. It consists of three pillars: (I) Improve access to public education; (II) Improve quality of public 
+education; (III) Improve the governance of public education. The pillars are articulated around specific 
+outcomes, indicators and targets. These were to be achieved through a plethora of activities, such as subsidies 
+for formal and non-formal education, transportation assistance, education supplies, textbooks, hygiene 
+supplies, community outreach and engagement, and cash for well-being as well as school rehabilitation and 
+construction (in the context of the Beirut blast).  
+Evaluation methodology 
+The evaluation followed a theory-driven design and a mixed-methods data collection and analysis approach. 
+quantitative component, the evaluation relied on the identified statistical data already available.  
+For the qualitative component, desk research and primary qualitative data collection was conducted at the 
+national and regional levels. The latter included individual interviews (IDIs) and focus group discussions 
+(FGDs) at the national level, as well as deep dives during local field visits in schools. These deep dives involved 
+both IDIs and FGDs, as well as Ripple Effects Mapping (REM) sessions and observations. 
+At the national level 29 IDIs were conducted with 34 people representing UNICEF and other UN agencies, 
+donors and the Lebanese government. Two focus groups were also carried out with representatives of NGOs, 
+with 10 people overall.  During local fieldwork, 8 schools were visited. These were selected based on criteria 
+such as geographic distribution, refugee population in the area, participation in the Inclusive Schools Pilot or 
+school rehabilitation/reconstruction activities, type of school (boys, girls, mixed). Overall, country experts 
+conducted: 8 IDIs with school principals; 8 REM sessions with 44 teachers, including 41 women and 3 men; 8 
+FGDs with 50 parents, including 39 women and 11 men, 33 Lebanese and 17 non-Lebanese; Observations 
+on school premises with a filled-out observation sheet; 6 IDIs with local authorities. 
+Findings  
+Relevance 
+UNICEF's education program in Lebanon (LCO-EP) is strongly aligned with global priorities. It adheres 
+to international human rights standards, particularly the United Nations Convention on the Rights of the 
+Child (UNCRC) and the Convention on Elimination of All Forms of Discrimination Against Women (CEDAW). 
+The program's focus on gender parity corresponds with SDG 4's objective to provide inclusive and quality 
+education for all. The program is also consistent with UNICEF’s broader mandate, emphasizing core 
+commitments to children and the Strategic Plan for 2022-2025, which promotes quality learning opportunities 
+inclusive of modern skills like digital competency. Furthermore, the LCO-EP is in harmony with the Lebanon 
+Crisis Response Plan (LCRP), emphasizing equitable access to basic services. On a grassroots level, 
+Lebanese parents, regardless of origin, underscore the significance of education as a protective factor for their 
+children, especially amidst the country's ongoing challenges. 
+The programme is crucially relevant to Lebanon's context, particularly in addressing the multifaceted 
+challenges the country faces in its education sector. UNICEF has recognized access to education as 
+
+/ 9 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021  
+vital, given the increased migration of Syrian families and the compounded vulnerabilities that subsequent 
+crises brought to both Syrian refugees and Lebanese communities. Although the subsidization of enrolment 
+for Syrian children is relevant, there have been discussions about its effectiveness in retaining students, 
+suggesting a focus on attendance might be more effective. UNICEF recognized the need to intensify non-
+formal education (NFE) initiatives, especially to aid Syrian children who might be entering the education system 
+for the first time. However, transitioning from NFE to formal education (FE) has proven to be a challenge, partly 
+due to external factors such as political priorities. Though some stakeholders are uncertain about UNICEF's 
+exact role in improving education quality, its primary focus appears to be on ensuring equality, inclusion, and 
+child protection, as opposed to solely academic outcomes, which is in line with UNICEF’s mandate and local 
+needs.  
+LCO-EP aligns closely with the country's official education priorities, as articulated in the 5-Year 
+General Education Plan 2021-2025 and previously in RACE I and II. However, there seems to be an 
+ambiguity in differentiating LCO-EP from RACE I and II among respondents, indicating a potential 
+communication gap within the organization. While policy alignment exists in theory, practical alignment 
+diverges, especially concerning the integration of refugees. Political reluctance is rooted in concerns about 
+demographics and power dynamics in the country. The strong anti-refugee sentiment in society and the 
+government's reluctance to adopt relevant reforms present challenges for UNICEF. Interviewees believed that 
+UNICEF should exert more pressure on the MEHE, leveraging its long-standing relationship and in-depth 
+knowledge of Lebanon's education system to advocate for systemic reforms, ensuring sustainability and self-
+sufficiency in education.  
+In addressing inherent equity gaps in Lebanon, UNICEF has actively sought to support the most 
+vulnerable groups, including Syrian refugees and children with special educational needs and 
+disabilities. Notably, UNICEF launched the Inclusive Education Pilot Project in 2018, targeting learners with 
+disabilities, particularly those with learning difficulties. UNICEF's financial support in Lebanon's education 
+sector, including covering operational costs, subsidizing enrolment, and providing cash assistance to 
+vulnerable children, has been largely praised for increasing enrolment rates, especially during crises like the 
+Beirut Blast and the COVID-19 pandemic. In comparison, UNICEF's efforts to improve education quality, such 
+as organizing teacher training sessions, have faced scrutiny due to challenges in measuring their impact. 
+Concerns were also raised about the proportion of results achieved relative to the funding provided. 
+In response to the changing Lebanese context, marked by political instability, the Beirut Blast, COVID-
+19, and economic downturns, UNICEF has exhibited significant flexibility in tailoring its activities. Key 
+initiatives included covering the majority of operational school costs to ensure educational continuity during 
+the economic crisis and devising a Learning Continuity Plan as a safeguard against potential teacher strikes. 
+After the Beirut Blast, UNICEF immediately supported the rehabilitation of schools, replaced damaged 
+infrastructure, and facilitated both financial and psychological assistance to affected children and families. In 
+relation to mental health, there were noted inconsistencies in the presence and effectiveness of PSS 
+(Psychosocial Support) counsellors across schools, revealing a pressing need for comprehensive 
+psychological support for students in both shifts. During the COVID-19 pandemic, UNICEF provided non-
+formal education tools, hygiene materials, and collaborated with MEHE to devise a remote learning strategy, 
+ensuring continued access to education. Some stakeholders, however, expressed concerns that UNICEF's 
+emergency-centric approach detracted from their focus on core educational interventions, suggesting a need 
+for a more sustainable long-term approach to emergencies. 
+Effectiveness  
+LCO-EP operated in a highly volatile political and social climate, impacting the achievement of initial 
+goals and necessitating modifications. Constant adaptation to current circumstances was required, with a 
+
+/ 10 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021
+focus on addressing emerging issues instead of sticking to the original objectives. Significant challenges were 
+encountered in collecting data to monitor progress toward established targets. Reliance on government data 
+with questionable credibility posed a challenge. Inadequate monitoring tools in certain intervention areas 
+impacted alternative data collection. Indicators chosen for tracking progress were not always optimal. 
+UNICEF support was critical for guaranteeing access to education for many vulnerable children in 
+Lebanon. UNICEF's involvement led to a significant decrease in out-of-school non-Lebanese children, 
+especially Syrian refugees, dropping from 49% in 2015 to 31% in 2019. However, the COVID-19 
+pandemic and Beirut's subsequent financial crises reversed this trend and saw an increase in out-of-
+school Syrian children, reaching 47% in 2021. While UNICEF exceeded its support targets for Lebanese 
+children, subsidizing the education of 272,515 in 2021 compared to the projected 149,831, it finally fell short 
+of its goal for non-Lebanese children, assisting 191,398 against a target of 251,474. Transportation subsidies 
+were slightly underachieved due to potential prolonged school closures and declining demand amid crises. 
+Distributing free textbooks was a significant achievement, benefiting over 506,000 students in 2021. However, 
+in 2022, this type of support was notably reduced, which was a major concern voiced by school communities 
+during their fieldwork. On infrastructure, UNICEF has initiated rehabilitation works for several schools and 
+plans to construct new ones, although some challenges have caused delays. Field reports praise UNICEF's 
+renovation efforts but also highlight concerns about the quality of some works undertaken and certain 
+maintenance problems. 
+The effectiveness of UNICEF activities in improving the quality of education remains ambiguous due 
+to a lack of reliable data. Progress has been observed in certain intervention areas; however, there is 
+still no visible improvement in students' learning outcomes. UNICEF's involvement in improving 
+education quality primarily focused on teacher training, including through the Teacher Training Curriculum 
+Model (TTCM), with positive feedback from participants and positive changes in teachers' attitudes observed 
+during fieldwork. Behavioral changes seem to be stronger in the case of teachers' attitudes towards Lebanese 
+students than towards Syrian students. UNICEF, in collaboration with the MEHE, implemented the Child 
+Protection policy and internal and external referral pathways were developed. However, there is a lack of data 
+regarding the number of reported cases and their effective management on the ground. Findings from the 
+fieldwork indicate that school staff is unaware of the existence of referral systems, and reported cases are 
+being addressed at the school level. 
+UNICEF's actions in system strengthening have yet to bear fruit. Limited successes over the evaluated 
+period were also related to the high turnover of MEHE staff. Amid a financial crisis that saw a surge of 
+students from private to public sectors, UNICEF shifted its primary attention to ensuring access to education, 
+sidelining other initiatives such as capacity-building. This pivot was further influenced by frequent staff changes 
+and challenges within MEHE. While the partnership between UNICEF and MEHE produced essential policy 
+frameworks for a better educational environment, its practical implementation rests mainly with MEHE. The 
+introduction of TREF has been a positive step, focusing on crucial education priorities, and recognizing key 
+capacity-building needs of MEHE, especially in transitioning to institutionalized structures such as an IT 
+department. 
+UNICEF's support of the education programme in Lebanon had some unintended consequences, 
+including the reinforcement of a two-shift school system and improvement in quality, but also limited 
+access to some NFE activities. While the two-shift system accommodated the influx of refugee students, it 
+inadvertently reinforced segregation, as most Syrian students were channelled into these second shifts. These 
+schools operate for fewer hours and have teachers on temporary contracts, with a slightly modified curriculum 
+that excludes extracurricular activities. Consequently, students receive what some considered a "second-rate" 
+education. This separation further entrenched prejudiced notions, making integration for Syrian students more 
+challenging. Stakeholders had mixed feelings: some viewed this as a necessary compromise, while others 
+
+/ 11 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021  
+saw it in a more negative light. The work on NFE together with MEHE also brough about some unintended 
+effects. While it led to standardized NFE programs and potential quality improvements, it also imposed stricter 
+entry criteria, effectively sidelining various NGOs and barring numerous children from these educational 
+opportunities. The rigid structure of the NFE system and additional requirements, such as the Accelerated 
+Learning Program (ALP) certificate, further impeded many children from accessing formal education. 
+LCO-EP have seen notable success in the realm of inclusive education for children with disabilities 
+(CWD). Two significant milestones in this area include the creation of the Inclusive Education Policy draft and 
+the National Action Plan on Inclusion, both of which have focused on ensuring equal education opportunities 
+for CWD. The launching of the Inclusive Schools Pilot in 2018 has been particularly influential, nevertheless 
+mainstream schools still remain largely unadopted for children with special educational needs. Though gender 
+disparities are not pronounced in Lebanese education, some challenges still persist. Disparities emerge in the 
+later stages of education, with a slightly higher enrolment of girls in upper grades and a tendency for boys, 
+especially from impoverished backgrounds, to drop out earlier. 
+Efficiency 
+From 2018 to 2022 the LCO-EP funding amounted to $787.3 Mn. Most of the funds were allocated to 
+pillar I – $728.9 Mn (92.6%), with pillar II receiving $39.8 Mn (5.1%) and pillar III – $18.6 Mn (2.4%). Having 
+gained attention from donors, LCO-EP grew until 2019-2020. Since then teachers’ strikes, closed schools, 
+crashing economy have contributed to donor fatigue. Most notable changes in allocations are visible when 
+comparing 2021 and 2022. Pillar III funding decreased from 2018 to 2021, then increased by 576% ($7.9 Mn). 
+Pillar II funding increased by 138% ($6.4 Mn), while pillar I – 14%.  
+Support to education of Syrian refugees was managed by the PMU, while support to education of 
+Lebanese children by the MEHE Directorate General (DG). This set up was not working optimally for all 
+stakeholders because of issues linked to duplication of structures and centralization of functions. In addition, 
+high turnover in positions in both MEHE and UNICEF hindered efficient delivery of LCO-EP. Issues with the 
+transparency and accountability mechanisms in place during the period of the RACE II modality have been 
+identified. Solutions adopted in TREF are viewed as better suited for timely monitoring of results and financial 
+transfers, as well as overall accountability. Interviewees expect that once all mechanisms are implemented, it 
+will be easier for UNICEF to monitor progress and communicate results to donors.  
+There has been challenges with data collection and analysis regarding the programme performance. 
+MEHE has been unable to develop a national data management and analysis framework that would have 
+predictably reported on the health of the public education system (teachers, students). UNICEF has served an 
+interim/supporting role, but data issues have negatively impacted the programme’s monitoring and relevant 
+payments. Integration of databases and development of a uniform, clear and error-free information system 
+should have been a key prerequisite for efficient implementation of LCO-EP. VASyR and the online Inter-
+agency education sector dashboard evidence that social- and gender-disaggregated data are collected.  
+TREF presents a shift in resource management and model of fund distribution aimed at increasing 
+efficiency. Its implementation goes along the restructuring of UNICEF education section and stabilization of 
+human resources. The finances are managed directly by UNICEF and are delivered to recipients, which is 
+viewed as more flexible and adequate in the economic crisis. Stakeholders have a better understanding of 
+where the funding goes, but this also creates an additional administrative burden on UNICEF. At the same 
+time, scarce resources of MEHE limit possible capacity building and transferring tasks (payment distribution, 
+data management). 
+ 
+
+/ 12 
+EVALUATION OF THE UNICEF LEBANON EDUCATION PROGRAMME 2016-2021
+Coherence 
+The LCO-EP demonstrates an ability to align with varying priorities among donors and stakeholders, 
+encompassing different educational pillars, sectors, and target groups. Its broad scope acts as a 
+beneficial factor, allowing LCO-EP to serve as a hub for coordinating educational investments and activities. 
+However, coherence is somewhat diminished when it comes to NFE. Multiple interventions are conducted 
+nationwide by different entities, leading to fragmented resources and increased coordination needs. 
+Additionally, there is ambiguity for donors regarding how TREF’s window II aligns with their priorities, as its 
+conceptual framework remains undefined. 
+UNICEF's initiatives under the LCO-EP synchronize effectively with external partners in the 
+educational domain. A noteworthy synergy exists between UNICEF and UNHCR, with the latter focusing on 
+community-level actions and the former having a more centralized approach. UNHCR enhances the 
+implementation and impact of UNICEF's work in the access domain. Collaborations with the QITABI program 
+and UNESCO further highlight the focus on education quality and system strengthening, although a call for 
+better coordination is evident to maximize synergy. In future initiatives, UNICEF's association with the World 
+Bank could be pivotal, especially in advocacy and strategic reforms. While UNICEF is recognized for its 
+leadership in access to education, it could redefine its quality focus towards themes like equality, diversity, and 
+inclusion, considering the presence of other influential players, such as QITABI and UNESCO, in the 
+educational outcomes domain. 
+Impact 
+The LCO-EP's impact on educational quality is debated. The education system has grown more 
+inclusive and equitable, with many non-Lebanese children receiving formal education for the first time. 
+However, the tumultuous political and economic climate in Lebanon posed challenges to effecting 
+structural changes in the education system. The partnership between MEHE and UNICEF has emphasized 
+inclusivity, especially for CWD. However, the program faced challenges in system strengthening, largely 
+managing the LCO-EP independently due to high staff turnovers at MEHE. This resulted in a parallel 
+management structure that may not be sustainable long-term. Some data suggest a decline in educational 
+outcomes between 2016 and 2019, while others highlight the promise of the TTCM introduced by UNICEF and 
+CERD. 
+UNICEF’s most pronounced strength is its capacity to offer educational access to vulnerable 
+populations, particularly Syrian refugees. UNICEF's multidimensional approach, which involved partnering 
+with the government to craft suitable educational pathways for non-Lebanese children and directly addressing 
+barriers refugees face, e.g. high enrolment fees and transportation challenges, was effective. If not for the 
+persistent crises, it is probable that Syrian children's enrolment in Lebanese schools would have continuously 
+risen. Stakeholders also commend UNICEF's initiatives regarding child protection policy and programme 
+development, recommending their expansion nationwide. Several innovative initiatives were also introduced 
+by LCO-EP in 2022, such as remote learning hotlines and summer schools. Preliminary results from these 
+efforts are promising, but continued observation is crucial to gauge their scalability. 
+Sustainability 
+The sustainability of UNICEF's education programming in Lebanon faces significant challenges, both 
+external and internal. Externally, the country's unstable political and socio-economic environment, 
+characterized by frequent changes in ministerial positions, political instability, mismanagement, corruption, and 
+multiple crises, has impeded systematic efforts to ensure sustainability. Internally, the Lebanese education 
+system itself suffers from structural issues, such as resource-intensiveness due to a high teacher-student ratio, 
+the presence of "ghost" teachers, and a brain drain. Furthermore, the crises have strained resources, leading

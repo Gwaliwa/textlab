@@ -1,0 +1,723 @@
+Center for Evaluation and Development, C4ED
+Alexandra Avdeenko and Markus Frölich
+Improving Adolescent Lives
+in Pakistan (2015-2019)
+An Impact Evaluation
+December 2021
+
+Improving Adolescent Lives in Pakistan (2015-2019)
+An Impact Evaluation
+This evaluation is conducted
+at
+the Center for Evaluation and Development
+by
+Alexandra Avdeenko and Markus Frölich
+(principal investigators and authors).
+The evaluation has been commissioned by
+United Nations Children’s Fund (UNICEF) Regional Oﬃce for South Asia
+through the International Initiative for Impact Evaluation, Inc. (3ie).
+& has been managed by
+UNICEF Pakistan.
+This version is from:
+January 24, 2022.
+Please do not cite or circulate without permission.
+
+1
+Executive Summary
+According to 2020 data, every ﬁfth person of Pakistan’s 220 million plus population is in the 10-19 age group. These
+adolescents face several of the most demanding challenges in South Asia. The Pakistan Demographic and Health Survey
+2017-18 showed that, on average, 3.6% of 20- to 24-year-old women were married by the age of 15, and 18.3% by the
+age of 18 (National Institute of Population Studies 2018). With only every third woman having access to contraceptives
+in 2019, early childbirth follows early marriages. In 2019, on average, 38 out of 1,000 girls of age 15-19 were reported
+to have given birth. This is close to the average in South Asia (not considering high-income countries), with only
+Afghanistan, Bangladesh and Nepal reporting higher rates (World Bank Open Data 2021).
+One of the implications of early marriages and pregnancies is early school drop-out. Compulsory education is 10
+years in Pakistan, yet only 52.4% of boys and 46.3% of girls completed lower secondary education in the relevant age
+group in 2019. Only Afghanistan displays lower levels in South Asia and has a worse gender gap. Not surprisingly,
+eventually only every ﬁfth woman (20.1%) participated in the labor force in 2019, which is the lowest rate in South Asia
+(Pakistan Bureau of Statistics 2020).
+Against this background, the United Nations Children’s Fund (UNICEF) program “Improving Adolescent Lives
+in Pakistan (IALP)” aimed to reduce child marriage rates, decrease the number of early pregnancies, and increase
+school attendance. The program aimed to empower adolescents to become “agents of change” for themselves and their
+communities, while voicing their rights and needs. The IALP program operated in villages of two districts each of
+Punjab and Sindh provinces: Bahawalpur, Rahim Yar Khan, Ghotki, and Khairpur. The program focused on three
+groups: Adolescents, families, and community representatives, as well as public authorities.
+Scope of the Program
+The Improving Adolescent Lives in Pakistan (IALP) program intended to bring change through its two interventions,
+a Child Protection intervention and an educational intervention, which addressed two diﬀerent mechanisms, broadly
+deﬁned as (1) a change in knowledge about rights and gender roles, as well as (2) education. 446 rural communities
+were selected for Child Protection (CP) activities, including dialogues, workshops, and street theaters. Following a
+set of workshops, selected adolescents were expected to become group leaders (“adolescent champions”) and conduct
+peer-learning workshops and meetings by themselves with assistance from a social worker.
+Additionally, in 100
+rural communities of Sindh with poor educational outcomes, new Non-Formal Basic Education (NFBE) Centers were
+established. The Non-Formal Basic Education (NFBE) and village education committee component was implemented
+to provide non-formal education to out-of-school adolescents, that is, children who have never been enrolled, who
+have dropped out, or who were at the risk of dropping out. The second group that the program targeted included
+families, communities and local decision-makers, providing them with knowledge about adolescents’ rights and how to
+protect and advocate in their favor. Finally, for the same purpose and with similar activities, the program also involved
+public authorities and service providers. It addressed children’s rights and communication skills by providing access
+to relevant knowledge, skills, and services. In a key innovation, the program also encouraged boys and men to question
+institutional practices and social norms.
+Although the baseline survey took place in 2015, preparatory work and recruitment of implementing partners delayed
+implementation. Program implementation was most intense between end-2017 and December 2019. Throughout
+implementation, UNICEF reported that they reached over 12.5 million people, directly and indirectly through program
+activities and social mobilization.
+About the Evaluation
+Given the limited and mixed causal evidence on the impacts of empowerment programs aiming to change gender norms
+and reduce child marriage (without additional monetary incentives), rigorous causal evidence on innovative approaches
+to design, combine, and improve empowerment programs is needed. Evaluation insights can help ﬁll the evidence gap
+and support policy makers as well as UNICEF and the IKEA Foundation to strengthen future programs and inform
+policy advocacy.
+This evaluation aims to identify the causal impact of the IALP program as a whole, and to learn about selected
+potential mechanisms of change. A related objective is to examine the cost eﬀectiveness of the program.
+The evaluation was designed as a cluster Randomized Control Trial (RCT) with 446 of 653 revenue villages
+randomly assigned to the program group and 207 to the control (no treatment) group, following a baseline survey in
+
+2
+2015. Cross randomization helps to compare diﬀerent program components across the program areas. Hereby, the
+proportion between the genders mobilized in a village was experimentally varied. In 141 of the 446 villages more female
+participants were mobilized, while more male participants were mobilized in 129 of the villages. In the remaining 176
+villages there was no gender-speciﬁc mobilization for the Child Protection activities. The establishment of alternative,
+non-formal basic education centers was cross-randomized to the Child Protection activities in a subset of 100 villages.
+The endline quantitative and qualitative data collection was conducted in late 2020 and ended in August 2021. 7,415
+eligible adolescents, parents of adolescents, community leaders and key service providers were interviewed in program
+and control areas to share their knowledge and experiences on the topics of interest to the program.
+In the analysis of this rich set of information, the key evaluation questions are:
+1. Did the IALP program inﬂuence attitudes and social norms and reduce child marriage rates, decrease the number
+of early pregnancies, and increase school enrollment for adolescents as aimed?
+2. How eﬀective were the Child Protection and NFBE components of the IALP program, as standalone interventions
+and when combined?
+3. How eﬀective was the approach of targeting men and boys to achieve the program’s goals?
+Additionally, 16 qualitative key informant interviews (KIIs) were conducted with stakeholders of the IALP program as part
+of the qualitative data collection. These included UNICEF and government oﬃcials, as well as staﬀof the implementing
+partners from both provinces. KIIs provided additional insight into the experience of key informants with designing and
+implementing IALP program activities. Hereby the focus was on the challenges faced during implementation, perceived
+consequences of the IALP program, and recommendations of stakeholders for future programming.
+Findings and Implications
+The evaluation shows that the IALP program has a statistically signiﬁcant positive impact on child marriage reduction.
+Compared to the control group, the overall IALP program reduces child marriage for the relevant age group (10-17) by
+33% for the full sample and 50% for girls (with the average child marriage prevalence in the control areas being 0.9%
+for the full and 1.4% for the girls sample, respectively). For adolescents age 15-17, the overall IALP eﬀect is a reduction
+by 42% for the full sample and 51% for girls. These eﬀects are sizable given the low average prevalence in the control
+areas of 1.9% for the full sample and of 3.3% for girls only, i.e., the outcomes for the group of people who had not
+been assigned to the program. When restricting the sample to the NFBE-eligible sample of villages, the reported child
+marriage prevalence is higher, and, as expected, program impacts are positive and even slightly higher. Overall, the
+IALP program has a positive impact on child marriage reduction relative to the low level of child marriage captured in
+the surveys, with the program eﬀects being higher for girls. Given sample size restrictions, however, no statistically
+signiﬁcant and meaningful result can be captured for changes in child pregnancy rates.
+Moreover, the IALP program increases self-reported engagement rates for boys age 10-17, while their marriage rates
+do not change. Accordingly, it increases the (indirectly) reported likelihood that boys (age 11-16) will be married next
+year. The evidence on changes in engagement and delay of marriage indicates a postponement in line with the original
+program expectations. Finally, adolescents in the NFBE areas of the IALP program report that the dowry amount paid by
+their families reduces.
+The evaluation randomly sampled children who were eligible for non-formal basic education in program and
+comparison areas.
+Based on the comparison of the two groups, it ﬁnds an increased attendance of non-formal
+educational institutions, which further implies an improvement in selected learning outcomes for the population eligible
+for NFBE relative to the control group. When comparing learning outcomes of NFBE eligible children to comparable
+children in NFBE non-eligible areas, the evaluation ﬁnds positive impacts on reading skills, with the eﬀects being mainly
+driven by improved outcomes amongst male respondents. Moreover, children residing in areas where the two program
+components (Child Protection and NFBE) were jointly implemented are not only more likely to attend the non-formal
+education centers, but also less likely to miss school, and more likely to want to continue with secondary education.
+The eﬀects here are particularly strong for girls. A higher uptake of non-formal education may have a direct eﬀect on
+attendance of formal educational institutions. The data reveals potential evidence of crowding-out eﬀects from formal
+education, as female household members (age 11-23) are reportedly less likely to attend primary and male household
+members (age 11-23) secondary education due to the program. This eﬀect is particularly strong in NFBE-eligible villages,
+where the Child Protection program targeted primarily girls. Moreover, potentially because these informal school forms
+
+3
+had not mixed genders in class while formal schools did, the results show selective evidence for a program-induced
+change in the preference that girls and boys should be educated separately.
+To understand the potential underlying drivers of change, the evaluation looks at changes in perceptions, attitudes,
+actions and interactions of adolescents themselves as well as of the key local stakeholders and service providers
+surrounding them. While patterns in the intergenerational dialogue do not change, the results indicate an increase of
+interaction between adolescents. Girls’ incidence of intragenerational dialogues among adolescents increases. Selective
+evidence reﬂects an increase in communication amongst adolescents regarding their fears and emotions, as well as the
+likelihood that girls talk to their brother about their future marriage. Moreover, especially where girls were targeted by
+the program, the results indicate an increase of girls’ average score on the interpersonal communication competence
+scale, reﬂecting positive impact on girls’ communication skills.
+In terms of empowerment, especially male respondents in areas where the two program components were jointly
+implemented (Child Protection (CP) and NFBE) have a higher likelihood to report that they were reached on topics related
+to “child rights and entitlements”. Due to the program, male adolescents do reportedly feel more conﬁdent in their
+interactions with key stakeholders. Eventually, the program also reduces the acceptance of using corporal punishment
+on children and leads to a decrease in the experience of corporal punishment by adolescents. Male respondents are, for
+instance, less likely to accept the usage of corporal punishment on daughters when they discuss their marriage timing.
+However, scope for improvement remains: Adolescents and parents of adolescents in program areas are no more likely
+to report that the adolescents’ conﬁdence in day-to-day situations changes when being compared to control areas. And
+adolescents, especially girls, still feel uncomfortable performing a set of daily tasks by themselves both in program and
+control areas. Accordingly, there is no reported evidence on changes in self-eﬃcacy or on changes in actions taken to
+ensure adherence to adolescent rights in the last year. Eventually, the evaluation results also show a small but negative
+impact on the reported wellbeing of female adolescents over the last two weeks (before the endline survey), which
+may be due to the program or the end of it. The eﬀect may be linked to girls feeling left behind after the program
+ended, as indicated in qualitative interviews, suggesting the need for further programming and engagement. Future
+implementation would beneﬁt from stronger monitoring and a midline evaluation to identify potential negative eﬀects
+early on during implementation. Given that the evaluation came about a year after the program ended, future research
+can help to better unpack the causes of these negative eﬀects.
+Targeting men and boys pays oﬀ. Findings indicate that the IALP program reduces agreement with the statement
+that it is OK for parents to marry sons before the age of 18 and reduces agreement to marry girls before the age of 16 in
+program areas, especially among males. This change may translate to diﬀerent marriage outcomes in future. However,
+with every second person accepting marriages of girls before the age of 18, and every third person before the age of
+16, there is much room for improvement and additional programming. The importance of engaging men, who may
+facilitate participation of women and girls, is also stressed in qualitative interviews.
+The evaluation captures no general improvement in the overall situation with respect to the provision and access
+of adolescent-friendly services when comparing program and control areas. However, an improvement in access to
+non-formal educational services and a moderately better provision of marriage services as reported by the marriage
+registrars in the villages can be constituted.
+Notably, despite being implemented over a relatively short period given the challenges at hand, the program manages
+to change attitudes and behaviors towards the expected and desired direction, including a reduction in child marriage, an
+increase in peer dialogues, and changes in attitudes towards marriage age and adolescents in general. To change deeply
+rooted social norms and traditions and to improve the magnitude of eﬀects, a longer, more intense implementation
+period with greater outreach is recommended. Given a large number of beneﬁciaries who were reportedly indirectly
+engaged through social outreach activities such as street theater, a higher number of directly targeted individuals would
+have been important. In fact, the overall ﬁndings suggests only limited scope of direct program uptake, reducing
+the ability to capture greater impacts. This is less of a concern in Sindh, where greater uptake of the program is
+correlated with higher impacts. The involvement of men and boys when addressing topics related to child marriage
+is recommended. No recommendation is made on whether the educational or the Child Protection activities were
+more successful in reaching better outcomes, while in some instances the joint implementation of both approaches
+was reportedly helpful. Moreover, central institutions such as marriage registrars would need to be more intensively
+and directly targeted to ensure adherence to laws and a change in attitudes towards child marriages and its negative
+consequences. In this regard, the triangulation of quantitative and qualitative results points to converging insights.
+Moreover, the importance of community engagement and a careful consideration of sustainability of the intervention
+was felt to be of great importance by key informants. Last but not least, apart from the impacts the program was able
+to generate, the evaluation reveals high levels of adolescents’ overall vulnerability (in program and control areas) and
+
+4
+thus the need to continue exploring impactful approaches to address these needs. This relates, for instance, to high level
+of drop-outs, corporal punishments, low levels of conﬁdence and self-eﬃcacy, as well as high levels of inegalitarian
+views.
+A cost beneﬁt analysis reveals that, under the assumptions of analysis, beneﬁts of the IALP program largely cover
+its costs. The beneﬁt-to-cost ratio is close to 1, i.e., costs exceed beneﬁts only to a small extent. Hereby, the result
+constitutes only a lower bound since not all beneﬁts were monetized and further positive changes can be expected given
+changes in attitudes and potential long-term eﬀects.
+
+5
+List of Acronyms
+3ie International Initiative for Impact Evaluation
+A adolescent
+a.c.e. about to complete education at the
+AC adolescent-centric
+agr. agrees
+ALP Accelerated Learning Program
+AQ adolescent questionnaire
+AR adolescent right
+al at least one
+B boys
+bc. because
+BLCC Bunyaad Literacy Community Council
+Bunyad Bunyad Literacy Community Council
+C4DE Center for Development and Evaluation
+C4ED Center for Evaluation and Development
+CBA Costs-Beneﬁt Analysis
+CC community-centric
+CCT Conditional Cash Transfer
+CEA Costs-Eﬀectiveness Analysis
+CEDAW Convention on the Elimination of all Forms
+of Discrimination against Women
+CL community leader
+CLQ community leader questionnaire
+CM child marriage
+c.d.o. considered dropping out of the
+comm. community
+c.e. complited education at the
+corp. corporal
+c.i. correctly identiﬁed
+c.c. correctly calculated
+CP Child Protection
+CR child right
+CRC Convention on the Rights of the Child
+CPF child protection intervention targeting females
+CPM child protection intervention targeting males
+CPMF child protection intervention targeting males
+and females
+CPU Child Protection Unit
+CYAAD College of Youth Activism and Development
+dau. daughter
+dec. decision
+d.n.p. did not participate due to
+d.t.c. discussed topics covered in the
+d.e.w. discussed event with
+d.n.w. discussed about NFBE with
+e.org. event organized by
+e.p.a. event participants were
+e.p.g. event participants were
+EQ evaluation question
+FGD focus group discussions
+FDR False Discovery Rate
+f.e. frequency of event
+G girls
+GDP Gross Domestic Product
+GNI Gross National Income
+GO local government oﬃcials
+gov. government
+HDI Human Development Index
+HH household
+HW health worker
+h.e. heard about event from
+i.l.y. in the last year
+ICC interpersonal communication competence
+IALP Improving Adolescent Lives in Pakistan
+IGD Intergenerational Dialogue
+IKEA-I Preventing Child Labour (an IKEA-funded
+program)
+IKEA-II Improving Adolescent Lives in Pakistan (an
+IKEA-funded program)
+IKEAF IKEA Foundation
+imp. important
+i.e.c. implementation of event by
+ind. independently
+ind. individual
+intergen. intergenerational
+intragen. intragenerational
+IP implementing partner
+IRB institutional review board
+IRC Indus Resource Center
+ITT Intention-to-Treat Eﬀect
+KCI Key Community Inﬂuencer
+KI key informant
+KII key informant interview
+KPI Key Performance Indicators
+LATE Local Average Treatment Eﬀect
+mar. marriage
+main reasons attending: main reasons attending:
+m.c. multiple choice question
+MDES Minimum Detectable Eﬀect Size
+MDE minimum detectable eﬀect
+MICS Multiple Indicator Cluster Surveys
+MIS Monitoring Information System
+NRSP National Rural Support Programme
+N Nikah Khwan
+NFBE Non-Formal Basic Education
+NFBEC NFBE Center
+NFE Non-Formal Education
+NGO Non-Governmental Organisation
+NKQ Nikah Khwan questionnaire
+NPV net present value
+oUN only UNICEFn1
+o.l.2w. over the last 2 weeks
+o.l.4y. over the last 4 years
+OLS Ordinary Least Squares
+OOS out-of-school
+org. organisation
+o.p.e. other participants of event were
+P parent
+part. participated
+pp percentage points
+PAP Pre-analysis Plan
+PDHS Pakistan Demographic and Health Survey
+PKR Pakistani Rupee
+PQ parent of adolescent questionnaire
+PV present value
+pn. punishment
+RCT Randomized Control Trial
+rea. reason
+resp. respondent
+RSPN Rural Support Programmes Network
+RV revenue villages
+SDG Sustainable Development Goals
+SDM school drop-out or never-enrolled questionnaire/
+module
+SED secondary education
+s.r. self-reported
+SOC Social Opportunity Cost of Capital
+SRSO Sindh Rural Support Organization
+ToC Theory of Change
+t.e.r. thought education received at
+TPFM Third party
+t.c.e. topic covered at event was
+UC union council
+UN United Nations
+UNICEF United Nations Children’s Fund
+USD United States Dollars
+VEC Village Education Committee
+vill. village
+WHO World Health Organization
+WVS World Values Survey
+
+6
+I.
+General Information
+Funding Research presented in this evaluation has been commissioned by United Nations Children’s Fund (UNICEF)
+Regional Oﬃce for South Asia through the International Initiative for Impact Evaluation, Inc. (3ie), with funding of the
+IKEA Foundation. Program implementation was managed by UNICEF Pakistan. The views expressed in this report are
+not necessarily those of UNICEF, 3ie (Thematic Window 12) or its members. This impact evaluation has been submitted
+to 3ie in fulﬁllment of requirements under grant TW12.1009 issued under TW 12 Improving Adolescents’ Lives program.
+Researchers and their Role The authors of the evaluation are Alexandra Avdeenko (corresponding author) and Markus
+Frölich.1 The views and opinions expressed are those of the authors’ and do not necessarily reﬂect the oﬃcial policy
+or position of UNICEF or 3ie. All content is the sole responsibility of the authors and does not represent the opinions
+of 3ie, its donors or its board of commissioners. Any errors and omissions are the sole responsibility of the authors.
+All aﬃliations of the authors listed in the title page are those that were in eﬀect at the time the report was accepted.
+Any comments or queries should be directed to the corresponding author, Alexandra Avdeenko (avdeenko@c4ed.org).
+Finally, the researchers had no direct decision-making power over whether and how to implement the program.
+Quality Assurance The 3ie technical quality assurance team comprises Sayak Khatua, an anonymous external impact
+evaluation design expert reviewer and an anonymous external sector expert reviewer, with overall technical supervision
+by Sebastian Martinez.
+Researcher Independence and Financial Conﬂicts of Interest No contractual limitations existed on the ability of the
+researchers to report the results of the evaluation. The researchers have no ﬁnancial conﬂicts of interest with regard to
+the results of the research. The researchers’ contract for this evaluation was with 3ie.
+Scope The impact evaluation of the Improving Adolescent Lives in Pakistan (IALP) programme is part of a larger
+package of impact evaluations covering the IAL program in three countries (Afghanistan, India and Pakistan). The
+Terms of Reference (ToR) for the assignment covered all these evaluations as well as other M&E services. The Pakistan
+evaluation included a baseline survey conducted in 2015 and an endline impact evaluation drawing on endline survey
+data collected in 2020-2021. The endline impact evaluation scope of work was reviewed and adjusted in the ﬁrst quarter
+of 2020 and adjusted again in October 2020 to adapt the workplan and design to the COVID-19 pandemic outbreak.
+The pre-analysis plan agreed in October 2020 deﬁnes the scope of work and design of this impact evaluation. The
+pre-analysis plan is available for consultation.
+Evaluation Process The original Terms of Reference (TOR) was between 3ie and UNICEF, and between 3ie and Uni-
+versity of Mannheim/ C4ED, with several rounds of extension mostly due to COVID-19 related delays in the endline
+survey timing. A Pre-analysis Plans (PAPs) was developed over time and documented the changes. The ﬁnal version
+is publicly available under AEARCTR-0006438 at the American Economic Association website. The original TOR is
+available upon request.2 Despite contractual extensions, the content of the TOR did not change over time.
+Timeline 3ie’s call for proposal was issued on February 26th, 2015. The baseline data collection spanned from June
+2015 (piloting) to January 2016 (full survey). The assignment into the program vs. control group was performed in
+winter 2016 for the CP activities and summer 2017 for the NFBE activities (cross-randomized). The Program implemen-
+tation took place between summer 2017 and winter 2019, both program components started after the respective program
+assignment plan. The implementation was conducted by three local Non-Governmental Organisations (NGOs), including
+a change in implementing partners in Punjab. The prioritization of non-formal basic education (over an original focus
+on secondary school education) was introduced over the course of the program. The endline data collection oﬃcially
+began on December 15th 2020 (ﬁrst registered interviews) and ended on August 15th, 2021. Originally, the endline
+data collection was planned for January 2020, the diﬀerence in timing being caused by the outbreak of the COVID-19
+pandemic. The qualitative interviews were conducted between February 2021 and June 2021. The ﬁrst draft of the ﬁnal
+1Both researchers from the Center for Evaluation and Development (C4ED). Dr. Avdeenko is also aﬃliated with University of Heidelberg
+and CEPR, email avdeenko@c4ed.org.
+Prof.
+Frölich is Professor at the University of Mannheim and aﬃliated with J-PAL and IZA, email
+froelich@c4ed.org.
+2Consistent with how the evaluation was commissioned, there is no separate TOR for the IALP evaluation.
+
+7
+evaluation report was shared on September 15th, 2021.
+Evaluation Pre-registration A pre-analysis plan was registered prior to the endline data collection, on November 29th
+2020, under AEARCTR-0006438.
+Institutional Review Board (Ethics Approval) The necessary ethics approvals have been requested from the In-
+stitutional Review Board of the University of Mannheim and are also, additionally, under review at Research and
+Development Solutions in Pakistan.
+Declaration of Interest None.
+Scarcity Budget and other non-research considerations were the critical factors limiting scale and as such the random
+assignment of the program merely inﬂuenced who got which program activity.
+
+8
+II.
+Acknowledgements
+At UNICEF, we would like to thank for the necessary support of the evaluation by the Regional Oﬃce South Asia
+Evaluation Section, in particular Tom Pellens, Esther Kaggwa, Sam Bickel, Urs Nagel, and Bikul Tulachan. At ROSA
+Adolescent Development and Participation Section we would like to thank for the support of Natalie Fol, Aruna Pant and
+Dharshini Seneviratne. At Pakistan Country Oﬃce level, the Social Policy Section was responsible for managing the
+evaluation. Luis Gorjon Fernandez, Shamshad Begum, Mussarrat Yousuf and at a later stage Junaid Tahir were a great
+support in facilitating the discussion across units and supporting the needs of the evaluation. We would also like to thank
+the Child Protection Unit, in particular Micaela Pasini, Muhammad Zahoor, Shakeel Ahmed, Zahida Manzoor, Susan
+Andrew; Jabeen Fatima Abbas. Federica Di Stefano and Sarah Coleman had set the building stone of this evaluation,
+being open for increasing the testing and learning therein; work which has later been worthily supported by Emelia
+Allan. A special thank goes to Dr. Juanita Vasquez-Escallon who has contributed to the ﬁrst design and the baseline
+data collection of this evaluation. In the Education Unit we appreciate the support of Ellen Van Kalmthout, Erum Barki,
+Asif Abrar, Anna Acker, and Muhammad Akram. This work would have not been possible without the cooperation and
+insights shared by UNICEF’s Field Oﬃces, in particular we thank Wilbroad Ngambi, Noaman Ghani, Muhamsmad
+Asim Khan. We hope this journey challenging yet rigorous learning will be fruitful in Pakistan and beyond. Similarly
+to UNICEF, we thank the local implementing organizations for answering us to our numerous questions and requests
+regarding the program implemented. We made our best eﬀorts to reﬂect your work in this evaluation, with any mistakes,
+if any, being our own. We hope our work is helpful in designing evidence-based impactful programs for adolescents.
+Many people were crucial for this impact evaluation and supported it at diﬀerent stages with all their eﬀorts. In
+particular, we would like to thank 3ie International Initiative for Impact Evaluation. 3ie’s team supported us over the
+years with their quality assurance, feedback, and encouragement. We are indebted to the important ﬁnal-stage support
+by Marie Gaarder, Sayak Khatua, Sebastian Martinez, and Hitesh Somani, who had made the necessary changes needed
+as the time passed by and COVID-19 caused delays and uncertainties for the project. At prior stages, Heather Lanthorn,
+Diana Lopez, and Jo Puri, to name just a few, were similarly supportive. As always, we appreciate your cooperation
+and support for better and more rigorous evidence.
+At C4ED, we would like to thank a group of junior researchers that were essential for this project, namely Daniel Bruns,
+Jakob Gärtner, Katharina Kaeppel, Paula Navarro, Stefan Preuß, Anton Reinicke, and Joaquin Rodriguez. It is your
+motivation for the cause and your hard work that kept this evaluation alive and going. The authors would also like to
+thank Peter Derheim, Johannes Feeser, Onur Eryilmaz, Michaela Theilmann, and Mariam Nikravech for their help in
+preparing this manuscript. A number of research assistants and interns supported this work over the years. In its last
+phases we would like to in particular thank Tom Fuhrländer, Julia Wagner, and Marie Schliesser who have worked hard
+and exceeded every expectation. Our team at C4DE, especially with Sharafat Hussain Shah, Ghulam Murtaza, Usama
+Waheed and Arooba Khurram but also their ﬁnance team, were throughout friendly and supportive with our continuous
+requests to make the impossible work: Be it re-calculating the budgets countless times, ﬁtting the impossible; working
+reliably, timely, eﬃciently, and eﬀectively; organizing permissions; perfecting the survey instruments; and hiring,
+training, and motivating district leaders and enumerators, etc. Thank you for all your support over the years. Marie
+Schliesser and Ghullam Murtaza conducted the qualitative evaluation supporting the rigorous evaluation with further
+insights. Ravi Baghel quality-assured and reﬁned the work.
+Muhammad Tahir Waqar, Basheer Anjum, Abdul Razzaque Sheerani, Javed Razzak, and Muhammad Saad Iqbal have
+made the evidence presented possible through their support during the baseline and/ or endline surveys. Despite often
+challenging situations, we could always count on your unfailing support while knowing that working with you is fun.
+Last but not least, we thank the Government of Pakistan for permitting this work. We hope the evidence generated
+will be insightful for the adolescents in Pakistan. In Punjab, we particularly thank Ahmed Bilal for his friendly support
+during the data collection. We are grateful to the donors of the program, the IKEA foundation, for allowing to align
+an impact evaluation to the programming and therewith permit learning in an area where it’s urgently needed.
+January 24, 2022
+
+Contents
+9
+Contents
+I.
+General Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+II.
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+1
+Introduction
+1
+I.
+Existing Evidence and Contribution
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+II.
+The Program
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+II.A
+Context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+II.B
+Program Activities and Expected Changes . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+II.B.1
+Child Protection Activities: Life-Skills Workshops . . . . . . . . . . . . . . . . . .
+7
+II.B.2
+Education Activities: Non-formal Basic Education Centers
+. . . . . . . . . . . . .
+9
+II.B.3
+Overlap of the Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+2
+Methodology
+11
+I.
+Evaluation Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+I.A
+Levels of Randomization and Treatment Arms
+. . . . . . . . . . . . . . . . . . . . . . . . .
+12
+I.B
+Estimation Strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+I.C
+Mixed Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+I.D
+Cost-Beneﬁt and Cost-Eﬃciency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+II.
+Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+II.A
+Outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+II.B
+Large-Scale Data Collections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+II.B.1
+Geographical Coverage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+II.B.2
+Baseline Data
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+II.B.3
+Endline Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+II.C
+Qualitative Interviews
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+II.D
+Ethical Considerations, Integration of Gender, and Data Quality Assurance . . . . . . . . . .
+30
+II.D.1
+Ethical Considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+II.D.2
+Data Quality Assurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+II.D.3
+Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+3
+Findings
+32
+I.
+Descriptive Statistics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+I.A
+Local Context at Endline (2020/ 2021) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+I.B
+Program Implementation and Exposure . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+I.B.1
+Program-Assigned Areas
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+I.B.2
+Comparison between Treatment and Control Areas . . . . . . . . . . . . . . . . . .
+42
+II.
+Program Eﬀectiveness
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+II.A
+Main Outcomes: Child Marriage, Child Pregnancy, Education . . . . . . . . . . . . . . . . .
+47
+II.A.1
+Marriage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+II.A.2
+Child Pregnancy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+53
+II.A.3
+Education
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+II.B
+Intermediate Outcomes: Empowerment, Communication, Social Norms, and Service Provision
+71
+II.B.1
+Adolescent Empowerment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+II.B.2
+Communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+78
+
+Contents
+10
+II.B.3
+Social Norms
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+83
+II.B.4
+Service Provision
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+90
+II.C
+Robustness Speciﬁcations
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+II.D
+Cost-Beneﬁt and Cost-Eﬃciency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96
+4
+Conclusion and Outlook
+98
+I.
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+98
+II.
+Lessons Learned
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+101
+III.
+Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+104
+Bibliography
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+108
+5
+Appendix
+115
+A.I. More on Evaluation Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+116
+A.I.A
+Randomization Procedure
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+116
+A.I.A.1
+Treatment Arms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+117
+A.I.B
+Lasso-Selected Covariates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+121
+A.II. More on Sampling
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+122
+A.II.A More Information on the Sampling in the Endline Survey . . . . . . . . . . . . . . . . . . . .
+123
+A.II.B Missing Villages at Endline
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+128
+A.III.More on Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+129
+A.III.A Overlap in Gender Mobilization of NFBE Activities and CP Treatment Arms . . . . . . . . .
+129
+A.III.B More on Monitoring Information System (MIS) Data
+. . . . . . . . . . . . . . . . . . . . . .
+130
+A.III.C More on Self-Reported Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+135
+A.III.C.1 Indicators for Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+135
+A.IV.More Empirical Evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+153
+A.IV.A Robustness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+153
+A.IV.B Heterogeneous Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+187
+A.IV.C Additional Treatment Arm Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+200
+A.IV.D More on Cost-Beneﬁt and Cost-Eﬃciency . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+204
+A Online Appendix
+208
+O.I. Detailed Theory of Change and Hypotheses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+209
+O.I.A
+Intended Eﬀects
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+209
+O.I.A.1
+Theory of Change and Hypotheses . . . . . . . . . . . . . . . . . . . . . . . . . .
+209
+O.I.A.2
+Main Strategic Outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+209
+O.I.A.3
+Child Protection Activities: Life-Skills Workshops . . . . . . . . . . . . . . . . . .
+209
+O.I.A.4
+Education Activities: Non-formal Basic Education Centers
+. . . . . . . . . . . . .
+216
+O.I.A.5
+Enhancing Eﬀects of Child Protection and Education Activities . . . . . . . . . . .
+218
+O.I.B
+Evaluation Matrix
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+220
+O.I.C
+Ethical Considerations and Data Protection . . . . . . . . . . . . . . . . . . . . . . . . . . .
+223
+O.I.D
+Baseline (Original) Sample - including Urban Areas
+. . . . . . . . . . . . . . . . . . . . . .
+225
+O.II. Indicators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+227
+O.II.A Deﬁnition of Reported Indicators
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+227
+O.III.Power Calculations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+244
+O.IV.Questionnaires
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+248
+O.IV.A Full List of NFBE-Questions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+249
+O.IV.B Community Leader Questionnaire (via Phone)
+. . . . . . . . . . . . . . . . . . . . . . . . .
+254
+O.IV.C Nikah Khwan Questionnaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+275
+O.IV.D Adolescent Questionnaire
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+306
+O.IV.E Parent Questionnaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+377
+O.V. IRB Clearance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+443
+O.VI.Additional Empirical Evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+446

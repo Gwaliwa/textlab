@@ -1,0 +1,391 @@
+EVALUATION REPORT
+October 2022
+Evaluation of the UNICEF Response 
+to the Level 3 Humanitarian Crisis
+in Syria
+
+2
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+Cover Photo: © UNICEF/UN0603139/Belal
+
+EVALUATION REPORT
+October 2022
+Evaluation of the UNICEF Response 
+to the Level 3 Humanitarian Crisis
+in Syria
+
+Evaluation of the UNICEF Response to the Level 3 
+Humanitarian Crisis in Syria
+© United Nations Children’s Fund, New York, 2022
+United Nations Children’s Fund 
+Three United Nations Plaza 
+New York, New York 10017 
+October 2022 
+The purpose of publishing evaluation reports produced by the UNICEF Evaluation Office is to fulfil 
+a corporate commitment to transparency through the publication of all completed evaluations. The 
+reports are designed to stimulate a free exchange of ideas among those interested in the topic and 
+to assure those supporting the work of UNICEF that it rigorously examines its strategies, results, and 
+overall effectiveness. 
+The report was prepared by James Darcy (team leader), Enrico Leonardi, Francesca Ballarin, Jeff 
+Duncalf and Laura Olsen. Jane Mwangi managed and led the overall evaluation process with active 
+engagement and support from UNICEF staff in various headquarters divisions, regional offices and 
+country offices. 
+The purpose of the report is to facilitate the exchange of knowledge among UNICEF personnel and its 
+partners. The contents of the report do not necessarily reflect the policies or views of UNICEF. The text 
+has not been edited to official publication standards and UNICEF accepts no responsibility for error. 
+The designations in this publication do not imply an opinion on the legal status of any country or 
+territory, or of its authorities, or the delimitation of frontiers. 
+The copyright for this report is held by the United Nations Children’s Fund. Permission is required 
+to reprint/reproduce/photocopy or in any other way to cite or quote from this report in written 
+form. UNICEF has a formal permission policy that requires a written request to be submitted. For 
+non-commercial uses, the permission will normally be granted free of charge. Please write to the 
+Evaluation Office at the address below to initiate a permission request. 
+For further information, please contact: 
+Evaluation Office United Nations Children’s Fund 
+3 United Nations Plaza New York, New York 10017 
+evalhelp@unicef.org 
+This report is available online at: https://www.unicef.org/evaluation/reports#/detail/18406/
+UNICEF, 2022. Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria. 
+UNICEF Evaluation Office, New York.
+
+i
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+TABLE OF CONTENTS
+PREFACE
+EXECUTIVE SUMMARY
+TABLE OF ACRONYMS
+1.	
+BACKGROUND AND OVERVIEW	
+1.2  Evaluation purpose, scope and intended users	
+1.3  Evaluation approach and methodology	
+1.4  Evaluation questions	
+2.	
+THE SYRIA CRISIS AND THE HUMANITARIAN RESPONSE	
+2.1  The Syria crisis and its effects	
+2.2  The international humanitarian aid context since 2018	
+3.	
+UNICEF ROLE AND STRATEGY IN RESPONSE TO THE SYRIA CRISIS	
+3.1  The organization’s evolving role and strategy	
+3.2  How should the UNICEF role in humanitarian action be understood?	
+4.	
+EVALUATING THE UNICEF PROGRAMME 	
+4.1  Introduction	
+4.2  Programme relevance, appropriateness and adaptation to context	
+4.3  Programme strategy, logic and consistency with the CCCs	
+4.4  Programme coverage and targeting	
+4.5  Balance and coherence of UNICEF programme	
+4.6  Programme delivery and effectiveness	
+iii
+v
+xxi
+1
+3
+5
+10
+11
+11
+25
+30
+30
+34
+39
+39
+42
+49
+56
+59
+62
+
+ii
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+5.	
+WORKING WITH OTHERS: LEADERSHIP, COORDINATION, PARTNERSHIPS
+5.1  UNICEF leadership and coordination roles
+5.2  UNICEF collaboration with GoS, ministries and other authorities
+5.3  UNICEF collaboration with United Nations agencies, SARC and NGOs
+5.4  Accountability to and engagement with affected populations
+6.	
+MANAGEMENT AND OPERATIONAL SUPPORT
+6.1  Whole of Syria management and support arrangements
+6.2  Finance and risk management	
+6.3  Staffing and human resources	
+6.4  Supply and the procurement of goods and services	
+6.5  Programme monitoring, quality assurance and beneficiary feedback
+6.6  Knowledge and information management	
+6.7  Fundraising	
+6.8  Communications and public advocacy	
+7.	
+CONCLUSIONS AND RECOMMENDATIONS	
+7.1  Overall conclusions	
+7.2  Programme, coordination and partnership conclusions	
+7.3  Management and support function conclusions	
+7.4  Cross-cutting issues	
+7.5  Recommendations	
+ANNEXES	
+Annex 1.  Terms of Reference	
+Annex 2.  Evaluation Matrix	
+Annex 3 . List of Words Cited	
+66
+66
+69
+73
+77
+79
+79
+85
+87
+90
+91
+93
+93
+95
+97
+97
+105
+111
+115
+116
+127
+127
+140
+157
+
+iii
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+PREFACE
+Since the outbreak of conflict in Syria over a decade ago, UNICEF has been responding to the 
+needs of Syrian children and their families both inside and outside the country. This report 
+focuses on the UNICEF response inside Syria over the last four years. It asks whether UNICEF 
+has found the right roles for itself, given the challenging and evolving context, and assesses 
+how well UNICEF performed those roles. 
+This evaluation contains lessons for UNICEF and for the wider humanitarian community. 
+Its recommendations, many of which have been already acted upon, take into account 
+the current context and its likely future directions, and I am confident that this report will 
+contribute to improving the organization’s work to serve children in Syria and around the 
+world.
+The Evaluation Office assembled a specialized team of independent consultants to conduct 
+this exercise. I am grateful to James Darcy, the team leader, for his insight, professionalism 
+and commitment to this exercise. I am also grateful to the team members, Francesca Ballarin, 
+Jeff Duncalf, Enrico Leonardi, and Laura Olsen for their excellent work. This evaluation would 
+not have been possible without the support of UNICEF staff at all levels of the organization, 
+and I would like to express sincere thanks to Adele Khodr, Bo Viktor Nylund, Ghada Kachachi, 
+Michiru Sugi Mita, Olivia Roberts, Mohamad Abbsi, Aya Elbizem, Melinda Young, Robert 
+Stryk, Alhaji Bah and Jamilya Jusaeva. Finally, many thanks to colleagues in the UNICEF 
+Evaluation Office, namely, Jane Mwangi, Laura Olsen, Dalma Rivero and Geeta Dey. 
+Robert McCouch 
+Director of Evaluation 
+UNICEF
+
+iv
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+Note on terminology used in this report
+We use the phrase ‘Syria crisis’ primarily to refer to the direct and indirect effects of the 
+conflict (in humanitarian and development terms) on children and their families. It does, of 
+course, have wider political, economic and social connotations.
+We use the term ‘humanitarian’ in the relatively broad sense that it is used in humanitarian 
+response plans, to encompass emergency work and work with highly aid-dependent popu-
+lations (e.g., internally displaced persons), work on early recovery, urgent rehabilitation and 
+support to essential service provision.
+We use the following non-standard abbreviations in the report:
+•    GCAs for Government of Syria-controlled areas
+•    Non-GCAs for areas of Syria not under government control
+•    NWS (non-GCA) for non-government-controlled areas of northwest Syria
+•    NES (non-GCA) for non-government-controlled areas of northeast Syria 
+•    ‘Cross-line’ to describe aid or services provided from GCAs to non-GCAs in NWS
+•    ‘Cross-zone’ to describe aid or services provided from GCAs to non-GCAs in NES
+
+v
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+Summary finding
+In spite of an extraordinarily challenging context, the UNICEF response to the crisis 
+in Syria, while variable across sectors and locations, has been strong overall. The 
+evaluation finds that UNICEF managed to identify the right roles for itself over the 
+evaluation period, although it has sometimes struggled (often for reasons beyond 
+its control, including the political complexity of the context) to fulfil those roles, 
+particularly its system-wide roles of sector coordination and leadership. In common 
+with other agencies, it has also struggled to mount a response proportionate to the 
+scale of needs and to monitor those needs, given often very limited direct access 
+to communities. Despite this, the hard work and commitment of UNICEF staff and 
+partners have helped protect millions of children across all parts of Syria from 
+the worst effects of the crisis over the past four years. Those consulted for the 
+evaluation noted the commitment, professionalism and expertise of UNICEF staff, the 
+organization’s generally strong relations with other actors, including with governing 
+authorities, local partners, sister United Nations agencies and donors, and its strong 
+reputation in the region. 
+EXECUTIVE 
+SUMMARY
+
+vi
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+The evaluation also finds that UNICEF needs to develop a more coherent approach to 
+its work across the whole of Syria. In particular, it needs a better-defined approach to 
+the wider humanitarian agenda in order to address the acute and pervasive threats 
+to children’s well-being and development. While support to direct service delivery 
+remains crucial, UNICEF should continue to demonstrate the case for more systematic 
+and sustainable approaches to meeting needs in a context of protracted recovery, while 
+pursuing opportunities to help strengthen child-related policy and systems. Resourcing 
+this in the face of diminishing donor funding will require prioritization, a phased 
+approach and greater programmatic focus, and it will require new forms of partnership 
+and collaboration. 
+Evaluation scope and purpose
+Commissioned by the UNICEF 
+Evaluation Office, this evaluation 
+concerns the UNICEF response to 
+the Level 3 (L3) humanitarian crisis 
+in Syria over the period 2018–2021. It 
+has both a learning and accountability 
+purpose, and while it is largely 
+summative in nature, it makes 
+recommendations for strengthening 
+the organization’s approach in light of 
+the current situation and likely future 
+developments in the country.
+The evaluation is strategic rather 
+than technical or operational in its 
+focus: it asks whether UNICEF has 
+found the right roles for itself in Syria 
+over the past four years given the 
+evolving context, and how well it 
+performed in those roles. This includes 
+consideration of UNICEF interventions 
+across the whole of Syria, managed 
+from three main ‘hubs’ (Damascus, 
+Gaziantep, Amman), including how 
+well these interventions have been 
+harmonized. It takes an ‘outside-in’ 
+approach, assessing the value of 
+UNICEF interventions with respect 
+to the priorities for children and their 
+families, the organization’s mandate 
+and core functions, the roles played 
+by other actors and the needs of the 
+wider response system. These in turn 
+are considered against the backdrop 
+of an evolving political, institutional, 
+economic and demographic context 
+across the country.
+1
+
+vii
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+Evaluation questions, 
+methodology and process
+The focus of the evaluation has been 
+on questions of the relevance and 
+coverage of the UNICEF response, its 
+quality and effectiveness, its coherence 
+across sectors and geographic areas, 
+and its connectedness and balance 
+between short- and longer-term 
+agendas. These questions are reviewed 
+with respect to the UNICEF programme 
+and in relation to its wider role within 
+the United Nations family and the 
+humanitarian system.
+Evidence was gathered from a variety 
+of sources, including documentation 
+and key informants from both 
+within and outside UNICEF. Around 
+180 interviews were conducted in 
+total. During field visits in October/
+November 2021, in-person interviews 
+were conducted in Gaziantep, Amman, 
+Damascus, Aleppo and Deir-ez-Zor. For 
+operational reasons, the evaluation 
+team was not able to travel in the areas 
+of northwestern and northeastern 
+Syria (NWS/NES) outside government 
+control. These in-person interviews 
+were supplemented by remote 
+informant interviews and by online 
+surveys of staff and partners. 
+The evolving context and 
+priorities for children
+The humanitarian situation in Syria 
+since 2018 has been different to that 
+prevailing in earlier periods of the 
+crisis, and yet equally demanding 
+of UNICEF engagement. On some 
+metrics, notably food security, the 
+situation continues to deteriorate, as 
+reflected in the most recent United 
+Nations-led Humanitarian Needs 
+Overview (HNO) for 2022. Needs 
+now relate less to the direct effects 
+of conflict than to its indirect effects: 
+continuing mass displacement, steep 
+economic decline, damaged or lost 
+infrastructure, inoperative systems, 
+loss of professional capacities, and 
+related loss of access to basic services. 
+Over half of the pre-conflict population 
+remains displaced, of which around 
+6.9 million are internally displaced 
+(a further 5.6 million are refugees). 
+Greater stability has allowed increased 
+humanitarian access in some areas, 
+although access remained limited 
+throughout the evaluation period, 
+particularly in areas of the country 
+outside government control. High 
+levels of insecurity continue to 
+characterize some areas, particularly
+in NWS.
+2
+3
+
+viii
+Evaluation of the UNICEF Response to the Level 3 Humanitarian Crisis in Syria
+While the Government of Syria 
+controls around 70 per cent of the 
+state’s territory, large areas in the 
+northwest and northeast of the 
+country remained outside government 
+control over the evaluation period. 
+From a humanitarian perspective, 
+the result has been three main 
+geographic regions of concern: the 
+areas controlled by government, 
+and the areas of NWS (in Idlib and 
+Aleppo Governorates) and NES (in 
+Deir-ez-Zor, Ar-Raqqa, Al-Hasakah and 
+parts of Aleppo Governorate) that 
+lie outside its control. The latter are 
+characterized by high levels of internal 
+displacement, general lack of services 
+and restricted access for international 
+humanitarian actors. But humanitarian 
+needs, increasingly linked to economic 
+hardship, are prevalent across almost 
+the entire country. 
+The evaluation suggests that the wider 
+humanitarian agenda encompasses 
+three priority agendas for children 
+across the whole of Syria. The 
+first (Agenda A) concerns specific 
+emergency or high aid-dependency 
+situations that pose severe, acute 
+threats to child health, well-being 
+and safety. The second (Agenda B) 
+relates to less acute but widespread, 
+severe and persistent threats to child 
+health, security or well-being. The third 
+(Agenda C) concerns critical threats to 
+child development and life chances, 
+including lack of access to basic 
+education and lack of opportunities for 
+adolescents. These agendas overlap 
+and are causally inter-related: failure 
+to address one risks exacerbating 
+the others. Each agenda requires a 
+different approach. The first typically 
+requires (sustained) direct service 
+delivery, while the second and third 
+require support to existing or new 
+systems of basic service provision. The 
+challenge of achieving scale, quality 
+and complementarity of services is 
+increasingly likely to require area-
+based, multi-sector and multi-agency 
+approaches.
+4

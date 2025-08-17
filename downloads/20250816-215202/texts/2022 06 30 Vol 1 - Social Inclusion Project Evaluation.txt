@@ -1,0 +1,552 @@
+EVALUATION REPORT 
+ 
+EVALUATION OF THE  
+PROJECT 
+“SOCIAL INCLUSION OF 
+ROMA CHILDREN AND 
+CHILDREN WITH 
+DISABILITIES IN THE 
+WESTERN BALKANS AND 
+MOLDOVA” (2018-2021) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+June 2022  
+ 
+Authors: 
+Camille Massey 
+Blerta Perolli-Shehu 
+Zarko Sunderic 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Evaluation of the Project “Social inclusion of Roma Children and Children with Disabilities in the Western 
+Balkans and Moldova” (2018-2021) 
+ 
+Evaluation Report 
+ 
+Authored by: Camille Massey, Blerta Perolli-Shehu, Zarko Sunderic 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF is to fulfil a corporate commitment to 
+transparency through the publication of all completed evaluations. The reports are designed to stimulate a free 
+exchange of ideas among those interested in the topic and to assure those supporting the work of UNICEF that 
+it rigorously examines its strategies, results, and overall effectiveness. 
+ 
+This is a publication by an independent evaluation team. The analysis and recommendations of this report do not 
+necessarily reflect the views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for error. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, or of its 
+authorities, or the delimitation of frontiers. 
+ 
+Attribution: Please cite the work as follows: Massey, C. Perolli-Shehu, B. Sunderic, Z. (2022) “Evaluation of the 
+Project “Social inclusion of Roma Children and Children with Disabilities in the Western Balkans and Moldova”.  
+UNICEF Europe and Central Asia Regional Office.  
+ 
+
+ 
+ACKNOWLEDGEMENTS  
+ 
+The authors would like to thank UNICEF Europe and Central Asia Regional Office, and UNICEF Country Offices in 
+Albania, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, and Serbia, both 
+management and programme teams for their guidance, support and contribution to this evaluation. The evaluation 
+team particularly extends its heartfelt thanks to Ashley Wax, Aleksandra Jovic, and Vera Rangelova for their 
+contributions and for the coordination of the evaluation process.  
+ 
+The authors would further like to thank the national, regional and local authorities, and the civil society organisations 
+who contributed their time, knowledge and experience to this evaluation.  
+ 
+ 
+ 
+
+iii 
+ 
+CONTENTS  
+ACKNOWLEDGEMENTS ................................................................................................................................. I 
+CONTENTS ...................................................................................................................................................... III 
+TABLES ............................................................................................................................................................ IV 
+ACRONYMS ..................................................................................................................................................... 5 
+EXECUTIVE SUMMARY .................................................................................................................................. 6 
+1. 
+INTRODUCTION.................................................................................................................................. 10 
+2. 
+BACKGROUND ................................................................................................................................... 10 
+2.1 
+Context.......................................................................................................................................... 10 
+2.2 
+Project Description ........................................................................................................................ 13 
+2.3 
+Project Stakeholders ..................................................................................................................... 17 
+3. 
+PURPOSE, OBJECTIVES, USERS AND SCOPE OF THE EVALUATION ......................................... 18 
+4. 
+EVALUATION METHODOLOGY ........................................................................................................ 19 
+4.1 
+Evaluation Criteria ........................................................................................................................ 19 
+4.2. 
+Evaluation questions ..................................................................................................................... 20 
+4.3 
+Data Collection, Analysis, and Sampling ...................................................................................... 22 
+4.4  
+Ethical Issues and Considerations ............................................................................................... 27 
+4.5 
+Quality assurance ......................................................................................................................... 29 
+5. 
+EVALUATION FINDINGS .................................................................................................................... 29 
+5.1 
+Relevance ..................................................................................................................................... 29 
+5.2 
+Effectiveness ................................................................................................................................ 39 
+5.3 
+Impact ........................................................................................................................................... 48 
+5.4 
+Sustainability ................................................................................................................................. 53 
+5.5 
+Coherence .................................................................................................................................... 57 
+6. 
+EVALUATION CONCLUSIONS .......................................................................................................... 62 
+7. 
+RECOMMENDATIONS........................................................................................................................ 64 
+ 
+
+iv 
+ 
+TABLES 
+ 
+Table 1: Planned budget allocation by type ................................................................................................... 13 
+Table 2: Planned budget allocation by country ............................................................................................ 134 
+Table 3: Overview of outputs by country ........................................................................................................ 13 
+Table 4: Revised evaluation questions ........................................................................................................... 20 
+Table 5: Overview of interviewees in Kosovo* ............................................................................................. 134 
+Table 6: Overview of interviewees in North Macedonia ................................................................................. 24 
+Table 7: Selected municipalities according to criteria. ................................................................................... 26 
+Table 8: Overview of randomly sampled policy, legal and regulatory documents adopted during the Project    
+ ........................................................................................................................................................................ 41 
+Table 9: Overview of behavioural and attitude changes exemplified among rights holders .......................... 52 
+ 
+ 
+FIGURES 
+ 
+Figure 1: Visual reconstruction of the ToC ..................................................................................................... 16 
+Figure 2: Mutually reinforcing, multi-sector visions for ECD........................................................................... 33 
+ 
+ 
+ 
+
+5 
+ 
+ACRONYMS 
+ 
+ADA  
+ 
+Austrian Development Agency 
+CO 
+ 
+ 
+Country Office 
+COVID-19 
+ 
+Coronavirus Disease 2019 
+CRC  
+ 
+Convention on the Rights of the Child 
+CSO  
+ 
+Civil Society Organisation 
+ECD  
+ 
+Early Child Development 
+ECI 
+ 
+ 
+Early Child Intervention 
+EU 
+ 
+ 
+European Union 
+EUR  
+ 
+Euro 
+MICS  
+ 
+Multiple Indicator Cluster Survey 
+OECD/DAC 
+ Organisation for Economic Co-operation and Development's Development Assistance 
+Committee 
+PPE 
+ 
+ 
+Pre-Primary Education 
+SDGs  
+ 
+Sustainable Development Goals 
+ToC 
+ 
+ 
+Theory of Change 
+ToR 
+ 
+ 
+Terms of Reference 
+UNFPA 
+ 
+United Nations Population Fund  
+UNICEF 
+ 
+United Nations Children’s Fund 
+ECARO 
+ 
+Europe and Central Asia Regional Office 
+WHO  
+ 
+World Health Organisation 
+ 
+ 
+
+6 
+ 
+EXECUTIVE SUMMARY 
+ 
+This report presents the independent evaluation of the Project “Social Inclusion of Roma Children and Children with 
+Disabilities in the Western Balkans and Moldova” (2018-2021). The report outlines the evaluation’s background and 
+approach, findings, lessons learned, conclusions and recommendations. The evaluation was conducted from 
+October 2021 to June 2022. 
+ 
+OVERVIEW OF THE PROJECT 
+ 
+The Project aimed to promote social inclusion in the context of early child development (ECD) policies and services, 
+especially for boys and girls from ethnic minority groups such as Roma1, as well as boys and girls with 
+developmental challenges and disabilities. It covered Albania, Bosnia and Herzegovina, Kosovo*2, Moldova, 
+Montenegro, North Macedonia and Serbia, at the central government level and in selected municipalities. 
+Implementation of relevant national strategies in the geographic area covered by the Project has faced challenges 
+due to, among others, inter-sectoral coordination, inclusiveness and quality of services, as well as inadequate 
+financing of relevant social care, protection and pre-primary education (PPE) services.  
+ 
+The Project included two outcomes. The first outcome concerned ECD support to families/parents/caregivers and 
+children within the communities, including nurturing care, health services, early detection and intervention services. 
+Under this outcome, the outputs dealt, firstly, with the enhancement of services to beneficiaries with regard to 
+relevant policies and their implementation. This covered the development of national and sub-national policies and 
+mechanisms that contribute to realization of rights; accompanying enhancement of knowledge and skills of service 
+providers; increased support to the availability of the innovative services for children and parents/caregivers; 
+expansion of the early child intervention services and building of the awareness on the importance of child 
+development among parents/caregivers. The second outcome focused on development of PPE in targeted areas, 
+with one output on capacity building of the relevant professionals.  
+ 
+The Project was funded by Austrian Development Agency (ADA), with matching UNICEF funding. The total Project 
+budget stood at 2,513,160 EUR, with ADA contribution totalling 1,799,999 EUR and UNICEF contributing 713,117 
+EUR. 
+ 
+EVALUATION PURPOSE, OBJECTIVES AND INTENDED AUDIENCE 
+ 
+The overall purpose of the evaluation is to inform the evaluation users about the achievements of the Project, 
+contributing and adverse factors, and lessons learned, which support accountability and evidence-based decision 
+making. The chosen approach was therefore mostly summative, creating understanding of the effects of the Project 
+and ensuring accountability for resources and results. It had a secondary formative element to promote 
+organisational learning based on the impact of the Project on the direct/immediate and end beneficiaries (when 
+possible). When taken together, these two aspects should support organisational learning and informed decision 
+making concerning the Project follow up.  
+ 
+The evaluation provides an independent assessment of the performance of the Project in relation to expected 
+results, offers actionable recommendations for UNICEF for improving its work at country3 and regional levels, and 
+for enhancing the sustainability of the attained changes. It also identifies lessons learned, good practices and 
+innovative approaches, which may serve UNICEF and actors working toward improving ECD systems which are 
+inclusive of vulnerable children, including Roma children and children with disabilities.  
+ 
+1 In this report, and in line with the European Commission (2021), the umbrella-term ‘Roma’ encompasses diverse groups, including Roma, 
+Sinti, Kale, Romanichels, Boyash/Rudari, Ashkali, Egyptians, Yenish, Dom, Lom, Rom and Abdal, as well as Traveller populations (gens du 
+voyage, Gypsies, Camminanti, etc.) 
+2 All references to Kosovo in this report should be understood to be in the context of United Nations Security Council Resolution 1244 (1999). 
+The adjunction of the asterisk is intended as a reminder of this proviso.  
+3 The word ‘countries’ in this report is used to refer to Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia and 
+Serbia. For Kosovo this should be understood strictly in the context of United Nations Security Council Resolution 1244 (1999). 
+
+7 
+ 
+ 
+ 
+UNICEF ECARO and relevant Country Offices (COs), and the donor agency ADA are considered as the primary 
+users of the evaluation. Relevant government decision makers, civil society organizations (CSOs), implementing 
+partners, other United Nations Agencies working in related fields, and pertinent rights-holders are its secondary 
+users. Overall, the evaluation report and management response are intended to be public, thus fulfilling UNICEF’s 
+commitment to transparency and accountability. 
+ 
+EVALUATION METHODOLOGY 
+ 
+This evaluation applies a theory-based approach: it tests the validity of the Project’s Theory of Change (ToC) against 
+its implementation. At each level of the ToC, the evaluation first determined whether the envisaged change took 
+place and whether the assumptions underlying the theory were realized. Then, contribution analysis was used to 
+check the plausibility and, wherever possible, the extent of the Project’s contribution to these changes.  
+ 
+After the initial analysis of the original Project ToC, certain structural shortfalls were identified.  Subsequently, the 
+evaluation team reconstructed the ToC, in consultation with UNICEF, and assigned the underlying assumptions to 
+its appropriate levels, so that the resulting format became more usable for the evaluation purpose. 
+ 
+The evaluation framework was based on the OECD/DAC criteria of relevance, effectiveness, impact, 
+sustainability, and coherence. These criteria were translated into evaluation questions and adapted to the ToC-
+based evaluation format. Together with sub-questions, these formed the evaluation matrix.  
+ 
+Primary data collection included 73 interviews with UNICEF staff, donor and other international partners, CSOs, 
+national duty bearers in relevant ministries/agencies, staff/service providers in sampled municipalities, and 
+parents/caregivers. The evaluation team also undertook a comprehensive review of UNICEF publications, and of 
+the Project’s documentation, reports, and documentary products. The evaluation team further collected secondary 
+documentary data, such as third-party publications.  The evaluation made two “deep dive” analyses of the changes 
+triggered by the Project, respectively in Kosovo* and North Macedonia.   
+ 
+Owing to the restrictions linked to the COVID-19 pandemic, evaluation activities were carried out remotely, online. 
+This presented certain challenges in accessing interviewees and duty-bearers in “deep dive” countries, since these 
+were engaged as frontline personnel in addressing the pandemic. The limitations affected the depth of collected 
+data, but the evaluation modality was adjusted, with most interviewees contacted online. 
+ 
+KEY FINDINGS AND CONCLUSIONS  
+ 
+The evaluation found that through this Project, UNICEF managed to effectively leverage its evidence-based 
+knowledge, skills and long-term presence in the field. UNICEF applied their knowledge of the local contexts and 
+situation analyses to the Project design, and to address the needs of the duty bearers and CSOs working on ECD. 
+All the while, the Project maintained the capacity to adjust the interventions, by drawing on close communication 
+with stakeholders. 
+ 
+The prior, close partnerships of UNICEF with national stakeholders meant that the national policy, legislative and 
+regulatory frameworks already echoed the UNICEF approach to inclusive ECD, and/or increasingly did so through 
+Project implementation. This mutually re-enforcing relationship between the UNICEF approach and national 
+normative frameworks made the Project-related interventions highly relevant. It is also in line with the systems 
+approach promoted by UNICEF, which prioritizes the strengthening of country-level inclusive systems that respond 
+to the needs of every rights holder – and indeed every child.  
+ 
+The systems approach was compatible with the donor-driven focus on specific groups of children (Roma children 
+
+8 
+ 
+and children with disabilities)4, but not always fully aligned. In certain national contexts – contrary to the assumptions 
+– it was assessed that the vulnerability of the targeted groups, while valid, was not always the most in need 
+compared to that of other groups. It was sometimes difficult for duty bearers to understand this prioritization. Yet, 
+the evaluation found that UNICEF addressed and resolved this problem through engagement with the donor and 
+subsequent programmatic adjustments to cover other vulnerable groups and continue the Project relevancy to 
+stakeholders’ needs. 
+ 
+The evaluation assessed the extent to which the Project was able to consider the different situations of men/boys 
+and women/girls in relation to ECD and inclusion of the target groups. The evaluation found that the Project activities 
+indeed focused on gender transformative results, both when training ECD professionals, and when reaching out to 
+a gender-balanced range of beneficiaries. However, the Project documents and reports did not explicitly link the 
+design of these activities with the gender analysis performed by UNICEF as a part of its country programming cycle. 
+ 
+The COVID-19 pandemic adversely affected the Project’s implementation. Firstly, the modality of in-person 
+interaction, which is the essence of the modelled services (PPE services, home visiting, health services, direct 
+support and guidance to parents/caregivers, early identification, and intervention services for the most vulnerable 
+children at home) was no longer viable. In addition, many of the Project’s national partners were at the frontlines of 
+pandemic response. Despite these unprecedented challenges, all Project partners maintained their engagement 
+and helped the Project adapt to the exigencies imposed by the pandemic. UNICEF staff also performed effectively 
+in ensuring transition to new, online implementation modalities – especially in education and training – by working 
+in close partnership with implementing CSOs, national authorities, and service providers at municipal or community 
+levels. The flexibility shown by the donor in accepting some unavoidable delays made such adaptation possible. 
+ 
+The Project contributed substantially to the realization of expected changes in the national policies and legal 
+frameworks of the respective countries. This is especially apparent when it comes to promoting a holistic approach 
+to ECD (integrating health, social care/protection, and child-centered PPE). These elements have become more 
+deeply embedded in the policies and legal acts recently adopted in the countries. That said, the implementation of 
+better ECD policy and legislation, their funding, and their translation into institutionalized practice, are still a work in 
+progress. 
+ 
+The effectiveness of the Project has been documented through its role in strengthening networked ECD 
+practitioners who share a common commitment and have compatible skills and vision for ECD in their respective 
+fields of work. Training, networking, and adjustment of both formal and informal institutional arrangements around 
+the newly acquired skills of the professionals have enabled the Project to model health, social care, child protection 
+and PPE services to the rights holders, including in remote areas. The practitioners and parents/caregivers that 
+were interviewed reported that certain changes of attitudes are taking place, and that the trained professionals 
+increasingly use the skills promoted through the Project. Quantitatively, the Project has reached all, and exceeded 
+several, of its targets in terms of the number of beneficiaries reached. 
+ 
+The evaluation found that the Project’s monitoring was strong, but disproportionally burdensome, when considering 
+the Project’s budget, broken down by year and country. The Project’s targets, which were exclusively quantitative, 
+did not lend themselves to qualitative analysis of processes and trends: this is regrettable in the context of a systems 
+approach, which works on the establishment of long-term institutional process and behavioural changes. In addition, 
+despite UNICEF’s efforts to collect baseline and monitor quantitative data (in particular with the Multi-Indicator 
+Cluster Surveys), the Project faced weaknesses in the national administrative data. Even though the Project helped 
+mitigate some of these shortcomings, – by, for example, establishing a national registry of children with disabilities 
+in Serbia and by elaborating data collection tools – this has not been the Project’s primary intended purpose, and 
+the financial and capacity resources were insufficient for resolving the problem. Finally, the Project ToC placed 
+expectations of changes disproportionately high compared to the budget and duration of the Project, and it did not 
+identify internal and external assumptions at each level of change, which created overly ambitious reporting 
+demands. 
+ 
+4 This targeted approach stems from the high priority placed by ADA as a part of its strategic objectives, to poverty reduction 
+(https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/Leitlinien/Englisch/PD_Poverty_reduction_Dec2009_EN.pdf)  
+and gender (https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/Leitlinien/Englisch/PD_Gender_2017_EN.pdf).  
+
+9 
+ 
+ 
+Looking at impact, overall, the Project made inroads towards inclusive ECD, especially when compared to its 
+timeline and resources. The institutions engaged in the Project have advanced significantly towards expanding 
+coverage and access to ECD, specifically social care/protection, health and PPE services in pilot municipalities 
+even though the COVID-19 pandemic and limited human resources have dampened the prospects of making such 
+transformation systemic. By continuing to strengthen partnerships with key institutions, the Project contributed 
+meaningfully to the duty bearers’ awareness of the ECD needs, gaps and opportunities which has improved policy 
+and affected the quality of services. The parents/caregivers who did access the modelled services self-report 
+changed attitudes towards their children, towards services, and towards their own role. These successes are largely 
+attributable to the personal commitment of change champions at national and local levels, connection with whom 
+UNICEF continues to nurture. The Project’s choice to strengthen and improve existing services, rather than to 
+create new ones (with a few exceptions), was conducive to secure the necessary public funding. Yet, as the 
+interviews attest, the duty bearers are reaching the limits of what can be improved within the available human 
+resources. 
+ 
+The evaluation found that UNICEF is the right partner for this Project and has leveraged its strengths to achieve 
+results. The intervention was conceived as a part of the long-term engagement of UNICEF for the realisation of 
+ECD standards and approach and thus remained fundamentally coherent with UNICEF’s strategy. By optimizing its 
+key comparative advantages – presence in the field, expertise of its staff, quality of its evidence generation– the 
+Project has achieved considerable success with relatively limited resources. The process of the Project helped 
+further diversify the existing long-term partnerships cultivated by UNICEF at national and local levels, which were 
+in turn used to expand the generation and application of knowledge.  
+ 
+In several countries, UNICEF also acted as a “convener”. The breadth and depth of the changes observed goes 
+beyond the Project: it is also attributable to the existing partnerships and accrued reputation of UNICEF in the field, 
+and to the action of other donor and international partners who complemented or followed on UNICEF’s action. 
+Because of its long-term, professional cooperation with CSOs and duty bearers who work on ECD at both national 
+and local levels, and because of its wealth of evidence-based knowledge and guidance, UNICEF was able to 
+convene the relevant stakeholders and act as a trusted adviser. Matching funds from other donors helped expand 
+and magnify the impact of the Project results.  
+ 
+KEY RECOMMENDATIONS 
+ 
+1. ADA would better optimise future investments into UNICEF projects by allowing UNICEF ECARO programmes 
+(such as ECD) to develop full-fledged theories of change at a realistic level for future complex projects, as this 
+would increase the feasibility and tailoring of future projects.   
+ 
+2. UNICEF ECARO should continue to advocate to donors and, when successful, support countries to systematize 
+early detection, early intervention services and standard-based functional assessments.  
+ 
+3. UNICEF ECARO should strengthen, expand and sustain multidisciplinary networks of ECD professionals at 
+national and regional levels. 
+ 
+4. UNICEF ECARO should build tools to monitor attitude, behavioural and practice changes among trained 
+practitioners. 
+ 
+5. UNICEF ECARO should continue providing policy guidance to country offices on systematically promoting job 
+descriptions and internal regulations of ECD duty bearers based on the products already elaborated. 
+ 
+6. For future complex projects, UNICEF ECARO should develop basic information products/documents for 
+communication purposes. 
+ 
+
+10 
+ 
+1. INTRODUCTION 
+This report presents the results of the evaluation of the Project “Social Inclusion of Roma Children and Children with 
+Disabilities in the Western Balkans and Moldova” (2018-2021). This Project was funded by the Austrian Development 
+Agency (ADA) (1.8 million EUR) jointly with the United Nations Children’s Fund (UNICEF) (0.7 million EUR) for a total 
+budget of 2.5 million EUR. It was implemented by UNICEF Europe and Central Asia Regional Office (ECARO) and 
+seven Country Offices (COs) in the region: Albania, Bosnia and Herzegovina, Kosovo*5, Moldova, Montenegro, North 
+Macedonia, and Serbia. 
+The purpose of this report is to communicate the findings, conclusions and recommendations derived from an 
+independent, theory-based evaluation of the Project. The evaluation is both summative, presenting how the Theory of 
+Change (ToC) resulted in outputs, outcomes and impact through the reference period, and formative, demonstrating 
+what dynamics enabled the results to ultimately contribute to long-term impact, and how future follow-up activities 
+could be framed. The report includes evidence-based lessons learned and recommendations for UNICEF and ADA. 
+The evaluation was commissioned by UNICEF Europe and Central Asia Regional Office (ECARO), and managed by 
+the UNICEF ECARO Evaluation team, with inputs from the Early Child Development (ECD) team.  
+The evaluation team was comprised of: 
+• 
+Ms. Camille Massey, International Consultant/Team Leader 
+• 
+Ms. Blerta Perolli-Shehu, Evaluation Specialist 
+• 
+Mr. Zarko Sunderic, Evaluation Specialist. 
+ 
+The evaluation process followed three phases: 
+• 
+Inception: review of initial documentation, elaboration of the methodology, identification of stakeholders, 
+consultations and one workshop with UNICEF ECD team and COs, development of Inception Report; 
+• 
+Data collection and field work: remote data collection, 73 interviews (including 63 women and 10 men), 
+review of the documentation, consultations with key UNICEF RO and CO stakeholders on preliminary 
+findings; 
+• 
+Data analysis and reporting: analysis of interview notes, analysis of documentation, report drafting, remote 
+consultation with key stakeholders, and finalisation of the Evaluation Report. 
+ 
+The evaluation process started on 10 October 2021, and ended in June 2022, as per the agreed timeline.  
+ 
+The interviews and consultations, as well as the validation of findings recommendations were done remotely, as 
+per standard COVID-19 prevention measures.  
+ 
+ 
+2. BACKGROUND 
+ 
+2.1 Context  
+Social Inclusion 
+Western Balkan countries and Moldova have ratified the United Nations Convention on the Rights of the Child 
+(CRC), the United Nations Convention on the Elimination of All Forms of Discrimination against Women and the 
+United Nations Convention on the Rights of Persons with Disabilities. All the countries6 are committed to the 
+ 
+5 All references to Kosovo in this report should be understood to be in the context of United Nations Security Council Resolution 1244 (1999). 
+The adjunction of the asterisk is intended as a reminder of this proviso.  
+6 The word ‘countries’ in this report is used to refer to Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia and 
+Serbia. For Kosovo this should be understood strictly in the context of United Nations Security Council Resolution 1244 (1999). 
+
+11 
+ 
+Sustainable Development Goal (SDG) Agenda and have in place a robust framework of policies, legislative 
+frameworks and national strategies with regard to social inclusion, and protection of the human rights of women 
+and children as well as vulnerable populations, such as ethnic minorities and persons with disabilities. Yet, annual 
+progress reports of the European Commission point to weaknesses in ensuring realization of fundamental rights of 
+Roma7 and people/children with disability across Moldova and Western Balkans region. Roma has continued to 
+face discrimination, harassment and hate crime because of their ethnic origin, as underlined by the recent report 
+from the European Union Agency for Fundamental Rights.8 Further, the rights of persons with disabilities, including 
+their transition to community-based care and independent living, need to be effectively protected in line with the 
+requirements of the UN Convention on the Rights of Persons with Disabilities. 
+ 
+The Project document outlines particular barriers in social inclusion of the most vulnerable since services provided 
+tend to be concentrated, both in quality and quantity, in urban areas and outreach to rural areas is weak; the quality 
+of universal or primary level services is low; the capacities of service providers are limited, new services around 
+early intervention and disability prevention are missing and parents/caregivers` involvement as well as involvement 
+of community-based and civil society organizations as potential partners in  advocacy and service provision 
+represents another challenge.  
+ 
+While countries have made progress in revising national legislation and policies, the institutional capacities for 
+implementation remain weak. The biggest challenge is the predominant medical approach, i.e., “curing” a disability, 
+as opposed to the social approach which builds on the strengths of the individual and ensures that their 
+environments are supportive and enabling rather than restrictive.  
+ 
+According to UNICEF ECARO, the European Union (EU) accession is a cornerstone influencing factor for the 
+Project countries, which have been investing efforts to harmonize policies and legislation to meet European 
+standards. However, a sizeable number of children are socially excluded and face risks and deprivations, which 
+limit their ability to reach their full potential.  
+ 
+Boys and girls from ethnic minority groups such as Roma, as well as boys and girls with developmental challenges 
+and disabilities suffer disproportionately from poverty, poor access to services and social benefits, exclusion, and 
+discrimination; they more often suffer from violence, separation from their families and placement in residential care 
+institutions or special schools. Social and gender norms negatively impact the social inclusion of vulnerable children, 
+and additionally hamper and limit Roma girls’ participation in education on account of several reasons, including 
+early marriage.9  
+ 
+The situation of the Project’s target groups with regard to social inclusion and in the context of ECD at the onset of 
+the Project constituted the baseline against which change will be assessed by this evaluation. According to the 
+Project document,10 while the situation varied from one country to another, at the launch of the Project, the countries 
+covered could be characterized as having slow implementation of reforms, especially the implementation of key 
+national strategies, poor inter-sectoral coordination and quality of services, as well as inadequate financing of social 
+services. 
+Effects of the COVID-19 pandemic 
+The impact of COVID-19, according to UNICEF sources11, in Europe and Central Asia went beyond health risks, 
+especially for children from poor families, ethnic minorities and children with disabilities, who have been 
+disproportionately affected by the COVID-19 pandemic. Lack of access to essential and support services increased 
+as was the isolation and stigmatization of children with disabilities and children from minority communities.  
+ 
+ 
+7 In this report, and in line with the European Commission (2021), the umbrella-term ‘Roma’ encompasses diverse groups, including Roma, 
+Sinti, Kale, Romanichels, Boyash/Rudari, Ashkali, Egyptians, Yenish, Dom, Lom, Rom and Abdal, as well as Traveller populations (gens du 
+voyage, Gypsies, Camminanti, etc.) 
+8 “A persisting concern: anti-Gypsyism as a barrier to Roma inclusion”, European Union Agency for Fundamental Rights, 2018. 
+9  Social Inclusion of Roma Children and Children with Disabilities in the Western Balkans and Moldova Inception Report (2019). UNICEF ECARO 
+to ADA. 
+10 Social Inclusion of Roma Children and Children with Disabilities in the Western Balkans and Moldova Project Document (2018). UNICEF 
+ECARO. 
+11 https://www.unicef.org/eca/unicef-responds-covid-19-pandemic-europe-and-central-asia

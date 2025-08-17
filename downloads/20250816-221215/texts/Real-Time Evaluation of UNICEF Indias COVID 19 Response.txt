@@ -1,0 +1,504 @@
+i 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+ 
+Authors: 
+Pushpendra Kumar Mishra (Team Leader) 
+Shantanu Das ( Monitoring & Evaluation Expert) 
+Kriti Seth (Researcher) 
+Nitin Sharma (Researcher) 
+Evaluation Manager: Atishay Mathur, Research and Evaluation Specialist, Evidence Section, UNICEF 
+Evaluation Consultant: Dr. Vishal Dev Shastri, Research and Evaluation Consultant, Evidence Section, UNICEF 
+ 
+ 
+
+ii 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+ 
+Evaluation Report 
+Submitted to 
+UNITED NATIONS CHILDREN’S FUND 
+(UNICEF) 
+New Delhi 
+Name of the Evaluation Project: 
+Real-Time Evaluation of UNICEF's Response to the COVID-19 
+Crisis in India 
+Timeframe of the evaluation 
+The evaluation evaluates UNICEF's support from March 2020 till 
+January 2022 (with different sub-periods of evaluation of 
+different pillars, as mentioned in Chapter 1 of the report) 
+Date of submission of the Draft Report 
+August 10, 2022 
+Submission of Final Report 
+September 2022 
+Duration of the Evaluation Assignment 
+August 2020 – September 2022 
+Location of the evaluated object 
+5 Indian States - Bihar, Jharkhand, Maharashtra, Uttar Pradesh, 
+West Bengal 
+Names and/or organization(s) of the 
+evaluator(s) 
+IPE Global Limited 
+Name of organization commissioning the 
+evaluation 
+UNICEF India (Research and Evaluation Team) 
+ 
+ 
+ 
+ 
+
+iii 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+TABLE OF CONTENTS 
+LIST OF TABLES ....................................................................................................................................... iv 
+LIST OF FIGURES ...................................................................................................................................... iv 
+LIST OF ACRONYMS .................................................................................................................................. v 
+ACKNOWLEDGEMENT ............................................................................................................................ vii 
+EXECUTIVE SUMMARY .......................................................................................................................... viii 
+STRUCTURE OF THE REPORT ................................................................................................................. xviii 
+1 
+INTRODUCTION ................................................................................................................................. 1 
+1.1 Background and Context ........................................................................................................................1 
+1.2 UNICEF Response Plan ...........................................................................................................................3 
+1.3 Purpose and Objectives of the Evaluation .............................................................................................7 
+1.4 Scope of Evaluation ................................................................................................................................8 
+1.5 Study Coverage and Target Respondents ..............................................................................................8 
+1.6 Community members and Duty-bearers ...............................................................................................8 
+2 
+EVALUATION APPROACH AND METHODOLOGY ................................................................................ 10 
+2.1 Evaluation Approach ........................................................................................................................... 10 
+2.2 Areas of Enquiry .................................................................................................................................. 10 
+2.3 Sampling Design and Methodology .................................................................................................... 14 
+2.4 Data Collection Method & Approach .................................................................................................. 15 
+2.5 Quality Assurance ............................................................................................................................... 16 
+2.6 Data Analysis ....................................................................................................................................... 17 
+2.7 Challenges and Limitations ................................................................................................................. 19 
+2.8 Ethical Considerations ......................................................................................................................... 20 
+3 
+KEY FINDINGS .................................................................................................................................. 21 
+3.1 Relevance ............................................................................................................................................ 21 
+3.2 Coverage ............................................................................................................................................. 28 
+3.3 Efficiency ............................................................................................................................................. 33 
+3.4 Effectiveness ....................................................................................................................................... 40 
+4 
+CONCLUSIONS ................................................................................................................................. 50 
+5 
+RECOMMENDATIONS ....................................................................................................................... 52 
+ANNEXURES ........................................................................................................................................... 57 
+Annexure 1: KEQs and SEQs for each pillar ................................................................................................ 57 
+Annexure 2: Data Collection Tools (Discussion Guides) ............................................................................. 70 
+Annexure 3: List of Documents referred to for Desk Review ................................................................... 172 
+Annexure 4: Gap Analysis Template ......................................................................................................... 175 
+Annexure 5: Activity Mapping................................................................................................................... 176 
+Annexure 6: Terms of Reference .............................................................................................................. 278 
+Annexure 7: Analytical Framework ........................................................................................................... 297 
+Annexure 8: List of Partnerships leveraged by UNICEF to deliver support/response .............................. 300 
+Annexure 9: UNICEF’s Response Pillars .................................................................................................... 303 
+Annexure 10: List of Stakeholders Interviewed ........................................................................................ 308 
+Annexure 11: Pillar Specific Reports ......................................................................................................... 318 
+ 
+ 
+ 
+
+iv 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+LIST OF TABLES  
+Table 1 
+Key Evaluation Questions 
+Table 2 
+Budget Requirements 
+Table 3 
+Sample Size 
+LIST OF FIGURES 
+Figure 1 
+Evaluation States 
+Figure 2 
+Quality Assurance 
+Figure 3 
+Data Analysis Framework 
+ 
+ 
+ 
+
+v 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+LIST OF ACRONYMS 
+Acronym 
+Full form  
+ANC 
+Antenatal Care  
+ANM 
+Auxiliary Nurse Midwifery 
+ASHA 
+Accredited Social Health Worker 
+AWW 
+Anganwadi Worker 
+CAB 
+COVID Appropriate Behavior  
+CCI 
+Child Care Institutes  
+COVID-19 
+Novel Corona Virus Disease 2019 
+CP 
+Child Protection 
+CrMT 
+Crisis Management Team 
+CSO 
+Civil Society Organization 
+FLW  
+Front Line Workers 
+GBV 
+Gender-Based Violence 
+GOI 
+Government of India 
+GP 
+Gram Panchayat 
+GPDP 
+Gram Panchayat Development  
+HBNC 
+Home-Based Newborn Care  
+HPM 
+Humanitarian Performance Monitoring 
+IEC 
+Information Education Communication  
+IPC  
+Infection and Prevention Control 
+JJM 
+Jal Jeevan Mission 
+KEQ 
+Key Evaluation Questions  
+KIIs 
+Key Informant Interviews 
+MIS 
+Management Information Systems  
+MoHFW 
+Ministry of Health and Family Welfare  
+NCERT  
+National Council of Educational Research and Training  
+NDMA 
+National Disaster Management Authority  
+NRC 
+Nutrition Rehabilitation Centre  
+NSS 
+National Service Scheme 
+OECD-DAC  
+Organisation for Economic Co-operation and Development - Development Assistance 
+Committee 
+PHFI 
+Public Health Foundation of India 
+POSHAN 
+Prime Minister's Overarching Scheme for Holistic Nutrition 
+PPE 
+Personal Protective Equipment 
+R&E 
+Research and Evaluation  
+RMNCHA  
+Reproductive, Maternal, Newborn, Child and Adolescent Health 
+
+vi 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+Acronym 
+Full form  
+ROSA 
+Regional Office for South Asia  
+RCCE  
+Risk Communication and Community Engagement 
+RTE 
+Real-Time Evaluation 
+SAM  
+Severe Acute Malnutrition  
+SBCC 
+Social Behavior Change Communication  
+SBM 
+Swachh Bharat Mission 
+SEQ 
+Sub Evaluation Questions  
+SHG 
+Self Help Group 
+SitRep 
+Situational Report  
+SNCU 
+Special Newborn Care Units 
+SOP 
+Standard Operating Procedure 
+SP 
+Social Protection  
+TOC  
+Theory of Change  
+UNDP 
+United Nations Development Programme  
+UNEG 
+United Nations Evaluation Group  
+UNFPA 
+United Nations Population Fund 
+UNICEF 
+United Nations Children's Fund 
+UP 
+Uttar Pradesh 
+USD 
+United States Dollar  
+VAC 
+Violence Against Children  
+WASH 
+Water, Sanitation and Hygiene 
+WB 
+West Bengal 
+WHO 
+World Health Organization  
+ 
+ 
+ 
+ 
+
+vii 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+ACKNOWLEDGEMENT  
+This evaluation was led by Pushpendra Kumar Mishra. The core evaluation team includes Shantanu Das, Kriti 
+Seth, and Nitin Sharma. The core team was supported by state moderators including Sukumar, Kaberi Sen, 
+Sanjay, and Sandeep.  
+We express our heartfelt appreciation to various stakeholders/officials at the national, state, district and block 
+and local levels and UNICEF state consultants. The team wishes to thank all of them for sparing time to 
+participate in discussions and providing key information and valuable suggestions.  
+We are also grateful for the technical and logistical support provided by the UNICEF Country Office, Delhi, 
+comprisingMaaike Bijker, Atishay Mathur and Vishal Dev Shastri. The team is grateful to the UNICEF core group 
+for providing valuable insights and guidance at every stage towards the success of this evaluation. 
+ 
+ 
+ 
+
+viii 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+EXECUTIVE SUMMARY 
+Background and Context:  
+The SARS-CoV-2/COVID-19 (Novel 
+Coronavirus Disease 2019), which 
+first struck India in March 2020, 
+created 
+an 
+unprecedented 
+emergency 
+globally, 
+its 
+effects 
+reaching far beyond the health sector 
+to almost all other areas of social and 
+economic well-being. Health and 
+nutrition as critical developmental 
+indicators suffered in many parts of 
+the country due to halted service 
+delivery and public confusion around 
+health-related guidelines. This confusion resulted froma lack of clear-cut and lucid communication around 
+masking, lockdown protocol and what constituted essential services, as well as if government-mandated 
+health and nutrition outlets would continue to function. For example, the number of pregnant women that 
+received 4 or more Antenatal Care (ANC) check-ups in India reduced by more than 40% in April 2020 compared 
+to the pre-lockdown period (Jan 20 - March 20). Further, given that most health functionaries were 
+predominantly engaged in COVID-19 related activities, Home Based Newborn Care (HBNC) check-ups were 
+40% lower in April 2020 vis-à-vis April 2019.1  
+However, overall, the Government of India’s (GoI) response to COVID-19 was pre-emptive, proactive and 
+graded with a high level of political commitment. Indeed, the government took several preventive and 
+mitigating measures such as progressive tightening of international travel, issuing of advisories for the 
+members of the public, setting up of quarantine facilities, contact tracing of persons infected by the virus and 
+various social distancing measures. Further, the National Disaster Management Authority (NDMA) and GoI 
+drafted and shared the Containment Plan for Large Outbreaks - COVID-19. Accordingly, public health measures 
+and non-pharmaceutical measures were implemented in all states/UTs. State, district, and block officials were 
+trained on COVID-19 responses.  
+ 
+The Government of India imposed a nationwide lockdown to control the spread of the disease and further 
+extended it until July 2020. India also launched its COVID-19 vaccination drive on 16 January 2021. However, 
+new variants of COVID-19 were detected, which propelled India into a second wave in March 2021 that 
+resulted in higher death and infection rates. By June 2021, India was again able to reduce the number of 
+ 
+1 UNICEF HMIS Report 2020-2021, accessed on 7th January 
+0
+50
+100
+150
+200
+250
+Pregnant women that received 4 or more
+ANC check ups
+Number of Institutional Deliveries
+conducted
+Number of PW provided full Course 180
+Iron Folic Acid (IFA) tablets
+Coverage of RMNCH+A Services
+Apr-19
+Apr-20
+May-21
+1 unit= 10000 community members
+
+ix 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+COVID-19 cases in the country. This decrease was possible because of the sustained vaccination drive, massive 
+information campaigns, lockdowns, and public strict compliance COVID-19 Appropriate Behavior (CAB). The 
+third wave of the COVID-19 pandemic hit India between January and March 2022, marked by the rise of the 
+Omicron variant.  
+Waves of COVID-19 in India 
+Wave 1: March -June 2020  
+Wave 2: March – June 2021 
+Wave 3: (January -March 2022) 
+UNICEF India worked closely with World Health Organization (WHO) and the Ministry of Health and Family 
+Welfare focusing its efforts to support coordinated action for the preparedness, containment, and mitigation 
+of the outbreak from March 2020 till the present. UNICEF adopted a multi-sectoral approach to its response 
+strategy, coordinating with relevant Ministries involved in the response, to enable policies that protect the 
+rights of the most vulnerable, especially women and children. UNICEF response plan was designed in early 
+2020, soon after the onset of the pandemic, with two major goals: (a) minimizing the spread and mortality of 
+the pandemic, and (b) mitigating its socio-economic impact on women and children. UNICEF’s efforts focused 
+on: 
+I. 
+Risk communication and community engagement (RCCE) to build resilient communities. 
+II. Improve Infection and Prevention Control (IPC) and provide critical medical and water, sanitation, and 
+hygiene (WASH) supplies. 
+III. Support the provision of continued access to essential health and nutrition services for women, children, 
+and vulnerable communities, including case management. 
+IV. Data collection social science research for public health decision making. 
+V. Support access to continuous education, social protection, child protection and gender-based violence 
+(GBV) services. 
+VI. Coordination, technical support, and operational costs. 
+UNICEF’s COVID-19 response plan and activities were not developed following any explicit ToC. The response 
+was developed at the onset of the pandemic and there was not much sufficient time to develop a ToC. It 
+mainly relied on the experience of managing H1N1 and its SBCC strategy. The UNICEF response also lacked a 
+results framework because of which comparative inferences and achievements could not be assessed against 
+any set milestones. 
+Purpose and Objectives of the Evaluation:  
+UNICEF India commissioned IPE Global Limited to carry out a Real-Time Evaluation (RTE) of its COVID-19 
+Response Strategy to assess and improve the relevance, coverage, effectiveness, and efficiency2 of its COVID-
+19 crisis response, by providing real-time feedback and recommendations for improvement across the 
+different pillars of response outlined above. The objectives of the evaluation included:  
+• 
+Providing feedback to the UNICEF India Crisis Management Team (CrMT) on the relevance, coverage, 
+efficiency, and effectiveness of its COVID-19 response.  
+• 
+Identifying challenges and bottlenecks in service delivery and providing recommendations for 
+improvement. 
+• 
+Involving partners and stakeholders in shaping UNICEF’s crisis response to ensure it is more participatory 
+ 
+2 The Terms of Reference document deviated from the OECD-DAC criteria and the evaluation is simply drawing on the evaluation criteria outlines in the 
+ToR – relevance, coverage, effectiveness, and efficiency.  
+
+x 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+and responsive to needs on the ground.  
+• 
+Acting as a real-time lesson learning exercise that adjusts and improves planning and performance, 
+allowing for ongoing correction of the current crisis response, but also collecting lessons for future health 
+emergencies.  
+• 
+Identify gaps in UNICEF India’s ongoing evidence-gathering efforts and recommend suggestions. 
+• 
+Collect data for use in future evaluation/s of UNICEF’s response. 
+The evaluation team assessed UNICEF’s technical assistance to support the Government of India in addressing 
+the COVID-19 crisis at the national, state and district level. The evaluation has used Organization for Economic 
+Co-operation and Development - Development Assistance Committee (OECD-DAC) evaluation criteria of 
+relevance, coverage, efficiency, and effectiveness3. The evaluation has assessed UNICEF’s contribution from 
+the beginning of the pandemic (March 2020) till the evaluation of each pillar had started i.e.: 
+Evaluation Pillar 
+Pillar-specific evaluation period 
+Pillar 1 
+March 2020 – November 2020 
+Pillar 2 
+March 2020 – February 2021 
+Pillar 5 
+March 2020 – July 2021 
+Pillar 3 
+March 2020 – January 2022 
+The evaluation did not evaluate pillars 4 and 6 because it was mutually decided with the UNICEF research and 
+evaluation team, given the dynamic COVID-19 context, that the evaluation of these 2 pillars will not serve the 
+purpose of real-time learning. Hence, these 2 pillars were dropped from the evaluation’s scope of work.  
+Evaluation Methodology: 
+A participatory, consultative, and utilization-focused approach was deployed for the evaluation to assess 
+UNICEF’s COVID-19 response for each pillar against the OECD-DAC criteria mentioned above. The RTE focused 
+on the delivery and implementation of the UNICEF India COVID-19 Response Plan indicators in five evaluation 
+states: Jharkhand, West Bengal, Uttar Pradesh, Bihar, and Maharashtra. A longitudinal-observation design was 
+used to review the data (documents for undertaking desk review) on a monthly/ongoing basis to provide 
+feedback and recommendations to improve UNICEF’s ongoing COVID-19 response. A combination of methods 
+(desk review of UNICEF’s share link data covering all real-time data/reports against each of the pillars, 
+qualitative interviews, and secondary data analysis) were used for this evaluation. The primary data collection 
+mainly relied on qualitative methods [Key Informants Interviews (KIIs)] of different sets of stakeholders – 
+UNICEF officials at the National and State levels, State and District/Block Government officials and Civil Society 
+Organizations (CSO)/implementation partners. The KIIs were conducted with the key stakeholders who 
+UNICEF had partnered with or that were involved in/responsible for the design and implementation of the 
+COVID-19 response activities. These KIIs were undertaken virtually (using online platforms such as Microsoft 
+Teams and telephonic calls) asface-to-face/on-ground data collection was not feasible due to the pandemic’s 
+restrictions. Overall, the modes of data collection were outlined in the ToR and mutually agreed upon with 
+UNICEF.  
+Overview of the Challenges and Limitations during Evaluation: 
+• 
+Due to the ongoing pandemic, all data collection took place remotely and online mode. Therefore, 
+community or beneficiary-level interviews couldn’t be conducted.  
+• 
+The rapid nature of data collection and analysis meant that gold standards of reliability could not be 
+ 
+3 Ibid.  
+
+xi 
+Real Time Evaluation of UNICEF's Response to the COVID-19 Crisis in India 
+Evaluation Report 
+ 
+followed. The evaluation team mitigated these limitations by triangulating the evaluation results reported 
+in each brief with monitoring data, field and reports received from UNICEF (national and state offices), 
+and other sources to ensure that multiple sources informed the reported findings of evidence. 
+• 
+There have been substantial delays in scheduling interviews during the COVID-19 waves in India. The 
+COVID-19 waves in India affected the turnaround time of UNICEF’s teams and the unavailability of 
+stakeholders. Moreover, incorporating real-time learning in the evaluation approach also led to the 
+extension of the evaluation timeline.  
+• 
+It was of paramount importance to ensure this RTE does not get in the way of the response and overwhelm 
+already inundated officials. Another limitation of this evaluation was that it needed to respond to the 
+unfolding situation; therefore, long-term planning was not possible. Response pillars for investigation and 
+participants were chosen in collaboration with UNICEF on a rolling basis.  
+• 
+Since the pandemic has affected the whole population, the government and UNICEF’s response plan 
+targeted the whole population, including the marginalized and vulnerable. Therefore, it is important to 
+highlight that though gender and equity have been the underlying theme of the pillar-specific evaluations, 
+it was not explicitly (and in isolation) focused upon by UNICEF while providing essential supplies and 
+support. Therefore, the evaluation  reflect gender and equity as an underlying theme but not an explicit 
+and standalone area of inquiry. However, UNICEF’s support towards women and children-centric services 
+(such as routine immunization, antenatal care, etc.), as well as the evaluation of the latter,  are evidence 
+of a targeted attention to this group. 
+• 
+Given the amount of crucial information, the length of the executive summary and comprehensive report 
+exceeds the suggested length as per the Global Evaluation Report Oversight System format. Condensing 
+the information in the report or executive summary may have led to the loss of pivotal information 
+necessary for depth for any key user. 
+Key Conclusions on Findings:  
+The key findings of this evaluation study are grouped under OECD-DAC criteria of relevance, coverage, 
+effectiveness, and efficiency. Each of them has been summarized below: 
+Relevance: 
+The evaluation revealed that the activities undertaken as part of UNICEF’s COVID-19 response were highly 
+relevant and fully aligned with the government priorities since UNICEF’s response plan was developed in close 
+consultation with the national and state governments to address their needs. The response plan was 
+developed in March 2020, and then regularly updated to adapt to the evolving pandemic situation and partner 
+government’s requests. Often, UNICEF’s activities provided supplementary support to the ongoing 
+government activities and helped in their bolstering and scale-up. For instance, government priorities w.r.t. 
+Education largely focused on enabling continuity of education. To address the government priorities, UNICEF 
+focused on providing support towards continuity of education through providing state-specific strategic 
+support towards home-based learning, preparation and mobilization of materials and content; and supported 
+unhindered Early Childhood Development by promoting gender-responsive parenting. 
+The evaluation found that the activities and technical assistance provided by UNICEF were tailored to the local 
+(socio-cultural) context of different states. UNICEF India followed the ROSA (Regional Office for South Asia) 
+and HQ guidelines (and standard indicators) to structure its COVID-19 response. The global guidelines provided 
+a wide array of activities and only those sections of the global guidelines were adopted that suited the Indian 
+context. Rapid assessments were undertaken to identify the state's needs. These were accommodated in the 
+form of HPM indicators in UNICEF’s COVID-19 response. UNICEF supported state governments across all 5

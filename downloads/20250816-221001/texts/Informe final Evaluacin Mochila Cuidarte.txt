@@ -1,0 +1,669 @@
+1 
+ 
+EVALUACIÓN DE MOCHILA CUIDARTE (Fase Piloto) 
+ 
+PANAMÁ 
+PRODUCTO 3: INFORME FINAL DE EVALUACIÓN 
+ 
+Versión final, Ciudad de Panamá, 29 de agosto 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equipo evaluador 
+ 
+Claudia Kreussler 
+Jose Luis Castillo B.  
+Flavia Lorenzon 
+ 
+ 
+
+ 
+ 
+2 
+ 
+ 
+ÍNDICE 
+Abreviaturas ........................................................................................................................................................................ 3 
+RESUMEN EJECUTIVO .......................................................................................................................................................... 4 
+1. CONTEXTO Y OBJETO DE EVALUACIÓN ............................................................................................................................ 9 
+1.1 Contexto ........................................................................................................................................................................... 9 
+1.2 Objeto ............................................................................................................................................................................. 12 
+2. PROPÓSITO, OBJETIVOS Y ALCANCE DE LA EVALUACIÓN ............................................................................................... 17 
+2.1 Propósito ........................................................................................................................................................................ 17 
+2.2 Objetivos de la evaluación .............................................................................................................................................. 17 
+2.3 Alcance de la evaluación ................................................................................................................................................. 18 
+3. CRITERIOS Y PREGUNTAS DE EVALUACIÓN .................................................................................................................... 19 
+3.1 Criterios de Evaluación ................................................................................................................................................... 19 
+3.2 Preguntas de Investigación ............................................................................................................................................. 19 
+4. METODOLOGÍA .............................................................................................................................................................. 20 
+4.1 Análisis de datos ............................................................................................................................................................. 23 
+5. LIMITACIONES DE LA EVALUACIÓN ................................................................................................................................ 25 
+6. CONSIDERACIONES ÉTICAS ............................................................................................................................................ 26 
+7. HALLAZGOS ................................................................................................................................................................... 27 
+7.1  Relevancia ...................................................................................................................................................................... 27 
+7.2 Eficiencia ......................................................................................................................................................................... 31 
+7.3. Eficacia ........................................................................................................................................................................... 37 
+7.4.  Impacto ......................................................................................................................................................................... 50 
+7.5. Sostenibilidad ................................................................................................................................................................ 55 
+8. CONCLUSIONES ............................................................................................................................................................. 57 
+9. LECCIONES APRENDIDAS ............................................................................................................................................... 59 
+10. RECOMENDACIONES.................................................................................................................................................... 60 
+11. ANEXOS ....................................................................................................................................................................... 69 
+Anexo A: Términos de Referencia......................................................................................................................................... 69 
+Anexo B: Teoría de Cambio de Mochila Cuidarte ................................................................................................................. 79 
+Anexo C: Matriz de evaluación ............................................................................................................................................. 80 
+Anexo D: Análisis de evaluabilidad ....................................................................................................................................... 86 
+Anexo E: Herramientas de recolección de data cuantitativa proveniente del sistema M&E del piloto ............................... 90 
+Anexo F: Herramientas de recolección de la información cualitativa .................................................................................. 98 
+Anexo G: Lista de lugares visitados y lista de entrevistados ............................................................................................... 107 
+Anexo H: Lista de documentos consultados ....................................................................................................................... 109 
+Anexo I: Caracterización de la muestra cuantitativa y tabulaciones adicionales ............................................................... 111 
+Anexo K: Factores de éxito para el escalamiento de una solución, modelo o programa ................................................... 127 
+Anexo L: Contenidos de la Mochila Cuidarte ...................................................................................................................... 128 
+Anexo M: Matriz de hallazgos – conclusiones – recomendaciones de la evaluación ......................................................... 129 
+Anexo N: Endnotes (Referencias de citas/data cualitativa) ................................................................................................ 137 
+
+ 
+ 
+3 
+ 
+ 
+Abreviaturas 
+BID 
+ 
+Banco Interamericano de Desarrollo 
+BSID 
+ 
+Escala Bayley de Desarrollo Infantil (Bayley Scales of Infant & Toddler Development) 
+CAPI  
+ 
+Consejo Asesor de la Primera Infancia 
+CAIPI 
+ 
+Centro de Atención Integral a la Primera Infancia 
+CDN 
+ 
+Convención sobre los Derechos del Niño  
+CEFACEI  
+Centros Familiares y Comunitarios de Educación Inicial 
+CEIC  
+ 
+Centros de Educación Inicial Comunitarios  
+COAI 
+ 
+Centro de Orientación y Atención Integral 
+CONAIPI  
+Consejo Nacional de Atención Integral de la Primera Infancia  
+CPM  
+ 
+Comisiones para la Promoción y Monitoreo  
+CSS  
+ 
+Caja de Seguro Social  
+DISPROS 
+Dirección de Servicios de Protección Social del MIDES 
+ENSPA  
+Encuesta Nacional de Salud de Panamá 
+EIH  
+ 
+Educación Inicial en el Hogar 
+FUPS 
+ 
+Ficha Única de Protección Social 
+HOME  
+Observaciones del Hogar para la Medición de Ambiente 
+INEC 
+ 
+Instituto Nacional de Estadísticas y Censo 
+IPHE  
+ 
+Instituto Panameño de Habilitación Especial 
+MEDUCA 
+Ministerio de Educación  
+MICS 
+ 
+Encuesta de Indicadores Múltiples de Panamá (Multiple Indicator Cluster Survey) 
+MIDES  
+Ministerio de Desarrollo Social 
+MINSA  
+Ministerio de Salud 
+PAIPI   
+Plan de Atención Integral a la Primera Infancia  
+RAIPI 
+ 
+Ruta de Atención Integral a la Primera Infancia 
+RIS 
+ 
+Responsable de Implementación y Seguimiento 
+SENAPAN 
+Secretaría Nacional para el Plan de Seguridad Alimentaria y Nutricional 
+SENNIAF  
+Secretaría Nacional de Niñez, Adolescencia y Familia  
+ODS 
+ 
+Objetivos de Desarrollo Sostenible 
+TdC 
+ 
+Teoría de Cambio 
+TE  
+ 
+Tribunal Electoral  
+UDELAS  
+Universidad Especializada de las Américas 
+UNICEF  
+Fondo de las Naciones Unidas para la Infancia 
+ 
+ 
+
+ 
+ 
+4 
+ 
+RESUMEN EJECUTIVO  
+ANTECEDENTES  
+Los primeros años de la vida del niño/a sientan las bases de su desarrollo futuro. En particular, en la etapa 
+del embarazo hasta los 3 años, el cerebro es más sensible a las influencias externas.1 Los progresos en 
+neurociencia demuestran que el cerebro del bebé forma nuevas conexiones a una velocidad extraordinaria 
+de más de 1 millón por segundo, un ritmo que jamás se repite. Durante este proceso, las experiencias que 
+viven, incluyendo una adecuada nutrición, protección y estimulación a través de comunicación, juego y 
+atención receptiva de cuidadores, influyen en las conexiones neuronales, que impactan en el desarrollo 
+cognitivo, emocional, físico y social del niño y de la niña.2 
+De acuerdo con las últimas estadísticas disponibles en Panamá, solo el 2,7% de los niños/as menores de 3 
+años están matriculados en servicios públicos de cuidado. Las amenazas al desarrollo durante la primera 
+infancia son mayores para los niños y niñas que viven en los hogares más vulnerables3. Los niños/as en 
+pobreza cuentan con menos juguetes y libros. Estos niños/as están más expuestos a cuidados inadecuados 
+y a malnutrición.  
+El objeto de la presente evaluación, Mochila Cuidarte, coincide con el  marco normativo y de políticas 
+públicas para el desarrollo infantil temprano en Panamá: i) la Ley 171/2020 de Protección Integral a la 
+Primera Infancia y al Desarrollo Infantil Temprano; ii) la Ruta de Atención Integral a la Primera Infancia 
+(RAIPI), un modelo de atención intersectorial e interinstitucional que traza la secuencia de atenciones 
+planificadas, continuas y permanentes para la garantía de los derechos de los niños y niñas de 0 a 8 años y 
+iii) el “Plan Colmena”, la política de Estado dirigida a combatir la pobreza en los 300 corregimientos más 
+vulnerables, con el mayor índice de pobreza en las áreas indígenas.  
+Para mitigar los impactos de la interrupción de servicios de cuidado y educación inicial durante la pandemia 
+por Covid-19, el Ministerio de Desarrollo Social (MIDES) diseñó e implementó diversas innovaciones, entre 
+ellas, Tu CAIPI en Casa (modalidad institucional)4 y Mochila Cuidarte (modalidad familiar/comunitaria).  
+Mochila Cuidarte es un servicio de cuidado y educación inicial de modalidad familiar/comunitaria, que se 
+implementa en áreas de difícil acceso y sin cobertura de modalidades institucionales. 
+OBJETO DE EVALUACIÓN 
+Mochila Cuidarte es un servicio de cuidado y educación inicial en modalidad familiar/comunitaria. Tiene 
+como objetivo promover el desarrollo de niños y niñas entre 6 a 36 meses a través del juego, el cuidado 
+familiar y la potenciación de las habilidades parentales. Consiste en la entrega de una mochila con materiales 
+didácticos y una guía estructurada de actividades dirigida a madres, padres y cuidadores de niños/as. 
+Además, las familias reciben visitas domiciliarias quincenales durante 6 meses (12 visitas) por “Responsables 
+de Implementación y Seguimiento” (RIS) quienes fueron capacitados para promover y potenciar el uso de la 
+guía. Mochila Cuidarte se implementa en tres fases: fase I (piloto), fase II (evaluación del piloto), y fase III 
+(escala).  
+El objeto de evaluación se entiende como un “piloto a escala” porque prueba el concepto y elementos para 
+informar el escalamiento, por ejemplo, el valor agregado de la visita domiciliaria sobre los resultados del 
+desarrollo infantil temprano. La evaluación es parte del proceso de crear conocimiento y aprendizaje 
+institucional para informar el escalamiento. La visión a escala del MIDES es llegar a un programa estatal de 
+cuidado y educación inicial en modalidad familiar/comunitaria contextualizado a las realidades locales.  
+ 
+1 Lagercrantz H., 2016. Infant brain development: Formation of the mind and the emergence of consciousness. 
+2 UNICEF, 2016. Evidencia científica según el Centro para el Niño en Desarrollo, Universidad de Harvard. 
+3 MICS, 2013. Los datos no incluyen a niños menores de 3 años. Sin embargo, demuestran las brechas territoriales. 
+4 Las maestras del CAIPI desarrollaron el currículo mediante visitas quincenales del cuidador al CAIPI y seguimiento semanal a las 
+familias mediante llamadas telefónicas. 
+
+ 
+ 
+5 
+ 
+Mochila Cuidarte es una adaptación del programa Cuidarte5 y fue diseñado por la Dirección de Servicios de 
+Protección Social (DISPROS) del MIDES. Ambas intervenciones reconocen el lugar protagónico que tienen las 
+familias en el cuidado, la crianza, la educación y el desarrollo del niño/a en su Primera Infancia.  
+PROPÓSITO, OBJETIVOS Y ALCANCE DE LA EVALUACIÓN 
+El propósito era evaluar un servicio de cuidado y educación inicial (Mochila Cuidarte) en su fase piloto6, 
+validar elementos y ponderar los procesos y resultados en esta etapa para informar la planificación y 
+ejecución del escalamiento en los territorios con brechas importantes de acceso a servicios de educación 
+inicial. La evaluación externa de carácter formativo genera conocimientos que permite a la institución 
+aprender y refinar, previo a escalar el servicio como programa estatal. La evaluación resulta innovadora, al 
+incorporar una valoración del impacto del servicio sobre la vida de los niños/as y sus familias, así como la 
+gestión y liderazgo del proceso evaluativo por el propio país. 
+Los objetivos específicos de la evaluación son:  
+1. Precisar el nivel de relevancia del piloto para atender la situación de los niños/as entre los 6 y 24 meses 
+y sus familias en términos de cuidado infantil, educación inicial y acompañamiento familiar para mejorar 
+la interacción entre cuidadores y niños/as a través del juego. 
+2. Determinar la eficiencia de la intervención en su fase piloto, al examinar si se complementa en diseño, 
+implementación y monitoreo con otras intervenciones enfocadas en primera infancia financiadas por el 
+Estado, y establecer acciones para mejorar la complementariedad. 
+3. Estimar la eficacia en la fase piloto (eficacia a nivel de resultados). Específicamente: i) establecer los 
+factores (individuales, socioeconómicos) que afectan la eficacia de la versión de mochila que incluye 
+visitas quincenales, ii) estimar la frecuencia óptima de visitas para lograr efectos, iii) determinar la 
+valoración y satisfacción de las familias beneficiarias de Mochila Cuidarte, y iv) delinear estrategias para 
+mejorar el componente de las visitas domiciliarias (eficacia del proceso, calidad del servicio).   
+4. Estimar las diferencias entre niños/as que solo reciben la mochila y los que reciben la mochila más una 
+visita quincenal de orientación y acompañamiento familia por un RIS. (impacto) 
+5. Determinar las condiciones normativas e institucionales necesarias para escalar el servicio  
+(sostenibilidad, enfoque piloto a escala). 
+6. Determinar el grado de inclusión de los enfoques de derechos humanos, género y equidad.  
+7. Identificar buenas prácticas, innovaciones y lecciones aprendidas en la etapa piloto para mejorar la 
+intervención a futuro y brindar elementos que permitan escalar su implementación. 
+8. Determinar cómo Mochila Cuidarte fue pensada desde su diseño para ser escalada, y valorar si en diseño 
+y ejecución tiene los componentes adecuados para el escalamiento (piloto a escala). 
+Alcance temático: La evaluación es parte de un proceso de “piloto a escala” y constituye la fase II de este 
+proceso (evaluación formativa del pilotaje) para el aprendizaje y escalamiento.  
+Alcance temporal: La evaluación se realizó entre octubre del 2021 y junio del 2022 y abarca las experiencias 
+obtenidas por el piloto durante la ejecución por 6 meses de julio a diciembre del 2021.  
+Alcance territorial: De acuerdo con el perfil poblacional del piloto, la evaluación incluye a territorios diversos 
+(rurales, indígenas) de mayor grado de pobreza a nivel nacional para la recolección de la información. 
+METODOLOGÍA 
+La evaluación es no experimental y utiliza métodos mixtos y elementos de la evaluación basada en la teoría 
+de la intervención (Teoría de Cambio). Los métodos mixtos abarcaron métodos cualitativos y cuantitativos. 
+Esta integración busca brindar una comprensión profunda y contextualizada de la relevancia, eficiencia, 
+eficacia, sostenibilidad y escalabilidad de la intervención, e impacto.  
+ 
+5 El Programa Cuidarte es otro servicio de la modalidad familiar/comunitaria de cuidado y educación inicial. Desarrolla acciones 
+pedagógicas en el hogar adaptadas del programa Reach Up para extender los servicios de atención a la primera infancia a las áreas 
+de difícil acceso. El plan de intervención que utilizó Mochila Cuidarte con los RIS se basó en la guía de actividades de Cuidarte. 
+6 Un piloto puede entenderse como una “prueba del concepto”. Durante el diseño e implementación de un proyecto, es una etapa 
+de pequeña escala para evaluar factibilidad, tiempo, costos y resultados imprevistos.  
+
+ 
+ 
+6 
+ 
+El componente cuantitativo incluye el análisis de datos provenientes del sistema de Monitoreo y Evaluación 
+(M&E) de Mochila Cuidarte, donde un 5% de las familias beneficiarias fueron evaluadas a través de encuestas 
+para determinar desarrollo motriz del niño/a, desarrollo del lenguaje del niño/a, interacción familiar y 
+oportunidades de juego en el hogar.  La recolección de información se completó con encuestas en cuatro 
+tomas (durante la línea base, 2 meses después de comenzar Mochila Cuidarte, 4 meses después y 6 meses 
+después).  El sistema de M&E incluye niños/as que recibieron solamente mochila y niños/as que recibieron 
+mochila más visitas domiciliarias quincenales (12 visitas en total).  El componente cualitativo (realizado para 
+esta evaluación) incluye entrevistas con directores nacionales y regionales del MIDES, así como grupos 
+focales con familias beneficiarias y los RIS. 
+La evaluación tiene un enfoque de “piloto a escala” que permite identificar las oportunidades y elementos 
+que valen la pena ser escalados y cómo. Contempla un enfoque a utilidad puesto que provee elementos y 
+evidencias que puedan servir para 1) escalar el piloto, 2) mejorar el diseño y ejecución del sistema de M&E 
+y 3) diseñar una evaluación de la intervención escalada por los actores responsables del ecosistema 
+institucional de atención a la primera infancia en Panamá. El principal usuario de los resultados de la 
+evaluación son la Dirección de Servicios de Protección Social (DISPROS) del MIDES y los enlaces regionales 
+responsables de asegurar que se cumpla el derecho de los niños/as a tener un desarrollo infantil adecuado. 
+Otros usuarios claves son los actores de la RAIPI. 
+HALLAZGOS PRINCIPALES 
+Relevancia: Mochila Cuidarte es valorado como relevante porque es una alternativa para llegar a niños/as 
+que no tienen acceso a servicios institucionales de cuidado y educación inicial.  
+1. Mochila Cuidarte es pertinente para la población beneficiaria, ya que los servicios de cuidado y 
+educación inicial no existían en las zonas remotas. En otras palabras, Mochila Cuidarte se convierte en 
+una forma de garantizar el servicio de cuidado y educación inicial en contextos de difícil acceso, 
+contribuyendo a ampliar la cobertura. 
+2. Todas las cuidadoras entrevistadas, incluyendo cuidadoras indígenas y afrodescendientes, coinciden que 
+Mochila Cuidarte es adecuado a sus realidades. Las herramientas les fueron útiles durante el 
+confinamiento por la pandemia Covid-19, y ayudaron a los niños/as en su desarrollo emocional y 
+cognitivo.  
+3. Mochila Cuidarte no abarca otras necesidades del niño/a para su desarrollo integral7, pero la visita a) 
+funciona como un mecanismo de i) gestión de casos y ii) referencia a otros servicios que, de otra manera, 
+no pasaría en estas comunidades, y b) permite crear articulaciones con otros proveedores de atención a 
+la niñez.  
+4. Mochila Cuidarte incluye los enfoques de etnicidad, equidad y género: a) para contextualizar la 
+intervención, realizó ajustes culturales en áreas indígenas, b) contribuyó a identificar niños/as con 
+discapacidad, cuyos cuidadores recibieron herramientas para mejorar el cuidado adaptado a las 
+necesidades del niño/a, c) es relevante para familias numerosas porque otros miembros del hogar 
+participan en las actividades, y d) fomenta la participación de la figura paterna en la interacción con el 
+hijo/a. Persisten desafíos para elevar el involucramiento de la figura paterna por factores culturales y 
+roles tradicionales de género. 
+Eficiencia: Mochila Cuidarte es valorado como parcialmente eficiente.  
+5. Se evidencia una planificación e implementación parcialmente coordinada de Mochila Cuidarte con otros 
+servicios para la primera infancia. Por ejemplo, existe armonización en la planificación e implementación 
+con el programa Cuidarte. Mochila Cuidarte coincide solo parcialmente con intervenciones de protección 
+social, porque solo la mitad de las familias de Mochila Cuidarte reciben además un subsidio estatal.  
+6. No existe un protocolo que oriente la referenciación y seguimiento de los casos interinstitucionalmente, 
+aunque los equipos y funciones multidisciplinarios de los RIS propician la referencia a instancias 
+competentes.   
+ 
+7 Para alcanzar su máximo potencial, los niños pequeños necesitan cinco componentes indivisibles del cuidado cariñoso y sensible: 
+buena salud, nutrición óptima, protección y seguridad, oportunidades para el aprendizaje temprano, y atención receptiva.  
+
+ 
+ 
+7 
+ 
+7. Mochila Cuidarte no tiene un presupuesto institucional y no ha sido costeado incluyendo rubros 
+administrativos/operativos diferenciados por región. 
+8. La supervisión y acompañamiento periódico desde el nivel central fueron válidos en esta fase para la 
+gestión del conocimiento y ajustar operativamente el servicio de manera rápida, pero no son eficientes 
+para llegar a las comunidades. 
+Eficacia: Mochila Cuidarte es valorado como eficaz, porque los resultados planificados han sido alcanzados.  
+Se cuenta con personal capacitado para proveer el servicio, las mochilas fueron distribuidas a las familias, 
+las visitas a las familias fueron cumplidas en su mayoría, la mayoría de los cuidadores siguen la guía y el 
+material, y se observa un incremento de compromiso de familias. Además, los cuidadores beneficiarios 
+expresan alta satisfacción con el servicio. 
+9. Se encontró que a) el enfoque de utilizar personal de planta disponible en las regiones y equipos 
+multidisciplinarios incidió en un alto compromiso de los RIS en esta etapa. Sin embargo, b) la capacitación 
+no fue suficiente y no cuenta con estándares de calidad que orienten un plan de capacitación, pero hubo 
+acompañamiento continuo y supervisión de RIS desde la DISPROS y orientación entre los RIS. 
+ 
+10. Las visitas domiciliarias son de calidad y percibidas como valiosas al brindar orientación sobre cómo usar 
+el contenido de la mochila. Algunos cuidadores del grupo que solo recibió mochila sin visitas solicitan 
+seguimiento por los RIS. Los RIS coinciden con esto, pues indican que la visita es una oportunidad para 
+guiar a las familias en el fortalecimiento de habilidades parentales y educación inicial. 
+ 
+11. Mochila Cuidarte fue diseñado más como un proyecto que un piloto a escala, porque su diseño no se 
+basa explícitamente en un plan de escalabilidad. No obstante, tiene elementos implícitos de un piloto 
+porque permitió probar los elementos necesarios del servicio, y tiene una visión de escalamiento 
+dependiendo de si se logran efectos positivos en la población beneficiaria. El sistema de monitoreo y 
+evaluación (M&E) piloteó la medición de impacto.  
+Impacto 
+12. Hay indicios de que Mochila Cuidarte genera ganancias en el desarrollo del lenguaje, desarrollo motriz y 
+aumenta las oportunidades de juego en el hogar. 
+ 
+13. No existen diferencias estadísticamente significativas entre aquellos niños/as que solo recibieron 
+mochila versus aquellos que recibieron mochilas más visitas, en ningún indicador de desarrollo infantil 
+(desarrollo motriz, del lenguaje u oportunidades de juego en el hogar). Estos resultados no deben ser 
+tomados como definitivos, pues en el diseño de esta evaluación, existe la limitación del tamaño muestral, 
+entre otros. 
+Sostenibilidad: Se observan condiciones favorables para convertir Mochila Cuidarte en programa estatal, 
+tales como el alto grado de voluntad política y compromiso del MIDES. El contexto normativo también es 
+favorable, pues Mochila Cuidarte se sustenta en la Ley 171 del 2020 y en la actualización de la RAIPI.   
+ 
+LECCIONES APRENDIDAS 
+Aprendizajes que se derivan de los hallazgos de la evaluación: 
+Relevancia 
+• 
+El seguimiento y acompañamiento cercano a través de las visitas domiciliarias es valioso para el perfil 
+de la población al que se dirigen servicios como Mochila Cuidarte, porque de otra forma no recibirían 
+educación inicial. Las visitas domiciliarias además ofrecen una oportunidad para detectar dificultades 
+en el desarrollo, problemas de salud y nutricionales, y necesidades de protección especial. 
+• 
+Las adaptaciones para niños/as con discapacidad en intervenciones como Mochila Cuidarte se dan 
+mejor cuando hay compromiso de los cuidadores, capacidad del facilitador y disponibilidad de 
+personal especializado para adecuar las actividades a las necesidades especiales del niño/a.  
+Eficiencia 
+• 
+La gestión de casos a través de las visitas domiciliarias aumenta el impacto de programas sociales 
+como Mochila Cuidarte para niños/as porque contribuye a una atención integral a la niñez.   
+Eficacia 
+
+ 
+ 
+8 
+ 
+• 
+Servicios como Mochila Cuidarte requieren del desarrollo de estándares de calidad que orienten 
+planes de capacitación inicial y continua para los proveedores. 
+• 
+El escalamiento de intervenciones como Mochila Cuidarte tiene mayor potencial en regiones donde 
+existe una estructura institucional robusta, con suficiente personal disponible y capacitado.  
+• 
+Piloto a escala: Un escalamiento gradual o intermedio puede ser útil al momento de probar las 
+adaptaciones y nuevos elementos recomendados antes de realizar un escalamiento a nivel nacional.   
+Medición de impacto 
+• 
+En esta etapa es desafiante sacar lecciones estadísticamente fundadas. Sin embargo, el piloto 
+permitió rescatar lecciones sobre el diseño de una evaluación de impacto. 
+• 
+Una rigurosa evaluación de impacto de este tipo de intervenciones debe involucrar desde el inicio a 
+los expertos en su diseño e implementación.  
+Sostenibilidad 
+• 
+La sostenibilidad de servicios como Mochila Cuidarte depende de la asignación de partidas de 
+presupuesto institucional. 
+• 
+Diseñar un plan de escalamiento conjunto con el programa Cuidarte permitiría definir los pasos 
+necesarios para llegar a un único programa contextualizado a la realidad territorial panameña.  
+CONCLUSIONES 
+Mochila Cuidarte es valorado como relevante porque es una alternativa para llegar a niños/as que no tienen 
+acceso a servicios institucionales de cuidado y educación inicial. Especialmente en su versión con visita, 
+Mochila Cuidarte contribuye a la educación inicial de estas poblaciones que antes no accedían a este servicio.  
+Se valora Mochila Cuidarte como parcialmente eficiente ya que existe oportunidad de formalizar y ejecutar 
+la articulación o referencia de caso en el marco del mecanismo de gobernanza establecido en la RAIPI. 
+La eficacia de Mochila Cuidarte es satisfactoria porque los resultados planteados en esta etapa han sido 
+alcanzados, sostenido por alta satisfacción de la población beneficiaria.  
+En términos de impacto, los mayores desafíos no están en la potencialidad o capacidad de la intervención 
+para producir impacto, sino en el diseño e implementación del sistema de M&E que piloteó la medición de 
+impacto (aún no rigurosa). 
+En términos de sostenibilidad, bajo las premisas de que Mochila Cuidarte sea 1) visibilizado e internalizado 
+en la RAIPI, 2) armonizado con el escalamiento del programa Cuidarte, y 3) que se le asigne una partida de 
+recursos sectoriales (ampliación de fondos para escala), es probable lograr su continuidad, escalamiento y 
+sostenibilidad.  
+ 
+RECOMENDACIONES PRIORITARIAS 
+Entre las recomendaciones prioritarias que arroja la evaluación se encuentran:  
+ 
+1) Realizar un costeo de Mochila Cuidarte diferenciado por región (i.e., se prevén costos diferentes en áreas 
+de difícil acceso), incluyendo los rubros administrativos y operativos (eficiencia); 
+2) Asignar una partida de presupuesto estatal para el escalamiento de Mochila Cuidarte informada por el 
+ejercicio de costeo (eficiencia, sostenibilidad);  
+3) Desarrollar protocolos para la referenciación de casos (salud, nutrición, educación, protección especial) a 
+través de los mecanismos de gobernanza de la RAIPI, y capacitar a los proveedores de servicio en estos 
+protocolos. 
+4) Incluir visitas domiciliarias para todos los niños/as y familias que reciben Mochila Cuidarte. El seguimiento 
+y acompañamiento cercano a través de las visitas es valioso para el perfil de la población al que se dirigen 
+estos servicios. Las visitas domiciliarias además ofrecen una oportunidad para detectar dificultades en el 
+desarrollo, problemas de salud y nutricionales, y necesidades de protección especial. (eficacia) 
+5) Contar con proveedores de servicio más cercano a las comunidades, por ejemplo, a través de una 
+estrategia donde la visita se realiza por madres y padres comunitarios entrenados, bajo la supervisión de los 
+RIS a nivel regional (eficacia);  
+
+ 
+ 
+9 
+ 
+6) Desarrollar estándares de calidad para Mochila Cuidarte que orienten la capacitación inicial y continua de 
+los proveedores, así como los mecanismos de supervisión de las visitas (eficacia);   
+7) Posicionar Mochila Cuidarte dentro de la actualización de la RAIPI como servicio de cuidado y educación 
+inicial (sostenibilidad). 
+1. CONTEXTO Y OBJETO DE EVALUACIÓN 
+1.1 Contexto 
+Con la Convención sobre los Derechos del Niño (CDN) aprobada por las Naciones Unidas en 1989 se declara 
+un conjunto de derechos para todos los niños y niñas sobre la base de cuatro principios: la no discriminación; 
+el interés superior de la infancia; el derecho a la vida, la supervivencia y el desarrollo; y el respeto por la 
+opinión de los niños/as. La CDN establece que los Estados deben garantizar la supervivencia y el desarrollo 
+de los niños/as considerados como sujetos de derechos desde el momento de su gestación a través de un 
+enfoque integral.8 
+La Primera Infancia se refiere al desarrollo integral de los niños/as desde el embarazo hasta los ocho años. 
+Los primeros años de la vida del niño/a sientan las bases de todo su desarrollo futuro. En particular, en la 
+etapa del embarazo hasta los 3 años, el cerebro es más sensible a las influencias externas.9 Los progresos en 
+neurociencia demuestran que el cerebro del bebé forma nuevas conexiones a una velocidad extraordinaria 
+de más de 1 millón por segundo, un ritmo que jamás se repite. Durante este proceso, las experiencias que 
+viven, incluyendo una adecuada nutrición, protección y estimulación a través de comunicación, juego y 
+atención receptiva de cuidadores, influyen en las conexiones neuronales, que impactan en el desarrollo 
+cognitivo, emocional, físico y social del niño/a.10 
+El desarrollo adecuado en la primera infancia puede reducir las disparidades sociales y sostener la economía 
+del mañana. El nobel de economía James Heckman11 señaló que las habilidades no cognitivas y cognitivas 
+juegan un papel clave en el futuro rendimiento escolar, la productividad y la probabilidad de conducta 
+agresiva durante la adultez. Invertir en la primera infancia contribuye al desarrollo del país, interrumpe ciclos 
+intergeneracionales de pobreza y de desigualdad social si los niños/as desarrollan las habilidades necesarias 
+para alcanzar su máximo potencial. Es una manera rentable de impulsar la prosperidad compartida, 
+fomentar el crecimiento económico inclusivo, erradicar la pobreza y crear una sociedad más equitativa.12  
+El desarrollo de los niños/as en la primera infancia es clave en la implementación de los Objetivos para el 
+Desarrollo Sostenible (ODS). De acuerdo con la meta 4.2 de los ODS, “de aquí a 2030, hay que asegurar que 
+todos los niños y todas las niñas tengan acceso a servicios de atención y desarrollo en la primera infancia y 
+educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria”. El desarrollo de 
+esta etapa tiene un efecto potenciador sobre nutrición (ODS 2), salud (ODS 3) y protección (ODS 16).13 
+Influencias protectoras que promueven el desarrollo infantil incluyen interacción cariñosa entre el niño/a y 
+el cuidador, oportunidades para que el niño/a juegue y aprenda, habilidades y competencias maternas, 
+alimentación con leche materna, entre otras.14 Para  fortalecer, son clave intervenciones que enfaticen la 
+relación  cuidador-niño/a, desarrollo de habilidades parentales, de salud mental, competencias emocionales, 
+protección social a familias, salud/nutrición y construcción de sociedades amigables con la crianza del niño/a. 
+ 
+8 Convención sobre los Derechos del Niño, UNICEF Comité Español, 2006. 
+9 Lagercrantz H., 2016. Infant brain development: Formation of the mind and the emergence of consciousness. Suiza. Tomado de 
+WHO, UNICEF, World Bank Group, 2018. Nurturing care for early childhood development: a framework for helping children survive 
+and thrive to transform health and human potential. Geneva.  
+10 UNICEF, 2016. Evidencia científica según el Centro para el Niño en Desarrollo, Universidad de Harvard. 
+11 Heckman y Masterov, 2005. The productivity argument for investing in young children. University of Chicago. 
+12 García, J. L et al., 2016. The Life-cycle Benefits of an Influential Early Childhood Program, NBER Paper 22993. 
+13 UNICEF LACRO, 2019. 
+14 Por ejemplo, Andraca, I. de et al.,1998. Factores de riesgo para el desarrollo psicomotor en lactantes nacidos en óptimas 
+condiciones biológicas. Revista de Saúde Pública. 1998, v. 32, n. 2. pp. 138-147.  
+
+ 
+ 
+10 
+ 
+Cuando el niño/a tiene acceso al cuidado adecuado y a oportunidades de aprendizaje en un entorno libre de 
+violencia, los resultados en su desarrollo mejoran.15 
+En Latinoamérica, se cuenta con intervenciones que buscan fortalecer los conocimientos y competencias 
+parentales y transformar prácticas o comportamientos parentales para incidir en la crianza positiva y el 
+desarrollo de los niños, niñas y las familias. En algunos casos se implementan a través de visitas domiciliarias 
+o sesiones grupales con madres y padres.16 Las visitas son una estrategia de intervención comunitaria parte 
+de la prestación de servicios sociales utilizada para llegar a niños/as en riesgo y sus cuidadores. Los diferentes 
+modelos de visitas utilizan variadas técnicas y currículos que se focalizan en mejorar una amplia gama de 
+resultados como el desarrollo social, emocional y cognitivo en la primera infancia, el funcionamiento de la 
+familia, o la salud de la madre y niño/a. Se realizan mediante interacciones estructuradas que involucran a 
+un proveedor capacitado, cuidador y niño/a.17 Evaluaciones indican que estas intervenciones pueden 
+mejorar prácticas parentales de cuidado, la calidad del ambiente familiar y las relaciones entre cuidadores e 
+hijos/as.18  
+El objeto de la presente evaluación, Mochila Cuidarte, se posiciona como oferta de servicio domiciliario de 
+cuidado y educación inicial en modalidad familiar/comunitaria, para promover pautas de crianza positiva, 
+dirigida a la población entre 0 y 36 meses.  
+La prestación de servicios de cuidado infantil en Panamá es insuficiente. De acuerdo con las últimas 
+estadísticas disponibles en el país, solo el 2,7% de los niños/as menores de 3 años estaban matriculados en 
+servicios públicos de cuidado. Las amenazas al desarrollo durante la primera infancia son mayores para los 
+titulares de derechos, es decir, la población infantil que vive en los hogares más vulnerables.19  
+Solo el 27% de la población infantil del primer quintil de ingresos recibió educación preescolar, mientras que 
+el 67% de la población infantil del último quintil la recibió. A nivel nacional la recibieron 38% de niños varones 
+y 35% de las niñas.20 Es menos posible que los titulares de derechos del primer quintil reciban apoyo para el 
+aprendizaje temprano en el hogar21 y que cuenten con juguetes y libros.22 Estos niños/as están más 
+expuestos al cuidado inadecuado23 y a malnutrición, que afecta más a niños  que a niñas.24 El índice de 
+desarrollo infantil temprano en las comarcas indígenas es menor que el promedio nacional: 71.6% en Ngäbe 
+ 
+15 UNICEF LACRO, 2019. 
+16 C. Alemann et al, 2018. Evaluación de impacto del Programa P Bolivia: padres y madres por una crianza positiva, compartida y sin 
+violencia: Informe de línea de base. Nota técnica del BID.  
+17 Sara Schodt et al, 2015. La medición de la calidad de servicios de visitas domiciliarias. IDB Technical Note: 881 
+18 Por ejemplo, evaluaciones del programa Reach Up Jamaica y de sus adaptaciones en Colombia y Perú (Cuna Más), todos con 
+frecuencia semanal de visitas, y los programas Kallpa Wawa y Crecer Bien para Vivir Bien en Bolivia. Johannsen, J. et al (2019). 
+Evaluación de impacto del programa de desarrollo infantil temprano "Crecer Bien para Vivir Bien" en Bolivia: Modalidad visitas 
+domiciliarias. Nota técnica del BID; Gobierno del Perú (2016). Resultados de la evaluación de impacto del Servicio de 
+Acompañamiento a Familias del Programa Nacional Cuna Más; Araujo, M. Caridad et. al.  (2021). De 70 a 700 a 70.000: lecciones 
+del estudio de Jamaica. Documento de trabajo del BID; 1230. 
+19 MICS, 2013. Los datos de la MICS no incluyen a niños menores de 3 años. Sin embargo, demuestran las brechas territoriales y los 
+variables socioeconómicos que influyen en el aprendizaje temprano. 
+20 https://inec.gob.pa/archivos/MICS_FINAL.pdf, p. 67. 
+21 El porcentaje de niños de 36-59 meses con quienes un adulto del hogar participó en actividades que promueven el aprendizaje y 
+la preparación para la escuela era 73.5% (80.8% área urbana y 62.1% área rural). En la comarca indígena Ngäbe Buglé se reduce al 
+29.5%, y en la comarca Emberá Wounaan al 32.3%. Hay brechas entre los quintiles más pobres (55.4%) y más ricos (88.8%), y según 
+el nivel educativo de los cuidadores (nivel educativo de la madre de educación primaria, 33.7%, versus educación superior, 86.8%). 
+Al especificar si el padre varón ha participado en las actividades, la cifra se reduce significativamente (44.7%), con grandes 
+disparidades territoriales (urbana 51.2%, rural 34.5%), económicas (más pobre 30.9 %, más rico 63.1%), y educacionales. 
+22 En las comarcas indígenas, el 1.3% (Ngäbe Bugle), 2.3% (Emberá Wounaan) y 5.7% (Kuna Yala) de niños menores de 5 cuenta con 
+3 o más libros en el hogar (nacional 26.0%, niñas: 24.3%, varones: 27.5%). La mitad de los niños menores de 5 tiene dos o más tipos 
+de juguetes en hogares de Darién y Comarcas Emberá Wounaan y Ngäbe Buglé (nacional 68.8%). 
+23 En las comarcas, el 13.8% (Ngäbe Buglé), 8.1% (Emberá Wounaan) y 8.9% (Kuna Yala) de niños menores de 5 fueron dejados solos 
+o al cuidado de un niño menor de 10 años durante más de 1 hora (nacional 2.6%, niña 2.2%, varón 3.0%). 
+24 Datos de la Encuesta Nacional de Salud de Panamá, ENSPA (2019) muestran que la malnutrición (prevalencia de baja talla) afecta 
+al 15,8% de niños menores de 5 años (urbano: 11.5%, rural: 12.3, indígena: 39%), siendo las áreas indígenas las más afectadas. En 
+el Darién, la prevalencia es 18.5%. En promedio nacional, la baja talla afecta a 17.6% de niños varones y a 13.8% de niñas menores 
+de 5 años. www.gorgas.gob.pa/SIGENSPA/Informe_general.htm 
+
+ 
+ 
+11 
+ 
+Buglé, 65.9% en Emberá Wounaan y Guna Yala, mientras que  el promedio nacional es 80.2% (79.6% niños, 
+81.0% niñas). 
+El objeto de evaluación, Mochila Cuidarte, coincide con el marco normativo y de políticas públicas para el 
+desarrollo infantil temprano en Panamá: i) la Ley 171 del 2020 de Protección Integral a la Primera Infancia y 
+al Desarrollo Infantil Temprano, que es la herramienta de gestión del Estado que establece las directrices 
+técnicas y de gestión intersectorial en materia de desarrollo infantil temprano para los niños/as de  0 a 8 
+años; ii) la Ruta de Atención Integral a la Primera Infancia (RAIPI), el modelo de atención interinstitucional e 
+intersectorial que traza la secuencia de atenciones planificadas, continuas y permanentes para la garantía 
+de los derechos de los niños/as de 0 a 8 años; y iii) el “Plan Colmena”, la política de Estado dirigido a combatir 
+la pobreza en los 300 corregimientos más vulnerables, con el mayor índice de pobreza en las áreas indígenas.  
+La política de Estado en materia de primera infancia y con una perspectiva basada en los derechos del niño/a, 
+se guía por las directrices de perspectiva familiar, incluyendo la promoción de pautas de crianza, atención 
+integral, entendida como un conjunto de acciones intersectoriales e interinstitucionales aplicadas a través 
+de la RAIPI, prestaciones universales y focalizadas, priorización y protección presupuestaria, transparencia y 
+territorialización de acciones, a través de una red de actores públicos, privados y de la sociedad civil.  
+El MIDES es el ente rector de la política social, incluyendo de la protección integral a la primera infancia y el 
+desarrollo infantil temprano. Tiene la misión de organizar, administrar y coordinar la ejecución de políticas, 
+planes, programas y acciones tendientes al fortalecimiento de la familia y la comunidad. Para ello, cuenta 
+con la Dirección de Servicios de Protección Social (DISPROS) cuyo rol es mejorar los servicios de protección 
+social a nivel nacional por medio de la formulación y vigilancia de estándares de calidad y conforme a un 
+enfoque integral de derechos. 
+Desde el MIDES, los servicios de cuidado y educación inicial durante la primera infancia se proveen en dos 
+modalidades: a) institucional y b) familiar/comunitaria. Ambas modalidades deben garantizar la integralidad 
+en la atención, a partir de acciones coordinadas del Estado relacionadas con nutrición, salud, formación en 
+cuidado y crianza.25 Actualmente, la modalidad de cuidado y educación inicial institucional se ofrece a través 
+de los Centros de Atención Integral a la Primera Infancia (CAIPI). La modalidad familiar/comunitaria se enfoca 
+en contextos de alta dispersión geográfica y/o donde no existen CAIPI. Mochila Cuidarte es uno de los 
+servicios dentro de esta modalidad, así como el programa Cuidarte.26 
+Otras intervenciones del MIDES con servicios domiciliarios en Panamá antes de la pandemia incluyeron i) el 
+componente de acompañamiento familiar del programa Red de Oportunidades27 realizado por promotores 
+sociales para verificar el cumplimiento de corresponsabilidades en educación y salud, ii) el Programa Cuidarte 
+con énfasis en primera infancia, una oferta curricular adaptable a las diferentes realidades culturales 
+panameñas que brinda a las familias herramientas para desarrollar habilidades de crianza, y (iii) un programa 
+de acompañamiento/fortalecimiento familiar del MIDES, donde maestras comunitarias (voluntariado), a 
+través de un manual, desarrollan un plan con la familia a partir de un diagnóstico de necesidades.28 
+Actualmente la RAIPI se encuentra en un proceso de actualización iterativo, incremental y participativo.29 En 
+este proceso se definieron ocho atenciones, que, solamente en su conjunto, garantizarán la atención integral 
+ 
+25 El Decreto Nº 106 de 2014 establece la obligatoriedad por parte de las instituciones del Estado de trabajar articulada y 
+armónicamente para asegurar la entrega oportuna, con cantidad y calidad, de los servicios que los niños/as en cada etapa 
+requieren para su desarrollo integral y el pleno cumplimiento de sus derechos.  
+26 Cuidarte es una adaptación del programa Reach Up and Learn, originalmente desarrollado en Jamaica, que consiste en actividades 
+pedagógicas en el hogar para extender los servicios de atención integral a la primera infancia a las áreas de difícil acceso. 
+27 A través de la Red de Oportunidades, familias en situación de pobreza reciben transferencias monetarias condicionadas al 
+cumplimiento de corresponsabilidades que buscan aumentar la matrícula de niños en edad escolar y el acceso a servicios básicos de 
+salud como nutrición, vacunación, controles de embarazo y de crecimiento y desarrollo. 
+28 La evaluación de la RAIPI, 2019, provee datos respecto al desarrollo de habilidades y actitudes de crianza en la familia: Número 
+de familias formadas en Cuidado para el Desarrollo Infantil Temprano: MIDES: 1091, MINSA: 73, IPHE: 500, UDELAS: 1 CAIPI. 
+29 MINSA para el derecho de salud y nutrición, Ministerio de Educación (MEDUCA) para el derecho al aprendizaje temprano, y 
+Tribunal Electoral (TE) para el derecho a identidad. Otros actores para una atención integral son el IPHE que brinda orientación a 
+padres y cuidadores de niños con retraso en su desarrollo; y la Secretaría Nacional de Niñez, Adolescencia y Familia (SENNIAF) 
+como ente especializado en la protección de los derechos de la niñez y la familia.  
+
+ 
+ 
+12 
+ 
+a la primera infancia. Son: 1) atención prenatal, 2) atención al parto, 3) atención posparto, 4) control y 
+seguimiento al desarrollo infantil (que incluye  un servicio de estimulación y acompañamiento familiar desde 
+el sector salud para el fomento de prácticas de crianza), 5) educación inicial, dirigida a niños/as menores de 
+4 años, que incluye acciones para fomentar las pautas de crianza e interacción con el niño/a a través del 
+juego, 6) educación básica para niños/as de 4 a 8 años, incluida la educación preescolar, 7) acompañamiento 
+a la familia, y 8) registro e identificación del niño/a.30 Cada atención incluye un conjunto de servicios e 
+indicadores. Mochila Cuidarte se posiciona en la atención 5: educación inicial, y requiere articulaciones con 
+actores de competencia y responsabilidad de brindar las atenciones 4, 7 y 8.  
+Un hito de la RAIPI fue la implementación del enfoque del Cuidado para el Desarrollo Infantil que por medio 
+de la promoción de juegos y actividades de comunicación adecuadas para la edad del niño/a procura ayudar 
+a los cuidadores a fortalecer su sensibilidad y capacidad de respuesta a las señales y necesidades del niño y 
+la niña. Las instituciones implementadoras de este enfoque son el Ministerio de Salud (MINSA), el MIDES, el 
+Instituto Panameño de Habilitación Especial (IPHE) y la Universidad Especializada de las Américas (UDELAS).  
+1.2 Objeto de la evaluación  
+Mochila Cuidarte es un servicio de cuidado y educación inicial en modalidad familiar/comunitaria. Tiene 
+como objetivo principal promover el desarrollo de niños y niñas entre 6 a 36 meses a través del juego, el 
+cuidado familiar y la potenciación de las habilidades parentales. Se implementa en áreas de difícil acceso y 
+sin cobertura de modalidades institucionales. Consiste en la entrega de una mochila con materiales 
+didácticos y una guía estructurada de actividades dirigida a madres, padres y cuidadores de niños/as. 
+Además, las familias reciben visitas domiciliarias quincenales durante 6 meses (12 visitas) por “Responsables 
+de Implementación y Seguimiento” (RIS) quienes han sido capacitados para promover y potenciar el uso de 
+la guía.  
+Mochila Cuidarte incluye un sistema de monitoreo y evaluación (M&E) para dar seguimiento a indicadores 
+de desarrollo infantil temprano y contribuir a la medición del impacto y la eficacia del piloto. Este sistema, 
+descrito más adelante, incluyó mediciones periódicas de la situación de los niños/as y familias beneficiarias. 
+Los RIS son entrenados para utilizar el sistema (recolección, codificación y análisis de datos).   
+El objeto de evaluación se entiende como un “piloto a escala” porque prueba el concepto y elementos para 
+informar el escalamiento, por ejemplo, el valor agregado del elemento visita domiciliaria sobre los resultados 
+del desarrollo infantil temprano. La visión a escala del MIDES es llegar a un programa estatal de cuidado y 
+de educación inicial en modalidad familiar/comunitario contextualizado. La presente evaluación es parte del 
+proceso de crear conocimiento y aprendizaje institucional para informar el escalamiento. 
+La implementación de Mochila Cuidarte puede resumirse en tres fases: fase I (piloto), fase II (evaluación del 
+piloto), y fase III (escala). La Gráfica 1 demuestra las fases de Mochila Cuidarte: 
+ 
+30 Información proveída por UNICEF.

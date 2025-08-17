@@ -1,0 +1,821 @@
+1 
+ 
+ 
+ 
+ 
+ 
+Process-based and 
+Formative Evaluation of the 
+Education Equity Strategy 
+in Nepal (2014-2021)  
+ 
+Authors 
+Lorène Prigent, Eric Debert, Jean-Pierre Jarousse and Romain 
+ 
+Careil   
+Groupe Cayambe  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OFFICE 
+MAY 2021 
+
+2 
+ 
+ 
+ 
+ 
+  
+Process-based and 
+Formative Evaluation of the 
+Education Equity Strategy 
+in Nepal (2014-2021) 
+ 
+Authors 
+Lorène Prigent, Eric Debert, Jean-Pierre Jarousse and Romain 
+ 
+Careil   
+ Groupe Cayambe 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVALUATION OFFICE 
+MAY 2021 
+
+i 
+ 
+Process-based and Formative Evaluation of the Education Equity Strategy (2014-2021)  
+ 
+© UNICEF Nepal Country Office, 2021    
+Lalitpur 44600, Nepal  
+ 
+May 2021   
+ 
+ 
+The purpose of publishing evaluation reports produced by the UNICEF Nepal Country Office is to fulfil a 
+corporate commitment to transparency through the publication of all completed evaluations. The reports 
+are designed to stimulate a free exchange of ideas among those interested in the topic and to assure 
+those supporting the work of UNICEF that it rigorously examines its strategies, results, and overall 
+effectiveness. 
+  
+The contents of the report do not necessarily reflect the policies or views of UNICEF. 
+ 
+The text has not been edited to official publication standards and UNICEF accepts no responsibility for 
+error. 
+ 
+The designations in this publication do not imply an opinion on the legal status of any country or territory, 
+or of its authorities, or the delimitation of frontiers. 
+ 
+The copyright for this report is held by the United Nations Children’s Fund.  Permission is required to 
+reprint/reproduce/photocopy or in any other way to cite or quote from this report in written form. UNICEF 
+has a formal permission policy that requires a written request to be submitted. For non-commercial uses, 
+the permission will normally be granted free of charge. Please write to the UNICEF Nepal Country Office 
+at the address below to initiate a permission request.  
+ 
+Attribution: Please cite the work as follows: UNICEF. 2020. “Process-based and Formative Evaluation of 
+the Education Equity Strategy (2014-2021)”. UNICEF Nepal Country Office, Nepal. 
+ 
+Ms. Sevara Hamzaeva  
+Evaluation Specialist  
+UNICEF Nepal   
+Lalitpur 44600, Nepal 
+shamzaeva@unicef.org  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+ 
+ACKNOWLEDGEMENTS  
+This report provides an independent formative and evidence-based evaluation of the Nepal’s Education 
+Equity Strategy. The evaluation was commissioned by UNICEF Nepal Country Office. The evaluation was 
+designed in consultation with the Government of Nepal and relies on consultations and inputs from a wide 
+range of stakeholders. The evaluation team wishes to thank every contributor for their valued input and 
+support.  
+ 
+Appreciation goes first to the Government of Nepal and more particularly to the various institutions and staff 
+working at Federal, provincial, municipality and school level, with particular thanks to the MoEST staff and 
+the CEHRD for their time and commitment.  
+ 
+All over the assignment, CAYAMBE team benefitted from the continuous support and guidance from 
+UNICEF and its implementation partners under the equity strategy. Their inputs were instrumental for the 
+organization of the Interviews and access to information. 
+ 
+We would like to give a special thanks to the following individuals who allocated an important amount of 
+time and support to the organization and follow up of this evaluation: Mr Shankar Thapa, Deputy Director 
+and Head of EMIS Section, CEHRD, Mr Jimmy Oostrum, Education specialist, UNICEF Nepal; Ms. Sevara 
+Hamzaeva, Evaluation Specialist, UNICEF ROSA; Mrs James Alexander Russell, Education Sector 
+Planning Liaison Officer, MoEST and UNICEF; Mr Sambedan Koirala from World Education. 
+ 
+Our special gratitude also goes to all focal persons from the UNICEF field offices and Government 
+Education officers of the surveyed municipalities for having largely facilitated the organization of Key 
+Informants interviews at Sub National level in the difficult context of the COVID-19 pandemic. 
+ 
+Finally, our recognition goes to all other developments Organizations who also committed part of their busy 
+schedule for this evaluation and more particularly the members of the Equity and Inclusion Technical 
+Working Group for their valuable inputs in the discussion around Equity in Education. 
+ 
+The CAYAMBE Education team as a whole, also including the experts, give their most sincere thanks to all 
+those who contributed, to varying degrees, to the present evaluation. We hope that this report can offer an 
+objective picture of the huge work carried out to allow every Nepalese child to fully achieve their right to 
+quality education and open new perspectives for future improvements. 
+ 
+ 
+
+iii 
+ 
+ 
+TABLE OF CONTENTS 
+ACKNOWLEDGEMENTS ............................................................................................................................. ii 
+FIGURES and Tables .................................................................................................................................. vi 
+ACRONYMS ................................................................................................................................................ vii 
+EXECUTIVE SUMMARY ............................................................................................................................ viii 
+CONTEXT AND OBJECT OF THE EVALUATION ..................................................................................... 15 
+1.  
+Brief socio economic and political context ................................................................................. 15 
+2. 
+Nepal education sector .............................................................................................................. 15 
+3. 
+The transition to federalism ....................................................................................................... 18 
+4. 
+Education Context ..................................................................................................................... 19 
+5. 
+Rationale for an Equity Strategy ................................................................................................ 20 
+6. Object of the evaluation ...................................................................................................................... 21 
+6.1 The Equity Index (EI) .................................................................................................................... 21 
+6.2 The Equity Strategy Implementation Plans (ESIPs) ..................................................................... 22 
+6.3 Timeline of the Equity Strategy ..................................................................................................... 23 
+EVALUATION PURPOSE, OBJECTIVES and SCOPE ............................................................................. 25 
+1. 
+Purpose and Objectives of the evaluation ................................................................................. 25 
+2. 
+Scope of the evaluation ............................................................................................................. 25 
+3. 
+Evaluation Criteria and Questions ............................................................................................. 26 
+4. 
+Use and users of the evaluation. ............................................................................................... 26 
+METHODOLOGY ........................................................................................................................................ 27 
+1.  
+Evaluation Approach .................................................................................................................. 27 
+2.  
+Data Collection Method and Sampling ...................................................................................... 27 
+3.  
+Analysis of Collected Data ......................................................................................................... 29 
+4.  
+Ethical and evaluation principles ............................................................................................... 31 
+5. 
+Limitations and mitigation measures of the evaluation .............................................................. 33 
+FINDINGS AND CONCLUSIONS ............................................................................................................... 34 
+1.  
+Relevance of the Equity Strategy to context and needs ............................................................ 34 
+1.1 
+Added value of the Strategy ...................................................................................................... 34 
+1.2 
+Analysis of the design and framework of the Equity Strategy ................................................... 37 
+1.3 
+Adequation of the Strategy to respond to barriers and needs ................................................... 40 
+1.4 
+Rationale of the Strategy with regards to national Education context ....................................... 45 
+1.5 
+Reach and timeliness of the Strategy ........................................................................................ 47 
+
+iv 
+ 
+1.6 
+Linkage of the Strategy with multi-sectoral responses .............................................................. 49 
+1.7 
+Relevance of the ES to the context of COVID-19 ..................................................................... 55 
+2.  
+Coherence of the Equity Strategy .............................................................................................. 56 
+2.1 
+Coherence with interventions from Non-State Actors ............................................................... 56 
+2.2 
+Synergies of the Strategy with Education Policies & Programs ................................................ 58 
+3.  
+Effectiveness of the Equity Strategy .......................................................................................... 63 
+3.1 
+Capacity of the Strategy to leverage additional funds ............................................................... 63 
+3.2 
+Effects of increased funding on disparities ................................................................................ 65 
+3.3 
+Effectiveness of the Equity Index for the Strategy implementation ........................................... 77 
+3.4 
+Effectiveness of the ESIPs for the Strategy implementation ..................................................... 80 
+3.5 
+Modalities of selection of the interventions ................................................................................ 88 
+3.6 
+Effectiveness of the Strategy in the emerged Federal structure ............................................... 90 
+4.  
+Efficiency of the Equity Strategy ................................................................................................ 92 
+4.1 
+Financial and human resources utilization and alternative strategy .......................................... 92 
+4.2 
+Contribution of internal/external factors for implementation of ES ............................................ 94 
+4.3 
+Opportunities for strengthening institutions and capacities ..................................................... 100 
+5.  
+Sustainability of the Equity Strategy ........................................................................................ 101 
+5.1 
+Level of sustainability of the Strategy in the context of COVID-19 .......................................... 101 
+5.2 
+Contribution of the Strategy in strengthening capacities ......................................................... 109 
+LESSONS LEARNT .................................................................................................................................. 112 
+CONCLUSIONS ........................................................................................................................................ 113 
+RECOMMENDATIONS ............................................................................................................................. 117 
+1. 
+Recommendations related to the acquis of the equity strategy............................................... 117 
+2 
+Recommendations for the future national education plan ............................................................. 122 
+Proposed actionable recommendations ................................................................................................ 154 
+ANNEXES ................................................................................................................................................. 159 
+Annex 1. Documentation for the desk review ....................................................................................... 159 
+Annex 2. List of respondents interviewed ............................................................................................. 160 
+Annex 3. Final Evaluation matrix .......................................................................................................... 162 
+Annex 4. Data Collection tools .............................................................................................................. 171 
+Annex 5. Quantitative analysis of the Equity Strategy .......................................................................... 203 
+Annex 6. Term of Reference of the evaluation ..................................................................................... 221 
+Annex 7 : Supply and demand possible actions ................................................................................... 200 
+Annex 8 : Identified barriers in target districts and interventions from Non State Actors ..................... 202 
+Annex 9 : Overlapping of programs in the 15 districts .......................................................................... 204 
+
+v 
+ 
+Annex 10 : Percentage of enrollment of OoSC in the 15 districts......................................................... 204 
+Annex 11 : Pending issues per equity dimension ................................................................................. 205 
+Annex 12 : Geographical presence of Non State Actors in the 15 districts .......................................... 207 
+Annex 13 : Simplified Theory Of Change. Equity Strategy for the School Education Sector in Nepal . 208 
+Annex 14: Calendar of work .................................................................................................................. 214 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+FIGURES AND TABLES  
+Figures 
+Figure 1: Inequalities in years of schooling across different groups in Nepal ............................................. 16 
+Figure 2: SSDP fund flows by donor and by DLI, 2016 - 2020/21 (allocations) ......................................... 17 
+Figure 3. Variables of the Equity Index ....................................................................................................... 22 
+Figure 4. Main Pathway of change of the ES .............................................................................................. 38 
+Figure 5. Disparities in Educational Outcomes & Resource Allocation ...................................................... 43 
+Figure 6. Enrollment pattern 2008-2020 ..................................................................................................... 45 
+Figure 7. ESIPs development stages .......................................................................................................... 81 
+Figure 8. Timeline of the evaluation .......................................................................................................... 214 
+ 
+Tables 
+Table 1. Timeline of the Equity Strategy ..................................................................................................... 24 
+Table 2. Users and Expected uses of the evaluation ................................................................................. 26 
+Table 3. Number of respondents interviewed through KIIs or FGDs (National level only for the latter) ..... 27 
+Table 4. List of municipalities and schools .................................................................................................. 28 
+Table 5. Limitations and Mitigations measured........................................................................................... 33 
+Table 6. Occurrence of the word equity in SSDP ....................................................................................... 35 
+Table 7. Number of indicator in equity in SSDP.......................................................................................... 35 
+Table 8. OoSC survey findings 2019 .......................................................................................................... 41 
+Table 9. No of districts with targeted interventions ..................................................................................... 66 
+Table 10. DLI 6 achievements .................................................................................................................... 67 
+Table 11. Percentage of OoSC in basic education ..................................................................................... 67 
+Table 12.  Reduction of OoSC at National level ......................................................................................... 68 
+Table 13. Reduction of OoSC age group 3-18 for the 15 districts .............................................................. 69 
+Table 14. Reduction of OoSC age group 5-12 for the first 5 bottom districts ............................................. 69 
+Table 15. Share of the OoSC 5-12 in the 5 districts ................................................................................... 69 
+Table 16. Enrolled OoSC per grade and sex .............................................................................................. 70 
+Table 17. NER Upper basic 2009-2019 ...................................................................................................... 71 
+Table 18. Average annual growth rates (NER Upper basic) by districts categories (2009-2015) .............. 72 
+Table 19. DLI 7- achievements ................................................................................................................... 72 
+Table 20. Average annual growth rates (NER secondary) by districts categories (2009-2015) ................. 73 
+Table 21. Summary effects of scholarship and mid-day meal on education outcomes ............................. 75 
+Table 22. Initial scope of the Equity Index .................................................................................................. 78 
+Table 23. Steps for the design of the ESIPs as of March 2020 .................................................................. 82 
+Table 24. Steps for the design of the ESIPs as of January 2021 ............................................................... 82 
+Table 25. Main activities implemented through the ESIPs ......................................................................... 85 
+Table 26. Breakdown of budget allocated to 10 targeted districts to adress OoSC in 2017/2018 ............. 85 
+Table 27. Computed indicators. Summary tables. ESIPs ........................................................................... 89 
+Table 28. Availability of computer and electricity facilities in community schools .................................... 105 
+Table 29. Identified barriers in target districts and interventions of Non State Actors .............................. 202 
+Table 30. Overlapping of programs in the 15 districts .............................................................................. 204 
+Table 31. Percentage of enrollment of OoSC in the 15 districts as of 2019 ............................................. 204 
+Table 32. Pending issues per equity dimension ....................................................................................... 205 
+Table 33. Geographical presence Non State Actors in the 15 districts .................................................... 207 
+ 
+ 
+
+vii 
+ 
+ 
+ACRONYMS  
+ASIP  
+ 
+Annual Strategic Implementation Plan 
+AY 
+ 
+Academic Year 
+AWPB  
+Annual Work Plan and Budget 
+BRM  
+ 
+Budget Review Meeting 
+CBO                      Community Based Organizations 
+CBS 
+ 
+Central Bureau of Statistics 
+CCT 
+ 
+Conditional Cash Transfers 
+CEHRD                Centre for Education and Human Resource 
+CFS 
+ 
+Child Friendly Schools 
+CWD 
+ 
+Children With Disabilities 
+DAC 
+ 
+Development Assistance Committee 
+DDC                     District Development Committee 
+DLI  
+ 
+Disbursement Linked Indicator 
+DMS 
+ 
+Data Must Speak 
+DOE 
+ 
+Department of Education 
+DPO 
+ 
+Disabled People Organisations 
+ECED 
+ 
+Early Childhood Education  
+ECCCP                 Education Cluster COVID-19 Contingency Plan 
+EDCU 
+ 
+Education Development and Coordination Unit  
+EFA 
+ 
+Education For All 
+EGR 
+  
+Early Grade Reading 
+EI 
+ 
+Equity Index 
+ELR 
+ 
+Early Learning and Reading 
+EM 
+ 
+Evaluation Matrix 
+EMIS  
+ 
+Education Management Information System 
+EQ 
+ 
+Evaluative Question 
+ES 
+ 
+Equity Strategy 
+ESIP 
+ 
+Equity Strategy Implementation Plans 
+ESP  
+ 
+Education Sector Plan 
+ESPDG                Education Sector Program Development Grant 
+FY 
+ 
+Fiscal Year 
+GPE 
+ 
+Global Partnership for Education 
+GRA 
+ 
+Global and Regional Activities 
+GER 
+ 
+Gross Enrolment Ratios 
+HOI 
+ 
+Human Opportunity Index 
+ICT 
+ 
+ Information and communications technology 
+IP 
+ 
+Implementing Partners 
+JFA  
+ 
+Joint Financing Arrangement 
+JFP  
+ 
+Joint Financing Partners 
+JRM  
+ 
+Joint Review Meeting 
+KPI 
+ 
+Key Performance Indicators  
+KII 
+ 
+Key Informant Interview 
+LEDPG                 Local Education Development Partner Group 
+LG 
+ 
+Local Governments 
+MDI  
+ 
+Multidimensional Poverty Index 
+MICS  
+ 
+Multiple Indicator Cluster Surveys 
+MoEST                 Ministry for Education, Science and 
+Technology 
+MoFAGA  
+Ministry of Federal Affairs and General 
+Administration 
+MTR 
+ 
+Mid Term Review 
+NASA   
+National Assessments of Student 
+Achievement. 
+NER 
+ 
+Net Enrolment Ratio 
+NGOs 
+ 
+Non-Governmental Organizations 
+NPR  
+ 
+Nepalese Rupees 
+OECD 
+ 
+Organisation for Economic Co-operation and 
+Development 
+OoSC 
+ 
+Out of School Children 
+PIM 
+ 
+Program Implementation Manual 
+PMEC   
+Priority Minimum Enabling Conditions 
+PTAs       
+Parent Teacher Associations 
+PTR  
+ 
+Pupil Teacher Ratio 
+PPE  
+ 
+Pre-Primary Education 
+RBF  
+ 
+Result Based Financing 
+RC 
+ 
+Resource Centers  
+RPs 
+ 
+Resource Persons 
+ROSA 
+ 
+UNICEF Regional Office for South Asia 
+SDG  
+ 
+Sustainable Development Goal 
+SEE 
+ 
+Secondary Education Examination 
+SIP 
+ 
+School Improvement Plan 
+SSRP   
+School Sector Reform Program 
+SSDP   
+School Sector Development Plan 
+SMCs 
+ 
+School Management Committees 
+SuTRA 
+ 
+Subnational Treasury Regulatory Application  
+SWAP   
+Sector Wide Approach 
+T.o.C 
+ 
+Theory Of Change 
+ToR  
+ 
+Terms of Reference 
+TVET  
+ 
+Technical and vocational education and 
+training 
+TWG  
+ 
+Thematic working group 
+VDC 
+ 
+Village Development Committee 
+UNEG 
+ 
+United Nations Evaluation Group 
+UNSDCF 
+United Nations Sustainable Development 
+Cooperation Framework 
+VDC 
+ 
+Village Development Committee 
+WE 
+ 
+World Education 
+WASH  
+Water, Sanitation and Hygiene 
+ 
+ 
+ 
+ 
+ 
+ 
+
+viii 
+ 
+EXECUTIVE SUMMARY  
+The consolidated equity strategy for the School Education Sector in Nepal, titled as “Equity Strategy” (ES), 
+was launched in December 2014. The main objectives of this strategy are to reduce the current disparities 
+in access, participation and learning outcomes for children in basic and secondary public education in 
+Nepal. The strategy envisions to achieve this by (i) developing an Equity in Education Index (Equity Index), 
+at national and sub-national level, and (ii), supporting the development of Equity Strategy Implementation 
+Plans (ESIPs) to allow for a systematic use of the equity index to inform need-based planning at local 
+government level thus reducing identified disparities. 
+ 
+With the current School Sector Development Plan (SSDP) coming to an end in July 2021, the government 
+initiated the development of a new long term-education sector plan. The present evaluation of the Equity 
+Strategy is expected to inform the implementation of the strategy during, and as part of the new education 
+sector plan in the new federal context and guide the application of the equity index and equity strategy 
+implementation plans. 
+ 
+The evaluation aims at illustrating the direct and indirect effects that the introduction of the Strategy has 
+had on applying an equity-based approach within the previous two education sector plans through a 
+comprehensive analysis. 
+ 
+The audience of this evaluation are the Government of Nepal, education sector development partners, 
+UNICEF, UN Agencies, implementing partners and other stakeholders who will make use of the 
+evaluation results. 
+ 
+The Thematic evaluation scope will focus on equity dimensions (gender, geographical location, wealth 
+quintile, disability, ethnicity and caste) based on available data provided by UNICEF and the two main pillars 
+of the ES: Equity Index and equity-based interventions. The geographical scope of the evaluation is national 
+with specific focus on the 15 districts which were prioritized for interventions under the Equity Strategy. The 
+chronological scope included all documented activities under the Equity Strategy implemented since 2014. 
+ 
+A set of Evaluative Questions was defined and agreed during the inception phase and 5 OECD1/DAC2 
+criteria have been used for this evaluation: Relevance, Coherence, Effectiveness, Efficiency and 
+Sustainability. 
+ 
+The evaluation is formative and process-based with a strong focus on learning lessons. It adopted a mix 
+method approach (qualitative and quantitative) and the following steps: Reconstruction of the Theory of 
+Change of the ES, secondary quantitative3 and qualitative data review and analysis, primary qualitative 
+data collection through Key Informants Interviews at National and Sub National level with a range of 
+stakeholders (i.e Government education staff, UNICEF staff, Non-State Actors, donors agencies...) being 
+also the anticipated users of the outcomes of the evaluation. 
+ 
+The evaluation took place between mid-January 2021 to end of April 2021 and was organized under three 
+main phases: inception, data collection/analysis and reporting. 
+ 
+The main findings and conclusions of the evaluation are described for each evaluation criterion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Organization for Economic Co-operation and Development 
+2 Development Assistance Committee 
+3 Using mainly the Flash reports data 
+
+ix 
+ 
+RELEVANCE 
+ 
+The 2014 equity strategy responded to an identified need to test an innovative approach of using education 
+data for equitable resource allocation and targeted programming. It was pioneer in addressing equity issues 
+in accordance with an analysis of equity dimensions and explaining factors. Moreover, it succeeded in 
+moving equity consideration fairly high on the Nepalese education policy agenda. However, the definition 
+of equity underpinning the Strategy and calculated by the index has 3 major interrelated weaknesses: 
+ 
+• 
+The strategy addressed equity issues adopting a cross-cutting definition where individual 
+characteristics and social barriers prevail (poverty, caste, gender, disability). It is not focused on 
+educational needs. Data for SLC exam was not available for all Local Governments – hence not 
+used initially for analysis.4 Once the data will be available for all LGs for grade 8, the learning 
+dimension will be added in the index. Moreover, only few local equity plan analyzed by the 
+evaluation team addressed learning needs or promoted equalization of learning opportunities within 
+the school environment. 
+ 
+• 
+The design of the index and proposed measurement of deprivation across districts underlies a 
+linear complementarity (and equal weight) between access-participation-learning outcomes. At 
+international level, the analysis of schooling trends usually considers learning perspectives above 
+participation (and sometimes even above access), bearing in mind that weak learning outcomes 
+are a major cause of dropout. The index therefore failed to capture the learning explanations to 
+drop-out. The evaluation team also questions the idea that there would be a “main driver” of inequity 
+because of their cumulative and hierarchical nature, where poverty always ranks first. 
+ 
+• 
+The strategy focusses on education demand, understood mainly under the access and participation 
+dimensions. ESIPs activities mainly focussed on enrolment campaigns (access) and participation 
+measures (meals, hygiene products for girls), but not enough on learning. The quality of education 
+supply in the most vulnerable areas was not addressed nor analysed. This is an important 
+shortcoming as school provision is generally differentiated in terms of quality (community versus 
+institutional schools, concentration of "good" teachers in several privileged localities, existence of 
+huge differences in learning environments, etc.). Thus, access to differentiated education service 
+provision can lead to different participation and learning. 
+ 
+ 
+COHERENCE 
+ 
+The Equity strategy was coherent with Nepalese international commitments and paved the way to further 
+effort implied by the 2030 Agenda in terms of nationwide quality and equitable educational provision. It was 
+adopted within a context of major governance change (shift to federalism) and progressive ownership of 
+the new governance mechanisms by national and local decision makers. As such, the Equity strategy 
+proved coherent with the evolving context and fully adaptive. With the transition to federalism and new 
+division of competences, the ES targets additional financing to local government levels / municipalities, thus 
+making pillar 2 of the ES (the ESIPs) dependent upon local planning capacity and prerogatives.  
+ 
+This focus reduces the scope of possible measures when they do not depend upon local governments, in 
+particular major policy levers revolving around human resource (among them teacher affectation and 
+capacity development, for instance to identify student’s needs, management of the diversity in classrooms 
+and building trust with parents). As teacher-related measures still refer to national competence, more 
+coherence could have been expected at local level to align local efforts with education policy decisions 
+taken at national level. In this context, the evaluation team noted a limited internal coherence of the Equity 
+strategy and inconsistency between the highly comprehensive dimension of the index and the limited scope 
+of implemented measures in the field. 
+ 
+ 
+4 SLC examination is a public examination for the purpose of certification at the central level, not similar to grade 8 and grade 5 
+examination and not developed as the as the NASA test. 
+
+x 
+ 
+EFFECTIVENESS 
+ 
+Our analysis of effectiveness is partly nurtured by Nepalese school enrolment performance. Undoubtably, 
+the implementation period of the equity strategy was a strong momentum for effective reduction in the 
+aggregate number of OoSC at national level. A good performance of most of the 15 targeted districts is 
+confirmed in terms of access, and the gender gap was effectively addressed. Parity in basic education, 
+already acquired nationwide at Lower basic level, is now achieved at Upper basic level, with girls even 
+over-represented in lower basic both at national level and in the targeted districts.  
+The evaluation team confirms the number of 256 000 OoSC reintegrated into schools with little grade-
+related variation, suggesting that the campaigns were effective for all age groups. However, caste and 
+ethnicity-related barriers still remain poorly addressed, with some trends to be confirmed by further 
+demographic data, for instance the decrease in Janajatis enrolments over the past 10 years.  
+Our analysis also shows a decrease in survival rates in districts that have experienced recent rapid 
+increases in enrolment, more visible at Lower basic level than at upper basic level. These results confirm 
+the demand-orientation of the ES that succeeded in bringing many children back to schools but did not 
+foster increased school capacity to help them remain in schools and learn. To summarize, the index proved 
+effective for ranking purposes, and succeeded in triggering new and effective measures targeting mostly 
+school enrolment and participation. It was rather misused or poorly understood by education planers and 
+policy makers to inform needs-based programming and equity-focused measures.  
+ 
+In quantitative terms, only 13% of LGs have endorsed their ESIP plan by January 2021, although in many 
+cases, ESIP development successfully triggered the development of a general LG education plan where 
+they were still missing. Broadly, the initial rationale according to which understanding equity dimensions 
+would lead to more tailored and diversified actions did not really materialize in the field. Interventions 
+analyzed by the evaluation team were quite similar from one ESIP to another and focused mainly on 
+“mainstream” OoSC (back to school campaigns representing the bulk of funding) and general participation 
+measures (meals and girls hygiene products). In other words, and despite the strong increase in analytical 
+data available, equity interventions designed and implemented failed to address the needs of the highest 
+number of excluded children, namely those in school but not learning (disability, poverty, language…).  
+ 
+The evaluation also underlines the role played by the members of the Equity and inclusion Technical 
+Working, as well as UNICEF, CERHD and World Education who have been instrumental in supporting the 
+dissemination and support for the implementation of the Strategy. 
+ 
+ 
+EFFICIENCY 
+ 
+Considering the limited scope of the index and effects of ESIP development support, its current use and its 
+reduction in scope compared to what was initially planned, one can ask if the development of the index was 
+a cost-effective targeting system compared to other (potentially less sophisticated) strategies.  
+ 
+Efficiency consideration refers here to the capacity of local planners to use the ES effectively (or even use 
+possible alternative in terms of equity analysis through the use of the schooling profiles) 
+ 
+Important effort was made to train LG education staff to prepare the plans in regional workshops. These 
+workshops were valuable for building large commitment from Central, Provincial and Local Governments 
+but were made less effective because of strong staff turnover following the workshops. Alternative solutions 
+were identified, among them the WE-sponsored blended training strategy, proving relevant and more 
+efficient solutions in the COVID-19 context.  
+ 
+However, ESIP did not always address the root causes of inequity. The funding allocated for each 
+municipality was quite limited and it was not clear how and to what extent the budget was used for the 
+implementation of the ESIPs in the absence of accountability, dedicated budget line to track the allocation 
+of funds and lack of M&E mechanisms at LG level.

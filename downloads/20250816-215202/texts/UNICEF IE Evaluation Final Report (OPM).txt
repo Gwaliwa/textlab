@@ -1,0 +1,495 @@
+Inclusive education 
+evaluation by using Big 
+Data sources of 
+information  
+Descriptive Analysis 
+ 
+Final Report 
+ 
+ 
+Oxford Policy Management  
+ 
+ 
+ 
+ 
+ 
+Commissioned by UNICEF, Kazakhstan  
+August 2023 
+
+ 
+Inclusive education evaluation by using Big Data sources of information  
+ 
+Oxford Policy Management Limited 
+Registered in England: 3122495 
+Level 3, Clarendon House 
+52 Cornmarket Street 
+Oxford, OX1 3HJ 
+United Kingdom 
+Tel: +44 (0) 1865 207 300 
+Fax: +44 (0) 1865 207 301 
+Email: admin@opml.co.uk 
+Website: www.opml.co.uk 
+Twitter: @OPMglobal 
+Facebook: @OPMglobal 
+YouTube: @OPMglobal 
+LinkedIn: @OPMglobal 
+About Oxford Policy Management 
+Our vision is for fair public policy that benefits both people and the planet. Our 
+purpose is to improve lives through sustainable policy change in low- and middle-
+income countries. 
+Through our global network of offices, we work in partnership with national stakeholders and 
+decision makers to research, design, implement and evaluate impactful public policy. We 
+work in all areas of economic and social policy and governance, including health, finance, 
+education, climate change and public sector management. We have cross-cutting expertise 
+in our dedicated teams of monitoring and evaluation, political economy analysis, statistics, 
+and research methods specialists. We draw on our local and international sector experts to 
+provide the very best evidence-based support. 
+ 
+
+ 
+© Oxford Policy Management 
+i 
+Preface 
+This study was carried out by Oxford Policy Management (OPM) between January and July 
+2023. The project manager was Udayan Rathore and the remaining team members included 
+Ida Brzezinska (Data Analyst), Arseniy Gurin (Senior Data Scientist), Paul Jasper (Team 
+Leader), Elayn Sammon (Senior Inclusion Policy Expert), and Zhanar Zhaxylykova (National 
+Evaluation Expert). For further information, contact Udayan Rathore at 
+Udayan.rathore@opml.co.uk.  
+The contact point for the client is Udayan Rathore, who can be reached out to at 
+Udayan.rathore@opml.co.uk. The client reference number for the project is A5421.  
+The implementation of this study, ‘Inclusive education evaluation by using Big Data sources’, 
+would not have been possible without extensive contributions from a range of organisations 
+and people. We are grateful to the officials/experts of UNICEF Kazakhstan for trusting us 
+with this study and providing the financial support to undertake our research. We would like 
+to thank Tatiana Aderkhina and Raushan Ibrasheva for their input at the inception phase of 
+the project, as well as for their comments on the preliminary findings presentation. We are 
+also thankful to the Junction Bulgaria team, whose work on the formative evaluation 
+provided us with valuable insights on the inclusive education landscape in Kazakhstan. We 
+would also like to express our gratitude to the reviewers of the inception phase presentation 
+at UNICEF.  
+We are grateful to all the individuals and organisations who posted their perspectives on 
+inclusive education in Kazakhstan on publicly accessible social media platforms, without 
+which this research would not have been possible.  
+We would also like to acknowledge the contributions of OPM staff members Varun 
+Vashistha and Vladimir Imnaishvili in managing the administrative and financial aspects of 
+this study. We would also like to thank Matilda Eriksson for assisting us with operational 
+details of Meltwater, which was used for analysing one component of social media data in 
+the study. 
+All opinions expressed, and any mistakes in the report, remain the responsibility of the OPM 
+team. 
+Figure 1: Conceptual difference between exclusion, segregation, integration, and 
+inclusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exclusion: No recognition of the right or capacity of 
+children with disabilities to education, and consequent 
+denial of access to education in any form.  
+Segregation: Placement of children with disabilities in 
+separate environments designed or used to respond to 
+particular or various impairments, in isolation from 
+children without disabilities. 
+Integration: Placement of children with disabilities in 
+existing mainstream educational institutions, as long as 
+the child can adjust to fit the standardised requirements 
+of such institutions. 
+Inclusion: A process of systemic reform embodying 
+changes and modifications in content, teaching 
+methods, approaches, structures, and strategies in 
+education to overcome barriers. It requires a 
+commitment to changing the system to fit the student. 
+
+ 
+© Oxford Policy Management 
+ii 
+ 
+ 
+Source: UNESCO, UNICEF, and FCDO (2021), p. 35 
+ 
+We also pay attention to measures that are not specific to inclusive education, but which can 
+contribute to an enabling environment for inclusive education, such as measures to prevent 
+disability, for early identification, and to protect children from violence and abuse in the 
+education system.  
+This evaluation is important for a variety of reasons. First, it complements a formative 
+evaluation commissioned by UNICEF that is ongoing at the time of writing and that seeks to 
+assess how state education programmes have contributed to improving the inclusive 
+education landscape in Kazakhstan. We refer to this parallel formative evaluation as the 
+‘Junction Bulgaria study’. Second, instead of focusing on specific programmes, this study 
+uses innovative analytical methods to compile and synthesise publicly accessible social 
+media and online news information from two key stakeholder groups, whose perspectives 
+are categorised into two text corpora and analysed. The first group of stakeholders 
+comprises of the general online public in Kazakhstan, and includes parents, teachers, and 
+youth overall. The second stakeholder group caters to the views and institutional knowledge 
+of organisations active in inclusive education activities in Kazakhstan. Third, the use of non-
+traditional data and analytical methods provides a space for experimentation and 
+engagement with different viewpoints, some of which may be difficult to observe and are 
+thus often left out of traditional methods and approaches. 
+
+ 
+© Oxford Policy Management 
+iii 
+Executive summary 
+Introduction 
+To better understand the inclusive education landscape in Kazakhstan, the United Nations 
+Children’s Fund (UNICEF) commissioned the present study with the objective of 
+understanding different stakeholder perspectives as expressed via social media and online 
+news media, using social media listening (SML) tools. This research is expected to generate 
+insights for UNICEF and the Ministry of Education, Government of Kazakhstan, to inform 
+future strategies and policies in this area. The findings provide insights for leading scientific 
+institutions in Kazakhstan actively working in the field of inclusive education. Other 
+development partners such as the United Nations Educational, Scientific and Cultural 
+Organization (UNESCO), the United Nations Development Programme (UNDP), and the 
+World Bank, as well as multiple other non-governmental organisations (NGOs) working and 
+supporting investments in education in Kazakhstan, are also likely to benefit from these 
+findings.  
+Evaluation purpose, objectives, and scope 
+The primary research objective is to use SML tools and quantitative text analysis tools to 
+understand the perspectives of individuals and organisations, as expressed in text online, on 
+inclusive education in Kazakhstan. By quantitatively analysing non-traditional online news 
+and social media sources of data, we present insights and formulate recommendations 
+based on viewpoints from different stakeholders that might otherwise be difficult to observe. 
+Our research complements an ongoing formative evaluation (the Junction Bulgaria study).  
+This evaluation aims to answer three evaluation questions (EQs) for both stakeholder groups.  
+1. What is the content of social and online media discussions on inclusive education 
+in Kazakhstan? We interpret ‘content’ to relate to what these discussions ‘look like’, i.e. 
+what is being said, where, by whom, and when. Note that we purposefully only deploy 
+quantitative text analysis techniques to answer this question. This means that 
+descriptions of this ‘content’ rely on quantitative analytical techniques.  
+2. What do people mention as factors ‘holding back’ (barriers) inclusive education? 
+We interpret ‘barriers’ broadly, in the sense that we try to find out what is being 
+mentioned online when problems and issues with improving access and promoting the 
+rights of children to inclusive education are discussed. As above, we deploy quantitative 
+text analysis techniques to answer this EQ.  
+3. Do people mention state programmes at all? Here, we search for a predefined list of 
+state programmes.  
+This study was designed to be formative and descriptive in nature and is thus a part 
+of a broader formative evaluation exercise. The focus is on describing online news and 
+discussions on inclusive education in Kazakhstan rather than on evaluating an ‘object’.  
+In the inception phase, detailed discussions were undertaken with UNICEF to define 
+and operationalise ‘inclusive education’ in the context of this study. Based on these 
+discussions, children under 18 years of age with disabilities were identified as the target 
+
+ 
+© Oxford Policy Management 
+iv 
+group of interest. This includes children with long-term physical, mental, intellectual, or 
+sensory impairments, which in interaction with various barriers may hinder their effective 
+participation in society on an equal basis with others. This approach integrates the medical 
+and social model of disability in our conceptualisation of disability (UNESCO, UNICEF, & 
+FCDO, 2021).  
+A vital component of operationalising inclusion relates to the level of education where this 
+inclusion occurs or is desired. In this study, we focus on children in preschool as well as 
+those receiving primary and secondary education. Due to multiple considerations, as 
+mentioned later, we also limit our study to the relatively recent past, from the beginning of 
+2022 until May 2023, where our data is restricted to cover conversations and posts online 
+captured by our online text scrapers.  
+Methodology 
+To study the EQs from different perspectives and triangulate insights, we focused on two 
+primary stakeholder groups, whose publicly accessible social media data were organised 
+into two different text corpora (collections of text data). We summarise each below.  
+1. Text data in Corpus 1 represents discussions of the general online public. This was 
+created using Meltwater, an online platform which offers scraping and analytics of 
+social media and online news data.  
+As a first step in building a search query for Corpus 1 in Meltwater, we identified multiple 
+subtopics within the broad topic of inclusive education through a literature review and expert 
+discussions. For each subtopic, we created a combination of keywords in Russian and 
+Kazakh that accurately described the chosen topic and considered the specifics of each 
+language and the different groups of interest. Once our subtopics and keywords were 
+defined, we initiated search queries, scraping online discussions on inclusive education in 
+Kazakhstan. In our search queries, we limited the geography to Kazakhstan by including a 
+‘Location’ query that specified our results must mention locations within Kazakhstan. To 
+ensure the quality of this search, we repeatedly validated queries by human review.  
+2. Text data from accounts and websites of specific organisations active in the inclusive 
+education space in Kazakhstan were collected as part of Corpus 2 and built using 
+self-programmed scrapers. 
+Through a purposive research design, we identified multiple organisations and their publicly 
+accessible social media handles and websites, which were scraped via a self-written 
+programme using Python that downloaded publicly accessible text. A major component of 
+Corpus 2 came from Instagram channels, Telegram groups and channels, and web sources 
+such as blogs and news outlets.  
+Findings 
+For EQ 1, we summarise key characteristics of the social and online media discussions on 
+inclusive education in Kazakhstan as follows. 
+1. Inclusive education in Kazakhstan is a topic of ongoing discussion, albeit a small 
+one compared to general discussions on education online. Analysis of Corpus 1 and 
+Corpus 2 shows an overall increasing trend in discussions on inclusive education. 
+
+ 
+© Oxford Policy Management 
+v 
+However, we estimate that inclusive education discussions in Corpus 1 make up only 
+about 3–6% of all online text on education more broadly.  
+2. The general public’s online engagement (Corpus 1) with inclusive education is 
+higher on news sites, blogs, and Facebook than on other social media sites. 
+Organisations working on inclusive education (Corpus 2), however, mostly use platforms 
+like Instagram and Telegram. 
+3. Analysis of top news by reach in Corpus 1 shows that the Government of 
+Kazakhstan is successfully promoting its active measures to develop inclusive 
+education with the introduction of modern technologies, the creation of 
+feedback channels, and initiatives aimed at protecting the rights of children with special 
+educational needs (SEN). This shows that the government’s messaging has a wide 
+reach, and that they are successfully highlighting and promoting these activities.  
+4. Spatial patterns of online conversations from Corpus 2 show that these 
+discussions are mostly concentrated in large urban cities like Astana and Almaty, 
+even after accounting for their higher population densities. This is suggestive of relatively 
+higher engagement on inclusive education in these areas. 
+5. Negative news in Corpus 1 often focused on the lack of protection of the rights of 
+children with SEN, as well as on the quality of their education. Meanwhile, positive 
+news highlighted measures taken to support children with autism, to prevent disability 
+in newborns, to increase the capacity building of teachers, and for social protection.  
+6. A hashtag analysis in Corpus 1 shows that autism and cerebral palsy are the most 
+widely discussed disabilities. Also, the adoption of testing for children with SEN is 
+actively discussed, as indicated by the United National Testing (ЕНТ) hashtag. Among 
+non-profit organisations, work of the Bulat Utemuratov Foundation has received 
+attention and positive discussion for its contribution to education for children with autism.  
+7. Analysis of the most frequently used words from Corpus 2 shows discussions 
+emphasised the capacity building of teachers, specialists and measures to support 
+inclusive education. As before, autism was the most discussed disability. 
+8. Topic analysis on Corpus 2 identified the most common themes of discussions, 
+and again features the capacity building of teachers, school education content 
+and pedagogy as prominent topics. Simultaneously, early diagnosis and treatment, 
+social support and opportunities for children, were also vital themes of discussion.  
+For EQ 2, our key findings are as follows. 
+9. An analysis of ‘Rights and Barriers’ from Corpus 1 reveals that incidents of abuse, 
+violence, and bullying in kindergartens, schools, universities, and families are 
+being mentioned as major issues affecting adequate access to inclusive 
+education. We understand that these have been identified by the Government of 
+Kazakhstan, which has made efforts to address quality issues, improve standards, and 
+establish minimum safety requirements in early childhood education.  
+10. In Corpus 2, the need for improved teacher training and the capacity building of 
+teachers and specialists who can support the SEN of children feature prominently 
+as major barriers to be overcome.  
+
+ 
+© Oxford Policy Management 
+vi 
+11. In discussions on inclusive education online, girls are significantly 
+underrepresented. With an eye on assessing differences in how inclusive education 
+discussions make references to boys and girls, we check if girls or boys are 
+disproportionately represented in discussions on inclusive education when compared to 
+discussions about education with no mention of disability. We find that the share of 
+messages that mention boys and girls across the corpora of ‘education and 
+disability’ and ‘education’ is comparable. However, the share of messages that 
+mention boys in such discussions is about three times larger than girls and accounts for 
+about 75% of the overall discussions. This suggests that girls, and possibly their specific 
+needs, are underrepresented in such discussions.  
+For EQ 3, our key finding is as follows. 
+12. We find limited mentions of specific programmes on inclusive education in 
+Corpus 1 and Corpus 2. In the latter, we do find mentions of ‘Educated Nation’ 
+(Образованная нация) and ‘Comfort School’ (Комфортная школа). This is not to say 
+that these programmes are not important, but it indicates that specific issues, rather than 
+government programmes, are being discussed more widely on social media. It may also 
+imply that the government is not able to promote programmes in a way that they are 
+picked up in social media discourse around inclusive education.  
+Key policy recommendations 
+1. Timing and choice of broadcasting platform for key messages: We find that 
+engagement with inclusive education rises with the start of the academic year and tapers 
+off gradually. It is sensitive to initiatives such as the month of raising awareness about 
+autism. Similarly, general public’s online engagement is higher on news portals and 
+blogs, whereas social media engagement on Instagram and Telegram is higher for 
+organisations working on inclusive education. This information can be leveraged by the 
+Government of Kazakhstan, particularly by the Ministry of Education and the Ministry of 
+Information and Communications, to relay key messages on inclusive education using 
+varied platforms for different stakeholders. In this context, evidence shows positive 
+effects of such media messaging on children’s education (Keefer & Khemani, 2014).  
+2. Focus on enhancing the accessibility of preschool, primary, and secondary 
+education facilities via accessibility audits: Despite positive perceptions around the 
+increased investment on upgrading school infrastructure and introducing modern 
+technologies, the Junction Bulgaria team found that there is a requirement for even 
+higher investment in physical infrastructure. Accessibility audits can help prioritise 
+necessary modifications and ensure compliance with accessibility standards to enhance 
+physical access to educational facilities. Certain relevant voluntary initiatives have 
+already emerged—notably Accessible Kazakhstan—and could provide guidance for the 
+Government of Kazakhstan to institutionalise this model for educational facilities.  
+3. Investment in human capital: Our findings across corpora indicate a perception of lack 
+of capacity building for teachers. Provision of training and professional development 
+opportunities for teachers and staff members on inclusive education practices, disability 
+awareness, and accessibility guidelines will enable educators to better support students 
+with disabilities and create a more inclusive learning environment. It could also contribute 
+towards a more individual approach being taken to students with SEN.  
+
+ 
+© Oxford Policy Management 
+vii 
+4. Coverage of social media dark areas: The social data media data on which this 
+analysis is based comes from larger cities like Astana and Almaty. However, more 
+research is needed to understand perceptions of, and barriers to, inclusive education in 
+other parts of the country.  
+5. Gender-sensitive assessment of educational needs: Our results show that girls are 
+relatively underrepresented in online discussions on inclusive education in Kazakhstan, 
+suggesting a lack of attention paid to the differential needs of girls in the educational 
+system. This calls for a collection of indicators disaggregated by gender within the 
+education sector in order to identify gender-specific factors limiting access to inclusive 
+education. It also calls for a general focus on gender-sensitive messaging on the needs 
+of girls in inclusive education.  
+6. Early childhood interventions: Early diagnosis and treatment of disability is a recurring 
+topic in our corpora. Early prevention and identification of disabilities, as well as provision 
+of services for early childhood development for children with SEN, are crucial to ensure 
+their educational needs are addressed from the outset. Positive news online indicates 
+some progress has been made in measures taken to prevent disability in newborns and 
+young children, including through better equipping of perinatal centres. These initiatives 
+should be expanded in coverage and coupled with correctional support to prepare young 
+children with SEN to study in public schools.  
+7. Adaptation of standardised testing: The ЕНТ hashtag appeared commonly in our 
+analysis, showing active discussions around the need to adapt standardised tests to the 
+needs of children with SEN. Our findings from top news in Corpus 1 indicate that the 
+Government of Kazakhstan has provided an additional 40 minutes for children with SEN 
+during such tests, showing that progress on this issue is already underway. Further 
+adjustments could be made to adapt testing materials, for instance for children who 
+cannot see the text. 
+Key recommendations for future use of SML in evaluations 
+1. Designing EQs based on what SML can and cannot answer: As against traditional 
+impact evaluations that are focussed on causal impact of an intervention, SML is better 
+suited to address descriptive questions that are intended to capture the perspectives of 
+stakeholders on a specific topic of online discussion. 
+2. Validation of online data: Building search queries should be iterative and based on 
+expert discussions. The list of keywords should account for linguistic or cultural 
+sensitivities, while being simple enough to ensure a sizeable text corpus for analysis.  
+3. Accounting for exclusion and inclusion bias: Inequalities in access to social media 
+may exclude certain groups from online discussions, thereby limiting the 
+representativeness at the national, or regional level. Bias from extreme views on social 
+media than in person also highlights the need for expert discussions to validate the 
+relevance of online posts. 
+4. External Validity: As online discussions are not necessarily representative of the entire 
+population and in some cases the number of posts is small, the evaluation should clearly 
+state whether the results can be generalisable. 
+
+ 
+© Oxford Policy Management 
+viii 
+Table of contents 
+Preface i 
+Executive summary ...................................................................................................... iii 
+List of tables, figures, and boxes .................................................................................. ix 
+List of abbreviations ..................................................................................................... xi 
+1 
+Introduction ..................................................................................................... 1 
+1.1 
+The object of the evaluation and defining ‘inclusive education’ ............. 1 
+1.2 
+Inclusive education in Kazakhstan ....................................................... 3 
+1.3 
+Evaluation stakeholders ....................................................................... 4 
+1.4 
+Evaluation management and governance ............................................ 6 
+2 
+Evaluation objectives, framework, and EQs ..................................................... 9 
+2.1 
+Purpose and objectives ........................................................................ 9 
+2.2 
+Policymaking cycle in Kazakhstan........................................................ 9 
+2.3 
+Groups of interest in this present study .............................................. 10 
+2.4 
+Evaluation scope ................................................................................ 11 
+2.5 
+EQs .................................................................................................... 12 
+3 
+Methods ........................................................................................................ 14 
+3.1 
+Scraping and processing text data from the internet .......................... 14 
+3.2 
+Data analysis ..................................................................................... 18 
+3.3 
+Ethics ................................................................................................. 20 
+3.4 
+Human rights, gender, and equity ...................................................... 20 
+3.5 
+Stakeholder participation .................................................................... 21 
+3.6 
+Methodological limitations .................................................................. 21 
+4 
+Findings ........................................................................................................ 23 
+4.1 
+Corpus 1: discussions by the general public on inclusive education online
+ .......................................................................................................... 23 
+4.2 
+Corpus 2: Online discussions by organisations focusing on inclusive 
+education in Kazakhstan .................................................................... 40 
+4.3 
+Our findings in the context of the broader formative evaluation and 
+implications for inclusive education policymaking in Kazakhstan ........ 48 
+4.4 
+Caveats, gaps, and limitations ........................................................... 49 
+5 
+Conclusions and recommendations ............................................................... 51 
+5.1 
+Conclusions ....................................................................................... 51 
+5.2 
+Recommendations regarding inclusive education in Kazakhstan ....... 53 
+5.3 
+Recommendations for the future use of SML in evaluations ............... 55 
+6 
+References .................................................................................................... 57 
+Annex A Terms of reference ........................................................................................ 58 
+Annex B : Additional Figures and Tables ..................................................................... 61 
+ 
+
+ 
+© Oxford Policy Management 
+ix 
+List of tables, figures, and boxes 
+Table 1: Analytical tools used for each EQ and stakeholder group ...................................... 13 
+Table 2: Number of results from key search queries ........................................................... 16 
+Table 3: Number of results from key search queries ........................................................... 18 
+Table 4: Topic modelling (English) for 7 topic identified by the algorithm............................. 43 
+Table 5: Topic modelling of Rights Barriers in corpus 2 (English) ........................................ 45 
+Table 6: Corpus 2, List of Organisations ............................................................................. 61 
+Table 7: Topic modelling (Russian) ..................................................................................... 63 
+Table 8: Topic modelling of Rights Barriers in corpus 2 (Russian)....................................... 64 
+ 
+Figure 1: Conceptual difference between exclusion, segregation, integration and inclusion ... i 
+Figure 2: Sub-topics within Inclusive Education................................................................... 14 
+Figure 3: Key sub-topics in our final search queries ............................................................ 16 
+Figure 4: Mentions trends—Queries on Inclusive Education ............................................... 23 
+Figure 5: Top publications by reach—Queries on Inclusive Education ................................ 24 
+Figure 6: Top news—Query 1: Inclusive Education KZ ....................................................... 24 
+Figure 7: Top news—Query 2: Inclusive Education RU ....................................................... 26 
+Figure 8: Top sources - Queries on Inclusive Education ..................................................... 26 
+Figure 9: Top negative news with the largest audience reach—Query 2: Inclusive Education 
+RU ...................................................................................................................................... 27 
+Figure 10: Top positive news with the largest audience reach—Query 2: Inclusive Education 
+RU ...................................................................................................................................... 28 
+Figure 11: Top positive news with the largest audience reach—Query 1: Inclusive Education 
+KZ ....................................................................................................................................... 28 
+Figure 12: Sentiment analysis ............................................................................................. 29 
+Figure 13: Hashtag analysis—Instagram and Facebook ..................................................... 30 
+Figure 14: Top keywords ..................................................................................................... 31 
+Figure 15: Mentions trend - Rights Barriers ......................................................................... 32 
+Figure 16: Top News - Rights Barriers ................................................................................ 33 
+Figure 17: Top negative news with the largest audience reach—Query 3: Rights Barriers RU
+ ........................................................................................................................................... 34 
+Figure 18: Top positive news with the largest audience reach—Query 3: Rights Barriers RU
+ ........................................................................................................................................... 34 
+Figure 19: Top news with the largest audience reach—Query 4: Rights Barriers KZ ........... 35 
+Figure 20: Top keywords (Rights Barriers) .......................................................................... 35 
+Figure 21: Gender analysis (Corpus 1) ............................................................................... 36 
+
+ 
+© Oxford Policy Management 
+x 
+Figure 22: Differences in sentiments across ‘education’ and ‘education and disability’, by 
+gender (Corpus 1) ............................................................................................................... 38 
+Figure 23: Spatial concentration of messages on inclusive education ................................. 40 
+Figure 24: Mentions trends for Corpus 2 ............................................................................. 41 
+Figure 25: Most common discussion words ......................................................................... 42 
+Figure 26: Messages per topic ............................................................................................ 43 
+Figure 27: Topic prevalence over time, by month ................................................................ 44 
+Figure 28: Mention of Rights Barriers (Corpus 2) ................................................................ 44 
+Figure 29: Topics of Rights Barriers (Corpus 2) .................................................................. 45 
+Figure 30: Most cited words on barriers (Corpus 2) ............................................................. 46 
+Figure 31: Gender analysis (Corpus 2) ............................................................................... 47 
+Figure 32: Building a search query in Meltwater (KZ) .......................................................... 61 
+Figure 33: Building a search query in Meltwater (RU) ......................................................... 61 
+Figure 34: Theory of Change (Junction Bulgaria) ................................................................ 66 
+ 
+ 
+Box 1: An example of the medical versus social model of disability ....................................... 2 
+Box 2: Key words for Sub-topic 2: Physical disabilities ........................................................ 15 
+Box 3: Examples of news items on autism and cerebral palsy ............................................ 30 
+Box 4: Additional key words associated with ‘Rights and Barriers domain’ .......................... 32

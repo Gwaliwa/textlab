@@ -1,0 +1,978 @@
+Formative Evaluation of the From Classroom to 
+Differentiated Education Programme: Improving 
+Enrolment, Learning and Transition from  
+Frontal to Differential Learning 
+ 
+UNICEF Suriname 
+ 
+Years Covered: August 2018 – December 2022 
+ 
+June 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Robin N. Haarr, PhD, Profeesor 
+UNICEF Senior Consultant 
+robinhaarr@yahoo.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by: 
+UNICEF Guyana and Suriname 
+Paramaribo, Suriname 
+ 
+Website: Republic of Suriname | UNICEF Guyana & Suriname 
+ 
+ 
+Author:  Dr. Robin N. Haarr, PhD, UNICEF Senior Consultant/Professor 
+ 
+ 
+ 
+This report presents findings from UNICEF Suriname Formative Evaluation of the From Classroom to Differentiated 
+Education Programme: Improving Enrolment, Learning and Transition from Frontal to Differential Learning (2018–
+2022). The evaluation was commissioned and managed UNICEF Suriname Country Office (CO), in  close coordination 
+with the UNICEF Latin American and Caribbean Regional Office (LACRO). The contents of this report do not 
+necessarily reflect the policies or views of UNICEF.  
+ 
+June 2023 
+ 
+Suggested citation: 
+ 
+Haarr, R.N. (2023). Formative Evaluation of the From Classroom to Differentiated Education Programme: 
+Improving Enrolment, Learning and Transition from Frontal to Differential Learning. UNICEF: Paramaribo, 
+Suriname. 
+ 
+ 
+
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+Acknowledgements ............................................................................................................................i 
+Acronyms ............................................................................................................................................ii 
+Executive Summary ............................................................................................................................iii 
+ 
+1. Introduction ...................................................................................................................... 1 
+1.1. Structure of the Report .................................................................................................................... 2 
+2. Overview of the Country Context and Educational System .................................................. 3 
+2.1. Economic Growth and Human Development .................................................................................. 4 
+2.2. National Commitments to Development and Human Rights .......................................................... 7 
+2.3. Educational System .......................................................................................................................... 7 
+3. Overview of the UNICEF-Supported From Classroom to Differentiated Education  
+Programme ....................................................................................................................... 17 
+3.1. Programme Goal and Scope ............................................................................................................. 18 
+3.2. Programme Objective and Aims ...................................................................................................... 18 
+3.3. Programme Outcome and Outputs .................................................................................................. 18 
+3.4. Programme Implementation ........................................................................................................... 19 
+3.5. Programme Stakeholders and Beneficiaries .................................................................................... 22 
+3.6. Programme Management and Monitoring ...................................................................................... 22 
+4. Evaluation Purpose, Objectives and Scope ......................................................................... 23 
+4.1. Evaluation Purpose .......................................................................................................................... 23 
+4.2. Evaluation Objectives ....................................................................................................................... 23 
+4.3. Evaluation Criteria and Questions.................................................................................................... 24 
+4.4. Evaluation Scope .............................................................................................................................. 25 
+5. Evaluation Methodology ................................................................................................... 27 
+5.1. Desk Review ..................................................................................................................................... 27 
+5.2. Inception Phase Consultations ......................................................................................................... 27 
+5.3. Site Visits .......................................................................................................................................... 28 
+5.4. Sample.............................................................................................................................................. 29 
+5.5. Data Collection Methods ................................................................................................................. 29 
+5.6. Ethical Considerations ...................................................................................................................... 33 
+5.7. Ethical Review Process ....................................................................................................................... 35 
+5.8. Data Management and Analysis ........................................................................................................ 36 
+5.9. Reporting and Validation ................................................................................................................... 36 
+5.10. Evaluator ............................................................................................................................................ 36 
+ 
+ 
+
+ 
+ 
+6. Evaluation Findings ........................................................................................................... 38 
+6.1. Relevance ......................................................................................................................................... 38 
+6.2. Effectiveness .................................................................................................................................... 50 
+6.3. Efficiency .......................................................................................................................................... 65 
+6.4. Sustainability .................................................................................................................................... 67 
+6.5. Equity, Gender Equality and Human Rights-Based Approaches ...................................................... 73 
+7. Conclusions and Recommendations ................................................................................... 74 
+7.1. Conclusions ...................................................................................................................................... 75 
+7.2. Lessons Learned ............................................................................................................................... 77 
+7.3. Recommendations ........................................................................................................................... 78 
+ 
+Annex A: References ...........................................................................................................................86 
+Annex B: Terms of Reference .............................................................................................................88 
+Annex C: Stakeholder Analysis ...........................................................................................................106 
+Annex D: Evaluation Matrix ................................................................................................................108 
+Annex E: Evaluation Work Plan ..........................................................................................................118 
+Annex F: Consent Form ......................................................................................................................119 
+Annex G: UNICEF and National Partner Questionnaire ......................................................................120 
+Annex H: School Staff Questionnaire .................................................................................................124 
+Annex I: Consent Form for FGDs ........................................................................................................128 
+Annex J: FGD Guide for Teachers .......................................................................................................129 
+Annex K: Parental Consent Form for Children’s Participation ...........................................................132 
+Annex L: FGD Guide for Students .......................................................................................................134 
+
+ 
+ 
+LIST OF TABLES AND CHARTS 
+ 
+ 
+2. Overview of the Country Context and Educational System 
+ 
+Table 2.1. Suriname Human Development Index Indicators, 2018 ................................................................... 5 
+Chart 2.1. Poverty and indigence rates in Suriname by district, 2016-2017 ..................................................... 6 
+Chart 2.2. Gross enrolment rate (GER) for primary education by gender, 2016-2020 ..................................... 9 
+Chart 2.3. Adjusted net enrolment rate (NER) for primary education by gender, 2010-2018 .......................... 9 
+Table 2.2. Lower secondary NER (adjusted), 2018 ............................................................................................ 9 
+Chart 2.4.. Primary completion rate (% of relevant age group) by gender, 2016-2021 .................................... 10 
+Chart 2.5. Lower secondary education completion rates (% of relevant age group) by ender, 2016-2021 ..... 10 
+Chart 2.6. Repetition rate by grade at all levels of education, 2018 ................................................................. 11 
+Chart 2.7. Dropout rate by grade at all levels of education, 2018 .................................................................... 12 
+Chart 2.8. Trained teachers by level of education, 2016-2021 ......................................................................... 14 
+Chart 2.9. Share of children with foundational reading and numeracy skills by grade, 2018 ........................... 15 
+Table 2.3. Children (ages 7-15) with foundational reading and numeracy skills, 2018 ..................................... 15 
+3. Overview of the UNICEF-Supported From Classroom to Differentiate Education Programme 
+Table 3.1. Number of EBS schools, school staff and students in the Programme by region ............................. 21 
+5. Evaluation Methodology 
+Table 5.1. Sample by type of institution and schools ........................................................................................ 29 
+6. Evaluation Findings 
+Chart 6.1. Relevance of the Differentiated Education Programme ................................................................... 39 
+Chart 6.2. Importance of the Differentiated Education Programme’s training for teachers ............................ 42 
+Chart 6.3. Importance of the Programme’s teaching and learning materials to student learning ................... 48 
+Chart 6.4. Programme’s effectiveness at preparing teachers to use differentiate teaching approaches ......... 52 
+Chart 6.5. Programme’s effectiveness at preparing teachers to identify and assess student learning needs .. 54 
+Chart 6.6. Programme’s effectiveness at preparing teachers to teach students with different  
+learning needs ................................................................................................................................................... 56 
+Chart 6.7. Programme’s effectiveness at preparing teachers to use visual teaching materials ....................... 58 
+Chart 6.8. Programme’s effectiveness at preparing teachers to develop lesson plans .................................... 59 
+Chart 6.9. What schools need to fully implement the Programme ................................................................... 62 
+Table 6.1. Summary of programme expenditures, 2018-2022 ......................................................................... 66 
+Chart 6.9. Public expenditures (% of GDP) allocated to education in Suriname, 2015-2020 ............................ 67 
+Chart 6.8. Sustainability of the Differentiated Education Programme .............................................................. 68 
+Chart 6.9. Likelihood of scaling up and mainstreaming the Differentiated Education Programme .................. 70 
+7. Conclusions and Recommendations 
+Table 7.1. Recommendations by ranking of urgency, impact and difficulty, and responsible parties .............. 84 
+ 
+
+i 
+ 
+ACKNOWLEDGEMENTS 
+ 
+ 
+The evaluator wants to express their thanks and appreciation to UNICEF Suriname for the support provided to 
+conduct this evaluation, and their overall coordination and follow-up which made this evaluation report possible. 
+Special thanks to Prya Hirasingh, UNICEF Monitoring and Evaluation Specialist, and Ernest Faisel Tjon-a-loi, UNICEF 
+Education Specialist.  Special thanks are also extended the Education Foundation of the Moravian Church (SOEBGS) 
+management and school staff from each of the nine SOEBGS primary schools who took the time to participate in 
+this evaluation and share the experiences and perspectives.  
+ 
+ 
+ 
+
+ii 
+ 
+ACRONYMS 
+ 
+ 
+AY 
+ 
+Academic Year 
+CARICOM 
+CARICOM-Caribbean Community 
+CEDAW  
+Convention on the Elimination of All Forms of Discrimination against Women 
+CPD 
+ 
+Country Programme Document 
+CRC 
+ 
+Convention on the Rights of the Child 
+CRPD 
+ 
+Convention on the Rights of Persons with Disabilities 
+CSO 
+ 
+Civil Society Organization 
+DAC 
+ 
+Development Assistance Committee 
+SOEBGS  
+Education Foundation of the Moravian Church  
+EMIS 
+ 
+Education Management Information System 
+ERB 
+ 
+Ethical Review Board 
+FGD 
+ 
+Focus Group Discussion 
+GDI 
+ 
+Gender Development Index 
+GII 
+ 
+Gender Inequality Index 
+GDP 
+ 
+Gross Domestic Product 
+GER 
+ 
+Gross Enrolment Rate 
+GEROS  
+Global Evaluation Reports Oversight System 
+GoS 
+ 
+Government of Suriname 
+HDI 
+ 
+Human Development Index 
+ICESC 
+ 
+International Covenant of Economic, Social and Cultural Rights 
+ICT 
+ 
+Information and Communications Technology 
+IDB 
+ 
+Inter-American Development Bank 
+IMF 
+ 
+International Monetary Fund 
+KII 
+ 
+Key Informant Interview 
+MICS 
+ 
+Multiple Indicator Cluster Survey 
+MICS-EAGLE 
+Multiple Indicator Cluster Surveys and Education Analysis for Global Learning and Equity 
+MINOWC 
+Ministry of Education, Science and Culture 
+NER 
+ 
+National Enrolment Rate 
+NGO 
+ 
+Non-governmental Organization 
+OECD 
+ 
+Organisation for Economic Co-operation and Development 
+SCO 
+ 
+Suriname Country Office 
+SDG 
+ 
+Sustainable Development Goal 
+SRD 
+ 
+Suriname Dollar 
+TaRL 
+ 
+Teaching at the Right Level 
+TOR 
+ 
+Terms of Reference 
+UNICEF  
+United Nations Children’s Fund 
+USA 
+ 
+United States of America 
+USD 
+ 
+United States Dollar 
+ 
+ 
+
+iii 
+ 
+EXECUTIVE SUMMARY 
+ 
+ 
+The purpose of this formative evaluation is to assess 
+to what extent the programme entitled, ‘Improving 
+enrolment and learning: Transition from frontal 
+teaching to differentiated learning (hereinafter 
+referred to as the Programme) was successful in 
+improving the performance of the Education 
+Foundation of the Moravian Church (SOEBGS) 
+schools in Suriname. This evaluation is also focused 
+on learning more about enabling factors, bottlenecks 
+and challenges, as inputs for learning and future 
+actions for improving and scaling up the Programme.   
+ 
+The goal of the Programme was to strengthen 
+teacher training to build teachers’ knowledge, 
+capacities and skills to apply more innovative 
+teaching methods in the classroom, which would 
+improve student learning, outcomes and academic 
+performance.  Trained teachers should be able to 
+effectively integrate these innovative teaching 
+methods into the classroom in a more holistic 
+manner, and use different teaching styles and 
+approaches to teach students with different learning 
+styles 
+and 
+abilities.1 
+The 
+Programme 
+was 
+implemented in 56 SOEBGS primary schools across 
+Suriname, including in coastal zones and the sparsely 
+inhabited interior.  
+ 
+The Programme aimed to create an integrated 
+capacity development programme for teachers, 
+which includes teacher training, specifically training 
+coaches and support staff (counsellor) who are 
+available to support teachers to use more innovative 
+and differentiate teaching methods in the classroom.  
+More specifically, the objectives of the Programme 
+were that:  
+• 
+Teachers are able to encourage students’ 
+creative thinking by asking questions in a 
+different way (e.g., Socratic questioning). 
+• 
+With differentiated teaching approaches, 
+teachers’ are able to respond in a more dynamic 
+manner to students learning differences and 
+talents, and classroom dynamics.  
+• 
+Teachers are better able to identify and assess 
+the learning needs of students and adapt their 
+teaching approaches accordingly.  
+ 
+1 From the Classroom to Differentiated Education 
+Programme Document, 2018. 
+2 On 11 March 2020, the WHO declared the novel 
+coronavirus (COVID-19) outbreak a global pandemic. 
+Subsequently, on 13 March 2020, Suriname announced 
+the first confirmed case of COVID-19 and closed its 
+borders. On 16 March 2020, all schools were closed to 
+prevent a further spread of COVID-19.  The closure of 
+schools had a notable negative impact on the ability of 
+• 
+Teachers are better able to understand and 
+work with diverse groups of students in the 
+classroom, and to support students who 
+underperform or have learning delays or 
+difficulties, and do so by increasing students’ 
+learning opportunities. 
+• 
+Through efforts of the Activating Didactic 
+Instruction (ADI) Model students are provided 
+the opportunity to participate and take a more 
+active role in their lessons and to participate in 
+the learning process. 
+• 
+Teachers are more aware of the language goals 
+and are better equipped or capacitated to 
+support language stimulation and production 
+among students.  
+• 
+Teachers are capacitated to use visual teaching 
+materials during lesson plans to engage and 
+teach students in a more playful and interactive 
+way, to increase their understanding and 
+solution-oriented thinking. 
+ 
+The Programme was supported  by UNICEF with civil 
+society organization (CSO) partner contributions (i.e., 
+SOEBGS).  The Programme was funded by UNICEF as 
+a thematic initiative versus with external donor 
+monies; thus, programme-related documents were 
+limited in number, as there were no specific external 
+donor reporting requirements. Programme-related 
+documents that were available were reviewed and 
+used to design the evaluation methodology and data 
+collection tools, and draft the Inception and Final 
+Evaluation Reports.  
+ 
+The Programme was initially planned to be 
+implemented from 1 August 2018 to 31 December 
+2020, but it was interrupted by the COVID-19 
+pandemic which began in March 2020.2  To date, the 
+Programme continues to be implemented by the 56 
+SOEBGS primary schools.   
+ 
+The intended use of this evaluation is to inform 
+ongoing implementation of the Programme in 
+SOEBGS primary schools. Thus, this evaluation offers 
+evidence-based 
+recommendations 
+for 
+further 
+improvement of the Programme and the potential for 
+schools and teachers to ensure all children have access to 
+distance education and remote learning.  Although the 
+COVID-19 pandemic continued throughout 2020 and into 
+2022, schools in Suriname were able to open in October 
+2020 with protective measures, yet temporary closures 
+did occur as needed to prevent the spread of COVID-19. 
+Thus, the spread of COVID-19 continued to interrupt the 
+delivery of education and student learning.  
+
+ii 
+ 
+scaling it up to other grades and schools, and to 
+inform national teacher training programmes.  This 
+evaluation offers strategic guidance to UNICEF on 
+how to sharpen its focus areas of support to SOEBGS 
+and MINOWC for mainstreaming differentiated 
+teaching and learning approaches in education, and 
+the overall approach to quality education.  
+ 
+The target audience, including primary expected 
+users of this evaluation, include UNICEF SCO, SOEBGS 
+and MINOWC.  This evaluation will also be of interest 
+to partner UN agencies and international financial 
+institutions/donors that contribute to UNICEF results 
+and wider UN system commitments, intended 
+outcomes and efforts on the realization of children’s 
+rights and wider human rights commitments, 
+including equitable access to quality education and 
+improvement to learning skills and outcomes.  
+ 
+EVALUATION METHODOLOGY 
+ 
+To ensure the evaluation approach was as thorough 
+and reliable as possible, a mixed methods evaluation 
+approach was developed to ensure systematic 
+collection of data and information related to each of 
+the evaluation questions and evidence as it relates to 
+the evaluation criteria of relevance, effectiveness, 
+efficiency and sustainability, as well as equity, 
+gender equality and human rights-based. The mixed 
+method evaluation approach included: 
+• 
+Desk review 
+• 
+Sample and site visits for 9 SOEBGS primary 
+schools 
+• 
+Key 
+informant 
+interviews 
+with 
+UNICEF, 
+implementing partners and SOEBGS school staff 
+• 
+Focus group discussions with SOEBGS primary 
+school teachers 
+• 
+Review of administrative data 
+ 
+The evaluation approach developed for this 
+evaluation were guided by the Terms of Reference 
+(TOR) and a desk review, with inputs from UNICEF 
+SCO.  The evaluation approach allowed for a 
+comprehensive, fair and unbiased evaluation of the 
+Programme and its implementation in SOEBGS 
+primary schools.  
+ 
+Participatory approaches were used throughout this 
+evaluation. This included mainstreaming a gender 
+lens, applying human rights approaches and 
+recognizing key stakeholders and beneficiaries as 
+‘rights-holders’, and the responsibility of the State 
+and other actors to act as ‘duty-bearers’ to support 
+the realization of children’s rights to equitable, 
+inclusive and relevant education services.   
+ 
+KEY FINDINGS AND CONCLUSIONS 
+ 
+The three-year Implementation plan for the 
+Programme (2018-2020) was interrupted and 
+impacted by the COVID-19 pandemic.  Training of 
+SOEBGS counsellors, school heads and coaches 
+occurred in 2018-2019, as initially planned. In 2019, 
+coaches began to train other teachers in their schools 
+to implement the Programme; however, activities 
+planned for 2020 were interrupted in March 2020 by 
+the pandemic. Because of the pandemic, SOEBGS 
+management and NGO SAGA Foundation were 
+unable to perform school visits and provide refresher 
+trainings that were initially envisioned. During the 
+pandemic, SOEBGS management and school staff 
+shifted their focus to delivering education to students 
+remotely, largely via television and radio; as a result, 
+teachers had limited contact with students and were 
+unable to assess their learning or use differentiated 
+teaching approaches. When students returned to the 
+classroom, school heads and teachers were focused 
+on reintegrating children into the classroom, 
+delivering curriculum and limiting contact between 
+children to reduce the spread of COVID-19 in schools. 
+At the time of this evaluation, Programme activities 
+implemented under the aegis of the Programme 
+Cooperation Agreement had ended, although they 
+were not fully implemented due to the pandemic, yet 
+schools were still implementing the Programme to 
+varying degrees. 
+ 
+In 2020, during the pandemic, the MINOWC enacted 
+the 
+Automatic 
+Promotion 
+Policy 
+in 
+primary 
+education, a practice of allowing students to progress 
+from one class/grade to the next higher class/grade 
+at the end of the school year regardless of academic 
+performance or educational attainment.  The 
+Automatic Promotion Policy has had a significant 
+impact on the effectiveness of the Programme. The 
+challenge is that teachers perceive students as being 
+less motivated to learn; in turn, teachers are less 
+motivated to expend more time and energy to help 
+to address students learning gaps and needs. Both 
+teachers and students are well aware that students 
+will be promoted to the next grade at the end of the 
+year, regardless of their learning outcome and 
+academic achievements, or lack thereof. 
+ 
+The key findings present a picture of the strengths 
+and limitations of the Programme as it relates to the 
+Programme's goal and objectives, and its relevance, 
+effectiveness, efficiency and sustainability. 
+ 
+Relevance 
+ 
+The Programme was designed and implemented to 
+support 
+SOEBGS 
+to 
+implement 
+differentiated 
+education in their 56 primary schools in an effort to 
+
+iii 
+ 
+tailoring instruction to students’ learning needs.  
+SOEBGS recognized that the traditional teacher-
+centred pedagogy that has long been at the centre of 
+the country’s primary education model was not 
+effective for all students, as many students were 
+having to repeat primary school grades and were not 
+transitioning from primary to secondary education.  
+Given the high rates of grade repetition and school 
+dropout, SOEBGS envisioned that a student-centred 
+pedagogy that relies upon differentiated teaching 
+approaches as a way to meet the learning needs of all 
+students, regardless of differences in their abilities.  It 
+was envisioned that the Programme would help to 
+reduce grade repetition and improve academic 
+performance.  The Programme was also aligned with 
+educational reforms that MINOWC had been 
+discussing. 
+ 
+The Programme’s objectives, strategies and activities 
+were relevant to the national context and primary 
+education. On average, respondents ranked the 
+Programme as a 6.3 on a 10-point scale (1=not 
+relevant to 10=very relevant) as being relevant to the 
+national context and primary education.  This 
+included strengthening teacher trainings and building 
+teachers’ knowledge and skills to apply differentiated 
+teaching approaches in the classroom to teach all 
+students, and to give additional attention to students 
+who struggled to learn. The aim of the Programme 
+was also to improve student learning and academic 
+performance in the areas of literacy and numeracy. 
+The Programme was also recognized as important at 
+preparing teachers to use differentiated teaching 
+approaches in the classroom.  On average, 
+respondents ranked the Programme as a 6.8 on a 10-
+point scale of importance (1=not important to 
+10=very important). 
+ 
+Effectiveness 
+ 
+The Programme was evidence-based and modelled 
+after a similar programme introduced in SOEBGS 
+special schools, in cooperation with NGO SAGA 
+Foundation. To support the Programme, NGO SAGA 
+Foundation developed a Programme manual and 
+workbook for teachers; then trained school head and 
+two teachers (coaches) from each of the 56 primary 
+schools.  The coaches were expected to return to 
+their schools and deliver trainings on the Programme 
+to their colleagues, as well as to coach their 
+colleagues to properly develop daily lesson plans, 
+apply a three-star system of categorizing students 
+and use differentiated teaching approaches in the 
+classrooms.  Not all coaches followed through with 
+these responsibilities for a variety of reasons, 
+including: lack of commitment or buy-in to use 
+differentiated education in the classroom; lack of 
+understanding of differentiated education based 
+upon the trainings received; lack of capacities and/or 
+time to train and coach their colleagues; resistance 
+from their colleagues; and lack of support from 
+school heads. 
+ 
+There were several advantage and disadvantages to 
+the Programme’s teacher trainings. Advantages 
+included: 
+The 
+Programme’s 
+teacher 
+training 
+reinforces 
+good 
+differentiated 
+education 
+and 
+teaching that school heads and teachers recognize 
+benefit students and help them to move from one 
+grade to the next, particularly before the pandemic; 
+teachers who were trained to be coaches were 
+provided with a Programme manual and workbook; 
+Programme’s teacher training, if delivered properly 
+and in its entirety, can capacitate teacher to 
+understand and apply differentiated teaching 
+approaches in the classroom; and the Programme’s 
+teacher training succeeded at capacitating teachers 
+to develop daily lesson plans, to varying degrees 
+(paragraphs 208-213 and 221-229).  
+ 
+In comparison, disadvantages included: SOEBGS 
+counsellors were not fully capacitated or committed 
+to support schools to implement the Programme; 
+there was no clear criteria or guidance provided to 
+school heads for selecting teachers to be trained as 
+coaches to support the implementation of the 
+Programme, and teachers who were selected to be 
+coaches were not clearly informed as to what would 
+be their roles and responsibilities as coaches in their 
+schools; school heads should have received the same 
+trainings that coaches received so that they full 
+understood all components of the Programme, as 
+well as additional trainings on how to manage the 
+Programme’s implementation and support teachers 
+education in the classroom; and to varying degree, 
+teachers were capacitated to use differentiated 
+teaching approaches in the classroom, but they were 
+not capacitated on how to use differentiated testing; 
+and the cascade training approach was wrought with 
+challenges (paragraphs 214-220 and 221-229).  
+ 
+The Programme helped to improve teacher 
+performance and abilities to address the different 
+needs of students, and to mad teaching and learning 
+more inclusive, but to varying degrees. On average, 
+respondents ranked the Programme as a 6.0 on a 10-
+point scale (1=not at all to 10=very much) at 
+contributing to increasing the capacities of SOEBGS 
+primary schools to use differentiate teaching 
+approaches that are focused on improving child 
+learning. Some respondents pointed out that before 
+the pandemic many more teachers were more 
+actively applying the Programme, but now there are 
+new teachers who have never heard of the 
+Programme; thus, they called for more trainings on 
+differentiated 
+education. 
+Some 
+schools 
+have 
+
+iv 
+ 
+expanded the Programme beyond grades 3-6, as 
+originally planned, and are now trying to implement 
+the Programme in pre-school and the upper grades. 
+At the same time, however, not all teachers are 
+implementing the Programme in the classroom and 
+teachers complain that developing daily lesson plans 
+is a lot of writing and time consuming.  As a result, 
+teachers from many of the schools reported that they 
+have reverted back to using traditional teaching-
+centred pedagogy (paragraphs 235-243).  
+ 
+The Programme was ‘somewhat effective’ at 
+achieving its objectives, including: preparing teacher 
+to identify and assess the learning needs of students; 
+adapting teaching approaches to teach students with 
+different learning abilities; and preparing teachers to 
+use visual teaching materials during lesson plans to 
+teach students in more playful and interactive ways.  
+On average, respondents ranked the Programme as a 
+5.0 on a 10-point scale (1=not effective to 10=very 
+effective) at preparing teachers to identify and assess 
+the learning needs of students, and ranked the 
+Programme as a 5.3 on 10-point effectiveness scale 
+at preparing teachers to adapt their teaching 
+approaches to teach students with different learning 
+abilities. Teachers were more likely to rank the 
+Programme at ‘not so effective’ at accomplishing 
+these the first objectives, due largely to the fact that 
+the cascade training approach was not so effective.  
+As it relates to preparing teachers to use visual 
+teaching materials during lesson plans to teach 
+students in a more playful and interactive way, 
+respondents ranked the Programme as a 6.2 on a 10-
+point scale of effectiveness. Teachers complained, 
+however, that schools lack the resources and 
+materials that teachers need to create their own 
+visual teaching materials (paragraphs 247-267).  
+ 
+On average, respondents ranked the Programme as a 
+6.5 on a 10-point scale (1=not effective to 10=very 
+effective) at preparing teachers to take a more active 
+role in developing their lesson plans. Coaches 
+recognized that spending more time on developing 
+lesson plans improves the way teachers teach and 
+their relations with students; however, not all 
+teachers are developing daily lesson plans or 
+understand the importance of the lesson plans. Many 
+teachers tend to see the lesson plans as time 
+consuming and not very useful.  Teachers also 
+complained that they have to pay to photocopy the 
+lesson plan forms and the costs can be high for 
+teachers, particularly those teachers who teach math 
+and language (paragraphs 268-273).   
+ 
+ 
+3 Conducting a costing analysis was beyond the scope of 
+this evaluation and the evaluator was not able to conduct 
+cost comparisons. The evaluator was provided with 
+This evaluation found that nearly all respondents 
+identified the need more training and training 
+materials (90 percent), as well as educational and 
+teaching materials (90 percent).  The majority of 
+respondents also identified the need for better 
+collaboration, coordination and cooperation (72 
+percent), 
+improvements 
+to 
+the 
+classroom 
+environment (70 percent) and more resources (56 
+percent).  Fewer respondents also identified the need 
+for improvements to the school environment (20 
+percent), improved Programme management (18 
+percent) and more Programme monitoring and 
+monitoring tools (9 percent) (paragraphs 277-292).   
+ 
+Efficiency 
+ 
+This Programme was implemented with no donor 
+funding; it was funded predominately by UNICEF.3  
+The total cost of the Programme was USD 89,728 
+(SRD 663,989), of which USD 81,355 (SRD 602,032) 
+was UNICEF’s contribution and USD 8,373 (SRD 
+61,957) was a CSO contribution (i.e., SOEBGS).   
+ 
+UNICEF and SOEBGS learned that two years was not 
+enough time to implement the Programme to the 
+extent that it was able to change the culture of 
+schools and reform education in primary schools to 
+include differentiated education.  Nor was there 
+enough time to really assess the Programme’s 
+effectiveness and impacts, or to ensure sustainability.  
+Schools need a longer period of time to be 
+capacitated to possess the knowledge, attitudes and 
+skills to effectively implement the Programme as a 
+whole school approach.  SOEBGS schools would 
+benefit from an additional training and technical 
+assistance to implement the Programme, and 
+additional resources to ensure that schools have the 
+training and teaching materials needed to fully 
+implement the Programme in all 56 primary schools. 
+ 
+Given the lost learning time and learning losses 
+experienced by children during the pandemic, 
+additional resources are needed to support 
+programming, such as the Differentiated Education 
+Programme, that aim to help students recover from 
+learning losses and to catch-up from unfinished 
+learning.  Ultimately, there is much work to be done, 
+yet the challenges for educators, students and 
+parents are considerable and will require educational 
+reforms and interventions that include a focus on 
+differentiated education and tailored or remedial 
+instruction that focuses on helping teachers to deal 
+with students who are not prepared for the 
+summary expenditures data presented by implementation 
+phase and result/activity.  
+
+v 
+ 
+classroom and the materials and at very different 
+levels of understanding (paragraphs 297-298). 
+ 
+Sustainability 
+ 
+This evaluation found limited evidence that the 
+Programme will be sustainable after only two-years 
+of implementation; more time is needed for 
+Implementation. 
+On 
+average, 
+in 
+terms 
+of 
+sustainability, respondents ranked the Programme as 
+a 6.0 on a 10-point scale (1=not sustainable to 
+10=very sustainable). : There were challenge and 
+barriers to Programme implementation that need to 
+be addressed for the Programme to be sustainable. 
+To ensure sustainability, school heads and teachers 
+need additional training on how to implement the 
+Programme, including training on how to develop 
+lessons plans and how to teach using differentiated 
+teaching approaches and testing. They also need 
+educational 
+and 
+teaching 
+materials, 
+and 
+differentiated tests that are aligned with teaching 
+based upon the three-star system. Respondents also 
+recognized that there needs to be better cooperation 
+among teachers in schools and support from school 
+heads to implement the Programme; this is because 
+there is a lot of resistance to the Programme.  
+ 
+On average, respondents thought it ‘somewhat likely’ 
+that the Programme will be scaled up and 
+mainstreamed into all SOEBGS schools. On average, 
+respondents ranked the Programme as a 6.9 on a 10-
+point scale (1=not likely to 10=very likely) that it has 
+the potential for scaling up and mainstreaming.  
+Schools, however, need to be provided with the 
+resources and educational and teaching materials for 
+the Programme to be scaled up and mainstreamed 
+into all SOEBGS schools.  Additional invests also need 
+to be made to ensure that the Programme is 
+implemented in schools in the interior, to ensure that 
+teachers in the interior are properly capacitated and 
+provided with the technical assistance they need, 
+coupled with the resources and educational and 
+teaching materials (paragraphs 308-312).   
+ 
+Any effort to ensure sustainability of the Programme 
+requires 
+continued 
+external 
+inputs, 
+including 
+financial support and technical assistance to support 
+a review and revisions to the Programme manual and 
+workbook based upon lessons learned from this 
+evaluation, and the development of improved 
+capacity building trainings and training materials for 
+continued trainings of counsellors, school heads and 
+teachers.  This includes financial support to ensure 
+that Programme-related manuals, workbooks and 
+teaching materials are readily available to all teachers 
+in all SOEBGS schools. External inputs are also needed 
+to ensure that schools and teachers have the 
+resources and materials they need to practice 
+differentiated education in the classroom. This 
+includes reusable educational and teaching aids, such 
+as visual teaching materials, blocks and furniture to 
+create reading and math coroners in schools and 
+classrooms. 
+ 
+LESSONS LEARNED 
+ 
+There were several lessons learned to consider if 
+there are plans going forward to continue to support 
+the Programme’s implementation, and could be 
+relevant to MINOWC and other faith-based school 
+systems in Suriname that plan to implement 
+differentiated education.   Lessons learned include: 
+ 
+• 
+In Suriname, educational institutions and 
+educators are slow to change, including to 
+transition from teacher-centred pedagogy to 
+student-centred differentiated education and 
+teaching pedagogy. Thus, efforts to ‘win the 
+hearts and minds’ of school heads and teachers 
+to implement the Programme on a daily basis in 
+the classroom requires significant capacity 
+building and technical assistance, as well as a 
+demonstration of results and proper allocations 
+of resources.    
+ 
+• 
+Counsellors, school heads and teachers all need 
+to be properly capacitated and mentored to 
+implement the Programme and to work together 
+as a team to implement the Programme, as a 
+whole school approach. A whole school 
+approach will increase the responsibility and 
+engagement of all teachers in the Programme. 
+EBGS primary schools need school heads and 
+teachers who are willing to champion the 
+Programme.  
+ 
+• 
+EBGS counsellors need to be agents of change 
+and champions of the Programme, and they 
+need to be fully capacitated and certified to train 
+school heads and teachers on all components of 
+the 
+Programme, 
+and 
+to 
+assess 
+its 
+implementation in the classroom.   
+ 
+• 
+School heads need to be committed to the 
+Programme and capacitated to support a whole 
+school 
+approach 
+for 
+Programme 
+implementation.  In keeping, school heads need 
+to serve as role models to teachers and regularly 
+communicate 
+and 
+demonstrate 
+their 
+commitment to the Programme, and ensure that 
+all teachers are capacitated to implement the 
+Programme.  
+ 
+• 
+There should be clear criteria and guidance for 
+school heads to recruit and select teachers to be

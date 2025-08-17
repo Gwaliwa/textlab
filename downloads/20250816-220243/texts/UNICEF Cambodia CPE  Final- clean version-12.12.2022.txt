@@ -1,0 +1,604 @@
+Evaluation of the UNICEF Cambodia Country Programme 
+2019-2023 
+ 
+ 
+Commissioned by:  
+UNICEF Cambodia 
+ 
+EVALUATION REPORT 
+FINAL – December 2022 
+ 
+ 
+ 
+ 
+ 
+Prepared by: 
+Zehra Kacapor-Dzihic, Team Leader 
+Ofelia Garcia, International Specialist 
+Chandara Gnim, National Evaluator 
+ 
+KonTerra Support: 
+Blerta Perolli Shehu, Evaluation and Research 
+Sophie Dunn, Quality Assurance 
+Erisa Yzeiraj Pereira, Evaluation Manager 
+ 
+Contractor: Konterra Group 
+ 
+ 
+ 
+DISCLAIMER 
+The author’s views expressed in this publication do not necessarily reflect the views of the 
+UNICEF or the Government of Cambodia. 
+ 
+ 
+
+ 
+ii
+CONTENTS 
+Executive Summary ........................................................................................................................... 1 
+Introduction ...................................................................................................................................... 6 
+Subject of the Evaluation and its Context ........................................................................................... 6 
+Country Context ................................................................................................................................... 6 
+Subject of the Evaluation ...................................................................................................................10 
+Programme outcomes and outputs...................................................................................................11 
+Purpose, Objectives and Scope of the Evaluation - ............................................................................ 13 
+Main Objectives and Users of the Evaluation ...................................................................................13 
+Methodology ................................................................................................................................... 14 
+Data Collection...................................................................................................................................15 
+Data Analysis ......................................................................................................................................15 
+Data Reliability and other Limitations ...............................................................................................16 
+Ethical considerations ........................................................................................................................16 
+Key Findings .................................................................................................................................... 16 
+5.1 UNICEF’s strategic positioning and adaptability to respond to changes in national needs, and 
+priorities or to shifts caused by COVID-19 and other major socio-economic and political changes (EQ1)
+ 
+16 
+5.1.2 UNICEF’s ability to meet the needs and include the most vulnerable and marginalised groups (EQ 
+1, EQ 9, EQ 12) ...................................................................................................................................19 
+5.1.3 Adaptability and continued relevance .....................................................................................22 
+5.2 Extent to which UNICEF identified emerging needs and adopted relevant strategies to respond to 
+these, including the development and use of the Private Sector Engagement and Technology for 
+Development (EQ2) ...........................................................................................................................23 
+5.2.2 The role of Communication for Development, Private Sector Engagement and Technology for 
+Development in implementation of UNICEF’s CP .............................................................................24 
+5.3 Strengths, comparative advantages, and modalities to be kept and changes to make in the design 
+of the next country programme to align with the 2021-2025 Strategic Plan (EQ3, EQ4).................26 
+5.3 Adequacy and effectiveness of undertaken steps to deliver in convergent approaches (EQ5, EQ6)
+ 
+28 
+5.4 Achievement of Sector level results in Health and Nutrition, WASH, and Education (EQ 7, EQ 8, EQ 
+9) 
+30 
+5.5 Active involvement with duty-bearers (EQ 10) ...........................................................................56 
+5.6 The extent to which the Country Programme used: a) programming at scale, b) winning support 
+for the cause of children from decision makers, c) developing and leveraging resources and 
+partnerships for children and d) using the power of evidence to drive change to achieve results (EQ 
+11) 
+56 
+5.7 Timeliness of UNICEF’s delivery of results (EQ 12) ......................................................................60 
+
+ 
+iii
+5.8 Contributions of the selected programmatic areas to intended national results, including SDG 
+focused results, as well as whole of UN outcomes specified in the UNDAF and more recently in the 
+context of COVID-19 in the SERP (EQ13) ...........................................................................................61 
+5.9 Major external and internal factors influencing the achievement of Country Programme results, 
+with a special focus on Health and Nutrition, Education and WASH (EQ 14) ...................................65 
+5.10 The sustainability of the gains relating to 1) programming at scale in vaccination; 2) social 
+protection, including cash transfers, acceleration of the strengthening of the social workforce and 3) 
+increased investments in areas such as GVB, MHPSS achieved in the COVID-19 response (EQ 15, 16)
+ 
+67 
+Conclusions and Lessons Learned ..................................................................................................... 68 
+Conclusions ........................................................................................................................................68 
+Lessons Learned .................................................................................................................................71 
+Recommendations ........................................................................................................................... 73 
+Annexes .......................................................................................................................................... 79 
+Annex 1 Evaluation Terms of Reference ...........................................................................................79 
+Annex 2. Extended Context Analysis .................................................................................................93 
+Annex 3 Full Country Programme Overview ...................................................................................102 
+Annex 4 Evaluation Matrix ..............................................................................................................117 
+Annex 5. Bibiliography .....................................................................................................................131 
+Annex 6. Overview of FIeld Data Collection ....................................................................................158 
+Annex 7 Interview Guides ................................................................................................................160 
+Annex 8. UNICEF’s Convergence .....................................................................................................173 
+Annex 9. UNICEF’s Chair and Co-Chair Role in UNCT Bodies ..........................................................176 
+Annex 10. Health and Nutrition Tables / Charts..............................................................................177 
+Annex 11: Population Receiving WASH Services .............................................................................180 
+Annex 12: Summary of Education Results Delivered Under Output 1 and Output 2 .....................182 
+Annex 13: Lists of Persons Interviewed ...........................................................................................186 
+Annex 14. Ethical Clearance ............................................................................................................191 
+ 
+ 
+ 
+ 
+ 
+
+ 
+iv
+List of Figures 
+Figure 1 UNICEF Zonal Operational Areas ................................................................................................... 12 
+Figure 2 UNICEF in Cambodia – UNICEF Section Funding in Percentage .................................................... 12 
+Figure 3 Donors of the Country Programme ............................................................................................... 12 
+Figure 4 Stakeholders Interviewed per Phase ............................................................................................. 15 
+Figure 5 Cambodia’s progress over five dimensions of child rights ............................................................ 62 
+ 
+ 
+List of Tables 
+Table 1 Health - Output 1 - Results.............................................................................................................. 32 
+Table 2 Health Output 1 – COVID-19 related indicator result..................................................................... 33 
+Table 3 Health Output 2 – Nutrition Indicator Results ................................................................................ 34 
+Table 4 Health Output 2 – Nutrition - COVID-19 related indicator results ................................................. 30 
+Table 5 Health and Nutrition Outcomes - Results ....................................................................................... 38 
+Table 6 Immunization coverage (5) ............................................................................................................. 32 
+Table 7 Health Outcome – COVID-19 related indicator results................................................................... 40 
+Table 8 Output 1 – WASH (enabling environment) - Results ...................................................................... 41 
+Table 9  Output 2 – WASH (equitable sanitation and hygiene) - Results .................................................... 43 
+Table 10 Output 2 – WASH - COVID-19 related Results .............................................................................. 44 
+Table 11 Outcome 3 – WASH (equitable water access) - Results ............................................................... 45 
+Table 12 Outcome – WASH - Results ........................................................................................................... 47 
+Table 13 Education results (Output 1) ......................................................................................................... 49 
+Table 14 Education results (Output 2) ......................................................................................................... 52 
+Table 15 Education sector results (outcome level) ..................................................................................... 55 
+ 
+ 
+
+ 
+v
+List of Acronyms 
+ADAP 
+Adolescent Development and Participation 
+AOPs 
+Annual Operational Plans 
+ASEAN 
+Association of Southeast Asian Nations  
+AYRG 
+Adolescent and Youth Reference Group 
+CCA 
+Common Country Analysis  
+CC 
+Climate Change 
+CEDAW 
+Convention on the Elimination of all Forms of Discrimination Against Women 
+CP 
+Country Programme 
+CPD 
+Country Programme Document  
+CDPF 
+Capacity Development Partnership Fund 
+CPE 
+Country Programme Evaluation 
+CRC 
+Convention on the Rights of the Child  
+CRPD 
+The Committee on the Rights of Persons with Disabilities 
+CSDG 
+Cambodian Sustainable Development Goals 
+CSO 
+Civil Society Organization 
+D&D 
+Decentralisation and Deconcentration 
+C4D 
+Communications for Development 
+C4E 
+Communication for Education 
+EBF 
+Exclusive breastfeeding 
+ECD 
+Early Childhood Development 
+ECD-NAP 
+Early Childhood Development National Plan 
+EM 
+Evaluation Manager 
+EMIS 
+Education Management Information System 
+ERG 
+Evaluation Reference Group 
+ESC 
+Evaluation Steering Committee  
+ESP 
+Education Strategic Plan 
+ET 
+Evaluation Team 
+GAP 
+Gender Action Plan 
+GBV 
+Gender Based Violence 
+GD 
+Group Discussion 
+GDP 
+Gross Domestic Product 
+GEROS 
+Global Evaluation Reports Oversight System 
+GEWE 
+Gender equality and women’s empowerment 
+GPCC 
+General Population Census of Cambodia  
+GPR 
+Gender Programmatic Review 
+HRBa 
+Human Rights-Based Approach 
+HLP 
+Home-Learning Package 
+HMIS 
+Health Management Information System 
+IECD 
+Integrated Early Childhood Development  
+IFI 
+International Financial Institution 
+IR 
+Inception Report 
+IYCF 
+Inadequate Infant and Young Children Feeding  
+KII 
+Key Informant Interview 
+M&E  
+Monitoring & Evaluation 
+MDG 
+Millennium Development Goals 
+MEF 
+Ministry of Economy and Finance 
+MICS 
+Multiple Indicator Cluster Surveys 
+
+ 
+vi
+MISTI 
+Ministry of Industry, Science, Technology, and Innovation 
+MLE 
+Multi-Lingual Education 
+MoEYS 
+Ministry of Education, Youth and Sport 
+MoH 
+Ministry of Health 
+MoI 
+Ministry of Interior 
+MOSVY 
+Ministry of Social Affairs, Veterans and Youth Rehabilitation 
+MoPTC 
+Ministry of Post and Telecommunication 
+MHPSS 
+Mental Health and Psychosocial Support  
+MRD 
+Ministry of Rural Development 
+MTR 
+Midterm Review 
+NCDs 
+Non-communicable diseases  
+NGO 
+Non-governmental organization 
+NIE 
+National Institute of Education 
+NIS 
+National Institute of Statistics  
+NSDP 
+National Strategic Development Plan 
+OECD-
+DAC 
+Organisation for Economic Co-operation and Development’s Development Assistance 
+Committee 
+PCA 
+Programme Cooperation Agreement 
+ODF 
+Open defecation free 
+PPF4C 
+Policy and Public Financing for Children programme  
+PwD 
+Persons with disabilities 
+QA 
+Quality Assurance 
+RCCE 
+Risk communication and community engagement 
+RBM 
+Result-based management 
+RGC 
+Royal Government of Cambodia 
+RS 
+Rectangular Strategy 
+RTUF 
+Ready to Use Food 
+RWP 
+Rolling Work Plan 
+SAM 
+Severe Acute Malnutrition 
+SBCC 
+Social and Behaviour Change Communication 
+SDG 
+Sustainable Development Goal 
+SIDA 
+Swedish International Development Cooperation Agency 
+SOP 
+Standard Operations Procedure 
+SSFA 
+Small-Scale Funding Agreements 
+SUN 
+Scaling Up Nutrition 
+TBD 
+To be determined 
+ToC 
+Theory of Change 
+ToR 
+Terms of Reference 
+T4D 
+Technology for Development 
+TWG 
+Technical working groups 
+UN 
+United Nations 
+UNCT 
+United Nations County Team  
+UNDAF 
+United Nations Development Assistance Framework 
+UNDP 
+United Nations Development Programme 
+NDVP 
+National Deployment and Vaccination Plan 
+UNEG 
+United Nations Evaluation Group 
+UNFPA 
+United Nations Population Fund 
+UNICEF 
+United Nations Children's Fund 
+
+ 
+vii
+UNODC 
+United Nations Office on Drugs and Crime 
+VACS 
+Violence Against Children Survey 
+VNR 
+Voluntary National Review 
+WASH 
+Water, sanitation and hygiene 
+WFP 
+World Food Programme 
+WHO 
+(United Nations) World Health Organization 
+ZO 
+(UNICEF) Zone Office 
+ 
+
+EXECUTIVE SUMMARY 
+1. This report presents the UNICEF Cambodia Country Programme 2019-2023 Evaluation 
+(hereinafter: CPE) which assessed UNICEF’s performance in Cambodia across the period 
+between January 2019 - June 2022. The evaluation has a summative perspective of Country 
+Programme (CP) implementation in the period between 2019-2021, and formative perspective 
+for the period of 2022 onward. The report contains the key findings, conclusions, and 
+recommendations of the CPE.  
+2. The UNICEF Cambodia CP focuses on five key programmatic areas: 1) Health and Nutrition, 2) 
+Water, sanitation and hygiene (WASH), 3) Education, 4) Child Protection, and 5) Social Policy and 
+Public Financing for Children, as well as the internal programme effectiveness area. The CP 
+works on three levels: (a) upstream: national; (b) midstream: subnational; and (c) downstream: 
+community. This CPE looks at the programme as a whole with a deep-dive review of Health and 
+Nutrition, WASH, and Education, while multiple sectoral evaluations informed the Social Policy 
+and Child Protection sectors contributions to the overarching CP results. The overall budget for 
+the Cambodia CP for the reference period has reached a total of US$80.3 million. 
+3. The evaluation followed the 2019 OECD Development Assistance Committee evaluation criteria 
+of relevance, effectiveness, and sustainability1, the Norms and Standards of the United Nations 
+Evaluation Group (UNEG), and the 2018 UNICEF Evaluation Policy and the principles of ‘do no 
+harm’. The evaluation was theory-based and used a mixed-methods approach drawing on three 
+main sources of information: pre-existing documentation, pre-existing quantitative or 
+qualitative information and primary qualitative information. The immediate users of the 
+evaluation findings and recommendations include UNICEF Cambodia, the Royal Government of 
+Cambodia (RGC) including the Ministry of Planning and other line ministries, UNICEF East Asia 
+and Pacific Regional Office (EAPRO), the Cambodia United Nations Country Team (UNCT), 
+development partners and donors. 
+The Main Evaluation Findings 
+4. UNICEF’s strategic positioning. UNICEF’s country strategies and areas of intervention are 
+aligned with, and continuously contribute to, Cambodia’s national development and sector 
+priorities, and Cambodia’s Agenda 2030. UNICEF’s support to the Decentralisation and 
+Deconcentration (D&D) process and engagement with civil society varied by sector. Gender 
+considerations are not seen as a priority in Government, but UNICEF has continued to advocate 
+for gender equality. UNICEF’s targeting and coverage is informed by a range of studies, 
+evaluations, and reviews and geographic targeting was generally appropriate. UNICEF's 
+sustained system-wide capacity building in multiple areas has helped lay the groundwork for 
+future reforms, although respondents indicated that UNICEF could have promoted more 
+equitable methods through its strategic positioning and advocacy role.  
+5. UNICEF identifying and responding to emerging needs. The choice of activities, target groups 
+and areas of intervention included in the CP were guided by national priorities and unmet needs 
+of children, following an equity approach, as identified by UNICEF’s and other actors’ analytical 
+work. UNICEF was adaptable to the evolving local context and needs throughout the CP 
+implementation. The importance of the role of Communication for Development, Private Sector 
+Engagement and Technology for Development in implementation of UNICEF’s CP has been 
+constantly growing.  
+6. UNICEF's comparative advantages. UNICEF's main comparative advantage pertains to 
+integrated upstream policy support and modelling of services in different sectors, contributing 
+ 
+1 Available at: https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm 
+
+ 
+2
+to generating evidence and policy dialogue, supporting innovative tools and strategies. UNICEF 
+requires greater focus and prioritization of key areas, and review of its broad and demand-
+driven portfolio, a rather generalist approach across sectors, and lack of strategies to engage at 
+subnational level.  
+7. Adequacy and effectiveness of steps to deliver in convergent approaches. UNICEF’s 
+sectoral interventions are very broad, covering a range of activities and interactions at central 
+level. UNICEF’s convergence efforts are on the rise but still not fully consistent between sectors. 
+UNICEF’s partnership approaches prioritize cooperation with government over, and sometimes 
+at the expense of, collaboration with other development partners.  
+8. Achievement of sector level results in Health and Nutrition, WASH, and Education. 
+UNICEF’s support in strengthening the implementation of high-impact Maternal, Newborn and 
+Child Health (MNCH) and nutrition services and interventions at national and sub-national level 
+is an important contribution to the national health system. UNICEF’s work to strengthen 
+nutrition programming, assisting in systems strengthening for maternal and child nutrition 
+provided through facility and community-based delivery mechanisms is also a significant 
+contribution. The WASH programme has made consistent efforts to build more capacity at 
+subnational level (focusing on rural WASH), showing a coherent balance of investment and 
+prioritization between national level policy guidance and policy implementation support 
+(national and sub-national levels). UNICEF contributed to an overall increase in the capacity of 
+state and non-state actors to develop and implement measures aimed at increasing access to 
+basic, safe, climate resilient water supply for people in schools and health care facilities in 
+targeted UNICEF districts. UNICEF has also contributed to enhanced Ministry of Education, 
+Youth and Sport capacity to navigate transformation of the quality, inclusiveness and relevance 
+of education policies and services, including by building on the capacity of its human resources 
+to plan, implement and monitor Education Strategic Plan targets. However, operationalisation 
+of ambitious educational reform plans at subnational level is slow and warrants consolidated 
+focus on priority areas. UNICEF’s support to the technical and system strengthening in areas 
+such as inclusive education, multi-lingual education and supporting the upscaling of positive 
+discipline training for teachers to address various issues has brought several positive short-term 
+results, though transformative potential is still limited. UNICEF’s contributions to the 
+enhancement of capacity of communities to demand accountability and relevant quality 
+education services have been minimal.  
+9. Active involvement with duty-bearers. UNICEF has actively engaged with duty bearers at 
+central level, leading to strong ownership of results. Engagement with duty bearers at 
+subnational level varied between thematic areas but is positive where it happened.  
+10. The CP integrated and utilised several strategies to deliver results. The evaluation found 
+that UNICEF has used appropriate programming at scale, and winning support for the cause of 
+children from decision makers, while developing and leveraging resources and partnerships for 
+children and the power of evidence to drive change.  
+11. Timeliness of UNICEF’s delivery of results. COVID-19 constraints, Cambodia’s challenging 
+topography, and other more structural factors hampered the timeliness of delivery of support 
+to the duty bearers and right holders. UNICEF’s adaptable management boosted the timeliness 
+of support.  
+12. UNICEF’s contributions to the United Nations Development Assistance Framework (UNDAF), 
+Sustainable Development Goals (SDGs) and UN COVID-19 Socioeconomic Response Framework 
+(SERF) were positive.  UNICEF-supported system level strengthening and reforms across 
+education, social protection and child protection, health and nutrition and WASH contribute to 
+UNDAF, SERF and the SDG acceleration, despite persistent challenges. UNICEF’s COVID-19 
+response has been strong and appreciated by all interviewed stakeholders.   
+
+ 
+3
+13. Factors influencing the achievement of CP results. CP focus and performance have 
+benefited from UNICEF’s office structure, evidence generation, combination of upstream and 
+downstream focus and adaptability and the Royal Government of Cambodia’s commitment and 
+positioning. Nevertheless, delivery of results was hindered by internal siloed approaches, and 
+external factors such as the COVID-19 pandemic.  
+14. The sustainability of gains relating to programming at scale in vaccination, social protection, and 
+increased investments in various areas such as Gender Based Violence (GBV) and Mental Health 
+and Psychosocial Support (MHPSS). UNICEF is already supporting the Ministry of Health in the 
+integration of COVID-19 vaccination into routine immunisation programming, which could be 
+delivered with other essential primary health care services for the most vulnerable. The 
+unprecedented expansion of Cambodia’s social protection system during the pandemic has 
+provided the opportunity to develop new capacities among the national duty bearers, providing 
+a unique opportunity to temporarily expand social assistance during a crisis. Some key 
+informants indicated that UNICEF’s operational focus on GBV and MHPSS activities reaching out 
+to the most vulnerable and marginalized has opened a window of opportunity for policy 
+influencing and advocacy for equitable coverage, and may help intensify efforts in other 
+domains too, such as civil registration-returned migrants, refugees, etc. 
+The Main Evaluation Conclusions  
+15. Relevance. The CP design is aligned with national priorities, the UNDAF and the relevant SDGs. 
+UNICEF’s focus on the most deprived regions of Cambodia is appropriate. The CP integrated 
+gender considerations and responds to most needs of rights holders, though coverage of the 
+most vulnerable groups would have enhanced UNICEF’s added value in Cambodia. UNICEF 
+Country Office has created, cultivated, and maintained good relationships with the Royal 
+Government of Cambodia, enabling UNICEF to influence national discourse and policy 
+development, though to a lesser extent its operationalisation and implementation.  
+16. Convergence is still emerging. The design of the different sectors’ Theories of Change do not 
+reflect key thematic and cross-sector linkages, which hinders convergence. A multitude of 
+sectoral upstream and downstream interventions with funding constraints and siloed 
+approaches in implementation of activities are further reflected in vertical communication 
+issues between the Country Office (CO) and Zone Offices (ZOs). It is hard to assess the 
+effectiveness and impact of conceptualised converging programmes (e.g., The Cambodia 
+Integrated Early Childhood Development and Adolescent Development and Participation). 
+17. Comparative advantage. The two most significant strengths and value propositions of UNICEF 
+in Cambodia include its reputation as the go-to agency for system strengthening, policy support, 
+modelling, and filling gaps in education, child protection and social policy, WASH, and 
+increasingly health and nutrition, with an equity approach. This provides an opportunity for 
+tackling reform efforts more systematically at central and subnational levels. UNICEF also holds 
+substantial coordination, convening, and leveraging potential – both with the Government and 
+with development partners.  
+18. Effectiveness and sustainability. UNICEF’s output level results from system strengthening 
+efforts across all CP sectors (and the COVID-19 response) have been positive, though the 
+challenge remains to ensure that investments across these thematic areas transform into 
+sustainable outcome level results. There has been significant progress in improvement of policy 
+and regulatory frameworks thanks to UNICEF's support, but there are still gaps in terms of 
+conducive policy and the fiscal environment at all levels; operationalisation of regulatory 
+provisions and the models’ scale up.  
+19. UNICEF implemented several relevant and effective interventions in response to COVID-
+19 under SERF. The utility of UNICEF’s mandate and efficient resource mobilisation approaches 
+
+ 
+4
+in response to the pandemic led to the immediate rapid and effective response, providing 
+needed vaccination, child protection and social assistance, education and WASH support 
+services at scale to the Government and children. Such support to the most affected population 
+has to some extent mitigated the negative learning loss and health impact of COVID-19 across 
+Cambodia. 
+20. Factors affecting sustainability of results. The transformative potential and sustainability of 
+UNICEF’s results are muted to some extent by national absorption capacity limitations, UNICEF’s 
+fragmented approaches and recurring crises. By providing significant amounts of technical 
+assistance to national institutions, UNICEF has delivered on its promises, though longer term 
+sustainable transformative potential and impact of UNICEF contributions is muted because 
+even as programme interventions deliver outputs, the benefits of the programme interventions 
+often do not materialize with the affected populations. These suggest the need for more in-
+depth accompaniment regarding institutional bottlenecks and procedures to bridge the gap 
+between policy guidance and policy implementation, identifying areas where UNICEF could add 
+value through a system strengthening approach across areas mentioned above.  
+Lessons Learned  
+21. Lesson 1. In countries where UNICEF’s sector reform interventions include strong evidence 
+generation and engagement in Public Financial Management, there is a greater 
+transformational potential for improving accountability and transparency of targeting and 
+access to services for the most vulnerable.  
+22. Lesson 2. Government sector institutions require long-term funding to support continuous and 
+comprehensive technical and financial support over time, often over multiple programme 
+cycles.  
+23. Lesson 3. Given the critical importance of essential services for children, including primary 
+health care and education, long term dedicated resources are needed at decentralized and 
+community levels to ensure a strong focus on quality, equity, and inclusiveness.  
+24. Lesson 4. Convergence requires organisational dedication, time, resources, and clear and 
+sound intervention logic.  
+25. Lesson 5. The COVID-19 pandemic is a challenge but can also be an opportunity.  
+ 
+Key Recommendations 
+1.  
+The next CP intervention logic should build on evidence of approaches that were 
+proven to bring results in sharpening organization’s focus on reaching the most 
+marginalized. This can be done by addressing core bottlenecks and barriers, including 
+emerging convergent approaches when relevant and building on lessons learned from 
+implementation of this cycle of CP and outstanding gaps within UNICEF’s thematic 
+areas. The new CSP Intervention logic should consider what can realistically be 
+achieved based on resource mobilization possibilities and definition of credible 
+assumptions that may curtail too high ambitions.  
+2.  
+Develop and implement an institutional capacity strengthening strategy focusing on 
+areas where UNICEF can add value while considering the D&D reform needs 
+3.  
+Support government fiscal planning and optimization processes across all UNICEF’s 
+sectors of focus, by expanding its interventions to support the government’s fiscal planning 
+in all targeted sectors.  
+
+ 
+5
+ 
+ 
+ 
+4.  
+Continue strengthening strategic and operational support to the education sector. 
+Operational recommendations include the need to: undertake joint assessments to identify 
+needs and design joint and/or complementary inclusive education support interventions to 
+promote inclusive and accessible school environments with an explicit strategy and tactics 
+specifically for disability focus to address the complementary bottlenecks around 
+intervention-level and policy activities that prevent successful policy and intervention 
+products from reaching affected population; and to undertake joint assessments to identify 
+needs and design joint and/or complementary interventions to mitigate learning loss, 
+fostering holistic child development including social emotional learning  
+5.  
+Continue strengthening strategic and operational support to the health sector. 
+Operational recommendations include the need for continue cooperation with key 
+Government stakeholders (and potentially development partners) for a joint  review of 
+current immunization programmes to prioritize the “Zero-dose” agenda and barriers to 
+uptake in immunization and other core child outcomes; to strengthen national and sub-
+national data quality and  timely availability data on zero dose children/communities; and to 
+continue cooperation with key Government stakeholders (and potentially development 
+partners) in strengthening specific approaches to maternal, newborn and child health and 
+immunization as part of Primary Health Care and Universal Health Care in a limited number 
+of geographic areas. 
+6.  
+Continue strengthening strategic and operational support to the nutrition sector. 
+Operational recommendations include the need to: strengthen evidence-based 
+communication and advocacy  to explicitly visualize the scope and consequences of the 
+unaddressed management of SAM caseloads; 2) to intensify life-saving  nutrition response 
+and coverage, including well-targeted social interventions in the areas with critical SAM levels; 
+3) with partners to develop a tool to identify critical areas to be prioritized for immediate 
+rapid assessments and rapid emergency response in humanitarian situations; and 4) to 
+strengthen multi-sector, multiple systems and cross-sectoral programming to prevent and 
+address the underlying causes of all forms of malnutrition including persistent child wasting. 
+7.  
+Continue strengthening strategic and operational support to the WASH sector. 
+Operational recommendations include the need to: intensify efforts to move forward the 
+Climate Resilient Water and Sanitation agenda; to advocate towards reinforcing  Climate 
+Resilient WASH Minimum Requirement in Schools (WinS MR); to support smart subsidy 
+strategies for accessing marked based sanitation services as well as supporting the 
+development of WASH financing strategy.

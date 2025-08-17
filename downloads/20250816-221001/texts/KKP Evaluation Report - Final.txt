@@ -1,0 +1,583 @@
+Mark Ellery 
+markjjohnellery@gmail.com & robturare@gmail.com 
+ 
+Commissioned by UNICEF Papua New Guinea Country Office  
+
+Contents 
+EXECUTIVE SUMMARY ................................................................................................................................. 0 
+1 
+BACKGROUND ..................................................................................................................................... 5 
+1.1 
+The Klinpela Komuniti Projek ...................................................................................................... 8 
+2 
+EVALUATION PURPOSE, OBJECTIVES, SCOPE AND THEORY OF CHANGE ............................................ 9 
+2.1.1 
+Theory of Change ................................................................................................................ 9 
+2.1.2 
+Scope ................................................................................................................................. 10 
+2.1.3 
+Objectives .......................................................................................................................... 10 
+3 
+EVALUATION DESIGN AND METHODOLOGY ..................................................................................... 10 
+3.1 
+Evaluation Approach ................................................................................................................. 10 
+3.2 
+Evaluation Framework ............................................................................................................... 11 
+3.3 
+Data Collection .......................................................................................................................... 12 
+3.3.1 
+Desk review ....................................................................................................................... 13 
+3.3.2 
+Site Visits ........................................................................................................................... 13 
+3.3.3 
+Key Informant Interviews .................................................................................................. 13 
+3.4 
+Data Analysis ............................................................................................................................. 13 
+3.5 
+Ethics ......................................................................................................................................... 14 
+3.6 
+Limitations and Challenges ........................................................................................................ 15 
+4 
+FINDINGS ........................................................................................................................................... 15 
+4.1 
+RELEVANCE ................................................................................................................................ 15 
+4.1.1 
+Significant .......................................................................................................................... 16 
+4.1.2 
+Needed .............................................................................................................................. 17 
+4.2 
+EFFECTIVENESS .......................................................................................................................... 22 
+4.2.1 
+Outputs .............................................................................................................................. 22 
+4.2.2 
+Outcomes .......................................................................................................................... 28 
+4.3 
+EFFICIENCY ................................................................................................................................. 31 
+4.3.1 
+Standard designs ............................................................................................................... 32 
+4.3.2 
+Modality............................................................................................................................. 34 
+4.3.3 
+Management ..................................................................................................................... 34 
+4.4 
+SUSTAINABILITY ......................................................................................................................... 35 
+4.4.1 
+Technical / Environmental ................................................................................................. 35 
+4.4.2 
+Behavioural / Social ........................................................................................................... 36 
+4.5 
+COHERENCE ............................................................................................................................... 37 
+4.5.1 
+Fit-for-purpose .................................................................................................................. 37 
+4.5.2 
+Rational .............................................................................................................................. 39 
+5 
+CONCLUSIONS ................................................................................................................................... 41 
+6 
+LEARNINGS ........................................................................................................................................ 42 
+7 
+RECOMMENDATIONS ........................................................................................................................ 42 
+7.1 
+Project Design ............................................................................................................................ 43 
+7.2 
+Sanitation & Hygiene in Schools & HCFs ................................................................................... 43 
+7.3 
+Sanitation & Hygiene in Communities ....................................................................................... 43 
+References ................................................................................................................................................. 44 
+ANNEXES .................................................................................................................................................... 46 
+Annex 1: Evaluation Terms of Reference .............................................................................................. 46 
+Annex 2: Evaluation Matrix ................................................................................................................... 51 
+Annex 3: Planned and Completed Key Informant Interviews ............................................................... 52 
+Annex 4: KKP Logical Framework .......................................................................................................... 53 
+Annex 5: Documents, Databases, and Secondary Data ........................................................................ 56 
+Annex 6: Data Collection Instruments ................................................................................................... 57 
+Field site visits process ...................................................................................................................... 57 
+Key informant interview with KKP partners ...................................................................................... 57 
+ 
+ 
+ 
+
+ACRONYMS 
+ 
+AROB 
+Autonomous Region of Bougainville 
+ATP 
+Appropriate Technologies Project 
+BCC 
+Behaviour Change Communication 
+CLTS 
+Community-Led Total Sanitation 
+DDA 
+District Development Authority 
+DEO 
+District Education Officer 
+DHM 
+District Health Manager 
+DNPM 
+Department of National Planning and Monitoring 
+EHO 
+Environment Health Officer 
+EU 
+European Union 
+FF 
+Feedback Foundation 
+HCFs 
+Health Care Facilities 
+KAP 
+Knowledge, Attitudes and Practices 
+KEQ 
+Key Evaluation Question 
+KII 
+Key-Informant Interview 
+KKP 
+Klinpela Komuniti Project 
+LLG 
+Local-Level Government 
+MHM 
+Menstrual Hygiene Management 
+MIS 
+Management Information System 
+MoU 
+Memorandum of Understanding 
+NDOE 
+National Department of Education 
+NDOH 
+National Department of Health 
+O&M 
+Operation and Maintenance 
+ODF 
+Open Defecation Free 
+PMU 
+Programme Management Unit 
+PNG 
+Papua New Guinea 
+SDA 
+Service Delivery Arrangement 
+SDG 
+Sustainable Development Goals 
+SLIP 
+School Learning Improvement Plan 
+TTU 
+Touching The Untouchables 
+UNICEF 
+United Nations Children’s Fund 
+WASH 
+Water, Sanitation and Hygiene 
+WiHCF 
+WASH in Health Care Facilities 
+WinS 
+WASH in Schools 
+WVI 
+World Vision International 
+
+0 
+ 
+EXECUTIVE SUMMARY 
+BACKGROUND 
+Papua New Guinea (PNG) is a diverse nation with a population of 10.1 million and 10,000 ethnic clans, residing 
+across 600 islands and speaking more than 800 languages. The majority of its population lives in rural areas with 
+limited access to basic services. PNG is considered a lower-middle-income country with a medium human 
+development ranking and high gender inequality. With nearly 39% of the population living below the poverty line, 
+the county strives to achieve the goals in the PNG Vision 2050 and the Development Strategic Plan (2010-2030). 
+PNG faces significant challenges in meeting the Sustainable Development Goal (SDG) targets related to water, 
+sanitation and hygiene (WASH), with rural areas having low access to basic sanitation and hygiene services. 
+Estimates by the WHO-UNICEF Joint Monitoring Program demonstrate disparities in service levels between urban 
+and rural areas, between districts, and between types of WASH services, with the need for improvements in 
+underserved areas to enhance public health, human potential, and socio-economic development. 
+The PNG Constitution recognizes the primacy of Provincial and Local Level Governments (LLG), with law making 
+responsibilities for WASH, education and health assigned to the LLGs and provinces under the Organic Law for 
+Provincial and Local Level Governments. Although the National WASH Policy (2015-2030) does not accord priority 
+to districts, they have received greater focus since the approval of the District Development Authority (DDA) Act 
+of 2014 that established DDAs as a vehicle for the creation and transfer of assets. 
+OVERVIEW OF THE INTERVENTION 
+The EU-UNICEF Klinpela Komuniti Project (KKP) began in late 2017 with the first phase focusing on district selection 
+and the preparation of costed five-year WASH plans. The project, funded by the European Union (EU) and UNICEF, 
+aims to enhance the quality of life for women, men, and children in PNG by improving access to safe water, 
+sanitation, and hygiene practices in alignment with the National WASH Policy. The project has two primary 
+objectives: to create a healthier and safer environment, reducing waterborne and hygiene-related illnesses, and 
+to enhance governance and service delivery in the WASH sector. It targets schools, health care facilities (HCF), and 
+communities with a focus on community-led total sanitation (CLTS) in four districts: Hagen Central, Goroka, 
+Nawaeb, and Bougainville Central. The project beneficiaries include school children in 200 schools, patients, 
+mothers and newborns in 36 HCFs, people in 800 communities around the beneficiary schools, and the general 
+population with a goal to increase their awareness of sanitation and hygiene. The project's three main output 
+results are (1) improving sanitation and handwashing facilities in schools and HCFs, (2) increasing public awareness 
+of hygiene and sanitation, and (3) strengthening the institutional framework for WASH service delivery. 
+EVALUATION PURPOSE, OBJECTIVES, & INTENDED AUDIENCE 
+The purpose of this evaluation is to provide sound and credible evidence on the KKP with the aims to trigger 
+UNICEF PNG Country Office and National Partners’ learning, enhance accountability with respect to UNICEF’s work 
+on improving WASH for children and their families and to inform decision-making on national policies and budgets 
+for WASH and for programme design for scale-up. The key intended users of the evaluation are the WASH Section 
+within UNICEF PNG and the EU donor. The secondary audience of the evaluation are relevant government 
+institutions and authorities in charge of WASH, rights holders, future contracted project implementers and 
+experts, and other UNICEF Offices. The evaluation covers the period from 2017 until 2022, in the four projects 
+districts, and thematically covering the three KKP results areas outlined above. 
+The evaluation’s objectives are: 
+1. To assess the major factors enabling or constraining the achievement of project results; 
+2. To identify key lessons learned, including success and failures, good practices and innovations from 
+implementation of the project; 
+3. To validate and reconstruct the project’s theory of change, including its underlying assumptions and risks; 
+
+1 
+ 
+4. To generate a set of clear, forward-looking, and actionable recommendations logically linked to the findings 
+and conclusions. 
+EVALUATION METHODOLOGY 
+The KKP evaluation had formative and summative elements, with a focus on the latter to gather lessons for the 
+next programme and assess the programme's interventions' value and contributions to intended and unintended 
+results. While non-experimental, efforts were made to include a comparative and external perspective. Due to 
+limited monitoring data, qualitative methods such as key informant interviews, desk reviews, and transect walks 
+were used. The evaluation encompassed cross-cutting themes of gender equality and disability, aiming to reach 
+vulnerable and marginalized groups. The process was participatory, providing ongoing feedback to implementers 
+and primary users, with various interactions, including field visits, feedback workshops, and data validation 
+meetings. 
+The key criteria and questions that frame the evaluation are: 
+Relevance 
+1. How do the stakeholders view the appropriateness of the project - and its planned results - to the local 
+context, given the improving conditions in the country, and the remaining WASH challenges? 
+2. To what extent did the project address the WASH needs of children, particularly those in the lowest wealth 
+quintile, the remote populations and ones with the worst sanitation and hygiene conditions? To what extent 
+did the implementation strategies of the project address gender, disability, and climate change issues? 
+Effectiveness 
+3. To what extent did the project help households climb up the sanitation ladder and improve children’s access 
+to improved WASH, particularly for girls, and children living with disabilities and special needs? 
+4. How did collaborations with counterparts and implementing partners contribute to achieving the project 
+outputs and outcomes? 
+Efficiency 
+5. How well was the project implemented in terms of fidelity to the model, design, and plans, and management 
+of costs and timelines? How did external factors – technical, financial, institutional, environmental, social - 
+modify the level of achievement of outputs and outcomes? 
+6. What were the strengths and gaps in capacity of the implementation team composition (UNICEF and partners 
+together)? How did they contribute to the timeliness and cost of the project? 
+Sustainability 
+7. Are the toilets provided in schools / HCFs cleaned and looked after?  
+8. Considering the emergency context and need for response under scenarios such as COVID-19, what are key 
+programmatic adaptations needed to ensure handwashing practices, Open Defecation Free (ODF) status and 
+the associated social norm sustain following certification? 
+Coherence 
+9. To what extent was the KKP delivery model appropriate to the PNG context? 
+10. To what extent did the project align with implementation of the National WASH Policy 2015-2030? And how 
+can it better target its contribution to the WASH SDGs? 
+Data collection included desk reviews of 49 items including reports, documents, databases, and secondary data. 
+The site visits occurred between the 3rd and 26th of October 2022, and included 21 schools, 11 HCFs and 9 
+communities across the four districts. In the absence of a well-maintained monitoring and evaluation system, the 
+evaluation relied on a purposive sample of sites proposed by the implementing partner. Interviews of 15 key 
+informants supplemented the data. Data was thematically reviewed, by the two evaluation team members for 
+reliability, and the emerging themes were connected to the key evaluation questions. Qualitative data was 
+triangulated from multiple sources to substantiate findings, and analysed by relevant social stratifiers where 
+possible, and corroborated with quantitative data from secondary sources that was analysed using descriptive 
+
+2 
+ 
+statistics. Consultations and workshops held with partners and UNICEF helped validate and refine the findings and 
+draft recommendations. 
+KEY CONCLUSIONS ON FINDINGS 
+Relevance 
+The significance of KKP is considered to be high, in the light of the limited access to basic sanitation services (only 
+15% in rural areas), limited access to basic hygiene services (25% in rural areas), inadequate WASH facilities in 
+schools and HCFs, and the high prevalence of chronic undernutrition in children (45% of rural children under five 
+are stunted).   
+In terms of needs addressed, the KKP aimed to target the neediest districts and children affected by the lowest 
+levels of sanitation and hygiene. However, the equal allocation of facilities and targets to each of the four districts 
+did not account for the differing needs between the target districts. Baseline data indicating that many schools 
+and HCFs already had limited access to sanitation and hygiene services, did not necessarily affect their selection 
+for improving sanitation and handwashing facilities. So while addressing significant WASH challenges in PNG, the 
+KKP may not have targeted the neediest areas and beneficiaries. 
+Effectiveness 
+All the target project outputs have been successfully delivered by KKP, despite the numerous challenges posed by 
+the ambitious targets, capacity constraints, and the restrictions imposed by COVID-19. These outputs include: 
+- 
+the delivery of sanitation and hygiene facilities in 200 schools and 36 HCFs. 
+- 
+the promotion of sanitation and hygiene with 796 communities declared ODF.  
+- 
+the preparation of WASH Plans, service delivery assessment and application of the bottleneck analysis tool. 
+- 
+the development of national guidelines for WASH in schools, national protocols for the declaration of ODF 
+communities and deployment of the national monitoring information system. 
+Despite the success in the achievement of these outputs, the KKP is unlikely to deliver the intended sanitation and 
+hygiene outcomes, the intended health and education impact (i.e. human capital development), or the 
+strengthening of the institutions necessary to ensure sustained sanitation and hygiene services for all. This 
+conclusion is primarily derived from findings that: 
+- 
+most of the sanitation and hygiene facilities in the 200 schools and 36 HCFs are not being routinely used. 
+Among those being used, over half will likely experience the premature backing-up of the toilets, and none of 
+the remote rural toilet blocks can be managed safely when full, in the absence of sludge trucks. 
+- 
+the modeling of the CLTS approach without improvement to the wider enabling environment challenges the 
+sustaining of newly acquired hygiene and sanitation behaviours. 
+- 
+the District WASH baseline data and WASH plans have not been used, the District WASH Committees appear 
+to be inactive, and the members do not appear to have influence over sanitation and hygiene investments. In 
+addition, the DDAs do not hold law-making responsibility for WASH, education, or health service provision 
+although they can construct and transfer WASH assets.  
+- 
+while the responsible national institutions were engaged in the setting of standards for sanitation and hygiene 
+services in schools, HCFs and communities, they were not involved in the monitoring, evaluation and learning 
+from KKP. There is little evidence of the LLGs and provinces with law making powers for sanitation and 
+hygiene, education and health service delivery being engaged by the KKP. 
+The net result of choices to pursue targets over the managing of processes, to prioritise target successes above 
+that of monitoring progress or understanding challenges, to roll-out a standardized approach without sufficient 
+piloting and testing, may have compromised the intended outcomes of KKP and left behind flawed designs and 
+processes that could negatively impact future progress in the PNG WASH sector. 
+
+3 
+ 
+While sanitation and hygiene behaviour change are a priority sub-sector for rural PNG, it is well recognized to be 
+extremely challenging to affect change, particularly in schools and HCFs. In the context of the capacity challenges 
+posed by the remote rural settings in PNG, ‘bottom-up’ approaches that prioritize operation and maintenance 
+over asset creation likely provide better incentives for outcomes than ‘top-down’ infrastructure-led approaches. 
+In this sense, the 3 Star approach to WASH in schools and HCFs, which links facility provision with a commitment 
+to behaviour change, is a better alternative in remote rural settings. 
+Efficiency 
+KKP successfully delivered school and HCF WASH facilities on time and on budget, despite challenging conditions 
+in remote areas and restrictions due to COVID-19. Evaluation findings point to concerns with the fidelity to the 
+model design and plans. Issues arose primarily due to the lack of attention given to the substructure, particularly 
+the effluent absorption capacity in more structured soils and the permeability of pit lining materials in less 
+structured soils. Failure to develop designs that can be emptied when full and the premature filling of pits 
+contributed to the abandonment of toilets. While the centralized deployment of a standard design was efficient, 
+the failure to sufficiently consider site-specific factors, such as soil type, rainfall, and cultural preferences, resulted 
+in facilities that are not being used or cannot be maintained. 
+The KKP model surpassed the 60% target of 800 communities for ODF declaration, achieving a remarkable 99.5% 
+verified and certified ODF by the DDAs within an extremely tight time frame. While the evidence of open 
+defecation from the site visits may have been due to slippage, the absence of a robust monitoring and learning 
+system undermines the credibility of the open defecation certification data. The absence of a third-party 
+monitoring firm, lack of consolidated input, output, and outcome monitoring against baseline, and a lack of 
+endline assessments makes assessment of efficiency challenging.  
+Sustainability 
+The technical sustainability of many toilet facilities is undermined because the pits cannot be emptied when full. 
+The safeguarding of water for sanitation and hygiene was a common cause of failure in usage and routine cleaning 
+of WASH facilities in all districts. 
+The capacity of the various departments responsible for planning, monitoring and evaluation in the WASH sector 
+requires strengthening for institutional sustainability. There was inadequate engagement with the Departments 
+of Education and Health in rigorous monitoring, evaluation, and learning processes of sanitation and hygiene 
+service delivery and the Department of Provincial and Local-Level Government Affairs in deploying legal and social 
+instruments to ensure universal access to sanitation and hygiene services. 
+Coherence 
+The evaluation finds several challenges in the alignment of KKP activities with policy implementation. Namely, the 
+lack of clear legislation supporting the role of District WASH Committees, 5-year District WASH plans, or 
+instruments for their enforcement, which presents a risk to the district-level delivery of sanitation and hygiene 
+facilities. Also, the sequence of project activities lacked logical progression, with many steps not building on the 
+preceding ones. For instance, baseline assessments and planning were often conducted after the design phase, 
+and standardized targets were set before District WASH Plans were prepared. 
+The WASH in Schools Infrastructure Design Manual produced by UNICEF did not incorporate lessons learned from 
+the project implementation. The standard designs for water-based and dry pit toilets did not address critical issues 
+posed in construction, the premature filling of pits, and their maintenance, which are vital for understanding the 
+principles that should guide sanitary system design. The standard designs for water-based toilets repeated 
+mistakes like the discharging blackwater to septic tanks that cannot be emptied in rural areas, the lack of design 
+details of the septic tanks or the soakaways, and failure to address water supply system demand management 
+issues. Similarly, the standard designs for dry pit toilets did not address issues like pit collapsing risks, immoveable 
+concrete slabs and superstructures. 
+
+4 
+ 
+LEARNINGS 
+The key lesson from the KKP is the need to embed a learning culture in the project. This requires engaging 
+organizations committed to systems that encourage listening and learning, and people who value the experiences 
+of local practitioners and policymakers. The KKP experience shows that each detail of sanitation and hygiene 
+facilities should be systematically trialed, refined, gradually improved and lessons documented before developing 
+standardized designs. It also shows that the absence of effective demand management for water supply systems 
+plays a crucial role in the failure of sanitation and hygiene systems. 
+Another lesson from the KKP is that in politically contested environments, it is vital to have a robust understanding 
+of the legislative assignments for sanitation and hygiene to avoid falling victim to political patronage incentives. 
+Furthermore, the CLTS approach’s emphasis on bottom-up strategies needs careful tailoring to individual settings, 
+particularly in areas with low open defecation rates and a culture of shame that hinders community participation. 
+RECOMMENDATIONS 
+Project Design 
+The evaluation recommends the creation of institutional incentives to prioritize beneficiary demand creation and 
+capacity development, above the public provision of infrastructure and information products within these low-
+capacity environments.  
+Sanitation and Hygiene in Schools and HCFs 
+The evaluation makes specific recommendations for emptying of sanitation systems in rural settings, alongside 
+review and revision of National Construction Guidelines for Schools and HCFs. It also recommends complementing 
+additional water storage for increased water security with strategies to reduce the risks of water wastage. 
+Sanitation and Hygiene in Communities 
+The evaluation recommends developing an appropriate approach and incentives for the PNG context, building on 
+the experiences of applying CLTS in different contexts as part of the KKP in PNG. 
+ 
+ 
+
+5 
+ 
+1 BACKGROUND 
+Papua New Guinea is one of the most diverse countries in the world, home to 10.1 million people (UNDESA, 2022) 
+and more than 800 different languages spoken among a population divided into more than 10,000 ethnic clans 
+across 600 islands (The World Bank, 2023). PNG’s population is young and growing, with 56% under the age of 25, 
+11% under 5 years old (NSO, 2022), and a fertility rate of 4.2% (DNPM, 2020). Between 70-80% of the population 
+live in rural areas, many considered remote with poor access to roads and basic services. 
+PNG is classified as a lower middle-income country. The human development index (HDI) puts the country in the 
+medium human development category, ranking 155th out of 189 countries on the index. The 2019 Gender 
+Inequality Index (GII) ranks PNG 161 out of 162 countries (UNDP, 2020). About 39 percent of the population live 
+below the poverty line of less than US$1.90 per day (DNPM, 2020). The PNG Vision 2050 aspires for PNG to be a 
+to be a “Smart, Wise, Fair, Healthy and Happy Society by 2050” and be in the top 50 countries in the HDI ranking. 
+Recognizing the aspirations of the 2050 vision, the Development Strategic Plan (2010-2030) sets objectives around 
+strategic planning, systems and institutions, human development, wealth creation, security and international 
+relations, and environment and climate change (DNPM, 2010). 
+The Constitution of the Independent State of Papua New 
+Guinea recognizes the primacy of Provincial and Local Level 
+Governments (LLG)1, the necessity of an elected legislature, 
+with an executive and an office of the head of the executive2 
+as defined in an Organic Law for Provincial and Local Level 
+Governments3. The Organic Law on Provincial Governments 
+and LLGs assigns law making powers:  
+- 
+to the LLGs for the provision of water supply, sanitation 
+and hygiene, housing and the improvement of villages, 
+towns, cities & communities4. 
+- 
+to the Provincial Legislatures for primary, secondary, 
+technical and vocational education (but not curriculum) and for rural health5. 
+Although the district does not exercise any law-making powers, decentralization is a critical development agenda 
+issue for PNG that continues to evolve. Districts have been established as a constituency for political 
+representation on the Provincial Legislature and the National Assembly.  In 2014, the District Development 
+Authority (DDA) Act6 was passed, establishing DDAs as an administrative vehicle of the government, and giving 
+ 
+1 187A: There shall be a system of Provincial Governments and Local-level Governments for Papua New Guinea 
+2 187C: (2) For each Provincial Government and Local-level Government, there shall be established - (a) a mainly elective (elected directly 
+or indirectly), legislature with such powers as are conferred by law; and (b) an executive; and (c) an office of head of the executive 
+3 4. An Organic Law shall make provision for and in respect of– (a) grants by the National Government to Provincial Governments and 
+Local-level Governments; and (b) subject to Subsection (4A), the imposition, collection and distribution of taxation by Provincial 
+Governments and Local-level Governments, and may make other financial provisions for Provincial Governments and Local-level 
+Governments, to an extent reasonably adequate for the performance of their functions. 
+4 44. Law making powers of the Local-level Governments. (1) Subject to the Constitution, this Organic Law, and a Provincial Government 
+law, a Local-level Government may make laws on the following subject matters—(c) self-help and tokples schools, but not curriculum;  
+(e) provision of water supply; (g) improvement of villages, towns, cities & communities; (j) town, city, village and community planning;  
+(r) housing; (t) human settlements; (x) hygiene and sanitation; (ac) village communities; (ad) local aid posts and clinics; 
+5 42. Law-making powers of the Provincial Legislatures. (1) Subject to the Constitution and this Organic Law, a provincial legislature may 
+make laws on the following matters— (b) primary, secondary, technical and vocational education, but not curriculum; (j) community, 
+urban and rural development; (n) rural health; (q) town and urban planning; 
+6 33A. District Development Authorities. (1) A DDA is established in each District. (2) An Act of the Parliament shall make provision for the 
+functions and powers of, and other matters relating to, DDAs 
+
+6 
+ 
+districts increased authority to manage themselves (but not law-making powers), including to improve sanitation 
+service delivery  and to exercise local accountability and transparency (ADB, 2020). The Act confers powers on the 
+DDA - headed by the District Member of Parliament - to build and transfers assets in any sector. However, only a 
+few districts have functioned as hoped and have delivered expectations according to the Act. Specifically for 
+Water, Sanitation and Hygiene (WASH), the National WASH Policy (2015-2030) does not accord any primacy to 
+the provision of WASH infrastructure via the DDAs or the District WASH Committees. Nevertheless, the Service 
+Improvement Programmes continue to channel more resources to districts to streamline service delivery in line 
+with the National Service Delivery Framework (DNPM, 2020). 
+The Sustainable Development Goal (SDG) targets on drinking water, sanitation and hygiene are: 
+- 
+SDG 6.1: By 2030, to achieve universal and equitable access to safe and affordable drinking water for all 
+- 
+SDG 6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open 
+defecation, paying special attention to the needs of women and girls and those in vulnerable situations 
+These targets are measured with three indicators: 
+- 
+SDG 6.1.1: Proportion of the population using safely managed drinking water services 
+- 
+SDG 6.2.1a:  Proportion of population using safely managed sanitation services 
+- 
+SDG 6.2.1b:  Proportion of population with handwashing facilities with soap and water at home 
+Rural access to basic sanitation and hygiene services in PNG is the lowest in the Pacific Region and amongst the 
+lowest in the World, with 45% without access to handwashing facilities, and 85% without access to basic sanitation 
+(WHO/UNICEF, 2020). Figure 1 shows the household drinking water, sanitation and hygiene service levels in PNG 
+in 2020, while Figure 2 and Figure 3 show service levels in schools and health care facilities (HCF). Coverage of 
+facility types in the four provinces of relevance to this evaluation are provided in Figure 4. Improvements in 
+sanitation and hygiene services, particularly in the rural areas where most of the PNG population reside, is not 
+only crucial to the health but also the physical and intellectual potential of the population, and ultimately the 
+socio-economic development of the nation (Hutton, Haller, Water, & WHO, 2004; Water and Sanitation Program, 
+2008). 
+Figure 1 PNG Household WASH data - 2020 
+ 
+Source: World Health Organization–United Nations Children’s Fund. 2020. Joint Monitoring Programme for Water Supply, Sanitation and 
+Hygiene. https://washdata.org/ 
+ 
+
+7 
+ 
+Figure 2 PNG School WASH data - 2021 
+ 
+Source: WHO–UNICEF. 2021. Joint Monitoring Programme for Water Supply, Sanitation and Hygiene. https://washdata.org/ 
+ 
+Figure 3 PNG WASH in Health Care Facility - 2019 
+ 
+Source: WHO–UNICEF. 2021. Joint Monitoring Programme for Water Supply, Sanitation and Hygiene. https://washdata.org/ 
+ 
+Figure 4 Sanitation Facility Type in Four Districts 
+ 
+Source: National Statistical Office (NSO) [Papua New Guinea] and ICF. 2019. Papua New Guinea Demographic and Health Survey 2016-18. 
+Port Moresby, Papua New Guinea, and Rockville, Maryland, USA: NSO and ICF. 
+0
+20
+40
+60
+80
+100
+Western Highlands
+Eastern Highlands
+Morobe
+Autonomous Region
+of Bougainville
+Coverage (%)
+Improved
+sanitation
+facility
+Unimproved
+sanitation
+facility
+Open
+defecation
+
+8 
+ 
+1.1 The Klinpela Komuniti Projek 
+The EU–UNICEF Klinpela Komuniti Projek (KKP) scoping in PNG began in late 2017. The first phase of the project 
+involved district selection and preparation of costed five-year WASH plans for project districts. The second 
+implementation phase, started in April 2019 in three districts (Goroka in Eastern Highlands; Nawaeb in Morobe; 
+and Bougainville Central in the Autonomous Region of Bougainville) and in September 2019 in Hagen Central in 
+Western Highlands. The project was funded with a European Union (EU) contribution of EUR 22.3 million and a 
+UNICEF contribution of EUR 1 million with the goal to “Contribute to improve the quality of life for women, men 
+and children through increased access to and utilization of a safe, adequate and sustainable water supply, 
+sanitation and improved hygiene practices in line with the National WASH Policy” (UNICEF, 2018).  
+The specific outcome objectives of the project were to: 
+1. Enable 
+a 
+healthier 
+and 
+safer 
+environment, particularly for women 
+and children, thereby reducing the 
+impact of waterborne and hygiene-
+related illnesses. 
+2. Improve governance and the quality-of-
+service delivery in the WASH sector. 
+The KKP targeted children in select schools, 
+health centre and rural hospital personnel 
+and families in communities surrounding 
+selected schools with the introduction of the 
+community-led 
+total 
+sanitation 
+(CLTS) 
+approach 7 in the four target PNG Districts: 
+Hagen Central in Western Highlands; 
+Goroka in Eastern Highlands; Nawaeb in Morobe; and Bougainville Central in the Autonomous Region of 
+Bougainville.  
+The intended beneficiaries of the project are: 
+- 
+About 40,000 school children in up to 200 schools in the 4 districts. 
+- 
+About 36,000 patients and about 3,600 pairs of mothers and new-borns per year in up to 36 health centres. 
+- 
+Approximately 96,000 people in 800 communities (with 480 declared open defecation free) surrounding the 
+200 targeted schools. 
+- 
+General population to have increased knowledge on sanitation and hygiene. 
+- 
+Key decision makers who are influenced to invest in sanitation. 
+The three expected output results of the KKP, along with the main activities that contribute to those results are: 
+1. Improved sanitation and handwashing facilities in schools and health centres, with particular focus on the 
+neediest districts: 
+a. Pre-select, according to well-defined criteria, 200 schools, and construct gender-sensitive and 
+disability-friendly sustainable WASH facilities. 
+b. Pre-select, according to well-defined criteria, 36 health centres in the four districts, and rehabilitate 
+or construct sex-segregated and disability-friendly sustainable WASH facilities in each centre. 
+2. Increased awareness among the population on the importance of hygiene and sanitation, and increased 
+number of ODF (Open Defecation Free) Communities. 
+ 
+7 CLTS was introduced in PNG and integrated with the Healthy Island concept by Oxfam (2008), Live & Learn (2009) and scaled-up by the 
+EU funded RWSSP in 12 Provinces (2012). 
+Figure 5 Targeted districts of KKP

@@ -1,0 +1,627 @@
+Summative Evaluation of UNICEF 2015-2019 
+Education Programme 
+ 
+Final Summative Report. Second version 
+ 
+Plan Evaluation 
+ 
+December 30th , 2020 
+ 
+
+ 
+ 
+ 
+ 
+II 
+ 
+Summary 
+1. 
+INTRODUCTION AND METHODS ............................................................................................................. 1 
+About the Evaluation: purpose, objectives, and context ........................................................................ 1 
+Approaches and methods ............................................................................................................................ 3 
+Potentialities and limits of the evaluation ................................................................................................ 6 
+Ethical considerations .................................................................................................................................. 6 
+2. 
+MAIN FINDINGS OF THE EVALUATION ................................................................................................... 7 
+2.1. 
+Development Contexts ..................................................................................................................... 7 
+Relevance .................................................................................................................................................................................. 7 
+Effectiveness ........................................................................................................................................................................ 17 
+Efficiency ................................................................................................................................................................................ 27 
+Sustainability ....................................................................................................................................................................... 30 
+2.2. 
+Emergency Contexts ....................................................................................................................... 32 
+Coherence .............................................................................................................................................................................. 32 
+Coverage................................................................................................................................................................................. 36 
+Coordination ........................................................................................................................................................................ 38 
+3. 
+Conclusions and recommendations ..................................................................................................... 41 
+ANNEX I. Theory of Change ....................................................................................................................... 53 
+Theory of Change - Narrative....................................................................................................................................... 54 
+ANNEX II. Evaluation Questions................................................................................................................ 56 
+ANNEX III. Evaluation Model ..................................................................................................................... 59 
+ANNEX IV. Evaluation Matrix .................................................................................................................... 60 
+ANNEX V. Overview of Education Programme – ACO – 2015-2019 ................................................... 83 
+ANNEX VI. Emergency Situations attended by the Education Section ........................................... 101 
+ANNEX VII. Achieved Results .................................................................................................................. 105 
+Bibliography .............................................................................................................................................. 110 
+ 
+ 
+
+ 
+ 
+ 
+ 
+III 
+ 
+List of Acronyms 
+ACO – Angolan Country Office  
+ADRA - Ação para o Desenvolvimento Rural e Ambiente (Action for Rural and Environmental 
+Development) 
+AFECN - The Africa Early Childhood Network 
+ANDA - Associação Nacional dos Deficientes de Angola (National Association of Disabled People of 
+Angola) 
+APT - Aprendizagem para todos (Learning for Everyone) 
+C4D – Comunicação para o Desenvolvimento (Communication for Development) 
+CEDAW – Convention on the Elimination of all Forms of Discrimination Against Women 
+CERF -Fundo Central de Resposta a Emergências (Central Emergency Response Fund) 
+CIT – Communication and Information Technologies 
+CNAC - Conselho Nacional da Criança (National Council of Children) 
+CNIDAH - Comissão nacional intersetorial de desminagem e assistência humanitária (National 
+Intersectorial Commision for Humanitarian Demining and Assistance) 
+COAR – Country Office Annual Reports  
+CP – Country Programme  
+CPAP – Country Program Action Plan  
+CPC – Country Program of Cooperation  
+CPEE – Comissão de Pais e Encarregados de Educação (Parents and Education Guardians Commission)  
+CSO – Civil Society Organization 
+DH – Diretos Humanos (Human Rights) 
+DME – Diretoria Municipal de Educação (City Directorate of Education) 
+DNAA - Direção Nacional de Avaliação e Acreditação (National Directorate for Evaluation and 
+Accreditation) 
+DNASE – Direção Nacional para a Ação Social Escolar (National Directorate for School Social 
+Action) 
+DNEA – Direção Nacional de Educação de Adultos (National Directorate for General Education) 
+DNEE - Direção Nacional de Energia Eléctrica (National Directorate of Electric Energy) 
+DNEG – Direção Nacional para o Ensino Geral (National Directorate for General Education) 
+DNEPE – Direção Nacional de Educação Pré-escolar (National Directorate of Pre-school Education) 
+DPE - Diretoria Provincial de Educação (Provincial Directorate of Education) 
+DPI - Desenvolvimento na Primeira Infância (Early Childhood Development) 
+EAC – Escola Amiga da Criança (Child Friendly School) 
+EC – Early Childhood 
+EeE - Educação em contextos de emergência (Education in Emergencies) 
+EiE - Intervenções de Educação em Emergências (Education Intervention in Emergencies) 
+EMIS – Education Management Information System 
+EPT - Escola para Todos (School for Everyone) 
+EQPT - Educação de Qualidade para Todos (Quality Education for All) 
+FAO - Food and Agriculture Organization 
+GDP – Gross Domestic Product 
+
+ 
+ 
+ 
+ 
+IV 
+ 
+GE - Gestão Escolar (School Management) 
+GEPE – Gabinete de Estudos, Planeamento e Estatística (Office of Studies, Planning and Statistics 
+GINED – Gabinete de Inspecção Nacional de Educação (National Inspection Office of Education) 
+GoA – Government of Angola 
+GSB – General State Budget 
+HIV – Human Immunodeficiency Virus 
+IIMS/ DHS - Inquérito de Indicadores Múltiplos e de Saúde / Inquéritos Internacionais 
+Demográficos e de Saúde (Multiple Indicators and Health Survey / Demographic and Health 
+Survey) 
+INAC - Instituto Nacional da Criança (National Institute of Children) 
+INE – Instituto Nacional de Estatística de Angola (Angola National Statistics Institute) 
+INEE – Instituto Nacional de Educação Especial (National Institute of Special Education) 
+INFQE – Instituto Nacional de Formação de Quadros da Educação (National Institute of Education 
+Staff Training) 
+INIDE – Instituto Nacional para a Investigação e Desenvolvimento da Educação (National Institute 
+for Research and Development in Education) 
+IPG - Índice de Paridade no Gênero (Gender Parity Index) 
+IPM – A - Índice de pobreza multidimensional de Angola (Multidimensional Poverty Index of 
+Angola) 
+IR – Inception Report  
+ISCED - Instituto Superior de Ciências da Educação (Higher Institute of Educational Sciences) 
+KAP – Knowledge, Attitude and Practices   
+MASFAMU – Ministério da Ação Social, Família e Promoção da Mulher (Ministry of Family, Social 
+Action and Women Promotion) 
+MED – Ministério da Educação (Ministry of Education, free English Translation) 
+MINARS – Ministério de Assistência e Reinserção Social (Ministry of Assistance and Social 
+Reintegration) 
+MINCO - Ministério do Comércio (Ministry of Commerce) 
+MINFIN – Ministério de Finanças  (Ministry of Finances)  
+MINJUSDH - Ministério da Justiça e Direitos Humanos (Ministry of Justice and Human Rights) 
+MINSA - Ministério da Saúde (Ministry of Health) 
+NAI - Núcleos de Apoio à Inclusão (Centre of Support to Inclusion) 
+NDP – National Development Program 
+NGO – Non-Governmental Organization 
+NU – Nações Unidas (United Nations) 
+OECD-DAC – Organisation for Economic Co-operation and Development's - Development 
+Assistance Committee 
+PIZ – Pedagogical Influence Zones 
+PMOs - Planning and Monitoring Officials 
+PNFQ - Plano Nacional de Formação de Quadros (National Staff Training Plan) 
+RAM – Result Assessment Module  
+RDC - República Democrática do Congo (Democratic Republic of Congo) 
+RI – Resultados Intermediários (Intermediate Results) 
+
+ 
+ 
+ 
+ 
+V 
+ 
+SACMEQ – The Southern and Eastern Africa Consortium for Monitoring Educational Quality   
+SDS – Sustainable Development Goals 
+SIGE – Sistema de Informação e de Gestão da Educação (Education Information and Management 
+System) 
+SIMV - strengthened interventions for the most vulnerable  
+ToC – Theory of Change 
+ToR – Terms of Reference 
+TT/ LA - Teacher Training and learning Assessment  
+TUPPI – Todos Unidos Pela Primeira Infância (All United for Early Childhood) 
+TWG - Technical Working Group 
+UNDP - United Nations Development Programme 
+UNEG - United Nations Evaluation Group 
+UNFPA – United Nations Population Fund 
+UNICEF - United Nations Children's Fund  
+VBG – Violence Based on Gender 
+WASH – Water, Sanitation and Hygiene 
+WB – World Bank 
+WFP - World Food Programme  
+WHO – World Health Organization 
+List of Tables 
+Table 1. Profile and number of interviewed people...................................................................................................... 4 
+Table 2. Angolan Population (Ages 0-19), by age group (2015-2019) ................................................................. 9 
+Table 3. Service Conditions: Number of teachers, students, schools, and classes ..................................... 10 
+Table 4. 2016 school achievement ..................................................................................................................................... 12 
+Table 5. Planned and actual investments (USD), 2015-2019 UNICEF CPC - Education Programme 
+Component. ................................................................................................................................................................................... 13 
+Table 6. Student Enrolment ................................................................................................................................................... 15 
+Table 7. Coverage of emergency actions ......................................................................................................................... 37 
+Table 8. Recommendations & Specific actions, based on the evaluation findings ................................... 47 
+ 
+List of Tables - Annex 
+Table 9. Evaluation Questions (per Evaluation Criteria) .......................................................................................... 56 
+Table 10. Evaluation Matrix – Qualitative data ........................................................................................................... 60 
+Table 11. Evaluation Matrix - Quantitative Data ........................................................................................................ 76 
+Table 12. ACO Education Program Activities - Extended and Equitable Access .......................................... 83 
+Table 13. ACO Education Program Activities - Quality ............................................................................................. 89 
+Table 14. ACO Education Program Activities - School Management ................................................................ 96 
+Table 15. ACO Education Program Activities - Efficiency and Effectiveness ................................................. 99 
+Table 16. Achieved Results (Outcome 3) ...................................................................................................................... 105 
+List of Figures 
+Figure 1 – Theory of Change ............................................................................................................................................................................ 2 
+Figure 2 – Interventions in an emergency context ............................................................................................................................. 33 
+Figure 3 – Evaluation Model .......................................................................................................................................................................... 59 
+
+ 
+ 
+ 
+ 
+i 
+ 
+EXECUTIVE SUMMARY 
+Summary 
+1. This report consolidates the findings of the Summative Evaluation of UNICEF's contribution to the education 
+sector in Angola, implemented by the Angolan Central Office (ACO) between 2015 and 2019. 
+2. In accordance with the Terms of Reference, this evaluation aims to “assess the contribution of the Education 
+Programme in improving institutional capability and the provision of services in the education sector in the 
+country, at the national and subnational levels, based on international standards and norms of education 
+assessment, through approaches in relation to gender, equity and children rights, while also considering 
+political, social, economic, and institutional challenges, limitations and opportunities, etc." 
+3. The evaluation examines, on one side, the relevance, effectiveness, efficiency and sustainability of UNICEF 
+interventions in the context of the development of the education sector and, on the other, the coherence, 
+coverage and coordination of interventions in the emergency context. 
+4. The total budget for the Education Programme was 7.431.270,28 USD and the total expenditure for its 
+implementation was 7.859.649,38 USD. This budget was part of a larger budget for the 2015-2019 Country 
+Program of Cooperation (CPC). 
+ 
+Purposes and Objectives 
+5. The purpose of this evaluation is to a) analyse the contribution of the ACO Education Programme to the 
+improvement of institutional capability and the provision of services in the education sector in the country, 
+within the scope of the 2015-2019 CPC; and b) provide knowledge to support the operationalization of the 
+activities already planned in the 2020-2022 CPC for the education sector. 
+6. To conduct this analysis, the evaluation team used the evaluation criteria and evaluation questions as 
+defined in the Terms of Reference (ToR) for this project, revised during the preparation of the Inception Report 
+(IR). 
+7. Five specific objectives were defined for this evaluation: 
+• 
+To critically analyse the performance of the ACO Education Programme in terms of relevance, 
+effectiveness, efficiency and sustainability in development contexts, and in terms of coherence, 
+coverage and coordination in emergency contexts during the 2015-2019 country program; 
+• 
+To provide evidence on the achievements of predicted or unforeseen results at the national and 
+subnational levels, and on the main factors that facilitated or limited these achievements; 
+• 
+To conduct a critical review of the Theory of Change (ToC) reconstructed for the 2015-2019 CPC and 
+the deviations that occurred during this period, identifying the role of gender, equity and children 
+rights approaches in the design and implementation; 
+• 
+To identify the key components of the current cooperation cycle, which can be expanded in the new 
+cycle, considering the focus on integrated, decentralized approaches that prioritize early childhood 
+education, girls' education and information management; 
+• 
+To recommend evidence-based results and conclusions about the contribution of the Education 
+Programme to the country's education system and services, as well as recommendations for the new 
+cycle of cooperation. 
+ 
+Target audience 
+8. This assessment was commissioned by UNICEF’s Angola Country Office. In general, the audience for this 
+assessment mainly includes UNICEF teams, both at the national level (Education Section, Management 
+Section) and at the regional level (Regional Office sections). However, considering that the Angolan Ministry 
+of Education (MED) was the main and major partner and direct beneficiary of the Programme's contributions, 
+
+ 
+ 
+ 
+ 
+ii 
+ 
+there is an understanding that the key management teams of the Ministry of Education are part of the target 
+audience, as well as the Provincial Education Offices. 
+Approaches and Criteria 
+9. This assessment was carried out using a participatory approach using mixed methods of data collection and 
+analysis. 
+10. Through a qualitative approach, the evaluation team analysed legislation, official documents of the 
+Government of Angola (GoA), official documents for planning and monitoring the progress of the 
+Programme, administrative records and consultancy reports from the Programme and partners. The 
+provinces of Bié, Cunene and Huíla were selected for the fieldwork, where a total of 77 semi-structured 
+individual and group interviews were conducted. 
+11. As part of it quantitative approach, the evaluation team had access to the Result Assessment Module (RAM) 
+reports, aggregated budget data, as well as the quantitative information from the Country Office Annual 
+Reports (COAR). Secondary data and statistics that make up the evaluation matrix were also requested from 
+different departments of the Ministry of Education (detailed in the "Approaches and methods" section of this 
+report). 
+12. In line with the ToR, the criteria used in this evaluation correspond to a subset of those proposed by the 
+Organization for Economic Cooperation and Development - Development Assistance Committee (OECD - 
+DAC) and adopted by the UNICEF Evaluation Office. Based on these guidelines, and as already mentioned in 
+paragraph 3, the adopted criteria to analyse the development context were relevance, effectiveness, 
+efficiency and sustainability; and in the emergency context, the criteria of coherence, coverage and 
+coordination. 
+Main findings 
+13. In general, UNICEF's contribution to the education sector in Angola was guided by national priorities defined 
+in national regulations, and sought to act within the scope of the main difficulties evidenced by national 
+statistics. The Cooperation activities were adjusted when necessary to meet national and subnational 
+emergencies and needs, and were implemented in coordination with the government, seeking 
+complementarity in actions. These adjustments, however, were not disruptive, and it was possible to draw a 
+consistent inferred ToC over time.  The institutional performance of the MED was strengthened, particularly 
+from the activities of the management pillar characterized by training and support for the 
+professionalization of national and local managers. 
+14. Within the development context, the Programme's interventions analysed were relevance, effectiveness, 
+efficiency and sustainability. 
+15. Relevance: the evidence collected allows us to state that the Education Programme for the 2015-2019 period 
+was relevant for the education sector in Angola. Cooperation themes were aligned with national needs and 
+government priorities, and the cooperation focused on central national policies, through advocacy activities 
+and technical support, allowing the Education Programme to contribute to the structuring of the national 
+education policy in a comprehensive and strategic way. On the other hand, the economic crisis that the 
+country faced and continues to face, and its recent rise to the category of middle-income country, thus 
+limiting the flow of donations to the country, created a scenario of budget constraint that affects the 
+cooperation, reducing predicted co-financing capabilities by the government. In future cooperation, it will be 
+strategic to design mechanisms to guarantee co-financing by the government in such a way that it is possible 
+to effectively carry out the prioritized activities, maintaining the relevance of the cooperation. 
+16. Although limited in scope, UNICEF's role at the local level is valued by subnational governments for the 
+benefits in places that receive pilot interventions. Governments and school communities aim not only for the 
+continuity of UNICEF-funded interventions, but also maintain the expectation of greater investment, which 
+suggests the need to align expectations in the local action. 
+
+ 
+ 
+ 
+ 
+iii 
+ 
+17. Even though teenagers in Angola nowadays are more likely to improve their health and well-being than a 
+decade ago, many still lack access to essential information and quality services. Despite the fact that youth 
+policies, especially the strengthening of life skills in education, are a national priority and institutional priority 
+for UNICEF, the theme was explored in a non-systematic way in the 2015-2019 cooperation cycle through 
+poorly integrated curriculum development and teacher training actions in life skills theme, situational 
+analysis on access, retention and the transition from primary to secondary schools and education for girls in 
+the 1st year. 
+18. Effectiveness: Technical support and advocacy for the preparation of studies and policy documents stood out 
+as approaches to contribute to the construction of national policies for special education, early childhood, 
+and teacher training. As they focus on the national education policy, on fundamental themes to promote 
+access, quality and management, these results are considered crucial, and with great potential to impact the 
+well-being of children in Angola. In addition to the development of national regulations, in the case of the 
+policy for special education and the policy for early childhood, results were achieved for the implementation 
+of public policy. In the area of professionalization of school management, we highlight the support for the 
+development of educational statistics, systematized in the SIGE at the national level, and in the School 
+Charter, at the subnational level, even though training for the use and timely dissemination of information 
+are still important challenges. Support for training helped both to professionalize management and to 
+strengthen leadership and families, although the scope cannot be determined due to the lack of 
+administrative records, and its sustainability is a matter of concern. Worthy of mention are the studies 
+related to the General State Budget (GSB) that subsidized both public employees and society for a more 
+qualified impact in favour of education. The improvement in school conditions was limited to the reference 
+created in the Child-Friendly Schools (EAC), and to technical support for researching the reasons for school 
+dropout rates. In terms of curriculum standards and learning assessments, the results were modest, as 
+technical support for curriculum evolution and the development of national learning assessments has not 
+yet evolved into a curricular overhaul or into the consolidation of an assessment system at the national level. 
+19. Among the main external factors that limited the scope of the results, we can highlight: changes in the 
+government structure; the low number and technical capability of the employees at national and 
+subnational level responsible for implementing the initiatives; the high turnover of government employees; 
+the reduced fundraising capacity of UNICEF, but mainly from the government, due to the economic crisis; 
+the asynchrony between the GoA budget cycle and the UNICEF planning process, generating a mismatch 
+that impairs the inclusion of the priorities defined in the cooperation in the public budget; infrastructure 
+problems (school, sanitation and roadways); the insufficient number of teachers; structural barriers and 
+discriminatory social norms reflected in practices such as early marriage, gender-based violence, and boys 
+favouring in family investments in education, and that, while the Constitution of the Angolan Republic 
+defines access to education as a fundamental right for all, without any form of gender discrimination. 
+20. Efficiency: within the scope of efficiency analysis, considering the data available (which did not include 
+detailed expenditure data or opportunity cost in alternative actions) it was possible to verify that the 
+efficiency of the program was negatively affected by the actions’ territorial and thematic dispersion, by the 
+size of the teams in relation to the purposes of the Programme and by the need for continuous agreement 
+with a wide network of partners. UNICEF's flexibility, while valued by partners, results in a loss of focus on 
+actions of greater strength, and therefore loss of efficiency. 
+21. The advocacy strategy in the construction of national policies is considered to be more efficient due to its 
+potential national impact. Subnational efficiency, on the other hand, should be analysed based on the 
+effective gain of scale of initiatives such as TUPPI and EAC. The preparation of trainers is a strategy adopted 
+with potential efficiency gains due to the possibility of expansion. However, the lack of administrative 
+records makes verification difficult. Intersectoral action, carried out within the scope of the two projects 
+mentioned above, and also during humanitarian aid, presents itself as an opportunity to improve efficiency. 
+The change in the cooperation structure, prioritizing early childhood care, reinforced the efficiency of the 
+Programme, as this is an age group in which investments offer higher returns. 
+22. The high turnover of government employees, the lack of communication and coordination between different 
+departments, changes in government structure and limited technical capabilities are four external factors of 
+
+ 
+ 
+ 
+ 
+iv 
+ 
+inefficiency that could have had employed palliative measures. Inside UNICEF, the high turnover of the 
+Education Programme leader and prolonged periods without leadership also generated a loss of efficiency 
+due to the learning curve that must be faced with changes. 
+23. Sustainability: an important sign for sustainability is the incorporation of the cooperation results in the 
+country's public policies, and the existence of budgetary resources for its continuity. In this sense, among the 
+results of the Programme, the consolidation of national policies, especially those about special education, 
+stand out. 
+24. The greatest threat to sustainability lies in external factors, particularly the lack of public resources to 
+implement public policies, to execute the expected counterparts and scale up pilot experiences. Public 
+employee turnover also threatens sustainability, as investments in technical support, preparation and 
+consolidation of partnerships need to be constantly renewed. 
+25. While sustainability results largely depend on the government, other actions, such as building partnerships 
+with the third sector, the academy, other international associations and funding organizations, while also 
+expanding the range of partners around the initiatives, are all key factors for sustainability. During the period 
+under review, partnerships were consolidated with ADRA, Mosaiko, ISCED in Huíla and the World Bank, 
+examples from which a broader support network could be consolidated. 
+26. In the emergency context, the Programme's coherence, coverage and coordination are analysed. 
+27. Coherence: The logic of emergency actions has changed over time. Although the Education Programme 
+planned under result 1 (Output 1 on access) activities in emergency contexts in partnership with the central 
+government (MED / DNEG and DNASE) since the first work plan for the 2015-2016 biennium, it was only in 
+2017 that the theme gained prominence as a singular expected result (separate from output 1). 
+28. The evaluation sought to identify what was done by the Programme to mitigate the effects of the crises faced 
+by the country on children, especially to their equal access to quality education (Annex VI). At this point, it is 
+important to highlight that there is little documentation on actions in emergency contexts. 
+29. Even so, ACO's Annual Reports provide a breakdown of what was done by the Programme in the context of 
+emergency actions. This information shows alignment with the needs, contexts and priorities of the 
+government and helps in dimensioning the effort undertaken. 
+30. Considering all limitations, the external coherence of the program was guaranteed by communication with 
+external actors, especially with provincial governments, particularly in the identification of needs and the 
+definition of measures to be taken. In addition, the actions were designed based on demands arising from 
+the government, which guaranteed this alignment. 
+31. Coverage: There is no systematized, standardized, and accessible information that allows viewing how many 
+and which people were assisted by the Programme. There are many gaps in the information available in all 
+the different internal reports. The coverage data for emergency actions bring few numbers and without any 
+distinction of the beneficiary's profile. Thus, the analysis of coverage is limited to the analysis of local needs 
+in the different territories of Angola, in view of the geographical location and type of intervention carried out. 
+32. By analysing the type of intervention carried out, such as responses to migratory and drought crises, and by 
+considering both the discourse of the interviewees and the reference documents for this evaluation, it 
+appears that UNICEF's actions, in view of its possibilities and limitations, sought to prioritize the most severe 
+situations. The evidence shows clear concern and targeted approach to serve the most vulnerable in all 
+actions carried out by the Programme, such as either in development or emergency contexts, in the selection 
+of geographic coverage or in the definition of the assisted population. 
+33. Coordination: Through document and interviewees' discourse analysis, it is possible to affirm that there were 
+mechanisms for UNICEF to coordinate its actions with other actors, mechanisms that also aimed at 
+promoting the improvement of the MED performance. 
+
+ 
+ 
+ 
+ 
+v 
+ 
+34. It is possible to confirm that there was some integration in the response to the prioritized emergency 
+situations, and interviewees from UNICEF, the Central Government and the provincial governments affirm 
+that this coordination existed and facilitated the work, and that there is a common perception that this joint 
+action was essential. The information gathered during the fieldwork allows us to state that UNICEF 
+interventions were determined according to the MED demands, with which UNICEF maintains a constant 
+dialogue. 
+35. On the other hand, the perception of UNICEF interviewees is also that the articulation with other actors still 
+needs to be improved, as the structures of mitigation and damage reduction are not well developed, neither 
+at the central level nor in the provinces, nor is there a structure to coordinate emergency planning. The lack 
+of a consolidated network implies the challenge of starting articulation with each action, resulting in longer 
+response times. 
+Gender, equity and children's rights: equity, especially that of gender, is a transversal factor to successive 
+NDPs and the GoA has approved several legal instruments aimed at promoting Gender Equality and Equity 
+in order to respond in a sustainable and multisectoral manner. The transversal priorities proposed by the 
+UNICEF program (early childhood development, adolescents, gender and humanitarian action), acted as 
+catalysts for policies for equity. 
+The effectiveness of the response in the complexity of the humanitarian context is less evident, especially in 
+cases related to the defence of the rights of girls and women who require an informed programming about 
+risks and prevention systems. 
+Even though at the national level UNICEF plays a leading role as an advocate for gender equity, national 
+information systems need to be strengthened to collect, analyse and use data disaggregated by gender to 
+ensure the integration of this perspective into program actions. 
+The use of communication methods with a gender perspective were reinforced in the programme's action 
+plans to ensure the active participation of children, youth and communities, as well as a sustainable 
+behaviour change. Nevertheless, there is no robust gender analysis nor are there priority strategies for 
+change, which are effective and evidence-based in line with a gender action plan. 
+It is in the health sector that the gender theme is most effective and reinforced, especially in the area of 
+maternal and child health, affecting development in early childhood. 
+In addition, the Programme did not explicitly describe the objectives of gender equality and empowerment, 
+including approaches that address cultural, social and political barriers to gender equality in the context of 
+implementing activities. 
+ 
+Limitations 
+36. The main limitations of the evaluation carried out include: 
+• 
+Face-to-face fieldwork prevented by the pandemic - the lack of face-to-face visits, especially in the 
+case of provinces, municipalities and schools, made it difficult for researchers to get closer to the 
+reality of the interviewees and, thus, to specific information, making information collection and 
+analysis more challenging; 
+• 
+Low access to educational statistics - as identified during the elaboration of the IR, there was a 
+shortage of educational statistics, which were requested to the authorities with a low rate of return. 
+This was partially overcome with publications obtained through UNICEF; 
+• 
+Changes in monitoring instruments and logical frameworks of the cooperation, staff turnover in the 
+government and in the Education Programme, and the lack of comprehensive documentation have 
+hampered the task of drawing a complete picture of the cooperation over time. Thanks to UNICEF's 
+
+ 
+ 
+ 
+ 
+vi 
+ 
+efforts to facilitate communication, the evaluation team had access to a notable number of former 
+national government employees and the organization itself. In the case of the subnational level, 
+however, the interviews were limited to employees on duty. 
+• 
+Despite UNICEF's efforts, interviews with former UNICEF representatives and with a former employee 
+that was frequently cited by interviewees could not be conducted, particularly at the subnational 
+level. 
+Conclusions 
+37. As a result of the evaluation, the assessment team came to a series of conclusions based on the evidence 
+collected and lessons learned, including: 
+• 
+The Education Program for the 2015-2016 period was effectively guided by the national priorities 
+defined in the national regulations, and sought to act within the scope of the main difficulties 
+evidenced by national statistics, as well as to align itself with the agenda for the Sustainable 
+Development Goals and with UNICEF’s global planning 
+• 
+Cooperation activities were adjusted when necessary to meet national and subnational needs and 
+emergencies, without compromising the logic of action reflected in the Theory of Change, and were 
+implemented in coordination with the government, seeking complementarity in actions. 
+• 
+The institutional performance of the MED was strengthened, particularly from the activities of the 
+management pillar, characterized by training and support for the professionalization of national and 
+local managers. 
+• 
+The most comprehensive results, with the greatest potential for impact on the situation of Angolan 
+children, were achieved through technical support strategies and advocacy actions. These strategies 
+were applied notably for (i) the approval of national policies for inclusive education, early childhood 
+and teacher training; (ii) to contribute mainly to the implementation of inclusive education policies; 
+(iii) for the development of service models (TUPPI and EAC), and (iv) for the consolidation of school 
+management systems (SIGE and the School Charter). Items (i), (ii) and (iv) structure national policies 
+that will impact children across the country, making more accurate diagnoses feasible, providing 
+normative support and guiding their effective implementation. Although they have not reached a 
+large number of children and families, EAC and particularly TUPPI, given its low implementation cost, 
+have created models with the potential to become national public policies. 
+• 
+In the case of interventions in emergency contexts, it can be concluded that, although the Education 
+Programme works to ensure a coordinated approach with other actors, and seeks to reach those who 
+need it most, the lack of response protocols and shared multisectoral contingency plans compromises 
+the result, since the cyclical nature of disasters would allow for pre-emptive planning and the 
+articulation of a local network that may respond faster. 
+• 
+In addition, integrated approaches tend to be more effective, especially those that have adopted the 
+school as a reference platform for multisectoral interventions. Therefore, in order for integration to 
+be successful, it will be necessary to also make the partners aware of the benefits of multisectoral 
+implementation and for them to be willing to work under this new paradigm. 
+Main Recommendations 
+38. The recommendations are presented in the next pages, based on the findings from the fieldwork
+
+ 
+ 
+vii 
+ 
+# 
+Improvement 
+point 
+Indicator 
+Findings 
+Recommendations and Specific Actions 
+Level of 
+recommendation 
+Who 
+When 
+1 
+Performance 
+and results 
+focused on 
+national 
+priorities 
+Relevance 
+Although it is 
+aligned with 
+national needs and 
+government 
+priorities, the 
+cooperation faces 
+budget constraints 
+on the side of the 
+government to 
+meet its 
+counterparts; 
+governments, 
+subnational above 
+all, have the 
+expectation of 
+greater 
+investments by 
+UNICEF 
+Plan in a realistic manner, considering 
+available resources, or alternatively, re-
+dimension the size of the Education 
+Program team, including the size of the 
+support team in the provinces 
+Strategic / 
+Planning 
+Education 
+Section with the 
+MED 
+ 
+Within the 
+next 
+Semester 
+ 
+Develop a communication plan to 
+inform interested parties about the 
+objectives defined in cooperation with 
+the Angolan government and the 
+resources available for the execution of 
+the plan 
+Operational - 
+Communication 
+Education 
+Section 
+Within the 
+next 
+Semester 
+Improve the planning of cooperation 
+activities in partnership with the 
+government, establishing a dynamic of 
+planning, monitoring and evaluation 
+together with the government that 
+includes: prioritization of projects, 
+allocation of resources, validation of 
+assumptions, evaluation of the need to 
+synchronize public policy planning with 
+UNICEF institutional planning. 
+Strategic / 
+Planning 
+Education 
+Section with the 
+GoA/ MED 
+Within the 
+next 
+Semester 
+Identify factors external to the 
+cooperation that may affect results, 
+define strategies to monitor the 
+situation at the national and 
+subnational levels, support the design of 
+action plans to face these difficulties in 
+partnership with the government and 
+other internal sectors such as nutrition 
+and WASH. 
+Strategic / 
+Planning 
+Education 
+Section 
+Within the 
+Next Year
